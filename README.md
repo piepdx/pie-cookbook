@@ -9,3 +9,5 @@ By joining this project, you’ll gain access to everything we’ve learned from
 We are currently running a Kickstarter campaign to help us attract folks interested in this project. If what we're proposing sounds interesting to you, please head over to Kickstarter to learn more. 
 
 For more details on who we are, visit PIE, follow [PIE on Github](https://github.com/piepdx), [Twitter](http://twitter.com/piepdx), or [Facebook](http://facebook.com/piepdx), or [read some of our thoughts on Medium](https://medium.com/portland-incubator-experiment).
+
+This work is licensed under [Creative Commons (CC0 1.0 Universal)](https://github.com/piepdx/pie-cookbook/blob/master/LICENSE.txt)
