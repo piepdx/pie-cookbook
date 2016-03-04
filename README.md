@@ -14,10 +14,10 @@ We are currently running a [Kickstarter campaign](https://www.kickstarter.com/pr
 
 The PIE Cookbook repository is divided into the following directories:
 
-- [/source](https://github.com/piepdx/pie-cookbook/source/) — Relevant URLs, documents, and source materials that inform the content of the PIE Cookbook
-- [/notes](https://github.com/piepdx/pie-cookbook/notes/) — Notes about the project, topics to be written, feedback from participants, distillation of source materials, and parking lot items
-- [/drafts](https://github.com/piepdx/pie-cookbook/drafts/) — Written content that has not yet been added to the master PIE Cookbook document
-- [/docs](https://github.com/piepdx/pie-cookbook/docs) — Home of the master PIE Cookbook document, which feeds Read the Docs
+- [/source](https://github.com/piepdx/pie-cookbook/tree/master/source/) — Relevant URLs, documents, and source materials that inform the content of the PIE Cookbook
+- [/notes](https://github.com/piepdx/pie-cookbook/tree/master/notes/) — Notes about the project, topics to be written, feedback from participants, distillation of source materials, and parking lot items
+- [/drafts](https://github.com/piepdx/pie-cookbook/tree/master/drafts/) — Written content that has not yet been added to the master PIE Cookbook document
+- [/docs](https://github.com/piepdx/pie-cookbook/tree/master/docs) — Home of the master PIE Cookbook document, which feeds Read the Docs
 
 
 ## About PIE
