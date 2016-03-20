@@ -22,4 +22,4 @@ The PIE Cookbook repository is divided into the following directories:
 ## About PIE
 For more details on who we are, visit [PIE](http://piepdx.com), follow [PIE on Github](https://github.com/piepdx), [Twitter](http://twitter.com/piepdx), or [Facebook](http://facebook.com/piepdx), or [read some of our thoughts on Medium](https://medium.com/portland-incubator-experiment).
 
-This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/piepdx/pie-cookbook/blob/master/LICENSE.txt)
+This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/piepdx/pie-cookbook/blob/master/LICENSE.txt) (NOTE: [Proceeding with this license has been questioned](https://github.com/piepdx/pie-cookbook/issues/1) and is currently under review.)
