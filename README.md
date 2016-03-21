@@ -19,6 +19,10 @@ The PIE Cookbook repository is divided into the following directories:
 - [/notes](https://github.com/piepdx/pie-cookbook/tree/master/notes/) — Notes about the project, topics to be written, feedback from participants, distillation of source materials, and parking lot items
 - [/source](https://github.com/piepdx/pie-cookbook/tree/master/source/) — Relevant URLs, documents, and source materials that inform the content of the PIE Cookbook
 
+## Feedback
+
+We are looking forward to building this content with you. To participate, we recommend using the [PIE Cookbook Issues](https://github.com/piepdx/pie-cookbook/issues) to comment on the content under development and track the ongoing development. 
+
 ## About PIE
 For more details on who we are, visit [PIE](http://piepdx.com), follow [PIE on Github](https://github.com/piepdx), [Twitter](http://twitter.com/piepdx), or [Facebook](http://facebook.com/piepdx), or [read some of our thoughts on Medium](https://medium.com/portland-incubator-experiment).
 
