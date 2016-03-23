@@ -185,3 +185,11 @@
 144. Parking lot: Put stuff here that you know belongs somewhere but you’re not quite sure where
 	145. Mistakes were made
 	146. Happy accidents
+	147. Mentors
+		148. Doug Gould 
+			149. http://www.pacificstandardtime.io/blog//5-years-of-pie
+				150. Make the Community Accessible
+				151. Cultivate a “Give and Take” Culture
+				152. Humility Goes a Long Way
+		150. James Keller
+			151. Minimum Valuable Product
