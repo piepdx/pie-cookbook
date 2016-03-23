@@ -197,6 +197,7 @@
 144. Parking lot: Put stuff here that you know belongs somewhere but you’re not quite sure where
 	145. Mistakes were made
 	146. Happy accidents
+	147. Blogs
 	147. Podcasts
 		148. Accelerator (Starter Studio, Orlando, FL) https://itunes.apple.com/us/podcast/accelerator-startup-story/id1090477285?mt=2
 	147. Mentors
