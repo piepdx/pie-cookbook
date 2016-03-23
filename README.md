@@ -26,4 +26,4 @@ We are looking forward to building this content with you. To participate, we rec
 ## About PIE
 For more details on who we are, visit [PIE](http://piepdx.com), follow [PIE on Github](https://github.com/piepdx), [Twitter](http://twitter.com/piepdx), or [Facebook](http://facebook.com/piepdx), or [read some of our thoughts on Medium](https://medium.com/portland-incubator-experiment).
 
-This work is licensed under [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/piepdx/pie-cookbook/blob/master/LICENSE.txt) (NOTE: [There is an open issue with the license](https://github.com/piepdx/pie-cookbook/issues/1) which  is currently under review.)
+This work is licensed under [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/piepdx/pie-cookbook/blob/master/LICENSE.txt)
