@@ -35,6 +35,7 @@
 			30. Passively engaged pool
 			30. Overlap
 			31. Integrity
+				32. https://github.com/piepdx/pie-cookbook/issues/2
 			32. Unused mentors
 			33. Bad actors
 			34. Mentor value beyond the accelerator
@@ -84,6 +85,7 @@
 		65. Hors d'oeuvre (Hackathons, events, coworking)
 			66. Coworking and Community Development are not complementary
 			67. Curation of coworking participants
+				68. https://github.com/piepdx/pie-cookbook/issues/3
 			68. Home away from home
 			69. Day-to-day
 			70. Hosting events
