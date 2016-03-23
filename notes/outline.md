@@ -1,4 +1,5 @@
 # Outline
+*NOTE: Please feel free to provide additions, feedback, questions, and more in Issues: https://github.com/piepdx/pie-cookbook/issues*
 
 2. About 
 	3. Context
