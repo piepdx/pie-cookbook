@@ -182,6 +182,8 @@
 	139. Resources
 		140. YC open sourced documents
 		141. Techstars open sourced documents
+		142. Fostering a thriving ecosystem
+			143. http://www.techstars.com/content/regions/latin-america/white-paper-announcing-5-ingredients-fostering-thriving-startup-ecosystem/
 		142. Startup Revolution
 			143. Startup Communities
 		140. Slack
