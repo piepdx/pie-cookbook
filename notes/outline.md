@@ -23,6 +23,8 @@
 			21. Anyone can (and should) be a mentor
 			22. Identifying potential mentors
 			23. Qualifying potential mentors
+			24. Alums as mentors
+			24. Onboarding
 			24. Time commitment
 			25. Mentoring the mentors
 			26. Test driving mentors
@@ -35,6 +37,10 @@
 			32. Unused mentors
 			33. Bad actors
 			34. Mentor value beyond the accelerator
+			35. Mentors referencing the accelerator
+				36. Online profiles
+				37. Spokespeople
+				38. Speakers
 		34. Startups
 			35. Focus
 			36. Stage
