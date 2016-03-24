@@ -8,6 +8,8 @@
 	5. History
 		5. PIE as example
 			6. History of PIE
+				7. Hypothesis
+				7. Experiments
 				7. Drawing inspiration from other chefs
 					8. YC
 						9. Ingredients we borrowed
@@ -45,6 +47,7 @@
 				37. Spokespeople
 				38. Speakers
 		34. Startups
+			35. Do they have to be traditional startups?
 			35. Focus
 			36. Stage
 			37. Needs
@@ -53,6 +56,7 @@
 			40. Outcomes  
 			39. Investor as mentor
 			40. Homegrown or imported?
+				41. Travel to them or bring them to you?
 			40. Focus
 			41. Stages
 		42. Sponsors
@@ -74,6 +78,9 @@
 		53. Budget
 			54. Pro forma
 		55. Space and requirements
+			56. Infrastructure
+			57. Furniture
+			58. Office arrangement
 		56. Catalysts (Entrepreneur + Patron)
 		57. Pressure/heat (Startups + Staff + Patron)
 		58. Good cop/bad cop
@@ -127,6 +134,8 @@
 				92. Paperwork
 			91. Onboarding
 				92. Setting expectations
+				93. Touring the space
+				94. Introducing startups to one another
 			91. First day
 			92. Family Dinner
 				93. Format
@@ -172,6 +181,7 @@
 	129. Startup PDX Challenge
 	130. Newberg Innovation Accelerator
 131. Appendix
+	132. Equipment list for space
 	132. Term sheets
 	133. Pro forma for the accelerator
 	134. Pro forma for the startups
