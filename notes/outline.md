@@ -4,24 +4,45 @@
 2. About 
 	3. Context
 	4. Format
-	5. Portland
-	5. History
-		5. PIE as example
-			6. History of PIE
-				7. Hypothesis
-				7. Experiments
-				7. Drawing inspiration from other chefs
-					8. YC
-						9. Ingredients we borrowed
-					10. TechStars
-						11. Ingredients we borrowed
+		5. How to use this book
+		6. History
+		7. Recipes
+	8. Before you begin
+9. Baking PIE
+	5. Using PIE as example
+	6. Portland
+	6. History of PIE
+		7. Portland startup scene
+		8. Wieden+Kennedy
+		7. Founding hypotheses
+			8. Startup community
+			9. W+K
+		7. Experiments
+			8. Coworking
+			9. Accelerator
+			10. Community engagement
+			9. Agency engagement
+			10. Brand engagement
+		7. Drawing inspiration from other chefs
+			8. YC
+				9. Ingredients we borrowed
+				10. Ingredients we left behind
+			10. TechStars
+				11. Ingredients we borrowed
+				12. Ingredients we left behind
 12. Cooking
-	13. How to use this cookbook
-	14. Primary objective: Create an environment of trust with brief glimpses of a realistic representation of the outside world
+	13. Primary objective: **Create an environment of trust that accelerates creative output**
+		14. Tinge it with realism
+		15. This should be a representation of the outside world, not a utopian existence
+		16. You're teaching founders how to better survive in the real world
 	15. Base ingredients
 		16. Community
-		17. Patron
-		18. Soapbox
+			17. What are the silos?
+			18. What are the issues?
+			19. What are the gaps?
+			20. How can you help (if at all)?
+		17. Patron(s)
+		18. Soapbox(s)
 	19. Other critical ingredients
 		20. Mentors
 			21. Anyone can (and should) be a mentor
@@ -74,8 +95,10 @@
 		51. Partners
 			52. Objectives
 			53. Outcomes
+		54. Media
 	52. Oven
 		53. Budget
+			54. Considerations
 			54. Pro forma
 		55. Space and requirements
 			56. Infrastructure
