@@ -168,7 +168,17 @@
 			116. Post mortems
 			118. Tweaking the model
 			119. Quarterly surveys
-			119. Ongoing portfolio management
+			119. Metrics for success
+				120. Qualitative versus Quantitative 
+				121. Accelerator program versus Broader ecosystem
+				120. Traditional
+					121. Jobs created
+					122. Capital raised
+					123. Valuation
+					124. Exits
+					125. Survival rate
+				126. Nontraditional
+			120. Ongoing portfolio management
 			120. Ongoing communications
 			121. Off season
 				122. Mentor recruitment
