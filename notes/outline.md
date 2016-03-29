@@ -3,11 +3,16 @@
 
 2. About 
 	3. Context
+		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on community momentum and focusing it for the greatest benefit for that community.
+		5. This is not just for tech. This is not just for startups. This is an educational construct to be applied and revised however best you see fit.
 	4. Format
 		5. How to use this book
 		6. History
 		7. Recipes
 	8. Before you begin
+		10. Prerequisites
+			11. Startup Communities
+		12. Checklist
 9. Baking PIE
 	5. Using PIE as example
 	6. Portland
@@ -16,7 +21,11 @@
 		8. Wieden+Kennedy
 		7. Founding hypotheses
 			8. Startup community
+				9. "Build better founders"
+				10. "Make new mistakes"
 			9. W+K
+				10. "Founders are just another flavor of creative"
+					11. Entrepreneurs and technologists are a new creative class, and their problem-solving toolkit will be increasingly important to solve the emerging brand challenges we tackle at Wieden+Kennedy. But words and images don’t always seem to play well with code. And folks great at one craft may not recognize another as “creative.” But in a world of distributed software and hardware, it’s important to find ways to work together. Entrepreneurs and technologists are inspired creatives who’ve chosen technology as their medium for creative expression. We should be able to find ways to do cool stuff, together.
 		7. Experiments
 			8. Coworking
 			9. Accelerator
@@ -34,14 +43,23 @@
 	13. Primary objective: **Create an environment of trust that accelerates creative output**
 		14. Tinge it with realism
 		15. This should be a representation of the outside world, not a utopian existence
-		16. You're teaching founders how to better survive in the real world
+		16. You're helping founders understand how to survive in the real world
 	15. Base ingredients
 		16. Community
+			17. How do you define your community?
+			17. What are the objectives?
+				18. Shared
+				19. Conflicting
+			20. What is the expertise (if any)?
+			21. What are the weaknesses?
 			17. What are the silos?
 			18. What are the issues?
 			19. What are the gaps?
-			20. How can you help (if at all)?
+			20. How can they help (if at all)?
 		17. Patron(s)
+			18. What are the objectives?
+			19. What is the expertise?
+			20. How can they help?
 		18. Soapbox(s)
 	19. Other critical ingredients
 		20. Mentors
