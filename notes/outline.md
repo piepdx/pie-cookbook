@@ -142,17 +142,27 @@
 				94. Mistakes we made
 				95. Rules
 			96. Day-to-day
-				97. Feeding the startups
+				97. The emotional ebb and flow of a stressful startup accelerator
 				97. Work time
 				98. Social time
 					99. Coffee hour
 					99. Happy hour
+				97. Feeding the startups
 				98. Working with mentors
-				99. Mentor talks
-					100. Workshops
-					101. Gauntlet/speed dating
-					102. 1:1
-					103. After hours
+					99. Mentor engagement
+						100. Formal
+							101. Presentation with Q&A
+							100. Workshops
+							101. Gauntlet/speed dating
+							102. 1:1
+							103. Office hours
+						103. Informal
+							103. Happy hours
+							104. After hours
+							104. Social gatherings
+							105. Pitch practice
+							106. Drop ins
+							107. On the fly/visiting mentors
 				104. Curriculum
 					105. Product
 					106. Projections
@@ -160,6 +170,9 @@
 				108. Status reporting
 					109. Check-ins
 					110. Weekly reports
+				111. Pressure valves
+					112. Planned
+					113. Impromptu
 			111. Brand sprints with W+K
 			112. Startup sprints
 				113. 404
