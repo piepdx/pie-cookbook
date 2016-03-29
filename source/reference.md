@@ -19,6 +19,7 @@ Providing a parking lot to capture resources that may inform the content of the 
 - http://www.boardofinnovation.com/2015/10/01/a-checklist-for-designing-your-own-innovation-accelerator/
 - http://archive.learntoduck.net/techstars/why-an-accelerator/
 - https://medium.com/@shockwaveinnov/is-a-startup-accelerator-right-for-you-f3ed3d61fecd#.bxraqt84b
+- https://c.ymcdn.com/sites/ande.site-ym.com/resource/resmgr/GALI/GALI_Report_032816.pdf
 
 ## Mentors
 
