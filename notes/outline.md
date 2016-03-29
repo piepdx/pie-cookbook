@@ -164,6 +164,27 @@
 			112. Startup sprints
 				113. 404
 				114. Bring the pain
+			115. Demo Day
+				116. To Demo Day or not to Demo Day?
+				116. Objectives
+				117. Audience
+					118. Investors
+					119. Media
+					120. Community
+					121. Mentors
+					122. Government
+					123. Peers
+					124. Partners
+					125. Sponsors
+				123. Demo format
+				124. Additional content
+				118. Venue
+				119. Promotion
+				120. Logistics
+					120. Run of show
+					120. Pre-show
+					121. During show
+					122. Post show
 		115. Dessert 
 			116. Post mortems
 			118. Tweaking the model
