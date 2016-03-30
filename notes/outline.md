@@ -44,6 +44,16 @@
 		14. Tinge it with realism
 		15. This should be a representation of the outside world, not a utopian existence
 		16. You're helping founders understand how to survive in the real world
+	17. Environmental scan
+		18. Assess what's what before you begin
+		18. Start with reality
+		18. What assets/resources does your community have?
+			19. How mature are they?
+			20. Are they currently accessible?
+		19. Where are the gaps?
+			21. Are they solvable?
+			22. How entrenched are they?
+		23. Then you can get visionary
 	15. Base ingredients
 		16. Community
 			17. How do you define your community?
