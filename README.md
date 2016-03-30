@@ -12,6 +12,8 @@ We are currently running a [Kickstarter campaign](https://www.kickstarter.com/pr
 
 ## Structure
 
+A high-level working [outline of the PIE Cookbook](https://github.com/piepdx/pie-cookbook/tree/master/notes/outline.md) is currently under development.
+
 The PIE Cookbook repository is divided into the following directories:
 
 - [/docs](https://github.com/piepdx/pie-cookbook/tree/master/docs) — Home of the master PIE Cookbook document, which feeds Read the Docs
