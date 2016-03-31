@@ -362,6 +362,7 @@
 	147. Podcasts
 		148. Accelerator (Starter Studio, Orlando, FL) https://itunes.apple.com/us/podcast/accelerator-startup-story/id1090477285?mt=2
 	147. Mentors
+		148. Brad Berens
 		148. Doug Gould 
 			149. http://www.pacificstandardtime.io/blog//5-years-of-pie
 				150. Make the Community Accessible
@@ -369,3 +370,4 @@
 				152. Humility Goes a Long Way
 		150. James Keller
 			151. Minimum Valuable Product
+		152. Mike Pacchione
