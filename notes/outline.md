@@ -207,11 +207,20 @@
 				95. Rules
 			96. Day-to-day
 				97. The emotional ebb and flow of a stressful startup accelerator
+				98. Curriculum
+					105. More independent study than classroom
+					105. Product
+					106. Projections
+					107. Pitch
 				97. Work time
 				98. Social time
 					99. Coffee hour
 					99. Happy hour
 				97. Feeding the startups
+					98. Stress reliever
+					99. Keeps them healthy
+					100. Develops social bonds
+					101. To Lunch and Learn or not Lunch and Learn
 				98. Working with mentors
 					99. Mentor engagement
 						100. Formal
@@ -227,11 +236,16 @@
 							105. Pitch practice
 							106. Drop ins
 							107. On the fly/visiting mentors
-				104. Curriculum
-					105. Product
-					106. Projections
-					107. Pitch
-				108. Status reporting
+				108. Peer mentoring
+					109. Creating the culture of peer mentoring
+					110. Enabling random collisions through the selection process
+					111. Reinforcing collaboration and trust
+					112. Using shared experiences
+						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
+						114. Family Dinner
+						115. Lunch
+						112. Pitch Practice
+					108. Status reporting
 					109. Check-ins
 					110. Weekly reports
 				111. Pressure valves
