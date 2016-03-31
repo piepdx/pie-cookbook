@@ -27,9 +27,18 @@
 				10. "Founders are just another flavor of creative"
 					11. Entrepreneurs and technologists are a new creative class, and their problem-solving toolkit will be increasingly important to solve the emerging brand challenges we tackle at Wieden+Kennedy. But words and images don’t always seem to play well with code. And folks great at one craft may not recognize another as “creative.” But in a world of distributed software and hardware, it’s important to find ways to work together. Entrepreneurs and technologists are inspired creatives who’ve chosen technology as their medium for creative expression. We should be able to find ways to do cool stuff, together.
 		7. Experiments
+			8. PIE's culture of experimentation
 			8. Coworking
 			9. Accelerator
+				10. Equity based investments
+					11. 	Standard 6%
+					12. Floating percentage
+				13. Nonprofit
+				14. Open source
+				15. Solo founders
+				16. High school founders
 			10. Community engagement
+				11. PIElette
 			9. Agency engagement
 			10. Brand engagement
 		7. Drawing inspiration from other chefs
@@ -174,6 +183,10 @@
 				83. Example application
 			83. Selection
 				84. What we’re solving for: good founders
+				85. Grading criteria
+					86. People
+					87. Idea
+					88. Ecosystem
 				85. Written responses
 				86. Follow up questions
 				87. Face to face Interviews
@@ -276,7 +289,36 @@
 	129. Startup PDX Challenge
 	130. Newberg Innovation Accelerator
 131. Appendix
+	132. PIE statistics
+	133. PIE class breakdowns
+		134. Apple PIE
+			135. Applications
+				136. Submitted
+				137. Second round
+				138. Interview round
+			139. Companies
+		135. Blueberry PIE
+			136. Applications
+				136. Submitted
+				137. Second round
+				138. Interview round
+			139. Companies
+		136. Coconut Creme PIE
+			137. Applications
+				136. Submitted
+				137. Second round
+				138. Interview round
+			139. Companies
+		137. Derby PIE
+			138. Applications
+				136. Submitted
+				137. Second round
+				138. Interview round
+			139. Companies
+138. Tool Kit
 	132. Equipment list for space
+	133. Application forms
+	134. Assessment forms
 	132. Term sheets
 	133. Pro forma for the accelerator
 	134. Pro forma for the startups
