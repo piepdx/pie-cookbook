@@ -269,7 +269,7 @@
 			119. Metrics for success
 				120. Qualitative versus Quantitative 
 				121. Accelerator program versus Broader ecosystem
-				120. Traditional
+				120. Traditional (https://github.com/piepdx/pie-cookbook/issues/6)
 					121. Jobs created
 					122. Capital raised
 					123. Valuation
