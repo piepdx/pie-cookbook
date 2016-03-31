@@ -1,6 +1,8 @@
 # Outline
 *NOTE: Please feel free to provide additions, feedback, questions, and more in Issues: https://github.com/piepdx/pie-cookbook/issues*
 
+## PIE Cookbook
+
 2. About 
 	3. Context
 		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on community momentum and focusing it for the greatest benefit for that community.
@@ -302,72 +304,78 @@
 	128. Daimler SPIN
 	129. Startup PDX Challenge
 	130. Newberg Innovation Accelerator
-131. Appendix
-	132. PIE statistics
-	133. PIE class breakdowns
-		134. Apple PIE
-			135. Applications
-				136. Submitted
-				137. Second round
-				138. Interview round
-			139. Companies
-		135. Blueberry PIE
-			136. Applications
-				136. Submitted
-				137. Second round
-				138. Interview round
-			139. Companies
-		136. Coconut Creme PIE
-			137. Applications
-				136. Submitted
-				137. Second round
-				138. Interview round
-			139. Companies
-		137. Derby PIE
-			138. Applications
-				136. Submitted
-				137. Second round
-				138. Interview round
-			139. Companies
-138. Tool Kit
-	132. Equipment list for space
-	133. Application forms
-	134. Assessment forms
-	132. Term sheets
-	133. Pro forma for the accelerator
-	134. Pro forma for the startups
-	135. Speeches we give time and time again
-		136. First day
-		137. How to meet
-		138. MVP: Minimum Valuable Product
-	139. Resources
-		140. YC open sourced documents
-		141. Techstars open sourced documents
-		142. Fostering a thriving ecosystem
-			143. http://www.techstars.com/content/regions/latin-america/white-paper-announcing-5-ingredients-fostering-thriving-startup-ecosystem/
-		142. Startup Revolution
-			143. Startup Communities
-		140. Slack
-		141. Reportedly
-		142. Google Docs
-		143. AngelList
-		144. Perks
-			145. Amazon Web Services
-			146. Softlayer
-			147. Google for Entrepreneurs
-144. Parking lot: Put stuff here that you know belongs somewhere but you’re not quite sure where
-	145. Mistakes were made
-	146. Happy accidents
-	147. Blogs
-	147. Podcasts
-		148. Accelerator (Starter Studio, Orlando, FL) https://itunes.apple.com/us/podcast/accelerator-startup-story/id1090477285?mt=2
-	147. Mentors
-		148. Brad Berens
-		148. Doug Gould 
-			149. http://www.pacificstandardtime.io/blog//5-years-of-pie
-				150. Make the Community Accessible
-				151. Cultivate a “Give and Take” Culture
-				152. Humility Goes a Long Way
-		150. James Keller
-			151. Minimum Valuable Product
-		152. Mike Pacchione
+
+## Appendix
+
+132. PIE statistics
+133. PIE class breakdowns
+	134. Apple PIE
+		135. Applications
+			136. Submitted
+			137. Second round
+			138. Interview round
+		139. Companies
+	135. Blueberry PIE
+		136. Applications
+			136. Submitted
+			137. Second round
+			138. Interview round
+		139. Companies
+	136. Coconut Creme PIE
+		137. Applications
+			136. Submitted
+			137. Second round
+			138. Interview round
+		139. Companies
+	137. Derby PIE
+		138. Applications
+			136. Submitted
+			137. Second round
+			138. Interview round
+		139. Companies
+140. Tool Kit
+132. Equipment list for space
+133. Application forms
+134. Assessment forms
+132. Term sheets
+133. Pro forma for the accelerator
+134. Pro forma for the startups
+135. Speeches we give time and time again
+	136. First day
+	137. How to meet
+	138. MVP: Minimum Valuable Product
+139. Resources
+	140. YC open sourced documents
+	141. Techstars open sourced documents
+	142. Fostering a thriving ecosystem
+		143. http://www.techstars.com/content/regions/latin-america/white-paper-announcing-5-ingredients-fostering-thriving-startup-ecosystem/
+	142. Startup Revolution
+		143. Startup Communities
+	140. Slack
+	141. Reportedly
+	142. Google Docs
+	143. AngelList
+	144. Perks
+		145. Amazon Web Services
+		146. Softlayer
+		147. Google for Entrepreneurs
+
+## Parking lot
+
+Put stuff here that you know belongs somewhere but you’re not quite sure where
+
+146. Mistakes were made
+146. Happy accidents
+147. Blogs
+147. Podcasts
+	148. Accelerator (Starter Studio, Orlando, FL) https://itunes.apple.com/us/podcast/accelerator-startup-story/id1090477285?mt=2
+147. Mentors
+	148. Brad Berens
+	148. Doug Gould 
+		149. http://www.pacificstandardtime.io/blog//5-years-of-pie
+			150. Make the Community Accessible
+			151. Cultivate a “Give and Take” Culture
+			152. Humility Goes a Long Way
+	150. James Keller
+		151. Minimum Valuable Product
+	152. Mike Pacchione
