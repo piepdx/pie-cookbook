@@ -353,8 +353,12 @@
 		143. Startup Communities
 	140. Slack
 	141. Reportedly
+		142. http://reportedly.co
 	142. Google Docs
 	143. AngelList
+	144. PIE countdown clock
+		145. Open source 
+		146. https://github.com/piepdx/board
 	144. Perks
 		145. Amazon Web Services
 		146. Softlayer
