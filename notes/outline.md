@@ -142,7 +142,15 @@
 		55. Space and requirements
 			56. Infrastructure
 			57. Furniture
+				58. "Amazon"-esque/garage days
+				59. Ikea desk days
 			58. Office arrangement
+			59. Ongoing build out
+				60. Conference room
+				61. Meeting areas
+				62. Phone booths
+				63. Fishbowl
+					64. How this enabled more effective mentors in residence and portfolio management
 		56. Catalysts (Entrepreneur + Patron)
 		57. Pressure/heat (Startups + Staff + Patron)
 		58. Good cop/bad cop
@@ -369,6 +377,8 @@
 Put stuff here that you know belongs somewhere but you’re not quite sure where
 
 146. Mistakes were made
+	147. PIE Apple
+		148. Segregated management and one team up in the fishbowl (pre-fishbowl buildout)
 146. Happy accidents
 147. Blogs
 147. Podcasts
