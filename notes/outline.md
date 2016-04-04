@@ -380,6 +380,8 @@ Put stuff here that you know belongs somewhere but you’re not quite sure where
 	147. PIE Apple
 		148. Segregated management and one team up in the fishbowl (pre-fishbowl buildout)
 146. Happy accidents
+147. Unresolvable friction
+	148. Some things simply cannot be resolved. Nor do they necessarily need to be. But it's important that we highlight these areas of a friction, so that they don't surprise folks.
 147. Blogs
 147. Podcasts
 	148. Accelerator (Starter Studio, Orlando, FL) https://itunes.apple.com/us/podcast/accelerator-startup-story/id1090477285?mt=2
