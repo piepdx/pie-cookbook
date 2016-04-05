@@ -25,8 +25,17 @@
 			14. Patrons
 			15. Partners
 	8. Before you begin
-		10. Prerequisites
-			11. Startup Communities http://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854
+		10. Prerequisite reading
+			11. Required
+				11. Startup Communities http://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854
+				12. Venture Deals
+				13. Accelerators
+				14. The Launch Pad: Inside Y Combinator
+			15. Optional
+				16. Zero to One
+				17. Good to Great
+				18. Hatching Twitter
+				19. The Hard Things about Hard Things
 		12. Checklist
 9. Baking PIE
 	5. Portland
