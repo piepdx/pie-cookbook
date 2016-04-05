@@ -18,6 +18,12 @@
 		7. Recipes
 			8. Julia Child vs Better Homes and Gardens
 				9. We don't expect you to follow these recipes step by step. This isn't a science experiment. This is sustenance for your community. And as such, it needs to taste the way your community wants it to taste. We expect you to make these recipes your own. Maybe you like more salt or more spice. Do what works for your community. 
+		10. Definitions
+			11. Community
+			12. Mentors
+			13. Startups / residents
+			14. Patrons
+			15. Partners
 	8. Before you begin
 		10. Prerequisites
 			11. Startup Communities http://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854
@@ -91,6 +97,11 @@
 		18. Soapbox(s)
 	19. Other critical ingredients
 		20. Mentors
+			21. Types
+				22. Typical
+				23. Lead
+				24. Peer
+				25. Mentors in residence
 			21. Anyone can (and should) be a mentor
 			22. Identifying potential mentors
 			23. Qualifying potential mentors
@@ -387,6 +398,7 @@ Put stuff here that you know belongs somewhere but you’re not quite sure where
 	147. PIE Apple
 		148. Segregated management and one team up in the fishbowl (pre-fishbowl buildout)
 146. Happy accidents
+	147. Mentors in residence
 147. Unresolvable friction
 	148. Some things simply cannot be resolved. Nor do they necessarily need to be. But it's important that we highlight these areas of a friction, so that they don't surprise folks.
 147. Blogs
