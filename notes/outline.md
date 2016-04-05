@@ -7,8 +7,11 @@
 	3. Context
 		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on community momentum and focusing it for the greatest benefit for that community.
 		5. This is not just for tech. This is not just for startups. This is an educational construct to be applied and revised however best you see fit.
+		6. This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most cases, it may not be wise to start where we ended. You should start where we started. And try to end where you want to end. 
+		7. There is inherent value in the journey, itself.
 	4. Format
 		5. How to use this book
+			6. By way of analogy, the PIE Cookbook should serve as a map for your road trip. It's where you're trying to go and all of the places you'll stop along the way as you head toward your intended destination. We're providing the details and roadside attractions so that you understand what the journey will take. Sometimes, you may get off the beaten path and discover something incredibly interesting. Sometimes, the map may be dated and the roads don't exists anymore. So you'll need to find your own way. It's not designed to be an airplane ticket that allows you to skip all of the messy stuff. The messy stuff is actually what it takes to bake something tasty, sustainable, and effective.
 		6. History
 		7. Recipes
 	8. Before you begin
