@@ -12,15 +12,19 @@
 	4. Format
 		5. How to use this book
 			6. By way of analogy, the PIE Cookbook should serve as a map for your road trip. It's where you're trying to go and all of the places you'll stop along the way as you head toward your intended destination. We're providing the details and roadside attractions so that you understand what the journey will take. Sometimes, you may get off the beaten path and discover something incredibly interesting. Sometimes, the map may be dated and the roads don't exists anymore. So you'll need to find your own way. It's not designed to be an airplane ticket that allows you to skip all of the messy stuff. The messy stuff is actually what it takes to bake something tasty, sustainable, and effective.
+			7. We are releasing this information in this format for a reason. Because we want this to be a conversation. This isn't a broadcast or soliloquy. It's a collaboration among communities. That's why, it is equally important that your provide feedback. What worked? What didn't? What was complete malarkey? How did you do things differently?
 		6. History
+			7. In that same vein, we are providing the PIE history as an example or parable, not a step-by-step, cookie cutter process for you to follow to achieve the same ends. PIE worked at a moment in time, because of the people involved and the way the world happened to be going in Portland, Oregon, with open source, technology, startups, blogging, and creative agencies. There is no way to recreate those random collisions of things. But we are hopeful that our history with PIE provides reference points that allow you to better identify potential opportunities in your community, today.
 		7. Recipes
+			8. Julia Child vs Better Homes and Gardens
+				9. We don't expect you to follow these recipes step by step. This isn't a science experiment. This is sustenance for your community. And as such, it needs to taste the way your community wants it to taste. We expect you to make these recipes your own. Maybe you like more salt or more spice. Do what works for your community. 
 	8. Before you begin
 		10. Prerequisites
-			11. Startup Communities
+			11. Startup Communities http://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854
 		12. Checklist
 9. Baking PIE
-	5. Using PIE as example
-	6. Portland
+	5. Portland
+	6. Open source
 	6. History of PIE
 		7. Portland startup scene
 		8. Wieden+Kennedy
