@@ -244,12 +244,14 @@
 				98. Social time
 					99. Coffee hour
 					99. Happy hour
-				97. Feeding the startups
+				97. Care and feeding of startups
 					98. Stress reliever
 					99. Keeps them healthy
 					100. Develops social bonds
 					101. To Lunch and Learn or not Lunch and Learn
-				98. Working with mentors
+				98. Care and feeding of mentors
+					99. Not every engagement needs to be "work"
+				99.  Working with mentors
 					99. Mentor engagement
 						100. Formal
 							101. Presentation with Q&A
