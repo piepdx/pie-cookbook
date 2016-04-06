@@ -417,6 +417,8 @@ Put stuff here that you know belongs somewhere but you’re not quite sure where
 147. Blogs
 147. Podcasts
 	148. Accelerator (Starter Studio, Orlando, FL) https://itunes.apple.com/us/podcast/accelerator-startup-story/id1090477285?mt=2
+149. Presentations
+	150. https://github.com/piepdx/pie-cookbook/source/presentations/ 
 147. Mentors
 	148. Brad Berens
 	148. Doug Gould 
