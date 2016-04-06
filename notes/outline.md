@@ -105,7 +105,7 @@
 			20. How can they help?
 		18. Soapbox(s)
 	19. Other critical ingredients
-		20. Mentors
+		21. Mentors
 			21. Types
 				22. Typical
 				23. Lead
@@ -162,6 +162,8 @@
 			52. Objectives
 			53. Outcomes
 		54. Media
+		55. Culture
+			56. Diversity and Inclusion
 	52. Oven
 		53. Budget
 			54. Considerations
