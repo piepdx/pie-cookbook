@@ -163,7 +163,10 @@
 			53. Outcomes
 		54. Media
 		55. Culture
-			56. Diversity and Inclusion
+			56. Hospitality
+				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
+				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
+			57. Diversity and Inclusion
 	52. Oven
 		53. Budget
 			54. Considerations
