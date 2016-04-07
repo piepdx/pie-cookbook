@@ -417,10 +417,16 @@
 	142. Startup Revolution
 		143. Startup Communities
 	140. Slack
+		141. http://slack.com
 	141. Reportedly
 		142. http://reportedly.co
+	143. Switchboard
+		144. http://switchboardhq.com/
+	144. Read the Docs (you're soaking in it)
+		145. http://readthedocs.org
 	142. Google Docs
 	143. AngelList
+		144. http://angel.co
 	144. PIE countdown clock
 		145. Open source 
 		146. https://github.com/piepdx/board
@@ -435,6 +441,10 @@ Put stuff here that you know belongs somewhere but you’re not quite sure where
 
 146. Mistakes were made
 	147. The Vizzini Paradox http://www.imdb.com/title/tt0093779/quotes?item=qt0482717
+	148. Caffe Umbria coffee card
+	149. Family dinner 
+		150. Chest thumping
+		151. No time limit
 	147. PIE Apple
 		148. Segregated management and one team up in the fishbowl (pre-fishbowl buildout)
 146. Happy accidents
