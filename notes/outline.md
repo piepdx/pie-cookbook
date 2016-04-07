@@ -27,11 +27,18 @@
 					13. Sometimes you’ll need to start later in the book and work your way backwards.
 					14. Start with what you have. Go from there.
 		10. Definitions
+			11. We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
 			11. Community
-			12. Mentors
-			13. Startups / residents
-			14. Patrons
-			15. Partners
+			12. Incubator
+			12. Accelerator
+			12. Mentor
+			13. Advisor
+			14. Investor
+			13. Startup
+			14. Resident
+			14. Patron
+			15. Sponsor
+			15. Partner
 	8. Before you begin
 		9. Establishing context and vocabulary
 		10. Prerequisite reading
@@ -50,8 +57,9 @@
 	5. Portland
 	6. Open source
 	6. History of PIE
-		7. Portland startup scene
-		8. Wieden+Kennedy
+		7. A Tale of Two Cities
+			7. Portland startup community
+			8. Wieden+Kennedy
 		7. Founding hypotheses
 			8. Startup community
 				9. "Build better founders"
@@ -59,19 +67,64 @@
 			9. W+K
 				10. "Founders are just another flavor of creative"
 					11. Entrepreneurs and technologists are a new creative class, and their problem-solving toolkit will be increasingly important to solve the emerging brand challenges we tackle at Wieden+Kennedy. But words and images don’t always seem to play well with code. And folks great at one craft may not recognize another as “creative.” But in a world of distributed software and hardware, it’s important to find ways to work together. Entrepreneurs and technologists are inspired creatives who’ve chosen technology as their medium for creative expression. We should be able to find ways to do cool stuff, together.
+				12. Fail harderer.
 		7. Experiments
 			8. PIE's culture of experimentation
 			8. Coworking
+				9. 2009-2011
+				10. In 2009, PIE served as a curated coworking space for promising early stage startups and interesting creatives who called Portland home. During the coworking phase, PIE served as a hub for community, regularly hosting gatherings, hackathons, and educational meet ups. 
+				9. Events
+				10. Hackathons and Code Sprints
+					11. DjangoCon
+					12. Map Hack
+				11. W+K engagement
+					12. PIE as wet blanket
+					13. Briefing in with account teams
+					14. Office space for W+K employees
+					15. Transition space 
+				12. Other corporate engagement
+					13. Nike Open Data 
+				14. Municipal engagement
+					15. City of Portland open data hack
+					16. Portland Public Schools hack
+				15. State engagement
+				16. Home away from home
 			9. Accelerator
+				10. 2011-2014
+				11. Based on learnings from the curated coworking space, PIE changed its engagement from a passive observational role to an engaged and active role. This phase became the PIE accelerator, a series of three-month cohorts focused on intensive mentorship and community development.
 				10. Equity based investments
 					11. 	Standard 6%
 					12. Floating percentage
-				13. Nonprofit
-				14. Open source
-				15. Solo founders
-				16. High school founders
+				13. Experiments		
+					13. Nonprofit
+					14. Open source
+					15. Solo founders
+					16. High school founders
+				17. W+K engagement
+					18. Brand sprints
+				19. Corporate engagement
+					20. Coca-Cola
+					21. Target
+					22. Google
+					23. Intel
+				24. Municipal engagement
+				25. State engagement
+				26. Home away from home
+			27. Accelerator² 
+				28. 2013-Today
+				29. In 2013, PIE began exploring the application of an accelerator framework beyond early stage technology startups. That experiment led to the next phase of the PIE experiment, an accelerator designed to help other incubators and accelerators operate more effectively. 
 			10. Community engagement
 				11. PIElette
+				12. BREAKER
+				13. PIE staff as mentors for other programs
+					14. Oregon Story Board
+					14. Portland Seed Fund
+					15. SXSW Accelerator
+					15. Techstars Seattle
+					16. Nike+ Accelerator powered by Techstars
+					17. 9Mile Labs
+					18. Straight Shot 
+					19. Startup PDX Challenge
 			9. Agency engagement
 			10. Brand engagement
 		7. Drawing inspiration from other chefs
@@ -380,31 +433,114 @@
 
 132. PIE statistics
 133. PIE class breakdowns
+	134. Coworking
+		135. 88 inc
+		135. AppFog (acquired)
+		136. Bac'n (acquired)
+		137. Bass Masta (acquired)
+		138. COLOURlovers (acquired)
+		139. Dovie
+		140. Epipheo
+		141. Geoloqi (acquired)
+		142. Glider (acquired)
+		143. Gorlochs
+		144. Here File, File
+		145. Kickball
+		146. Kickstarter
+		147. LucentPDX
+		148. Maurerville
+		149. Mugasha
+		150. Paleo Plan (acquired)
+		151. Refresh Media
+		152. Showyou
+		153. Silicon Florist
+		154. Simple (acquired)
+		155. Sprintly (acquired)
+		156. Subscription Tools
+		157. Tindie (acquired)
+		158. Uncorked Studios
+		159. Urban Airship
+		160. VodPod (acquired)
+		161. Temporary
+			162. Twitter
+			163. Burbn/Instagram
+			164. PieLab
 	134. Apple PIE
 		135. Applications
 			136. Submitted
 			137. Second round
 			138. Interview round
 		139. Companies
+			140. Adyapper
+			140. Athletepath
+			141. Cloudability
+			141. DailyPath
+			142. Mopix
+			143. Revisu
+			142. Spotsi
+			143. Stayhound
+			144. VendScreen (acquired)
+		140. Mentors in residence
+			141. Ward Cunningham
+			142. Geoloqi
+		143. Staff
+			144. Rick Turoczy
+			145. Renny Gleeson
 	135. Blueberry PIE
 		136. Applications
 			136. Submitted
 			137. Second round
 			138. Interview round
 		139. Companies
+			140. AppThwack (acquired)
+			140. Code Scouts
+			141. dot dot dash (formerly Stublisher)
+			142. KS12
+			143. Little Bird
+			144. Lytics
+			144. Vadio
+		140. Mentors in residence
+		141. Staff
+			142. Rick Turoczy
+			143. Kirsten Golden
 	136. Coconut Creme PIE
 		137. Applications
 			136. Submitted
 			137. Second round
 			138. Interview round
 		139. Companies
+			140. Cloneless
+			140. Fleck
+			141. Orchestrate (acquired)
+			141. Smart Mocha (acquired)
+			142. Stand In
+			140. Switchboard
+			141. Teak
+		140. Mentors in residence
+		141. Staff
+			142. Rick Turoczy
+			143. Kirsten Golden
 	137. Derby PIE
 		138. Applications
 			136. Submitted
 			137. Second round
 			138. Interview round
 		139. Companies
-140. Tool Kit
+			140. Cairns
+			141. Droplr
+			142. Krumplr
+			143. Nutmeg (acquired)
+			144. Outdoor Project
+			145. Read the Docs
+			146. Shop Tender
+			144. Supportland
+			145. WANT
+			146. WorldState
+			147. XOBXOB
+		140. Staff
+			141. Rick Turoczy
+			142. Kirsten Golden
+143. Tool Kit
 132. Equipment list for space
 133. Application forms
 134. Assessment forms
@@ -472,6 +608,7 @@ Put stuff here that you know belongs somewhere but you’re not quite sure where
 	150. https://github.com/piepdx/pie-cookbook/tree/master/source/presentations
 147. Mentors
 	148. Brad Berens
+	149. Kyle Bañuelos
 	148. Doug Gould 
 		149. http://www.pacificstandardtime.io/blog//5-years-of-pie
 			150. Make the Community Accessible
