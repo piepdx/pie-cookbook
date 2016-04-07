@@ -414,14 +414,20 @@
 		143. http://www.techstars.com/content/regions/latin-america/white-paper-announcing-5-ingredients-fostering-thriving-startup-ecosystem/
 	144. Pitching
 		145. https://nathanjeffery.net/pitch-ssg/
-	142. Startup Revolution
-		143. Startup Communities
-	140. Slack
-		141. http://slack.com
+	
+	143. Community
+		144. Startup Revolution
+			143. Startup Communities
+		140. Slack
+			141. http://slack.com
+		142. Switchboard
+			143. http://switchboardhq.com/
+		142. IRL
+			143. Calagator http://calagator.org
+			143. http://beerandpizza.co/
+			144. Meetup
 	141. Reportedly
 		142. http://reportedly.co
-	143. Switchboard
-		144. http://switchboardhq.com/
 	144. Read the Docs (you're soaking in it)
 		145. http://readthedocs.org
 	142. Google Docs
