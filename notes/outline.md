@@ -25,6 +25,7 @@
 			14. Patrons
 			15. Partners
 	8. Before you begin
+		9. Establishing context and vocabulary
 		10. Prerequisite reading
 			11. Required
 				11. Startup Communities http://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854
@@ -433,6 +434,7 @@
 Put stuff here that you know belongs somewhere but you’re not quite sure where
 
 146. Mistakes were made
+	147. The Vizzini Paradox http://www.imdb.com/title/tt0093779/quotes?item=qt0482717
 	147. PIE Apple
 		148. Segregated management and one team up in the fishbowl (pre-fishbowl buildout)
 146. Happy accidents
