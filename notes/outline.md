@@ -21,6 +21,11 @@
 		7. Recipes
 			8. Julia Child vs Better Homes and Gardens
 				9. We don't expect you to follow these recipes step by step. This isn't a science experiment. This is sustenance for your community. And as such, it needs to taste the way your community wants it to taste. We expect you to make these recipes your own. Maybe you like more salt or more spice. Do what works for your community. 
+				10. Jump around as needed. Choose your own adventure.
+					11. This isn’t a book you read cover to cover. 
+					12. Some of this will seem obvious to you… but it’s not obvious to everyone
+					13. Sometimes you’ll need to start later in the book and work your way backwards.
+					14. Start with what you have. Go from there.
 		10. Definitions
 			11. Community
 			12. Mentors
