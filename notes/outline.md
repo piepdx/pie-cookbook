@@ -107,10 +107,30 @@
 	19. Other critical ingredients
 		21. Mentors
 			21. Types
-				22. Typical
-				23. Lead
-				24. Peer
-				25. Mentors in residence
+				22. Non-resident
+					22. Typical
+						23. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Typical percentage of the mentor pool
+					23. Lead
+						24. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Typical percentage of the mentor pool
+				30. Resident
+					24. Peer
+						25. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+					25. Mentors in residence
+						26. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+					26. Entrepreneurs in Residence
+						27. Define role and expectations
+						29. Value to the organization
+						30. Value to the entrepreneur
 			21. Anyone can (and should) be a mentor
 			22. Identifying potential mentors
 			23. Qualifying potential mentors
