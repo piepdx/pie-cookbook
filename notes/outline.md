@@ -333,6 +333,9 @@
 				97. The emotional ebb and flow of a stressful startup accelerator
 				98. Curriculum
 					105. More independent study than classroom
+						106. Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
+						107. However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
+						108. Some examples of these struggles that impact all founders simultaneously are learning how to meet, roughing out financial projections, pricing their product, and pitching.
 					105. Product
 					106. Projections
 					107. Pitch
@@ -351,6 +354,11 @@
 					99. Mentor engagement
 						100. Formal
 							101. Presentation with Q&A
+								102. As we mention above, founders only care about the problem they’re experiencing today, right now. To further the disconnect, even if a mentor provides step-by-step instructions with excruciating details, the founder will never be able to recreate the steps, moments in time, or luck that founder had. 
+								103. For this reason, we suggest that mentor presentations primarily be used as an anecdotal learning experience. Not a teaching one.
+								104. Your primary objective with this format is to convince your founders that they, like the mentor, are capable of succeeding. 
+								104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
+								105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
 							100. Workshops
 							101. Gauntlet/speed dating
 							102. 1:1
