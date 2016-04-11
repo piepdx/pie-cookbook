@@ -384,7 +384,13 @@
 					110. Weekly reports
 				111. Pressure valves
 					112. Planned
+						113. Happy Hour
+						114. Nike 
+						115. Cooking
 					113. Impromptu
+						114. Meals
+						115. Perks
+						116. Financial assistance
 			111. Brand sprints with W+K
 			112. Startup sprints
 				113. 404
