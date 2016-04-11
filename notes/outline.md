@@ -631,3 +631,9 @@ Put stuff here that you know belongs somewhere but you’re not quite sure where
 	150. James Keller
 		151. Minimum Valuable Product
 	152. Mike Pacchione
+	153. Shane Johnson https://github.com/piepdx/pie-cookbook/issues/5#issuecomment-208472565
+		154. Explicit give before you get for accelerators.
+		155. Doing the work
+		156. What an investor looks like? monetary, connector, champion, others? 
+		157. As a founder you really aren't all that so, DO THE WORK! (theme?) 
+		158. Decision making.... to steal yogi berra "If you come to a fork in the road, take it"
