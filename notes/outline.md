@@ -130,10 +130,24 @@
 		7. Drawing inspiration from other chefs
 			8. YC
 				9. Ingredients we borrowed
-				10. Ingredients we left behind
+					10. Investment strategy
+					11. Timeline
+					12. Family Dinner
+					13. Office Hours
+					14. Demo Day
+				10. Ingredients we intentionally left behind
+					11. Class sizes
 			10. TechStars
-				11. Ingredients we borrowed
-				12. Ingredients we left behind
+				11. Ingredients we borrowed 
+					12. Investment strategy
+					13. Timeline
+					14. Class sizes
+					14. Mentor Network
+					15. Resident Accelerator
+					16. Speed dating
+					17. Demo Day
+				12. Ingredients we intentionally left behind
+					13. Day-long speed dating
 12. Cooking
 	13. Primary objective: **Create an environment of trust that accelerates creative output**
 		14. Tinge it with realism
@@ -305,6 +319,7 @@
 			78. Time period
 			79. Number of classes per year
 			80. Number of companies per class
+			81. Continued coworking or not?
 			81. Promotions
 				82. Media
 				83. Community
@@ -387,6 +402,7 @@
 					102. Email
 					103. Status reporting
 					104. Weekly 1:1
+					105. Office hours
 				99.  Working with mentors
 					99. Mentor engagement
 						100. Formal
