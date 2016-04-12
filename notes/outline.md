@@ -255,9 +255,21 @@
 			54. Pro forma
 		55. Space and requirements
 			56. Infrastructure
+				57. Power
+				59. Internet
+				60. Wifi
+				61. Printing/copying
 			57. Furniture
 				58. "Amazon"-esque/garage days
 				59. Ikea desk days
+			60. Kitchen
+				61. Coffee
+				62. Refrigerator(s)
+				63. Dishwasher
+				61. To kegerator or not to kegerator
+			61. Bathrooms	
+			62. Mail
+				63. You will be receiving mail for your startups for the rest of your life	
 			58. Office arrangement
 			59. Ongoing build out
 				60. Conference room
@@ -370,6 +382,11 @@
 					101. To Lunch and Learn or not Lunch and Learn
 				98. Care and feeding of mentors
 					99. Not every engagement needs to be "work"
+				100. Keeping the conversation going
+					101. Chat
+					102. Email
+					103. Status reporting
+					104. Weekly 1:1
 				99.  Working with mentors
 					99. Mentor engagement
 						100. Formal
@@ -618,6 +635,10 @@
 	142. Google Docs
 	143. AngelList
 		144. http://angel.co
+	145. MentorDB
+		146. 
+	146. Dashboard
+		147. https://dashboard.io/
 	144. PIE countdown clock
 		145. Open source 
 		146. https://github.com/piepdx/board
