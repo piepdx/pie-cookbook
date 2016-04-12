@@ -326,9 +326,21 @@
 				94. Introducing startups to one another
 			91. First day
 			92. Family Dinner
+				93. Origin
+					94. Borrowed from YC
+					95. Originally didn’t involve any dinner
+					96. Focused on peer mentoring
 				93. Format
 				94. Mistakes we made
+					95. No time limit
+					96. Chest-thumping
 				95. Rules
+					96. Mandatory attendance
+						97. Orchestrate calling in was a highlight
+					96. No bragging
+					97. Share what’s going wrong
+					98. Everyone has to talk
+					99. If you can help, help
 			96. Day-to-day
 				97. The emotional ebb and flow of a stressful startup accelerator
 				98. Curriculum
@@ -336,9 +348,17 @@
 						106. Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
 						107. However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
 						108. Some examples of these struggles that impact all founders simultaneously are learning how to meet, roughing out financial projections, pricing their product, and pitching.
-					105. Product
-					106. Projections
-					107. Pitch
+					109. Structure was ad hoc for first two classes
+					110. Formalized for Coconut Creme and Derby
+						105. Product
+							106. Product demo checkpoint
+						106. Projections
+							107. Peer mentoring around pricing
+								108. AppThwack
+							107. Spreadsheet checkpoint
+						107. Pitch
+							108. Pitch practice
+							109. Peer feedback
 				97. Work time
 				98. Social time
 					99. Coffee hour
@@ -385,13 +405,20 @@
 				111. Pressure valves
 					112. Planned
 						113. Happy Hour
-						114. Nike 
-						115. Cooking
+						114. Nike employee store
+							115. Kept secret
+							116. Provided each founder with $100 spending money
+						115. Cooking together
+							116. Kitchen Cru
 					113. Impromptu
 						114. Meals
 						115. Perks
 						116. Financial assistance
+							117. Hiring a sitter so that a founder could spend time quality time with his wife
 			111. Brand sprints with W+K
+				112. Studio
+				113. Benefits to startups
+				114. Benefits to W+K
 			112. Startup sprints
 				113. 404
 				114. Bring the pain
