@@ -6,8 +6,10 @@
 2. About 
 	3. Context
 		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on the momentum of an existing community, enabling community leaders to focus that momentum for the greatest benefit for that community.
-		5. While the PIE will speak from the experience of its role as an early stage tech startup accelerator, the PIE Cookbook is not designed to only serve tech. This is not just for startups. 
+		5. While the PIE will speak from the experience of its role as an early stage tech startup accelerator, the PIE Cookbook is not designed to only serve tech. Nor is this is just for startups. 
 		6. We believe that the accelerator model is a powerful and efficient educational construct to can be applied and revised however best you see fit.
+		7. We believe that the accelerator market is currently like the search engine market pre-Google. There are lots of well meaning people sort of doing things right but no one has really hit upon a repeatable and successful formula for doing this.
+		8. Using higher education as an analogy, accelerators have our Harvard and Stanford. We have our Oxford. But where our state schools? Our small private liberal arts colleges? Where are our vocational schools and community colleges? We haven’t even begun to scratch the surface for this educational model.
 		6. This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most cases, it may not be wise to start where we ended. You should start where we started. And try to end where you want to end. 
 		7. There is inherent value in the journey, itself.
 	4. Format
@@ -34,13 +36,15 @@
 			12. Mentor
 			13. Advisor
 			14. Investor
+				15. Angel
+				16. VC
 			13. Startup
 			14. Resident
 			14. Patron
 			15. Sponsor
 			15. Partner
 	8. Before you begin
-		9. Establishing context and vocabulary
+		9. Establishing context and your own vocabulary
 		10. Prerequisite reading
 			11. Required
 				11. Startup Communities http://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854
@@ -62,6 +66,7 @@
 			8. Wieden+Kennedy
 		7. Founding hypotheses
 			8. Startup community
+				9. Provide a means of giving back to channel the pent up desire to do so
 				9. "Build better founders"
 				10. "Make new mistakes"
 			9. W+K
