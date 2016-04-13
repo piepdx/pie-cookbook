@@ -31,6 +31,10 @@ Providing a parking lot to capture resources that may inform the content of the 
 
 - http://davidgcohen.com/2011/08/28/the-mentor-manifesto/
 
+## Investors
+
+- https://medium.com/@schlaf/a-bunch-of-vcs-went-on-a-retreat-here-s-what-happened-145ede63eb12#.d4fscdu7l
+
 ## Startup metrics
 
 - http://a16z.com/2015/08/21/16-metrics/
