@@ -22,6 +22,10 @@ Providing a parking lot to capture resources that may inform the content of the 
 - https://c.ymcdn.com/sites/ande.site-ym.com/resource/resmgr/GALI/GALI_Report_032816.pdf
 - https://www.techinasia.com/talk/90-articles-applying-500-startups-accelerator
 
+## Startup communities
+
+- “A city has to tolerate strangeness to be a home for startups, because startups are so strange. And you can't choose to allow just the forms of strangeness that will turn into big startups, because they're all intermingled. You have to tolerate all strangeness.” http://paulgraham.com/pgh.html
+
 ## Mentors
 
 - http://davidgcohen.com/2011/08/28/the-mentor-manifesto/
