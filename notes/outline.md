@@ -142,9 +142,11 @@
 					11. Timeline
 					12. Family Dinner
 					13. Office Hours
+					14. Mentor recommendations
 					14. Demo Day
 				10. Ingredients we intentionally left behind
 					11. Class sizes
+					12. Non-resident accelerator
 			10. TechStars
 				11. Ingredients we borrowed 
 					12. Investment strategy
@@ -156,6 +158,7 @@
 					17. Demo Day
 				12. Ingredients we intentionally left behind
 					13. Day-long speed dating
+					14. Pitching from the beginning of the program
 12. Cooking
 	13. Primary objective: **Create an environment of trust that accelerates creative output**
 		14. Tinge it with realism
@@ -261,7 +264,7 @@
 			48. Optional roles
 				49. Intern
 				50. Associate
-				51. Technical
+				51. Technical assistance
 		51. Partners
 			52. Objectives
 			53. Outcomes
