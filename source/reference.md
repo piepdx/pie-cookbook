@@ -25,6 +25,7 @@ Providing a parking lot to capture resources that may inform the content of the 
 ## Startup communities
 
 - “A city has to tolerate strangeness to be a home for startups, because startups are so strange. And you can't choose to allow just the forms of strangeness that will turn into big startups, because they're all intermingled. You have to tolerate all strangeness.” http://paulgraham.com/pgh.html
+- https://medium.com/@crystalrose/how-to-make-a-startup-communicorn-7c8a517490d8#.nha0ag4f7 (via James Leaverton)
 
 ## Mentors
 
