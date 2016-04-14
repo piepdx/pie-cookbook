@@ -80,6 +80,7 @@
 				10. "Founders are just another flavor of creative"
 					11. Entrepreneurs and technologists are a new creative class, and their problem-solving toolkit will be increasingly important to solve the emerging brand challenges we tackle at Wieden+Kennedy. But words and images don’t always seem to play well with code. And folks great at one craft may not recognize another as “creative.” But in a world of distributed software and hardware, it’s important to find ways to work together. Entrepreneurs and technologists are inspired creatives who’ve chosen technology as their medium for creative expression. We should be able to find ways to do cool stuff, together.
 				12. Fail harderer.
+				13. PIE has always been a wedge — a means of empowering entities to initiate conversations that would be difficult, at best, if not downright impossible. We have served this role throughout our history, enabling a variety of companies to engage in more meaningful and impactful conversations with critical partners.
 		7. Experiments
 			8. PIE's culture of experimentation
 			8. Coworking
