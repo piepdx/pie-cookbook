@@ -14,6 +14,10 @@
 			9. As far as accelerators go, we have our Ivy Leagues and our Stanford, but we have barely begun to scratch the surface for this educational model. Where is the Georgia Tech of accelerators? Where is the RISD? Where is the Reed or Whitman? Better yet, where is the state school or community college or junior college? Where is the vocational school of accelerators? There’s still plenty of room to explore this educational model. We have a long way to go before we’ve even leveraged the existing model, let alone begun to inflate the bubble. https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.qjyagrd3p
 		6. This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most cases, it may not be wise to start where we ended. You should start where we started. And try to end where you want to end. 
 		7. There is inherent value in the journey, itself.
+		8. Risks
+			9. Attempting this without an existing community is a recipe, too. It’s a recipe for failure.
+			10. You can go too far.
+			11. Once you start, you cannot stop. Ever.
 	4. Format
 		5. How to use this book
 			6. By way of analogy, the PIE Cookbook should serve as a map for your road trip. It's where you're trying to go and all of the places you'll stop along the way as you head toward your intended destination. We're providing the details and roadside attractions so that you understand what the journey will take. Sometimes, you may get off the beaten path and discover something incredibly interesting. Sometimes, the map may be dated and the roads don't exists anymore. So you'll need to find your own way. It's not designed to be an airplane ticket that allows you to skip all of the messy stuff. The messy stuff is actually what it takes to bake something tasty, sustainable, and effective. Unfortunately, we’ve now mixed metaphors with cookbooks and roadmaps. Get used to it. We said it was a mess.
