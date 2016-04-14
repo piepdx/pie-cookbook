@@ -335,6 +335,15 @@
 				75. Hackathons
 		76. Main course (Accelerator)
 			77. Culture/brand of the accelerator
+				78. Have a thesis
+					79. You don't have to be married to it forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof.
+					80. At PIE, we hit upon the fact that we were really good at accelerating platforms and enabling technology. Why did we get good at this? There were any number of reasons.
+						81. Portland has a culture of platforms and enabling technologies
+						82. We inherited the culture of the agency itself moreso than the cultures of the agency's clients.
+						83. Our mentors had expertise in building platforms.
+						84. Our startups happened to be focused on platforms.
+						85. The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
+						86. We started PIE just as both the SaaS and mobile markets were exploding
 				78. Setting expectations
 				79. Communicating expectations
 			78. Time period
