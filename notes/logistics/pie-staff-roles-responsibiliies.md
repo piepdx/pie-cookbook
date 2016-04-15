@@ -1,10 +1,10 @@
 # PIE staff roles and responsibilities
 
 ## Program Manager 
-**Role**
+### Role
 The Program Manager works to ensure that the current class of PIE startups has the most rewarding and beneficial experience while in the space. This role also serves as the primary startup liaison and ombudsman.
 
-**Primary responsibilities**
+### Primary responsibilities
 - Serve as primary contact point for startups, from application through graduation
 - Recommend strategies and tactics that improve the program for startups
 - Manage day-to-day relations with PIE class members
@@ -19,15 +19,15 @@ The Program Manager works to ensure that the current class of PIE startups has t
 - Manage startup relations with W+K internal teams
 - Manage the application process, from initial forms through final selection
 
-**Secondary responsibilities**
+### Secondary responsibilities
 - Advise on strategic planning and goal setting
 - Communicate with PIE management and W+K 
 
 ## General Manager
-**Role**
+### Role
 The General Manager works to ensure that current startups, mentors, alumni, investors, brand sponsors, and PIE staff have a mutually rewarding experience that improves the perception and quality of entrepreneurial ventures associated with PIE.
 
-**Primary responsibilities**
+### Primary responsibilities
 - Serve as primary contact point for mentors and alumni
 - Coordinate mentor and startup relations
 - Recommend strategies and tactics that improve the program for all participants
@@ -53,7 +53,7 @@ The General Manager works to ensure that current startups, mentors, alumni, inve
 	- IT
 - Propose and manage tools that enable and facilitate communications and management
 
-**Secondary responsibilities**
+### Secondary responsibilities
 - Assist with schedule for curriculum and mentor visits
 - Assist with major events like Demo Day
 - Assist with weekly checkpoints
@@ -63,10 +63,10 @@ The General Manager works to ensure that current startups, mentors, alumni, inve
 
 ## Brand Manager 
 
-**Role**
+### Role
 The Brand Manager works to ensure that brand sponsors and Wieden+Kennedy derive demonstrable value from their engagement with PIE. This role serves as the primary liaison and ombudsman for PIE’s brand mentors.
 
-**Primary responsibilities**
+### Primary responsibilities
 - Serve as primary contact point for brand representatives and mentors
 - Coordinate brand relations and communications
 - Recommend strategies and tactics that improve the program for brand participation
@@ -83,7 +83,7 @@ The Brand Manager works to ensure that brand sponsors and Wieden+Kennedy derive 
 	- Weekly check-ins with each company
 - Provide a weekly status report to sponsoring brands on PIE progress
 
-**Secondary responsibilities**
+### Secondary responsibilities
 - Assist with schedule for curriculum and mentor visits
 - Assist with major events like Demo Day
 - Assist with weekly checkpoints
@@ -93,10 +93,10 @@ The Brand Manager works to ensure that brand sponsors and Wieden+Kennedy derive 
 
 ## Entrepreneur in residence
 
-**Role**
+### Role
 The entrepreneur in residence role is designed to serve two critical functions. First, they are designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with PIE management. Second, the EiR is charged with assessing and highlighting opportunities within PIE that may result in efficiencies or revenue generation.
 
-**Primary responsibilities**
+### Primary responsibilities
 - Work to formalize and codify PIE processes and programs
 - Document the PIE experience from a startup perspective
 - Serve as confidante for startups, both current and alums
@@ -105,7 +105,7 @@ The entrepreneur in residence role is designed to serve two critical functions. 
 - Lead build vs. buy decisions for PIE management tools
 Work to ensure PIE participates in the larger startup and accelerator community
 
-**Secondary responsibilities**
+### Secondary responsibilities
 - Assist with schedule for curriculum and mentor visits
 - Assist with major events like Demo Day
 - Assist with weekly checkpoints
