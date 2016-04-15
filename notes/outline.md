@@ -344,6 +344,14 @@
 						84. Our startups happened to be focused on platforms.
 						85. The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
 						86. We started PIE just as both the SaaS and mobile markets were exploding
+				87. Know where you suck
+					88. Know — don’t assume; know — what you are truly good at doing.
+					89. And even more importantly? Be willing to admit where you suck. 
+					90. At PIE, it quickly became obvious that we sucked at helping startups with fundraising. We were hamstrung by several things. 
+						91. First, there was a small investment community in Portland. 
+						92. Second, the community that was there had little appetite for the types of companies—or the risk profiles of those companies—as investments. 
+						93. Third, we had not established adequate ties with investors in other regions. We had friends here and there, but we didn’t have a strong rolodex of investors whose theses matched our startup profiles.
+					94. But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provide us with yet another measure by which to select the companies we chose. 
 				78. Setting expectations
 				79. Communicating expectations
 			78. Time period
