@@ -264,9 +264,10 @@
 		45. Staff
 			46. Hiring
 			47. Required roles
-				46. Managing Director
-				47. Program Manager
+				46. Managing Director (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-staff-roles-responsibiliies.md)
+				47. Program Manager (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-staff-roles-responsibiliies.md)
 			48. Optional roles
+				49. Entrepreneur in Residence (EiR) (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-staff-roles-responsibiliies.md)
 				49. Intern
 				50. Associate
 				51. Technical assistance
