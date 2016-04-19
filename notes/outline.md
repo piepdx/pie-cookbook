@@ -16,8 +16,12 @@
 		6. This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most every case, it may not be wise — or downright foolhardy — to start where PIE ended. You should start where PIE started. And try to end where you want to end. 
 		7. There is inherent value in the journey, itself.
 		8. Risks
-			9. Attempting this without an existing community is a recipe, too. It’s a recipe for failure.
+			9. Attempting this without an existing community is a recipe, too. It’s a recipe for complete failure.
 			10. You can go too far.
+				11. In structure
+				12. In goals
+				13. In trying to over architect the experience
+				14. In over planning and under participating
 			11. Once you start, you cannot stop. Ever.
 	4. Format
 		5. How to use this book
