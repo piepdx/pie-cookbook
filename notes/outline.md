@@ -25,9 +25,20 @@
 			11. Once you start, you cannot stop. Ever.
 	4. Format
 		5. How to use this book
-			6. By way of analogy, the PIE Cookbook should serve as a map for your road trip. It's a visualization of where you're trying to go and a record of all of the places you'll stop along the way as you head toward your intended destination. We're providing the details and roadside attractions so that you understand what the journey will take. Sometimes, you may get off the beaten path and discover something incredibly interesting. Sometimes, the map may be dated and the roads don't exists anymore. So you'll need to find your own way. It's not designed to be an airplane ticket that allows you to skip all of the messy stuff. The messy stuff is actually what it takes to bake something tasty, sustainable, and effective. Unfortunately, we’ve now mixed metaphors with cookbooks and roadmaps. Get used to it. We said it was a mess.
-			7. We are releasing this information in this format for a reason. Because we want this to be a conversation. This isn't a broadcast or soliloquy. It's a collaboration among communities. That's why, it is equally important that your provide feedback. What worked? What didn't? What was complete malarkey? How did you do things differently?
+			6. By way of analogy, the PIE Cookbook should serve as a map for your road trip. 
+				7. It's a visualization of where you're trying to go and a record of all of the places you'll stop along the way as you head toward your intended destination. 
+				8. We're providing the details and roadside attractions so that you understand what the journey will take. 
+				9. Sometimes, you may get off the beaten path and discover something incredibly interesting. 
+				10. Sometimes, the map may be dated and the roads don't exists anymore. So you'll need to find your own way. 
+				11. It's not designed to be an airplane ticket that allows you to skip all of the messy stuff. The messy stuff is actually what it takes to bake something tasty, sustainable, and effective. 
+				12. Unfortunately, we’ve now mixed metaphors with cookbooks and roadmaps. Get used to it. We said it was a mess.
+		7. Open Source
+			7. We are releasing this information as an open source project for a reason. Because we want this to be a conversation. 
+				8. This isn't a broadcast or soliloquy. It's a collaboration among communities. 
+				9. That's why, it is equally important that your provide feedback. What was helpful? What worked? What didn't work? What was complete malarkey? Where was PIE’s experience a matter of timing and luck, rather than repeatable? How did you do things differently?
 			8. https://medium.com/portland-incubator-experiment/no-interest-in-building-a-startup-accelerator-like-pie-good-f31ecbd14e05#.7ybyv2grm
+			9. Unnecessarily proprietary: https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.97oi6moii
+				10. “So with the PIE Cookbook, getting the chance to actually help lead an open source project…? That’s been a long time coming for me. I’m looking forward to learning — and probably making some mistakes. But no matter what, I’m really interested in seeing where the community takes this project.”
 		6. History
 			7. In that same vein, we are providing the PIE history as an example or parable, not a step-by-step, cookie cutter process for you to follow to achieve the same ends. 
 			8. It is important that, like many things in the world of startups, PIE worked at a moment in time, because of the people involved, and the way the world happened to be going in Portland, Oregon, with open source, technology, startups, blogging, and creative agencies. To put it another way, the way PIE came into being and worked would likely not work if we tried to do the same thing today. Too many things have changed. There is no way to recreate those random collisions of things. Or to recreate that period in time. 
