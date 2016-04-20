@@ -18,7 +18,7 @@ The PIE Cookbook repository is divided into the following directories:
 
 - [/docs](https://github.com/piepdx/pie-cookbook/tree/master/docs) — Home of the master PIE Cookbook document, which feeds Read the Docs
 - [/drafts](https://github.com/piepdx/pie-cookbook/tree/master/drafts/) — Written content that has not yet been added to the master PIE Cookbook document
-- [/notes](https://github.com/piepdx/pie-cookbook/tree/master/notes/) — Notes about the project, topics to be written, feedback from participants, distillation of source materials, and parking lot items
+- [/notes](https://github.com/piepdx/pie-cookbook/tree/master/notes/) — Notes about the project, topics to be written, feedback from participants, distillation of source materials, and parking lot items. Also, home of the [outline](https://github.com/piepdx/pie-cookbook/blob/master/notes/outline.md) governing the topics for this project.
 - [/source](https://github.com/piepdx/pie-cookbook/tree/master/source/) — Relevant URLs, documents, and source materials that inform the content of the PIE Cookbook
 
 ## Feedback
