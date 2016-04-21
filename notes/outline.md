@@ -130,10 +130,11 @@
 				10. 2011-2014
 				11. Based on learnings from the curated coworking space, PIE changed its engagement from a passive observational role to an engaged and active role. This phase became the PIE accelerator, a series of three-month cohorts focused on intensive mentorship and community development.
 				10. Equity based investments
-					11. 	Standard 6%
+					11. Standard 6%
 					12. Floating percentage
 				13. Experiments		
 					13. Nonprofit
+					14. Hardware
 					14. Open source
 					15. Solo founders
 					16. High school founders
@@ -146,7 +147,9 @@
 					23. Intel
 						24. Narrative Hack
 				24. Municipal engagement
+					25. Portland Development Commission
 				25. State engagement
+					26. OregonInC and Business Oregon
 				26. Home away from home
 			27. Accelerator² 
 				28. 2013-Today
@@ -163,7 +166,7 @@
 					17. 9Mile Labs
 					18. Straight Shot 
 					19. Startup PDX Challenge
-			9. Agency engagement
+			9. W+K engagement
 			10. Brand engagement
 		7. Drawing inspiration from other chefs
 			8. YC
