@@ -220,32 +220,73 @@
 						23. Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
+						29. Value to the startups
 						29. Typical percentage of the mentor pool
 					23. Lead
 						24. Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
+						29. Value to the startups
 						29. Typical percentage of the mentor pool
+					30. Corporate mentors
+						24. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+						29. Typical percentage of the mentor pool
+						30. Special challenges of corporate mentors
+							31. Making mentorship a requirement
+							32. Including mentorship in review process and roles & responsibilities
+							33. Getting corporate mentors to take off the “brand hat” and speak from personal experience
+								34. “You’ve achieved a level of success as [executive at company x]. What’s your personal opinion?”
+					35. Investor mentors
+						36. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+						29. Typical percentage of the mentor pool
+						30. Special challenges of investor mentors
+							31. Getting investors to take off the investor hat and mentor
+							32. This isn’t due diligence. It’s mentorship.
+							33. Preparing the startups for when an investor switches from mentoring to investing
 				30. Resident
 					24. Peer
 						25. Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
+						29. Value to the startups
+						29. Special challenges of peer mentors
 					25. Mentors in residence
 						26. Define role and expectations
+							27. At PIE, these were companies PIE alums who had been through the PIE process
 						27. Value to the organization
 						28. Value to the mentor
+						29. Value to the startups
+							30. Can provide valuable insights into working with PIE and mentors
+							31. Can provide tips and tricks for getting the most out of the program
+							32. Can help startups work the system
 					26. Entrepreneurs in Residence
 						27. Define role and expectations
 						29. Value to the organization
 						30. Value to the entrepreneur
+					31. Staff
+						32. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Special challenges of staff as mentors
 			21. Anyone can (and should) be a mentor
+				22. It’s not just “experts”
+				23. Different viewpoints reveal flaws and opportunities
 			22. Identifying potential mentors
 			23. Qualifying potential mentors
 			24. Alums as mentors
 			24. Onboarding
 			24. Time commitment
 			25. Mentoring the mentors
+				26. Setting the tone
+					27. https://github.com/piepdx/pie-cookbook/blob/master/notes/mentors/mentoring-mentors.md
+				26. How to mentor
+				27. Common mistakes
 			26. Test driving mentors
 			27. Assessing skill fit
 			28. Assessing personality fit
