@@ -740,7 +740,7 @@
 		143. http://www.techstars.com/content/regions/latin-america/white-paper-announcing-5-ingredients-fostering-thriving-startup-ecosystem/
 	144. Pitching
 		145. https://nathanjeffery.net/pitch-ssg/
-	
+	146. Mentor “No solicitation” agreement https://github.com/piepdx/pie-cookbook/issues/2#issuecomment-213525588
 	143. Community
 		144. Startup Revolution
 			143. Startup Communities
