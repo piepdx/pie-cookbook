@@ -743,7 +743,6 @@
 	146. Mentor “No solicitation” agreement 
 		147. Request: https://github.com/piepdx/pie-cookbook/issues/2#issuecomment-213525588
 		148. Document: https://github.com/piepdx/pie-cookbook/blob/master/source/documents/Mentor%20Protege%2020140609.docx
-	147. 
 	143. Community
 		144. Startup Revolution
 			143. Startup Communities
