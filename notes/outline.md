@@ -220,9 +220,16 @@
 			19. What are the gaps?
 			20. How can they help (if at all)?
 		17. Patron(s)
+			18. At PIE, we get a lot of questions about how to fund accelerator operations and investments. It makes sense. Finding the money that matches up with the opportunity is a challenge. It’s never easy. No matter how compelling the pitch. 
 			18. What are the objectives?
 			19. What is the expertise?
 			20. How can they help?
+			21. Can take several flavors (Note: This isn’t an exhaustive list. But it’s gives you a pretty good idea of where to look.)
+				22. In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall.
+				22. True patron
+				23. Sponsor
+				24. Partner
+				25. Investor
 		18. Soapbox(s)
 	19. Other critical ingredients
 		21. Mentors
@@ -743,7 +750,6 @@
 	146. Mentor “No solicitation” agreement 
 		147. Request: https://github.com/piepdx/pie-cookbook/issues/2#issuecomment-213525588
 		148. Document: https://github.com/piepdx/pie-cookbook/blob/master/source/documents/Mentor%20Protege%2020140609.docx
-	147. 
 	143. Community
 		144. Startup Revolution
 			143. Startup Communities
@@ -763,7 +769,6 @@
 	143. AngelList
 		144. http://angel.co
 	145. MentorDB
-		146. 
 	146. Dashboard
 		147. https://dashboard.io/
 	144. PIE countdown clock
