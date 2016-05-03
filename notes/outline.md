@@ -314,6 +314,10 @@
 			30. Overlap
 			31. Integrity
 				32. https://github.com/piepdx/pie-cookbook/issues/2
+			33. Managing mentors
+				34. Scheduling should occur at the mentor’s convenience, not yours
+				35. Always make mentors aware that things change
+				36. Be prepared for pop-ins — and always take advantage of them
 			32. Unused mentors
 			33. Bad actors
 			34. Mentor value beyond the accelerator
