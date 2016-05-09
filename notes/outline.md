@@ -453,6 +453,9 @@
 				82. Tchotchkes
 			82. Applications
 				83. Example application
+				84. Fringe benefits of applications: Market research
+					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
+					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
 			83. Selection
 				84. What we’re solving for: good founders
 				85. Grading criteria
