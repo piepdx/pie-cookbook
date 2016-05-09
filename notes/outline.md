@@ -107,6 +107,8 @@
 					15. We have served this role throughout our history, enabling a variety of companies to engage in more meaningful and impactful conversations with critical partners.
 		7. Experiments
 			8. PIE's culture of experimentation
+			9. PIE's culture of community
+				10. (via @nohorse) "One of the things I always appreciated about PIE was that it felt like it embodies the spirit of collaboration in Portland. For example PIE seems at home in Centrl Office. It's likely something that is obvious to folks who have spent a while in Portland or Austin, but it's slow to sink in to some cities. There is a value in supporting other business incubators, maker spaces, coworking spaces, in your city and build a web of trust where everyone can feel safe and supported. Competition in the classic capitalistic sense is toxic to the young businesses that need as much help and support as they can to get off the ground and should never need to feel like they are picking brands or picking sides and potentially burning bridges to get the help they need. It might seem obvious to the cookbook authors, but it's worth explaining as it's a new concept to many folks."
 			8. Coworking
 				9. 2009-2011
 				10. In 2009, PIE served as a curated coworking space for promising early stage startups and interesting creatives who called Portland home. During the coworking phase, PIE served as a hub for community, regularly hosting gatherings, hackathons, and educational meet ups. 
