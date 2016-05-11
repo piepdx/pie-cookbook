@@ -148,6 +148,9 @@
 					22. Google
 					23. Intel
 						24. Narrative Hack
+						25. Hack at Hayward Field
+					26. Nike
+						27. Kinect Hack
 				24. Municipal engagement
 					25. Portland Development Commission
 				25. State engagement
@@ -194,12 +197,9 @@
 				12. Ingredients we intentionally left behind
 					13. Day-long speed dating
 					14. Pitching from the beginning of the program
-12. Cooking
-	13. Primary objective: **Create an environment of trust that accelerates creative output**
-		14. Tinge it with realism
-		15. This should be a representation of the outside world, not a utopian existence
-		16. You're helping founders understand how to survive in the real world
-	17. Environmental scan
+15. Kitchen Prep
+	16. Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
+	16. Environmental scan
 		18. Assess what's what before you begin
 		18. Start with reality
 		18. What assets/resources does your community have?
@@ -208,7 +208,13 @@
 		19. Where are the gaps?
 			21. Are they solvable?
 			22. How entrenched are they?
+		23. Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.
 		23. Then you can get visionary
+12. Cooking
+	13. Primary objective: **Create an environment of trust that accelerates creative output**
+		14. Tinge it with realism
+		15. This should be a representation of the outside world, not a utopian existence
+		16. You're helping founders understand how to survive in the real world
 	15. Base ingredients
 		16. Community
 			17. How do you define your community?
