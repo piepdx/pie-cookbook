@@ -238,6 +238,19 @@
 				23. Sponsor
 				24. Partner
 				25. Investor
+					26. On the upside, venture capital can be a very effective means of funding this sort of activity. 
+						27. Used to spending money on risky efforts
+						28. Have a time horizon that is in line with company maturation
+						29. Have the potential to provide follow on investment.
+						30. Ongoing portfolio management can be super valuable for the continued success of your companies.
+					27. On the downside, this funding mechanism can curtail the experimental nature of an accelerator if VC is the only backing. 
+						28. VCs are in the business of making money. 
+						29. The relationship will be driven by financial motivations. 
+						30. Will likely be only interested in investing in
+							31. Companies that have the highest likelihood of returning capital to the fund 
+							32. Companies that best match their investment thesis.
+						33. This sort of focus can hamstring accelerators and incubators who may see promise or opportunity in verticals or companies that are outside of the fund’s purview. 
+						34. Long story short, you don’t get to “experiment” with VC money. You get to make money.
 		18. Soapbox(s)
 	19. Other critical ingredients
 		21. Mentors
