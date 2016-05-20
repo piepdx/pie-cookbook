@@ -12,7 +12,7 @@ By joining this project, you’ll gain access to everything we’ve learned from
 
 ## Structure
 
-A high-level working [outline of the PIE Cookbook](https://github.com/piepdx/pie-cookbook/tree/master/notes/outline.md) is currently under development.
+A high-level working [outline of the PIE Cookbook](https://github.com/piepdx/pie-cookbook/tree/master/notes/outline.md) is currently under development. We have also [proposed a process and some initial milestones](https://github.com/piepdx/pie-cookbook/blob/master/notes/pie/kickstarter/kickstarter-pie-cookbook-update-31.md "Let's do this.") for the ongoing development of this project.
 
 The PIE Cookbook repository is divided into the following directories:
 
