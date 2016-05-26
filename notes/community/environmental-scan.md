@@ -50,3 +50,7 @@ Are they solvable?
 How entrenched are they?
 Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.
 Then you can get visionary
+
+# Having a problem assessing the community assets and needs?
+
+Starting a coworking space is a great way to start to unearth some of the assets and gaps in the community. 
