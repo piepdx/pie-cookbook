@@ -28,6 +28,14 @@ So if we got some cockamamie scheme to try to build an apparel accelerator we'd 
 
 What's that mean? That's right. That's not really an asset, is it?  To put it another way, an asset is only an asset if your community and accelerator can immediately leverage those resources.
 
+People most often seem to stumble here in terms of capital. If we had a dollar for every accelerator that tried to start a helping a highly capital intensive market with little to no capital assets at their disposal, PIE would be a late stage venture fund. 
+
+If you don't have capital, don't engage in pursuits that capital intensive. If you don't have the asset, don't plan on that asset somehow becoming magically available. Anymore than you should expect community to magically form around an accelerator.
+
+Use, as the phrase goes, what you've got.
+
+## Multipurpose every asset you can
+
 What's more, it's highly likely that you're not going to just want to use that asset in a single way. You want to get as much combined value out of each asset as you can. And to ensure that the asset is deriving value from he relationship. 
 
 So ideally, you'll be seeking to leverage those assets in four ways:
