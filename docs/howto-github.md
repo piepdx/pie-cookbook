@@ -7,7 +7,7 @@ First thing you will need to do is create an account on Github. [You can do that
 ### Fork the Pie Cookbook Repo
 Before you can PIE, you need a fork! Repositories (or "repos") are nothing more than a collection of files and folders that multiple people can add, edit, or delete from. To ensure these changes are tracked and controlled, a revision history is kept. The most orderly way for several people to contribute to the same repo is with Forks and Pull Requests. A fork is nothing more than a copy of the original repo. Once you make a fork, you can make changes without disturbing anyone. 
 
-Here's what it looks like when user @MugOfPaul creates a Fork of the piepdx/pie-cookbook repo:
+Here's what it looks like when user MugOfPaul creates a Fork of the piepdx/pie-cookbook repo:
 
 ![Animation of using the Github user interface to fork the Pie Cookbook repo](howto-github-img/000-forkrepo.gif)
 
@@ -42,7 +42,7 @@ Let's say at this point, you've done some work but it only exists within your Fo
 ![Image showing how many commits ahead the fork is from the original repo](howto-github-img/004-forkaheadofmaster.png)
 
 
-### Creating a Pull Request
+### Creating a Pull Request into Original Repo
 Then when you are ready for your changes to be incorporated into the original repo so other people can see it, you make a Pull Request. This is simply asking the maintainers of the original repo to review your work and consider merging it into the original repo that you forked from. If they accept the request and merge it in, it will be available for all the other contributors to see. 
 
 To get started, while looking at your Fork of the repo, you can click the Pull Request link.
@@ -65,7 +65,7 @@ The maintainers that are reviewing your request may have questions or comments. 
 ## Stay Up to Date
 It's a good idea to keep your Fork updated to the latest and greatest version of the original repo. This is how you can get all of the new work done by other collaborators. If your Fork becomes too out of date, you can run into merge conflicts. If you have conflicts, Github won't let you create a Pull Request until they are resolved. Sometimes this is as easy as updating your repo. 
 
-### Pull Request into Your Fork
+### Pull Request into _Your_ Fork
 This is one of those things that is actually easier if you're using the command line interface or a desktop tool. But in the spirit of these instructions using just the online interface, here's how you can do it.
 
 If you'll recall in the Creating a Pull Request section, Github will show you how many commits ahead your forked repo is of the original repo. If your repo is out of date, it will also show you how many commits _behind_ your fork is compared to the original. **These instructions only work if you are showing that your fork is behind**
@@ -95,7 +95,7 @@ Once created, _your fork_ will show an outstanding Pull Request.
 
 Click to review the Pull Request. Scroll all the way to the bottom of the page and you will see the option to merge the work into your repo. 
 
-![Image showing Pull Request Merge button](howto-github-img/012-acceptpullrequest.png)
+![Image showing Pull Request Merge button](howto-github-img/013-acceptpullrequest.png)
 
 
 Accept the merge and now if your fork should be up to date with the latest and greatest!
