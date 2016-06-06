@@ -10,6 +10,10 @@ And that’s good for everyone.
 
 By joining this project, you’ll gain access to everything we’ve learned from nearly a decade of accelerating startups, building relationships that strengthen community, and facilitating creative output. What’s more — since this is an open source project — you’ll have the opportunity take part in creating the most effective documentation for building, managing, and running a successful startup accelerator for your community — whatever that community may be.
 
+## Getting started
+
+New to Github? @MugofPaul has created [a guide to help you get your bearings and learn how to contribute to the project](https://github.com/piepdx/pie-cookbook/blob/b209a967a93d85910435b3a9b36e0c3a46957fc0/docs/howto-github.md).
+
 ## Structure
 
 A high-level working [outline of the PIE Cookbook](https://github.com/piepdx/pie-cookbook/tree/master/notes/outline.md) is currently under development. We have also [proposed a process and some initial milestones](https://github.com/piepdx/pie-cookbook/blob/master/notes/pie/kickstarter/kickstarter-pie-cookbook-update-31.md "Let's do this.") for the ongoing development of this project.
