@@ -59,6 +59,10 @@ This will take you to a page where you can review the actual Pull Request. Notic
 
 ![Image of the create pull request screen](howto-github-img/007-pullrequestscreen.png)
 
+Finally you can click the button to open the pull request.
+
+![Image of Open Pull Request screen](howto-github-img/007a-openpullrequest.png)
+
 
 The maintainers that are reviewing your request may have questions or comments. The Github interface allows for discussion on a particular Pull Request for this reason. 
 
