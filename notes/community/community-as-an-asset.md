@@ -1,0 +1,1 @@
+Community is not an asset that you mine indiscriminately like some wealthy oil baron. Community is the sourdough starter. Community is where you leave some part of you behind to make the next event — even the next encounter — even better. 
