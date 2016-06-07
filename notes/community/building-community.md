@@ -22,7 +22,11 @@ If you have these kinds of amazing connectors as part of your community, you're 
 
 If you don't have already established leaders in the community, then your job will be more difficult. And you may want to prepare yourself to become that community leader. 
 
-## Work with what
+## Work with what you have
+
+What if the community you discover and into which you pour energy turns out to be the wrong community? Or what if the community you have is not the community you want?
+
+Start with what you have. And work towards what you want.
 
 ## Always remember that communities change. Constantly.
 
