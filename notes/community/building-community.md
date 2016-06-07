@@ -54,7 +54,9 @@ Without community, you have nothing.
 
 ## Manage lightly and humbly
 
-Be cautious of over managing and over programming you community.  Communities need time to rest and breathe. And they exist with their own momentum. While that momentum can be influenced, it cannot often be changed. You have to go with the community flow. Even if it's frustrating. 
+Be cautious of over managing and over programming your community.  Communities need time to rest and breathe. 
+
+And they exist with their own momentum. While that momentum can be influenced, it cannot often be changed. You have to go with the community flow. Even if it's frustrating. 
 
 Different voices will rise and fall. Different leadership will rise and fall. You don't always have to lead. You don't always have to follow.
 
