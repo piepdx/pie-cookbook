@@ -413,7 +413,7 @@
 		57. Pressure/heat (Startups + Staff + Patron)
 		58. Good cop/bad cop
 	59. Recipes
-		60. Cocktails (community engagement)
+		60. Beverages (community engagement)
 			61. Attending events
 			62. Online presence
 			63. Social
