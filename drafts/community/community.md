@@ -15,6 +15,13 @@
 - Once that community is identified, how do you engage with it?
 - Community needs a place. Since we've moved away from PIE being a physical presence, we've learned that we underestimated the positive impact and community benefits of having an actual "place."
 - Curated coworking
+- Share PIE experience on breaking down silos:
+	- Within communities
+	- Within corporations
+	- Between startups and corporations
+	- Between startups and design
+	- Between different startup verticals
+- Breaking down silos between different VC/incubators. That's something I've always wonder - does it have to be this "us vs them" mentality, and are there others that have gotten around it?
 
 ## Outline
 
@@ -28,92 +35,150 @@
 - 4.v.b. Hors d'oeuvre (Hackathons, events, coworking)
 - Appendix 11.vi. Community
 
-### Beverages
+## Before we begin
 
-(Setting up the analogy for the community engagement portion of the PIE Cookbook.)
+If you haven't read Startup Communities by Brad Feld, please stop right here. If there is any prerequisite for the PIE Cookbook, it is Startup Communities. So much of what informed the Portland startup community is documented there. Many of the things we did accidentally in Portland — or things which happened by luck — are clearly articulated in the book. And so is much of what has enabled Boulder, Colorado, to become one of the most entrepreneurially dense places on earth.
+
+So go read it. And highlight it. And quote it.  
+
+Don't rush it. Take the time to consume the book and think about it. Maybe a couple of times. We'll wait.
+
+If you're working to develop and support a nascent community, Feld's book provides a critical roadmap for that development — as well as delineating a timeline for how long you should expect that development to take.
+
+## Beverages
 
 A lot of folks dive into this whole accelerator thing thinking they can just start with the accelerator.
 
 "Hey! Hey you! We’ve got an accelerator. Come get accelerated and stuff!"
 
-It doesn’t work that way. Any more than starting your fancy dinner party with a big ol’ main course gets the conversation going.
+It doesn’t work that way. Any more than starting your fancy dinner party with a big ol’ main course gets the conversation going. 
 
-That’s why you need to do some work warming up the crowd. And getting people to know one another before you dive into a more intimate setting like an accelerator. Otherwise, it will just be a bunch of people sitting around quietly chewing their food. Uncomfortably. And you’ll feel like a complete failure.
+You need to do some work before hand. Not only in how you plan and invite participants, but in how you kick things off. You can't just dive right in.
 
-So how do you break the ice? Here are some ideas that PIE used in the early days to get the conversation going.
+That’s why you need to do some work warming up the crowd. And getting people to know one another before you try to create a more intimate setting like an accelerator. Because that's what an accelerator is. It's a environment of trust where founders feel comfortable. Where they are comfortable opening up. And being honest. Where they can feel vulnerable. 
 
-## Before we begin
+That's actually what a good accelerator is. It's a support group. 
 
-If you haven't read Startup Communities by Brad Feld, please take the time to do so. Many of the things we did accidentally in Portland — or things which happened by luck — are clearly articulated in the book. If you're working to develop and support a nascent community, Feld's book provides a critical roadmap for that development — as well as delineating a timeline for how long you should expect that development to take.
+Trying to create this environment of trust — or some other permutation of what you believe an accelerator to be — without doing the pre-work will likely just end up being a bunch of people sitting around quietly chewing their food. Uncomfortably. And you’ll feel like a complete failure. 
+
+Worst of all, so will the companies you're trying to help. 
+
+So how do you break the ice? The secret is community. Behind every good accelerator is a good community. Behind every failed accelerator is… well, no one. Because they didn't have any community. 
+
+So how do you work with the community to build the accelerator you want to build? Here are some recipes based on our experience at PIE that helped us get the conversation going before we dove into the accelerator.
+
+It's like the cocktail hour before the main course. 
+
 
 ## Want to start an accelerator? Don't start an accelerator
 
 You don't get to start in the middle. You have to start at the beginning.
 
-When we started the experiment with Wieden+Kennedy that became PIE, Renny and I didn't set out to build an accelerator. We just kind of stumbled into this whole thing. To be honest, it wasn't even on our list of objectives when we started. Or part of the conversation. It's just where we wound up for a time. But oddly enough — even though we never set out to build an accelerator — we managed to build a very effective one.
+When we started the experiment with Wieden+Kennedy that would become PIE, we didn't set out to build an accelerator. We started with something to support the existing startup community. Something that would fill gaps that were preventing our community from growing and thriving. Something that would enable connections and random collisions and happily serendipitous events to occur. 
 
-To summarize: Who knew?
+Honestly, we just kind of stumbled into this whole accelerator thing. It wasn't even on our list of objectives when we started. Or part of the conversation. It's just where we wound up for a time. But oddly enough — even though we never set out to build an accelerator — we managed to build a very effective one.
 
-This is a recurring theme. Throughout PIE's life, we have been part of an ongoing series of happy accidents. Starting with the relationship with W+K and kind of cascading from there.
+This is a recurring theme. That we will touch on time and time again in this book. Throughout PIE's life, we have been part of an ongoing series of happy accidents. But that, itself, is no accident. We designed the project to work that way. To never take itself too seriously. And to always be open to changing the recipe. Even if staying the course seemed safe and sane. To always pushing the envelope, exploring the edges, and not getting comfortable. 
 
-Well, honestly, to be more accurate, it was a whole bunch of mistakes, failures, and missteps that happen to be punctuated by some happy accidents. And we have lucked our way into some things — once the timing was right and all signs pointed to an opportunity — that enabled us to solve problems for the Portland startup community. By identifying gaps and then building something to satisfy that gap. Again and again. And we're still trying to do that.
+It's not hard. You can do this too. And if you need help, we'll be happy to give you a nudge from time to time. 
 
-Simple, right? Well, sort of. Simple, but convoluted. So maybe give us the opportunity to be your accidental sherpa. To help you along a similarly incongruous—but beneficial—path.
+PIE is an experiment. 
 
-If Renny and I had started with an accelerator, we're confident that we would have failed. Miserably. And that's why we're recommending that — if you're thinking about starting an accelerator — you do anything but that.
+Starting with the relationship between Wieden+Kennedy and the Portland startup community. And kind of just continuing to cascade from there.
 
-So if starting with an accelerator isn't the right place, where should folks begin? Well, how about we give you a brief timeline of PIE's existence. And maybe you'll find commonality in your community that gives you a more appropriate starting place.
+Well, honestly, to be more accurate, it was less an experiment in the traditional sense a more a whole bunch of mistakes, failures, and missteps that happen to be punctuated — here and there — by some very happy accidents. And we have lucked our way into some things — once the timing was right and all signs pointed to an opportunity — that enabled us to solve problems for the Portland startup community. By identifying gaps and then building something to satisfy that gap. Again and again. And we're still trying to do that.
 
-Or maybe, just maybe, you'll discover that you're one of the rare few who has already done all of the legwork. One who has completed all of the prerequisites. One of those lucky few communities that can, in fact, dive straight into the deep end of the pool. Because they've been ramping up all along. And they're ready to take on that accelerator opportunity.
+Simple, right? Well, sort of. Simple, but convoluted. So maybe give us the opportunity to be your accidental sherpa. To help you along a similarly incongruous — but beneficial — path.
+
+But do get the best results, you have to be similarly inclined to risk, fail, and misstep. If you're looking for a recipe that will always have you creating successful accelerator class after accelerator class using our simple recipe, you're reading the wrong book. Because like the communities, startups, and entrepreneurially minded folks you're looking to help, this process is a series of best guesses and iterations. And you have to be comfortable with that. 
+
+If we had started with an accelerator, we're confident that PIE would have failed. Miserably. And that's why we're recommending that — if you're thinking about starting an accelerator — you do anything but that.
+
+## Start at the beginning
+
+So if starting with an accelerator isn't the right place, where should folks begin? Well, if you skipped straight to the recipes, how about you go back and read the timeline of PIE's existence. Maybe it will give you some clues as to what's coming next. And maybe you'll find commonality in your community that gives you a more appropriate starting place.
+
+Or maybe, just maybe, you'll discover that you're one of the rare few who has already done all of the legwork. One who has completed all of the prerequisites. One of those lucky few strong communities that can, in fact, dive straight into the deep end of the pool. Because they've been ramping up all along. And now you're actually ready to take on that accelerator opportunity.
+
+Don't start patting yourself on the back yet. There's still a ton of hard work ahead of you. But you can keep reading from here. You don't have to go back.
 
 But if you're not there yet, please do not skip ahead. Do not pass go. There is no shortcut. It takes time.
 
-The PIE accelerator, unbeknownst to us, started in 1995, 15 years before PIE officially became an accelerator.
-
-It doesn't have to take that long for your community. But it did for ours.
-
-This isn't a guide. Or a regimen. This isn't the answer. This is simply how PIE became an accelerator. There is no right timespan for this. For some communities, it happens more quickly and organically. For others, it takes a long, long, long time.
-
-I would argue that, in many ways, we're not done. And an accelerator might not be the final answer. And we're still working toward even becoming something truly valuable and sustainable.
-
-So with that in mind…
-
 ## Building a startup accelerator in seven easy steps
 
-tl;dr You're not starting an accelerator. You're building community.
+tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
 
 ### Step 1: Found your own company. Or at least work at a startup.
 
-Per Brad Feld's advice in Startup Communities, if you're going to truly succeed in building a startup community then "the leaders have to be entrepreneurs." With that in mind, we realize that PIE's journey started when Renny and I started working in startups. Sometimes as founders. Sometimes as employees of startups. But in startups. In the trenches, as it were.
+Per Brad Feld's advice in Startup Communities, if you're going to truly succeed in building a vibrant startup community then "the leaders have to be entrepreneurs." Not politicians. Not corporations. Not agencies. Or economic development bodies. Entrepreneurs.
+
+With that in mind, we realize that PIE's journey started when the founders started working in startups. Sometimes as founders. Sometimes as employees of startups. But in startups. 
+
+In the trenches, as it were. Experiencing the insanity that was the dotcom days, firsthand. Being wildly optimistic time and time again about how this time it was going to pay off. How all of the stock options would actually be worth something. How we were going to change the world.
+
+Note: No one said you had to actually be a *successful* entrepreneur. Just an entrepreneur. 
 
 On the surface, this is the price you pay for credibility.
 
-But, more importantly, it's also this time—mired in the struggles of startups—that allows you to see the real problems and opportunities from the trenches.
+But, more importantly, it's also this time — mired in the struggles of startups — that allows you to see the real problems and opportunities from the trenches. That provides the hindsight. That provides the what-if-ed-ness in your brain. That has rethinking every decision you ever made as a cofounder or employee or consultant. 
 
-And it's that direct startup experience that will inform the accelerator you want to build, eventually.
-Perhaps most importantly, it's that time working with other startup types, meeting people, and building a network of intelligent and driven folks that becomes the most critical element of this first step. Because it's those people who will provide the foundation for a broader community. A community that will be critical to your accelerator. Because these are your colleagues, mentors, advisors, investors—and potential applicants.
+That has you thinking like a founder.
 
-And not just local community, mind you. Because building an accelerator takes more than just local flavor. It takes expansive and extended networks. And a multitude of viewpoints. And getting outside of your comfort zone.
+Because it's that direct startup experience that will inform the accelerator you want to build, eventually.
+
+I mean, you don't get to build it right now. You've got a long ways to go before that happens. But eventually. When we get closer to your time to build the accelerator. Then. That's when this experience will really help.
+
+But in the meantime, it will really help you engage and understand your community.
+
+Also, let's not forget the most important aspect of that accelerator you're going to build sometime in the distant future after you get through all of the recipes. After you work your fingers to the bone building value for the community. Let's not forget that it's that time working with other startup types, meeting people, and building a network of intelligent and driven folks that becomes the most critical element of this first step. Because it's those people who will provide the foundation for a broader community. A community that will be critical to your accelerator. Because these are your colleagues, mentors, advisors, investors — and more often than not, your potential applicants.
+
+But this takes more than winning at home. It's not just local community. Because building an accelerator requires variety and diversity. It takes more than just local flavor. It takes expansive and extended networks. And a multitude of viewpoints. And getting outside of your comfort zone.
+
+So you have to do the hard work at home. But you also have to be out and about. Visiting other regions. Figuring out how other communities work. Making interesting connections. And bringing value to your community by connecting it to communities everywhere.
+
+So yeah. A little bit of work. But you can do it. 
 
 ### Step 2: Participate in the community.
 
-The most important part of beginning to build community is to meet the existing community where it is, currently. Because we can guarantee—whether you think there is community or not—that there's community. It's just not evenly distributed. It's disconnected. It's in hidden pockets, here and there.
+The most important part of beginning to build community isn't throwing the best parties or planning the biggest events. It isn't renting a massive space and inviting everyone to join you. It isn't bringing in dignitaries from around the globe and expecting the community to rally around you. 
 
-There is community already. Your challenge is to find it. And meet it. Where it lives.
-PIE's founders attended coffee gatherings, happy hours, user groups, tech meet ups, startup discussions, open source gatherings, BarCamps, tradeshows, and on and on and on.
+Although you may be tempted to try all of these things.  
+
+The most important thing to do when starting to build and accelerate your intended community is to meet the existing community where it is, currently.
+
+Maybe you don't think you have a current community. Maybe the current community isn't shaped like the community you want. Maybe you're unclear as to where this existing community gathers or communicates.
+
+Get to work. 
+
+Because we can guarantee — whether you think there is community or not — that there is community. Tons of it. It's just not evenly distributed. It's disconnected. Broken into different factions. It's in hidden pockets, here and there. Soloed. Presenting as something different than your archetypes.
+
+But trust us. It's there. It's already there. 
+
+And your challenge is to find it. And meet it. Where it lives.
+
+PIE's founders attended coffee gatherings, happy hours, user groups, tech meet ups, startup discussions, open source gatherings, BarCamps, Ignites, unconferences, tradeshows, and on and on and on.
 
 But we also did things far less organized and structured. Sometimes, we just sat in coffeeshops and struck up conversations with other laptop-wielding denizens. We talked to people both in Portland and outside of Portland. Because we needed that diverse network. And diversity of viewpoints. We tried to figure out what was going on and who was doing what.
 
-But we did it on their turf. Not ours. We tried to provide value and get invited to their gatherings. We didn't egotistically start our own events. And in so doing—from that collaborative standpoint—we continued to build up the network that would be the most critical component of PIE: community.
+Did we always fit in? No. Was it always successful? No. Was it clear we were getting any traction whatsoever? Absolutely not.
+
+But we did it. And we did it on the community's turf. Not ours. We tried to provide value and get invited to their gatherings. We didn't egotistically start our own events. 
+
+And in so doing — from that collaborative standpoint — we began to build the a network that would become the most critical component of PIE: a subset of an already vibrant community.
 
 ### Step 3: Talk about the community.
 
 There's something about a tree falling and no one hearing it. Community is the same way. You have to talk about it. And blog about it. And tweet about it. You have to connect it. And highlight what it's doing.
 
-Why? Because, for the most part, community is not immediately self-aware. As such, people don't just realize that there's "a community." Even if they're deeply involved in that community. You have to tell them. And then tell them again. And again.
+Why? Because, for the most part, community is not immediately self-aware. As such, people don't just realize that there's "a community." Unless they're specifically looking for it. And this is true, even if they're deeply involved in that community. 
+
+You have to tell them. And then tell them again. And again.
 
 You have to cheerlead. You have to create a bully pulpit. And you have to use that megaphone to convince those outside of the community that the community is, in fact, real. And to encourage those who are starting to become self-aware of the community to connect more deeply with that community.
-For us, those vehicles were things like Silicon Florist, our personal blogs, local publications, larger tech blogs outside of our region, and the—then nascent—social media landscape. All served as the means of talking about the Portland startup community. And to spread the belief that it existed and had the potential to be much, much more.
+
+You saw folks like Brad Feld, Mark Suster, and Fred Wilson doing — and continue to do — this with their personal blogs. You saw Silicon Alley and Silicon Prairie and GeekWire do this with more journalistic efforts. And if you were in the same communities we were, you saw Michael Arrington do this with TechCrunch. To ridiculous effect. 
+
+For us in Portland, those vehicles were things like Silicon Florist, our personal blogs, larger tech blogs outside of our region like TechCrunch, local publications, and the — then nascent — social media landscape. All served as the means of talking about the Portland startup community. And to spread the belief that it existed and had the potential to be much, much more.
 
 Yes, Virginia, there is a Portland startup community.
 
@@ -121,7 +186,7 @@ Note: This step is ongoing. You don't get to stop talking about the community. E
 
 ### Step 4: Invite the community in.
 
-Now that your community is starting to solidify and formalize, you can start to host events. Shine a spotlight on talented community members. And invite people who would benefit from hearing those community members. Renny did this by having W+K serve as the inaugural host of Ignite Portland. And hosting events like Portland Lunch 2.0, among others.
+Now that your community is gaining definition. Now that it is starting to solidify and formalize. Now that you are taking an active role within that community. Only now can you start to host events. Shine a spotlight on talented community members. And invite people who would benefit from hearing those community members. Renny did this by having W+K serve as the inaugural host of Ignite Portland. And hosting events like Portland Lunch 2.0, among others.
 
 Without—and this is critical—expecting anything in return. At all.
 
@@ -279,7 +344,7 @@ I am putting forth the hypothesis that the likelihood of building a sustainable 
 
 What do I mean by that? Well, let’s take a look.
 
-## A culture of wealth creation
+### A culture of wealth creation
 
 Since its founding, the Bay Area has been driven by a particular culture: the culture wealth creation. Generation after generation.
 
