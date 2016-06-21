@@ -25,27 +25,47 @@
 
 ## Outline
 
-- 1.i.a.
-- 1.i.h. Risks
-- 1.ii.e.b. Community
-- 1.iii.b.a.a. Startup Communities
-- 3. Kitchen Prep
-- 4.ii.a. Community
-- 4.v.a. Beverages (community engagement)
-- 4.v.b. Hors d'oeuvre (Hackathons, events, coworking)
-- Appendix 11.vi. Community
+### 1. About i. Context a. Building an accelerator… 
 
-## Before we begin
+Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on the momentum of an existing community, identifying and enabling community leaders, and catalyzing the supporters and contributors in order to focus everyone's efforts to take advantage of that momentum for the greatest benefit — and highest likelihood of success — for that community.
 
-If you haven't read Startup Communities by Brad Feld, please stop right here. If there is any prerequisite for the PIE Cookbook, it is Startup Communities. So much of what informed the Portland startup community is documented there. Many of the things we did accidentally in Portland — or things which happened by luck — are clearly articulated in the book. And so is much of what has enabled Boulder, Colorado, to become one of the most entrepreneurially dense places on earth.
+### 1. About i. Context h. Risks
 
-So go read it. And highlight it. And quote it.  
+Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
 
-Don't rush it. Take the time to consume the book and think about it. Maybe a couple of times. We'll wait.
+### 1. About ii. Format e. Definitions b. Community
 
-If you're working to develop and support a nascent community, Feld's book provides a critical roadmap for that development — as well as delineating a timeline for how long you should expect that development to take.
+### 1. About iii. Before you begin b. Pre-requisite reading a. Required a. Startup Communities
 
-## Beverages
+### 3. Kitchen Prep
+
+- Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
+- Environmental scan
+	- Assess what's what before you begin
+	- Start with reality
+	- What assets/resources does your community have?
+		- How mature are they?
+		- Are they currently accessible?
+	- Where are the gaps?
+		- Are they solvable?
+		- How entrenched are they?
+	- Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.
+	- Then you can get visionary
+
+### 4. Cooking ii. Base ingredients a. Community
+
+- How do you define your community? 
+- What are the objectives?
+	- Shared
+	- Conflicting
+- What is the expertise (if any)?
+- What are the weaknesses?
+- What are the silos?
+- What are the issues?
+- What are the gaps?
+- How can they help (if at all)?
+
+### 4. Cooking v. Recipes a. Beverages (community engagement)
 
 A lot of folks dive into this whole accelerator thing thinking they can just start with the accelerator.
 
@@ -68,6 +88,40 @@ So how do you break the ice? The secret is community. Behind every good accelera
 So how do you work with the community to build the accelerator you want to build? Here are some recipes based on our experience at PIE that helped us get the conversation going before we dove into the accelerator.
 
 It's like the cocktail hour before the main course. 
+
+
+Attending events
+Online presence
+Social
+Blog
+
+### 4.v.b. Hors d'oeuvre (Hackathons, events, coworking)
+- Don’t start with an accelerator
+- Coworking and Community Development are not necessarily complementary
+	- We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
+	- Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
+	- It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
+	- Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.
+- Curation of coworking participants
+	- https://github.com/piepdx/pie-cookbook/issues/3
+	- Home away from home
+	- Day-to-day
+	- Hosting events
+		- Startup
+		- Creative
+		- Technical
+		- Hybrid
+		- Hackathons
+
+## Before we begin
+
+If you haven't read Startup Communities by Brad Feld, please stop right here. If there is any prerequisite for the PIE Cookbook, it is Startup Communities. So much of what informed the Portland startup community is documented there. Many of the things we did accidentally in Portland — or things which happened by luck — are clearly articulated in the book. And so is much of what has enabled Boulder, Colorado, to become one of the most entrepreneurially dense places on earth.
+
+So go read it. And highlight it. And quote it.  
+
+Don't rush it. Take the time to consume the book and think about it. Maybe a couple of times. We'll wait.
+
+If you're working to develop and support a nascent community, Feld's book provides a critical roadmap for that development — as well as delineating a timeline for how long you should expect that development to take.
 
 
 ## Want to start an accelerator? Don't start an accelerator
