@@ -16,13 +16,11 @@ And now it’s happening. And I don’t think anyone involved can really believe
 
 But we’re pretty psyched.
 
-So why hasn’t W+K made a lot of noise about it?  That’s my fault. Believe it or not, I’d rather talk about what comes out of the space than what MIGHT come out of the space. I am
-sick of bombastic claims of the “new better different” bilge that agencies crap out
-regularly.  
+So why hasn’t W+K made a lot of noise about it?  That’s my fault. Believe it or not, I’d rather talk about what comes out of the space than what MIGHT come out of the space. I am sick of bombastic claims of the “new better different” bilge that agencies crap out regularly.  
 
-Show me, I say.  Don’t talk – demonstrate.  
+Show me, I say.  Don’t talk — demonstrate.  
 
-For another thing, it’s not owned by W+K –  PIE is a collaborative that everyone inside will participate in.  Hopefully it will foster interconnections between previously disparate groups and corresponding quantum leaps in thinking.  At very least, it may generate some delicious slices of pie. Like the Marionberry one we had today. 
+For another thing, it’s not owned by W+K –  PIE is a collaborative that everyone inside will participate in. Hopefully it will foster interconnections between previously disparate groups and corresponding quantum leaps in thinking. At very least, it may generate some delicious slices of pie. Like the marionberry one we had today. 
 
 And the folks in the space are kicking ass on a shoestring – everything is recycled and easy to break down.  Our partners bring their own mobile devices and computers.  What you do see, if you walk or stop by, we built cheap in under 30 days.  
 
@@ -38,8 +36,7 @@ The chance to learn. An opportunity to help our clients make leaps. The chance t
 
 But even if it doesn’t, that’s ok, too.
 
-Because this is about learning.  About failing forward fast with people who understand that
-in digital culture, you innovate or die. 
+Because this is about learning.  About failing forward fast with people who understand that in digital culture, you innovate or die. 
 
 We have hopes, but no preconceptions. 
 

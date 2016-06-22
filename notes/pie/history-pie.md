@@ -1,14 +1,20 @@
 # History of PIE
 
-Portland, Oregon, boasts more microbreweries, restaurants, food carts, batch distilleries, mobile startups, and open source user groups per capita than any city in the world. Some call it the most entrepreneurial city, ever. It's determined to be the most green, friendly, sustainable, bike commutable, soccer loving, and livable town you'll ever encounter. And if that's not good enough for you, it's 90 minutes from the ocean and 90 minutes from skiing and snowboarding, year round.
+> Portland, Oregon, boasts more microbreweries, restaurants, food carts, batch distilleries, mobile startups, and open source user groups per capita than any city in the world. Some call it the most entrepreneurial city, ever. It's determined to be the most green, friendly, sustainable, bike commutable, soccer loving, and livable town you'll ever encounter. And if that's not good enough for you, it's 90 minutes from the ocean and 90 minutes from skiing and snowboarding, year round.
 
-But most importantly, it's the best place in the world for you to build your startup dream into a reality. To make your startup work. To make it.
+> But most importantly, it's the best place in the world for you to build your startup dream into a reality. To make your startup work. To make it.
 
-Copy from the original PIE site
+> - Copy from the original PIE site
 
-Why did one of the most successful creative agencies in the world start this program? 
+So I guess you're wondering… what on earth motivated the largest privately held — and exceptionally successful — creative agency in the world to start mucking around in the world of tech? 
 
-It started with a simple hypothesis that was rapidly proven out: entrepreneurs and developers are simply another form of creative. A creative who has chosen technology as a medium for expression. And the potential collaborations, collisions, and conflict availed by putting disparate groups of creatives in direct contact with one another had the potential to result in interesting outcomes—especially given the relatively low cost of participating. And demonstrating significant impact.  
+Well, this whole crazy experiment started quite simply. With a hypothesis. 
+
+It's a hypothesis that founders — be they executives, developers, designers, or any combination there of — are simply another form of creative. A creative who, instead of words and images, has chosen technology as a medium for expression. 
+
+And like any creative, they need space to create.
+
+And the potential collaborations, collisions, and conflict availed by putting disparate groups of creatives in direct contact with one another had the potential to result in interesting outcomes—especially given the relatively low cost of participating. And demonstrating significant impact.  
 
 With that hypothesis in mind, we set forth with one solitary objective: Build better founders. 
 
