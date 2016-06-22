@@ -27,11 +27,13 @@
 
 ### 1. About i. Context a. Building an accelerator… 
 
-Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on the momentum of an existing community, identifying and enabling community leaders, and catalyzing the supporters and contributors in order to focus everyone's efforts to take advantage of that momentum for the greatest benefit — and highest likelihood of success — for that community.
+Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of accelerating or capitalizing on the momentum of an existing community, identifying and enabling community leaders, and providing infrastructure for supporters and contributors to engage, thereby enabling all parties, throughout the community, to focus everyone's efforts to the greatest benefit — and highest likelihood of success — for that community.
 
 ### 1. About i. Context h. Risks
 
-Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
+Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for disaster. 
+
+Accelerators don't start communities. Communities start accelerators.
 
 ### 1. About ii. Format e. Definitions b. Community
 
