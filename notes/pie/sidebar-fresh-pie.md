@@ -1,5 +1,7 @@
 # Fresh PIE 
 
+![PIE's first pie – – sweet, delicious, local Marionberry.  Mmmmm.  Damn fine PIE. (pie-pie-gleeson.jpg)](/pie-cookbook/source/images/pie-pie-gleeson.jpg)
+
 Pie is delicious.  And you get out what you put in. To a Pie, that is.
 
 Bear with me.
@@ -43,6 +45,6 @@ We have hopes, but no preconceptions.
 
 And who the heck doesn't love a good PIE?
 
-“Fresh PIE” Renny Gleeson (August 10, 2009)
+[“Fresh PIE” Renny Gleeson (August 10, 2009)](http://www.rennygleeson.com/fresh-pie/)
 
 
