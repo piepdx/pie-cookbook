@@ -30,7 +30,9 @@ I have always been a fan of books that start with a caveat or two. Because inevi
 
 The answer is yes. But with a few caveats.
 
-1. **This is not a problem technology can solve**. If technology could solve this problem, we would have built it. Trust us. But it can't. This isn't about algorithms or dynamically connecting dots. This is about getting to know people. And what makes them tick. And what pisses them off. And what scares them. This is about seeing non-obvious connections. It is about using what artists refer to as "negative space." Finding opportunity in what is absent or invisible.   
+### 1. This is not a problem technology can solve. 
+
+If technology could solve this problem, we would have built it. Trust us. But it can't. This isn't about algorithms or dynamically connecting dots. This is about getting to know people. And what makes them tick. And what pisses them off. And what scares them. This is about seeing non-obvious connections. It is about using what artists refer to as "negative space." Finding opportunity in what is absent or invisible.   
   
 > Negative space, in art, is the space around and between the subject(s) of an image. Negative space may be most evident when the space around a subject, not the subject itself, forms an interesting or artistically relevant shape, and such space occasionally is used to artistic effect as the "real" subject of an image.  
   
@@ -42,11 +44,15 @@ So if you're looking for a way to throw technology at the problem and avoid the 
 
 ![All the feels](/source/images/all-the-feels.jpg "All the feels")
  
-2. **This is not a scalable solution**. This is the very reason we're not seeking to stamp out a ton of cookie cutter versions of PIE. Because our way of doing this doesn't scale. Well, that and "cookie cutter" and "PIE" is a mixed metaphor. We don't believe you can recreate what we created to solve Portland, Oregon's technology startup problem late in the first decade of this century. Nor would we want you to.     
+### 2. This is not a scalable solution. 
+
+This is the very reason we're not seeking to stamp out a ton of cookie cutter versions of PIE. Because our way of doing this doesn't scale. Well, that and "cookie cutter" and "PIE" is a mixed metaphor. We don't believe you can recreate what we created to solve Portland, Oregon's technology startup problem late in the first decade of this century. Nor would we want you to.     
   
 It's not that we haven't tried. We have. But each time, it comes out differently. Because the community the each accelerator model supports needs it to be different. 
 
-3. **This is not an efficient solution**. Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, that one of how time consuming this is. It doesn't scale. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build the best accelerator for your community — no matter what that community happens to be.
+### 3. This is not an efficient solution. 
+
+Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, that one of how time consuming this is. It doesn't scale. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build the best accelerator for your community — no matter what that community happens to be.
 
 ## Format
 
