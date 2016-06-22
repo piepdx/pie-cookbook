@@ -80,6 +80,10 @@ When it comes right down to it, all we’ve done at PIE is figure out a way to c
 
 ## PIE as an example
 
+> My hope is that you do not view the use of Boulder here as "Boulder tooting its own horn." I use Boulder as an example of a lasting and vibrant startup community because I know it extremely well (at least one segment). This approach is called synecdoche, where the part stands for the whole. There are many things the Boulder startup community can do better and many more for it to discovers we continue on our journey; my hope is that by exploring it in depth it helps you with your journey in your startup community.
+
+> - Brad Feld in Startup Communities
+
 Throughout this book, you’ll find us using PIE as an example. I mean, I guess it makes sense. It’s the accelerator we know best. But please keep in mind that references to PIE are meant to serve as that and only that. An example. 
 
 It’s not doctrine. Or a specific recipe. Or maybe even the right way to do things. In fact, we’ll highlight—on any number of occasions—how it was absolutely not the right way to do things.
