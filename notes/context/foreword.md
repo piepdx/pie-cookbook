@@ -1,5 +1,3 @@
-foreword.md
-
 # External foreword
 
 TBD
@@ -12,15 +10,43 @@ TBD
 
 This cookbook all began simply enough. As a way of formalizing the mechanics and processes of the PIE program. In case one of us, as the euphemism goes, got hit by a bus.
 
-But once we started working on it. And building it out. We realized that we were actually beginning to scratch the surface of something much larger. Something far more compelling. What we had hit upon—unbeknownst to us at the time—was a framework for anyone, anywhere to start building a startup accelerator. 
+But once we started working on it. And building it out. We realized that we were actually beginning to scratch the surface of something much larger. Something far more compelling. 
+
+What we had hit upon — unbeknownst to us at the time — was a framework for anyone, anywhere to start building a startup accelerator. 
 
 Or, perhaps even more generically, a way for people to accelerate creative output. 
 
-And what better way to enable folks to take on that challenge than to open source the document. To request feedback and insights from others. And to continue to iterate, test, and revise much as we would with any startup. Or experiment. 
+As with framework, we were curious as to whether what we had built would have value for others. Was it repeatable? Where were our blind spots? Could others improve upon our initial learnings? Suffice it to say, we had tons of questions. 
+
+So drawing on our Portland open source roots, we began to think of this as something bigger than PIE. And what better way to enable folks from all communities to join us in taking on that challenge than to open source the document? An open invitation for others to provide feedback and insights for the greater good. And a starting point — a baseline — from which we could continue to iterate, test, and revise much as we would with any startup. Or experiment. 
 
 Because the best thing about experiments is that whether you succeed or fail you always, always, always learn something.
 
 Welcome to the PIE Cookbook.
+
+## Caveats
+
+I have always been a fan of books that start with a caveat or two. Because inevitably, you, gentle reader, have just started down this path. And given that you've already started to get a feel for where this is going, you're inevitably jumping to the question: Is this book for me?
+
+The answer is yes. But with a few caveats.
+
+1. **This is not a problem technology can solve**. If technology could solve this problem, we would have built it. Trust us. But it can't. This isn't about algorithms or dynamically connecting dots. This is about getting to know people. And what makes them tick. And what pisses them off. And what scares them. This is about seeing non-obvious connections. It is about using what artists refer to as "negative space." Finding opportunity in what is absent or invisible.   
+  
+> Negative space, in art, is the space around and between the subject(s) of an image. Negative space may be most evident when the space around a subject, not the subject itself, forms an interesting or artistically relevant shape, and such space occasionally is used to artistic effect as the "real" subject of an image.  
+  
+> The use of negative space is a key element of artistic composition. The Japanese word "ma" is sometimes used for this concept, for example in garden design.  
+  
+> - ["Negative space" in Wikipedia](https://en.wikipedia.org/wiki/Negative_space)  
+  
+So if you're looking for a way to throw technology at the problem and avoid the messy feels and stuff, it's probably best to stop reading here and starting searching the web for what you think you need.
+
+![All the feels](/source/images/all-the-feels.jpg "All the feels")
+ 
+2. **This is not a scalable solution**. This is the very reason we're not seeking to stamp out a ton of cookie cutter versions of PIE. Because our way of doing this doesn't scale. Well, that and "cookie cutter" and "PIE" is a mixed metaphor. We don't believe you can recreate what we created to solve Portland, Oregon's technology startup problem late in the first decade of this century. Nor would we want you to.     
+  
+It's not that we haven't tried. We have. But each time, it comes out differently. Because the community the each accelerator model supports needs it to be different. 
+
+3. **This is not an efficient solution**. Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, that one of how time consuming this is. It doesn't scale. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build the best accelerator for your community — no matter what that community happens to be.
 
 ## Format
 
