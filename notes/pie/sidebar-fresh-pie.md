@@ -1,6 +1,6 @@
 # Fresh PIE 
 
-![PIE's first pie – – sweet, delicious, local Marionberry.  Mmmmm.  Damn fine PIE. (pie-pie-gleeson.jpg)](/pie-cookbook/blob/master/source/images/pie-pie-gleeson.jpg)
+![PIE's first pie – – sweet, delicious, local Marionberry.  Mmmmm.  Damn fine PIE. (pie-pie-gleeson.jpg)](/source/images/pie-pie-gleeson.jpg)
 
 Pie is delicious.  And you get out what you put in. To a Pie, that is.
 
