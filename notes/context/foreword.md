@@ -50,6 +50,10 @@ This is the very reason we're not seeking to stamp out a ton of cookie cutter ve
   
 It's not that we haven't tried. We have. But each time, it comes out differently. Because the community the each accelerator model supports needs it to be different. 
 
+Again, if your hope is to find some easily repeatable way of doing this, the way is shut. It was made by those who are communities. And the communities keep it. The way is shut. 
+
+![The way is shut](/source/images/way-is-shut.gif "The way is shut")
+
 ### 3. This is not an efficient solution. 
 
 Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, that one of how time consuming this is. It doesn't scale. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build the best accelerator for your community — no matter what that community happens to be.
