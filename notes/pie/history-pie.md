@@ -1,5 +1,15 @@
 # History of PIE
 
+## Overview
+
+PIE began as a collaborative experiment between award-winning, global advertising firm Wieden+Kennedy and the Portland high-tech startup community. Now, PIE has evolved into an intensive three-month mentorship program designed to identify, recruit, capitalize, accelerate, and promote early stage high-tech startups which are highly efficient with investment capital, establish corporate headquarters in Oregon, create high paying jobs for Oregonians, and raise the visibility of the state on an international stage. 
+
+The PIE model has been tested, refined, and proven over a three-year period. During that time, the program has fostered the growth of companies that have attracted more than $50 million in venture capital and created more than 150 Oregon jobs with wages averaging nearly double the baseline of the average Oregon family wage of $40,486. In addition, PIE has had the opportunity to work with corporations like Intel, Target, Coca-Cola, and Google raising the visibility of both the State of Oregon and its innovative technology community to international acclaim. 
+
+Like the startups the program serves, PIE is extremely efficient with capital. All activity to date has been accomplished with minimal capital investment. This is thanks in part to the creative efforts of the PIE team to leverage volunteer resources, actively seek and secure in-kind contributions, and create and manage additional revenue-generating programs beyond its incubation activities.
+
+## A melding of hypotheses
+
 > Portland, Oregon, boasts more microbreweries, restaurants, food carts, batch distilleries, mobile startups, and open source user groups per capita than any city in the world. Some call it the most entrepreneurial city, ever. It's determined to be the most green, friendly, sustainable, bike commutable, soccer loving, and livable town you'll ever encounter. And if that's not good enough for you, it's 90 minutes from the ocean and 90 minutes from skiing and snowboarding, year round.
 
 > But most importantly, it's the best place in the world for you to build your startup dream into a reality. To make your startup work. To make it.
