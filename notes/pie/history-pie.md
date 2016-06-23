@@ -28,7 +28,11 @@ Our hope was that by building better founders and enabling creatives to collide,
 
 The PIE accelerator, unbeknownst to us, started in 1995, 15 years before PIE officially became an accelerator. It started when members of the startup community started careers and built networks of peers in the dotcom days. Where classmates at our universities explored technology together. Where agencies and creative community grew in strength and numbers. Where companies had been founded and demolished. Where the open source community had created connections and collaborations. 
 
-It took all of those things — and a growing sense of community — to start conversations. Conversations about "What if…?" What is the community had a hub? What if we had a collaborative workspace? What if there were a way for the community to have a more physical and tangible presence?
+It took all of those things — and a growing sense of community — to start conversations. Conversations about "What if…?" What is the community had a collaborative workspace? What if there were a way for the community to have a more physical and tangible presence? What if we had a community hub that gave more gravity to what we sensed was happening?
+
+But communicating that need to others was challenging. No one built startups in Portland, Oregon. Maybe food carts. But not tech startups. 
+
+So funding the effort was going to be a challenge. And with no active early stage investor presence — coupled with the nascent community — it would be incredibly difficult to make the argument. And it was simply too much for us to bootstrap. Even as a community.
 
 
 
@@ -38,7 +42,16 @@ Wieden+Kennedy — which we may also refer to as W+K or Wieden, throughout the P
 
 And in 2009 — thanks to economic doldrums and a horrible real estate market — W+K had an empty retail space sitting vacant on the first floor. 
 
-The project didn’t even have a name at the time. It was just “the startup thing at 1227 NW Davis Street.” It would be come to known as the Portland Incubator Experiment or more often “PIE,” a collaboration between members of the the Portland tech startup scene and Wieden+Kennedy.
+The project didn’t even have a name at the time. It was just “the startup thing at 1227 NW Davis Street.” It would be come to known as the Portland Incubator Experiment or more often “PIE,” a collaboration between members of the the Portland tech startup community and Wieden+Kennedy.
+
+I can still remember the handful of us, standing in a small circle, on the empty concrete of 3500 square feet of potential.
+
+It was a rag tag crew. But we all had one thing in common: we were doing things. Not talking about things. Actually doing things. Not necessarily things that made money. But making things. Building things. And trying to actually get stuff done. All of us commonly driven by the frustration that Portland had a tendency to be a town where untold hours could be spent talking about what needed to happen or what opportunities existed. And then would talk about it some more. And then more. 
+
+Without ever actually doing anything. 
+
+And that became the primary selection criteria for the coworking space when people approached us. "What are you building?"
+
 
 > **Why are we doing this**? 
 
