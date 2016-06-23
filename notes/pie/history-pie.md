@@ -42,6 +42,10 @@ It took all of those things — and a growing sense of community — to start co
 
 But communicating that need to others was challenging. No one built startups in Portland, Oregon. Maybe food carts. But not tech startups. 
 
+This wasn't even perceived as a problem. It wasn't pervasive. There weren't a ton of people who agreed with that viewpoint.
+
+It was a non-obvious problem. And equally non-obvious was the potential opportunity.
+
 So funding the effort was going to be a challenge. And with no active early stage investor presence — coupled with the nascent community — it would be incredibly difficult to make the argument. And it was simply too much for us to bootstrap. Even as a community.
 
 
