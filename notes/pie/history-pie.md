@@ -6,21 +6,31 @@
 
 > - PIE, circa 2011
 
-So I guess you're wondering… what on earth motivated the largest privately held — and exceptionally successful — creative agency in the world to start mucking around in the world of tech? 
+So I guess you're wondering… what on earth motivated the largest privately held — and exceptionally successful — creative agency in the world to start mucking around in the world of startups? 
 
 Well, this whole crazy experiment started quite simply. With a hypothesis. 
 
-It's a hypothesis that **founders** — be they executives, developers, designers, or any combination there of — **are simply another form of creative**. A creative who, instead of words and images, has chosen technology as a medium for expression. 
+It's a hypothesis that **founders** — be they executives, developers, designers, or any combination there of — **are simply another form of creative**. No different than someone who paints or writes or shoots film. A creative who, instead of words and images, has chosen technology as a medium for expression. 
 
 And like any creative, they need space to create.
 
-And the potential collaborations, collisions, and conflict availed by putting disparate groups of creatives in direct contact with one another had the potential to result in interesting outcomes—especially given the relatively low cost of participating. And demonstrating significant impact.  
+And in having a space — actual physical space — you have the opportunity to put people in that space. To put those disparate groups of creatives within close proximity to one another. And in so doing, you create the opportunity for random collisions. And serendipity. From the collisions come collaborations and friction and conflict and resolution. Resulting in interesting outcomes. And demonstrating significant impact.  
 
-With that hypothesis in mind, we set forth with one solitary objective: Build better founders. 
+But what attracted the startup community to participate in the project? Well, startups are opportunistic. Tentative but opportunistic. Quick to capitalize. But slow to trust. 
 
-Our hope was that by building better founders and enabling creatives to collide, we had the potential to artificially accelerate the startup scene in Portland. And to make it easier to build a company in the city. 
+And the startup community came to the table with a hypothesis of their own. That the community had the opportunity to "Build better founders." To share knowledge and support one another. To provide a framework for mentors to engage with those who needed mentorship. To collaborate and share skill sets. 
 
-The best place to interact with a wide variety of creatives in Portland was obvious. And as luck would have it, they had been mulling over the same sorts of things the startup community had been. 
+So we took those complementary hypotheses and started testing them. Carving off a little corner in a building full of disparate creatives driven by a willingness to experiment and collaborate — and potential fail.  
+
+Our hope was that by building better founders and enabling creatives to collide, we had the potential to artificially accelerate the startup community in Portland. And to make it easier to build a company in the city that had long been seen as a flyover town between the larger, more active startup scenes in the Bay Area and Seattle. 
+
+## A timeline
+
+The PIE accelerator, unbeknownst to us, started in 1995, 15 years before PIE officially became an accelerator. It started when members of the startup community started careers and built networks of peers in the dotcom days. Where classmates at our universities explored technology together. Where agencies and creative community grew in strength and numbers. Where companies had been founded and demolished. Where the open source community had created connections and collaborations. 
+
+It took all of those things — and a growing sense of community — to start conversations. Conversations about "What if…?" What is the community had a hub? What if we had a collaborative workspace? What if there were a way for the community to have a more physical and tangible presence?
+
+
 
 Enter [Wieden+Kennedy](http://wk.com/).
 
