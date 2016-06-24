@@ -42,6 +42,10 @@ It took all of those things — and a growing sense of community — to start co
 
 But communicating that need to others was challenging. No one built startups in Portland, Oregon. Maybe food carts. But not tech startups. 
 
+This wasn't even perceived as a problem. It wasn't pervasive. There weren't a ton of people who agreed with that viewpoint.
+
+It was a non-obvious problem. And equally non-obvious was the potential opportunity.
+
 So funding the effort was going to be a challenge. And with no active early stage investor presence — coupled with the nascent community — it would be incredibly difficult to make the argument. And it was simply too much for us to bootstrap. Even as a community.
 
 
@@ -52,9 +56,11 @@ Wieden+Kennedy — which we may also refer to as W+K or Wieden, throughout the P
 
 And in 2009 — thanks to economic doldrums and a horrible real estate market — W+K had an empty retail space sitting vacant on the first floor. 
 
-The project didn’t even have a name at the time. It was just “the startup thing at 1227 NW Davis Street.” It would be come to known as the Portland Incubator Experiment or more often “PIE,” a collaboration between members of the the Portland tech startup community and Wieden+Kennedy.
+The project didn’t even have a name at the time. It was just “the startup thing at 1227 NW Davis Street.” It would be come to known as the Portland Incubator Experiment or more often “PIE,” a collaboration between members of the Portland tech startup community and Wieden+Kennedy.
 
 I can still remember the handful of us, standing in a small circle, on the empty concrete of 3500 square feet of potential.
+
+![Sketch of the floor plan after walking through the space](/source/images/PIE-sketch-2009.jpg)
 
 It was a rag tag crew. But we all had one thing in common: we were doing things. Not talking about things. Actually doing things. Not necessarily things that made money. But making things. Building things. And trying to actually get stuff done. All of us commonly driven by the frustration that Portland had a tendency to be a town where untold hours could be spent talking about what needed to happen or what opportunities existed. And then would talk about it some more. And then more. 
 
@@ -62,14 +68,23 @@ Without ever actually doing anything.
 
 And that became the primary selection criteria for the coworking space when people approached us. "What are you building?"
 
-
 > **Why are we doing this**? 
 
 > Because we don’t have all the answers. Because we believe that the people who collaborate to innovate will win. And innovation is core to the business at W+K and for our brand partners. The brand and technology mentors that have come together around PIE, the ability to scale an idea across multiple brands with massive reach and off-the-chart awareness scores, interaction with other startups and W+K involvement is something you can’t get anywhere else but here, and that’s the result of a lot of people who believe PIE represents something truly unique, both for the industry and for Portland.
 
 > “[Filling in some more details on PIE](http://siliconflorist.com/2011/07/28/filling-details-pie/)” Silicon Florist (July 28, 2011)
 
-It started, quite simply, as a coworking space for a handful of people from the Portland tech and startup community. An open floor plan where any number of early stage startups could share space and lower costs. Initially, we rented desks for $200 per desk and the premise that we’d all work to help one another. Which was designed to garner PIE 1% common stock from each of its companies as a way to build a sustainable business. 
+It started, quite simply, as a coworking space for a handful of people from the Portland tech and startup community. Not all were tech startup founders. Some were just solitary outposts for companies like Twitter or Kickstarter. Others were building small consultancies. A handful of folks were building tech companies.
+
+But they were all doing something. 
+
+We worked with what we had and did very little in the way of tenant improvements. W+K decorated the space with an air of startup edginess. Closet door desks on welded sawhorses. A repurposed Starbucks sign became our coffee table. Highback leather chairs from a local second hand store became our tongue-in-cheek conference room. 
+
+![PIE's iconic highback leather chairs](/source/images/pie-highback-leather-chairs.jpg) 
+
+We had an open floor plan. Which allowed the number of people to ebb and flow without needing to retool. It also enabled us to cram a bunch of folks in there when we needed. Or to tear down the space for speakers and events. It was very much a utilitarian space designed to do not only what the residents wanted, but what the community wanted. We even cleared the space early in PIE's existence to host a 30-hour live streamed telethon put on by members of the community.  
+
+Initially, we rented desks for $200 per desk and the premise that we’d all work to help one another. Which was designed to garner PIE 1% common stock from each of its companies as a way to build a sustainable business. 
 
 That quickly eroded. But that wasn’t a bad thing. It was all part of the experiment. 
 
