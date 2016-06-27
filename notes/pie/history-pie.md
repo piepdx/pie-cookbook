@@ -90,11 +90,19 @@ But it wasn't just businessing. We held happy hours. We served as an art gallery
 
 We even cleared the space out completely early in PIE's existence to create three soundstages for a 30-hour live streamed telethon put on by members of the community.  
 
-Initially, we rented desks for $200 per desk and the premise that we’d all work to help one another. Which was designed to garner PIE 1% common stock from each of its companies as a way to build a sustainable business. 
+We had watched the concept of coworking develop in the Bay Area. And took part as the concept spread to Portland and other areas. We had been participants, residents, and customers of previous spaces. But we still really didn't have any idea what might work and what would not. So we just picked price point and tried it.
 
-That quickly eroded. But that wasn’t a bad thing. It was all part of the experiment. 
+At this point, W+K was providing the space gratis as part of the experiment. So any revenue generated could be used by PIE to further its objectives.
 
-Some startups managed to squeeze multiple people around a desk. That’s just smart. And it made that $200 go a lot farther. Some were given “scholarships” to sit in PIE rent free because we believed not only in what they were building, but in the founders, themselves. And all but a few skirted the 1% equity kick in. Mostly because we didn’t enforce it very strongly. 
+Given that we wanted the project to be communal, we decided that any revenue would go back to a general fund for PIE activities, sponsorship, and food and beverage. We would also contribute a percentage of any joint projects — some of the folks in the space could collaborate on consulting gigs — to the PIE general fund.
+
+And we wanted rising water to float all boats. So we introduced a concept that any company started at PIE would grant 1% common stock to PIE. It was our hope that this equity would provide PIE with a means of sustaining the business over time. 
+
+From our experience with other coworking spaces, we realized that people generally charged for desks. So we started by charging $200 per desk. That quickly eroded. But that wasn’t a bad thing. It was all part of the experiment. 
+
+Some startups managed to squeeze multiple people around a desk. That’s just smart. And it made that $200 go a lot farther. Some were given “scholarships” to sit in PIE rent free because we believed not only in what they were building, but in the founders, themselves. And all but a few skirted the 1% equity kick in. Not because they didn't want to. But mostly because we didn’t enforce it very strongly — or even do a good job of communicating that as an expectation.
+
+That was our fault. Not theirs. 
 
 Wary of organizations that talked and talked and never did, PIE was designed to be a place for people who were making things. Rather than talking about them. And in that vein we wanted to accomplish something before we went public with what we were doing. 
 
