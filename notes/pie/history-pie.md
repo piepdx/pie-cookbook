@@ -78,11 +78,17 @@ It started, quite simply, as a coworking space for a handful of people from the 
 
 But they were all doing something. 
 
-We worked with what we had and did very little in the way of tenant improvements. W+K decorated the space with an air of startup edginess. Closet door desks on welded sawhorses. A repurposed Starbucks sign became our coffee table. Highback leather chairs from a local second hand store became our tongue-in-cheek conference room. 
+We worked with what we had and did very little in the way of tenant improvements. W+K decorated the space with an air of startup edginess. Closet door desks on welded sawhorses. A repurposed Starbucks sign became our coffee table. Highback leather chairs from a local second hand store became our intentionally ironic conference room. 
 
 ![PIE's iconic highback leather chairs](/source/images/pie-highback-leather-chairs.jpg) 
 
-We had an open floor plan. Which allowed the number of people to ebb and flow without needing to retool. It also enabled us to cram a bunch of folks in there when we needed. Or to tear down the space for speakers and events. It was very much a utilitarian space designed to do not only what the residents wanted, but what the community wanted. We even cleared the space early in PIE's existence to host a 30-hour live streamed telethon put on by members of the community.  
+PIE began as a utilitarian space designed to do not only what the residents wanted, but what the community wanted. The space had an open floor plan. Which allowed the number of people to ebb and flow without needing to retool. It also enabled us to cram a bunch of folks in there when we needed. Or to tear down the space for speakers and events. 
+
+We did everything from host speakers to user groups to hackathons to inviting hundreds of folks from DjangoCon to cram into the space as part of a code sprint. 
+
+But it wasn't just businessing. We held happy hours. We served as an art gallery on "First Thursday"s. We hosted Minecraft gatherings. Basically, we tried to make the space accessible by having a policy of allowing people to stop by whenever they wanted or needed — whether they had work to do or not.
+
+We even cleared the space out completely early in PIE's existence to create three soundstages for a 30-hour live streamed telethon put on by members of the community.  
 
 Initially, we rented desks for $200 per desk and the premise that we’d all work to help one another. Which was designed to garner PIE 1% common stock from each of its companies as a way to build a sustainable business. 
 
