@@ -115,7 +115,9 @@ At least in theory.
 {[sidebar-getting-even-more-creative.md](sidebar-getting-even-more-creative.md)}
 
 
-It wasn’t well received. Which wasn't necessarily a bad thing. There was some appropriate cynicism. And a healthy amount of questioning. With a few folks going so far as to categorize it as some carpetbagging or war profiteering move by Wieden+Kennedy. 
+It wasn’t well received. Which wasn't necessarily a bad thing. But it wasn't necessarily a good thing, either. There was some appropriate cynicism. And a healthy amount of questioning. With a few folks going so far as to categorize it as some carpetbagging or war profiteering move by Wieden+Kennedy. A way of the agency capitalizing on some grassroots activity in the Portland market. 
+
+In short, the community immediately assumed that W+K was taking advantage of an opportunistic situation. 
 
 I mean, the ire was somewhat understandable. Maybe not the unmitigated hate. But at least the ire. What the hell was this global creative agency doing dabbling in the world of startups? And why the sudden interest in Portland in particular? 
 
@@ -127,19 +129,29 @@ We were naive in the most rudimentary sense of the term. But we continued the ex
 
 {[sidebar-fresh-pie.md](sidebar-fresh-pie.md)}
 
-And we invited all kinds of random folks into the space—from interesting technology people to solo founders to early stage startups to individual contributors at companies like Automattic, Kickstarter, and Twitter. Heck, we even worked with a few early stage agencies. 
+But perhaps most importantly, W+K had not been a significant part of the Portland startup community. And their sudden and intentional engagement — although seemingly ginger from the perspective of PIE participants — still ruffled feathers. 
+
+Because W+K didn't engage the community where they were. They brought the community in. Before they were part of that community. Before the hospitality made sense. 
+
+It was a mistake. But we worked as quickly and as diligently as we could to correct it.
+
+
+
+
+We invited all kinds of random folks into the space — from interesting technology people to solo founders to early stage startups to individual contributors at companies like Automattic, Kickstarter, and Twitter. Heck, we even worked with a few early stage agencies. 
 
 Just as important to the experiment we invited all kinds of people from Wieden+Kennedy to collaborate. 
 
 We also invited the community to use the space. For hackathons. For events. For meetups. 
 
-After roughly a year of observing the community, the PIE startups, their hardships, their needs, and their opportunities, we stepped back and reassessed what we had accomplished. Or in our minds, what we had completely failed to accomplish. 
+After roughly a year of observing the community, interacting with the PIE startups, observing their hardships, understanding their needs, and recognizing their opportunities, we stepped back and reassessed what we had accomplished. Or in our minds, what we had completely failed to accomplish. 
 
 {[sidebar-pie-from-side-project-to-startup.md](sidebar-pie-from-side-project-to-startup.md)}
 
 And so, with the blessing and backing of W+K, PIE transitioned from coworking space to accelerator, as a means of taking a more active role in the growth and development of these promising companies.
 
-And that’s why you’re here. Listening to us. 
+
+
 
 This book documents the learnings of that journey. A journey which, as of this writing, has resulted in a portfolio of more than 40 companies which have created more than 600 jobs and put more than $150 million to work in the Portland startup scene. Making PIE one of the more successful startup accelerators in the world.
 
