@@ -4,16 +4,7 @@
 
 ## Parking lot
 
-- The accelerator should be a reflection of the community
-- It's a means of catalyzing existing community
-- Be honest about your community
-- You can only work with what you've got
-- You have to start with the ingredients your community has, but
-- you don't need to follow the existing community momentum
-- You're allowed to bring different ingredients into the community, but the initial activity must start with existing assets
-- Some of your community assets may have never combined before (e.g., Portland startup community and W+K), but they're still both assets to be considered
 - Once that community is identified, how do you engage with it?
-- Community needs a place. Since we've moved away from PIE being a physical presence, we've learned that we underestimated the positive impact and community benefits of having an actual "place."
 - Curated coworking
 - Share PIE experience on breaking down silos:
 	- Within communities
@@ -35,9 +26,45 @@ Attempting to start an accelerator without an existing community is a recipe, to
 
 Accelerators don't start communities. Communities start accelerators.
 
+- The accelerator should be a reflection of the community
+- It's a means of catalyzing existing community
+- Be honest about your community
+- You can only work with what you've got
+- You have to start with the ingredients your community has, but you don't need to follow the existing community momentum
+- You're allowed to bring different ingredients into the community, but the initial activity must start with existing assets
+- Some of your community assets may have never combined before (e.g., Portland startup community and W+K), but they're still both assets to be considered
+
+It is incredibly difficult to do virtual communities well. Not loosely affiliated social networks. Clearly folks have managed to do that. But communities. Actual interacting and collaborating communities. Groups of people who share common interests, work toward common goals, and support one another. 
+
+In our experience, this kind of activity does not happen out in the ether. It happens somewhere. Physically and personally. Community, we believe, needs a place. 
+
+And this has come into sharp relief as we've moved away from PIE being a physical presence. We've learned that not having a physical place weakens our connections and makes it more difficult to accomplish the things our community needs. We've learned that we underestimated the positive impact and community benefits of having an actual physical place.
+
 ### 1. About ii. Format e. Definitions b. Community
 
+Community is a group of individuals who share something in common and who feel a particular affinity for one another based on that common element. 
+
+Fairly nondescript, right? Right. That's what makes community so hard. 
+
+Because no single person belongs to only one community. Communities overlap and intersect. They get muddled and confusing. They ebb and flow. They divide and recombine in different ways.
+
+Communities are organic.
+
+And therefore, trying to control or encompass any community is difficult. If not downright impossible. That's why we suggest that you work with and within communities. Follow momentum. Go with the flow.
+
+Attempt to provide alignment or strengthen community when the opportunity avails itself. But don't try to manage community. It simply doesn't work that way. Any more than a surfer manages a wave.
+
 ### 1. About iii. Before you begin b. Pre-requisite reading a. Required a. Startup Communities
+
+If you haven't read [**Startup Communities**](http://www.startuprev.com/category/communities/) by [Brad Feld](http://feld.com/), please stop right here. If there is any prerequisite for the **PIE Cookbook**, it is **Startup Communities**. 
+
+So much of what informed the Portland startup community is documented there. Many of the things we did accidentally in Portland, Oregon — or things which happened by luck — are clearly articulated in the book. And so is much of what has enabled Boulder, Colorado, to become one of the most entrepreneurially dense places on earth.
+
+So go read it. And highlight it. And quote it.  
+
+Don't rush it. Take the time to consume the book and think about it. Maybe a couple of times. We'll wait.
+
+If you're working to develop and support a nascent community, Brad's book provides a critical roadmap for that development — as well as delineating a timeline for how long you should expect that development to take.
 
 ### 3. Kitchen Prep
 
@@ -114,16 +141,6 @@ Blog
 		- Technical
 		- Hybrid
 		- Hackathons
-
-## Before we begin
-
-If you haven't read Startup Communities by Brad Feld, please stop right here. If there is any prerequisite for the PIE Cookbook, it is Startup Communities. So much of what informed the Portland startup community is documented there. Many of the things we did accidentally in Portland — or things which happened by luck — are clearly articulated in the book. And so is much of what has enabled Boulder, Colorado, to become one of the most entrepreneurially dense places on earth.
-
-So go read it. And highlight it. And quote it.  
-
-Don't rush it. Take the time to consume the book and think about it. Maybe a couple of times. We'll wait.
-
-If you're working to develop and support a nascent community, Feld's book provides a critical roadmap for that development — as well as delineating a timeline for how long you should expect that development to take.
 
 
 ## Want to start an accelerator? Don't start an accelerator
