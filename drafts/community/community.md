@@ -56,13 +56,15 @@ Attempt to provide alignment or strengthen community when the opportunity avails
 
 ### 1. About iii. Before you begin b. Pre-requisite reading a. Required a. Startup Communities
 
-If you haven't read Startup Communities by Brad Feld, please stop right here. If there is any prerequisite for the PIE Cookbook, it is Startup Communities. So much of what informed the Portland startup community is documented there. Many of the things we did accidentally in Portland — or things which happened by luck — are clearly articulated in the book. And so is much of what has enabled Boulder, Colorado, to become one of the most entrepreneurially dense places on earth.
+If you haven't read [**Startup Communities**](http://www.startuprev.com/category/communities/) by [Brad Feld](http://feld.com/), please stop right here. If there is any prerequisite for the **PIE Cookbook**, it is **Startup Communities**. 
+
+So much of what informed the Portland startup community is documented there. Many of the things we did accidentally in Portland, Oregon — or things which happened by luck — are clearly articulated in the book. And so is much of what has enabled Boulder, Colorado, to become one of the most entrepreneurially dense places on earth.
 
 So go read it. And highlight it. And quote it.  
 
 Don't rush it. Take the time to consume the book and think about it. Maybe a couple of times. We'll wait.
 
-If you're working to develop and support a nascent community, Feld's book provides a critical roadmap for that development — as well as delineating a timeline for how long you should expect that development to take.
+If you're working to develop and support a nascent community, Brad's book provides a critical roadmap for that development — as well as delineating a timeline for how long you should expect that development to take.
 
 ### 3. Kitchen Prep
 
