@@ -5,7 +5,6 @@
 ## Parking lot
 
 - Once that community is identified, how do you engage with it?
-- Community needs a place. Since we've moved away from PIE being a physical presence, we've learned that we underestimated the positive impact and community benefits of having an actual "place."
 - Curated coworking
 - Share PIE experience on breaking down silos:
 	- Within communities
@@ -34,6 +33,12 @@ Accelerators don't start communities. Communities start accelerators.
 - You have to start with the ingredients your community has, but you don't need to follow the existing community momentum
 - You're allowed to bring different ingredients into the community, but the initial activity must start with existing assets
 - Some of your community assets may have never combined before (e.g., Portland startup community and W+K), but they're still both assets to be considered
+
+It is incredibly difficult to do virtual communities well. Not loosely affiliated social networks. Clearly folks have managed to do that. But communities. Actual interacting and collaborating communities. Groups of people who share common interests, work toward common goals, and support one another. 
+
+In our experience, this kind of activity does not happen out in the ether. It happens somewhere. Physically and personally. Community, we believe, needs a place. 
+
+And this has come into sharp relief as we've moved away from PIE being a physical presence. We've learned that not having a physical place weakens our connections and makes it more difficult to accomplish the things our community needs. We've learned that we underestimated the positive impact and community benefits of having an actual physical "place."
 
 ### 1. About ii. Format e. Definitions b. Community
 
