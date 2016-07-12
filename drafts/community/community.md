@@ -35,7 +35,12 @@ Attempting to start an accelerator without an existing community is a recipe, to
 
 Accelerators don't start communities. Communities start accelerators.
 
-- The accelerator should be a reflection of the community
+Your accelerator should be a reflection of your community — or the community you want to attract. 
+
+In other words, don't try to build an accelerator that doesn't have a target community. 
+
+For PIE, that target community was the startup community that was beginning to form in Portland. It was the combination of the open source community, a nascent group of early stage companies who were seeking assistance and capital, and a group of experienced startup folks who were looking for a means of giving back to the community. Folks who were willing to share their expertise if only there were a means of doing that.
+
 - It's a means of catalyzing existing community
 - Be honest about your community
 - You can only work with what you've got
