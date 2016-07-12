@@ -38,9 +38,21 @@ It is incredibly difficult to do virtual communities well. Not loosely affiliate
 
 In our experience, this kind of activity does not happen out in the ether. It happens somewhere. Physically and personally. Community, we believe, needs a place. 
 
-And this has come into sharp relief as we've moved away from PIE being a physical presence. We've learned that not having a physical place weakens our connections and makes it more difficult to accomplish the things our community needs. We've learned that we underestimated the positive impact and community benefits of having an actual physical "place."
+And this has come into sharp relief as we've moved away from PIE being a physical presence. We've learned that not having a physical place weakens our connections and makes it more difficult to accomplish the things our community needs. We've learned that we underestimated the positive impact and community benefits of having an actual physical place.
 
 ### 1. About ii. Format e. Definitions b. Community
+
+Community is a group of individuals who share something in common and who feel a particular affinity for one another based on that common element. 
+
+Fairly nondescript, right? Right. That's what makes community so hard. 
+
+Because no single person belongs to only one community. Communities overlap and intersect. They get muddled and confusing. They ebb and flow. They divide and recombine in different ways.
+
+Communities are organic.
+
+And therefore, trying to control or encompass any community is difficult. If not downright impossible. That's why we suggest that you work with and within communities. Follow momentum. Go with the flow.
+
+Attempt to provide alignment or strengthen community when the opportunity avails itself. But don't try to manage community. It simply doesn't work that way. Any more than a surfer manages a wave.
 
 ### 1. About iii. Before you begin b. Pre-requisite reading a. Required a. Startup Communities
 
