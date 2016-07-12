@@ -18,7 +18,16 @@
 
 ### 1. About i. Context a. Building an accelerator… 
 
+It seems a lot of folks want to build an accelerator to somehow create a startup community from scratch. Unfortunately, that's not really how this thing works. 
+
+An accelerator can attract a community. An accelerator can codify a community. An accelerator can even import a community. But an accelerator has to have a community. 
+
 Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of accelerating or capitalizing on the momentum of an existing community, identifying and enabling community leaders, and providing infrastructure for supporters and contributors to engage, thereby enabling all parties, throughout the community, to focus everyone's efforts to the greatest benefit — and highest likelihood of success — for that community.
+
+The best accelerators spring up from communities. Great communities can form around accelerators, but they need a seed community from which to spring.
+
+If you don't have an existing community, keep this in mind when you're deciding on the focus of your accelerator. Because if you don't have a community then your accelerator needs to be attractive enough to recruit a community around it.
+
 
 ### 1. About i. Context h. Risks
 
@@ -26,7 +35,12 @@ Attempting to start an accelerator without an existing community is a recipe, to
 
 Accelerators don't start communities. Communities start accelerators.
 
-- The accelerator should be a reflection of the community
+Your accelerator should be a reflection of your community — or the community you want to attract. 
+
+In other words, don't try to build an accelerator that doesn't have a target community. 
+
+For PIE, that target community was the startup community that was beginning to form in Portland. It was the combination of the open source community, a nascent group of early stage companies who were seeking assistance and capital, and a group of experienced startup folks who were looking for a means of giving back to the community. Folks who were willing to share their expertise if only there were a means of doing that.
+
 - It's a means of catalyzing existing community
 - Be honest about your community
 - You can only work with what you've got
