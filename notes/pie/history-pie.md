@@ -48,19 +48,29 @@ It was a non-obvious problem. And equally non-obvious was the potential opportun
 
 So funding the effort was going to be a challenge. And with no active early stage investor presence — coupled with the nascent community — it would be incredibly difficult to make the argument. And it was simply too much for us to bootstrap. Even as a community.
 
-
-
 Enter [Wieden+Kennedy](http://wk.com/).
 
 Wieden+Kennedy — which we may also refer to as W+K or Wieden, throughout the PIE Cookbook — is the largest privately held creative agency in the world, perhaps best known for creative efforts such as Nike’s “[Just Do It](http://www.adweek.com/adfreak/happy-25th-birthday-nikes-just-do-it-last-great-advertising-slogan-150947),” the [Old Spice Guy](https://www.youtube.com/watch?v=owGykVbfgUE), and Chrysler’s “[Imported from Detroit](https://www.youtube.com/watch?v=SKL254Y_jtc),” among others. The worldwide headquarters of the agency are located not in New York, Chicago, or London, but in Portland’s Pearl District, where a former Fuller Brush Company warehouse holds more than 500 of their employees. The remainder of their creative talent lives around the world, gathering in offices in Amsterdam, Delhi, London, New York, Sao Paulo, Shanghai, and Tokyo.  
 
 And in 2009 — thanks to economic doldrums and a horrible real estate market — W+K had an empty retail space sitting vacant on the first floor. 
 
-The project didn’t even have a name at the time. It was just “the startup thing at 1227 NW Davis Street.” It would be come to known as the Portland Incubator Experiment or more often “PIE,” a collaboration between members of the Portland tech startup community and Wieden+Kennedy.
+The project didn’t even have a name at the time. It was just “the startup thing at 1227 NW Davis Street.” It would be come to known as the Portland Incubator Experiment or more commonly as “PIE,” a collaboration between members of the Portland tech startup community and Wieden+Kennedy.
 
-I can still remember the handful of us, standing in a small circle, on the empty concrete of 3500 square feet of potential.
+I can still remember the handful of us, standing in a small circle, on the empty concrete of 3500 cavernous and columned square feet of potential.
 
 ![Sketch of the floor plan after walking through the space](/source/images/PIE-sketch-2009.jpg)
+
+We've talked to any number of people who are overly concerned with the space. Or its appointments. We're firm believers that you work with what you've got. 
+
+We had a former retail space that had been gutted. So it was huge columns, a concrete floor, high ceilings, and a cryptic set of light switches we never really figured out how to operate.
+
+[Find an image of the PIE light switches]
+
+It was raw. And unfinished. And difficult. 
+
+It was perfect. 
+
+Now, we just had to fill it with interesting people.
 
 It was a rag tag crew. But we all had one thing in common: we were doing things. Not talking about things. Actually doing things. Not necessarily things that made money. But making things. Building things. And trying to actually get stuff done. All of us commonly driven by the frustration that Portland had a tendency to be a town where untold hours could be spent talking about what needed to happen or what opportunities existed. And then would talk about it some more. And then more. 
 
@@ -78,9 +88,21 @@ It started, quite simply, as a coworking space for a handful of people from the 
 
 But they were all doing something. 
 
+There were bloggers. And early stage founders. There were community builders. There were telecommuters. There were product companies. And service companies. 
+
+But they were all doing something. Not just talking. Doing.
+
 We worked with what we had and did very little in the way of tenant improvements. W+K decorated the space with an air of startup edginess. Closet door desks on welded sawhorses. A repurposed Starbucks sign became our coffee table. Highback leather chairs from a local second hand store became our intentionally ironic conference room. 
 
 ![PIE's iconic highback leather chairs](/source/images/pie-highback-leather-chairs.jpg) 
+
+The first winter, the heat didn't work. So we typed away in fingerless gloves. Watching clouds of our own breath. 
+
+We were respectful of one another, but we focused on business first. And getting shit done. 
+  
+Some folks would sit at their desks and take calls. Others would look for quiet corners. Or walk around the block. 
+
+There was no privacy. So when we needed it, we took calls from the stoop. Which was only slightly colder than the interior during the winter. 
 
 PIE began as a utilitarian space designed to do not only what the residents wanted, but what the community wanted. The space had an open floor plan. Which allowed the number of people to ebb and flow without needing to retool. It also enabled us to cram a bunch of folks in there when we needed. Or to tear down the space for speakers and events. 
 
