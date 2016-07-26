@@ -88,6 +88,10 @@ It started, quite simply, as a coworking space for a handful of people from the 
 
 But they were all doing something. 
 
+There were bloggers. And early stage founders. There were community builders. There were telecommuters. There were product companies. And service companies. 
+
+But they were all doing something. Not just talking. Doing.
+
 We worked with what we had and did very little in the way of tenant improvements. W+K decorated the space with an air of startup edginess. Closet door desks on welded sawhorses. A repurposed Starbucks sign became our coffee table. Highback leather chairs from a local second hand store became our intentionally ironic conference room. 
 
 ![PIE's iconic highback leather chairs](/source/images/pie-highback-leather-chairs.jpg) 
