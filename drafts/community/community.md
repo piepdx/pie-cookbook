@@ -52,7 +52,9 @@ It is incredibly difficult to do virtual communities well. Not loosely affiliate
 
 In our experience, this kind of activity does not happen out in the ether. It happens somewhere. Physically and personally. Community, we believe, needs a place. 
 
-And this has come into sharp relief as we've moved away from PIE being a physical presence. We've learned that not having a physical place weakens our connections and makes it more difficult to accomplish the things our community needs. We've learned that we underestimated the positive impact and community benefits of having an actual physical place.
+And this has come into sharp relief as we've moved away from PIE being a physical presence. We've learned that not having a physical space has actually weakened our ability to scale and the strength of our connections. The more we rely on virtual, the more it makes it difficult to accomplish the things our community needs. 
+
+Long story short, we greatly underestimated the positive impact and community benefits of having an actual physical place. That's why we're working to correct that. To return to PIE being less virtual and more physical. Because our community needs that physical space.
 
 ### 1. About ii. Format e. Definitions b. Community
 
