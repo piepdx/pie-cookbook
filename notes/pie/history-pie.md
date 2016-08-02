@@ -64,7 +64,7 @@ We've talked to any number of people who are overly concerned with the space. Or
 
 We had a former retail space that had been gutted. So it was huge columns, a concrete floor, high ceilings, and a cryptic set of light switches we never really figured out how to operate.
 
-[Find an image of the PIE light switches]
+![PIE's nonsensical light switches](/source/images/pie-light-switches-xolotl.jpg)
 
 It was raw. And unfinished. And difficult. 
 
