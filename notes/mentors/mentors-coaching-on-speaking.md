@@ -92,4 +92,14 @@ Because unlike that celebrated and yet unrepeatable path to success, avoiding th
 
 Wisdom isn’t always about winning. And if you’ve created an environment of trust in your accelerator, these stories will be pure gold to your startups. Or the sustenance that keeps them going.
 
+### Trying to use this format as an educational platform is extremely challenging, if not ripe for failure (and not the kind of failure we want)
+
+### Be prepared for Q&A to be awkward
+
+### Being engaged is better than being polished
+
+### Don't sweat the slides
+
+### Don't make it a sales pitch
+
 
