@@ -7,7 +7,7 @@ When we say "bad actors," we mean individuals who are more interested in persona
 
 So how do you deal with it? 
 
-Well, we recommending follow Brad's advice in Startup Communities. The community has to be open to everyone. You have to welcome everyone. And you have to build the type of community that rewards good behavior. And discourages bad behavior. 
+Well, we recommend follow Brad's advice in Startup Communities. The community has to be open to everyone. You have to welcome everyone. And you have to build the type of community that rewards good behavior. And discourages bad behavior. 
 
 But even with all of that working, bad actors still enter the fray. So what to do?
 
