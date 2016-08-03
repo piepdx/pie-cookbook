@@ -26,10 +26,45 @@ Act accordingly.
 
 While it may take more cajoling and prepping, it is critically important that you always find the right speakers. Not just the speakers to which you have immediate access.
 
+### Mentors need to be expert
 
-Encourage mentors to tell stories of failure and mistakes. Why? Simple. You can’t recreate the same success. But you can avoid the same mistakes.
+Another misconception we will attempt to address time and time again is the idea that mentors need to be expert. We believe that anyone and everyone has the potential to be a mentor. Likewise, anyone and everyone has the potential to speak as a mentor. 
 
-Any founder could tell you the entire journey of his or her successful company—step by step in intricate detail. You could take scrupulous notes, ask for clarification and additional color, and document each and every step of the journey with complete precision. Then you could carefully, methodically follow that guideline, note for note. Without falter. Down to the most seemingly insignificant detail.
+Expertise is not a prerequisite. Insights, willingness to share, and relatable stories are. So find the people who can talk honestly about their experiences. Whether they are considered "experts" or not.
+
+### Speaking is more important than listening
+
+We find that some of our best mentor speakers are those who spend less time presenting and more time conversing or purely listening. So make sure to find folks who are comfortable with that dynamic. 
+
+You're much better off to have a so-so presentation with a lively Q&A session than to have a polished oratory followed by crickets. 
+
+Startups are in your program to explore opportunities, question assumptions, and get their hands dirty. Not revel in theory. So make sure they have speakers who draw that conversation out.
+
+### You need a formal setting for presentations
+
+We talk to a lot of folks who dodge the whole speaker thing with, "Well, we don't have anywhere to do it."
+
+Bullshit.
+
+PIE's mentors had, arguably, one of the most thankless presentation platforms ever. A cavernous concrete room. With huge columns. And a scattered litany of desks. 
+
+We made due. 
+
+And I would argue that the very nature of the raw space lent itself to more candid discussions. That forcing founders to pull back from their desks and wheel their chairs away from obstructions caused them to be more engaged. That even those founders who remained intently typing away throughout the presentation gained something. Because they were immersed in the moment.
+
+The best stage is the stage you have. Make due. 
+
+## Coaching the mentors
+
+Once you've selected a mentor to speak, it will benefit both the community and your program if you adequately prepare them for the talk. 
+
+Even the most seasoned CEO with a completely polished pitch can become a babbling idiot when trying to describe how they built the business — or how they failed. But those are the stories that provide the most value to the startups you're trying to help.
+
+### Encourage mentors to tell stories of failure and mistakes. 
+
+Why? Simple. You can’t recreate the same success. But you can avoid the same mistakes.
+
+Any founder could tell you the entire journey of his or her successful company — step by step in intricate detail. You could take scrupulous notes, ask for clarification and additional color, and document each and every step of the journey with complete precision. Then you could carefully, methodically follow that guideline, note for note. Without falter. Down to the most seemingly insignificant detail.
 
 Would that enable you to launch a successful company exactly like that successful founder? Of course not.
 
