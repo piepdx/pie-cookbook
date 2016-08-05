@@ -30,6 +30,15 @@ It does no one any good to bring a stubborn, uncoachable founder into an acceler
   
 Now we're not saying that stubborn founders can't find success. They do. Quite often. We're just saying that stubborn founders can't find success in an accelerator environment. 
 
+So many accelerators stumble here. Choosing a class of founders who are unwilling to listen and incorporate feedback simply because the founders seemed confident and on the path to something big. 
+
+But when class are has even a single uncoachable founder, four things will usually happen. 
+
+1. Mentors get frustrated.
+2. Other participants get frustrated.
+3. Accelerator staff gets frustrated.
+3. The stubborn founders get frustrated. 
+
 ### 2. Founders must respect one another's areas of expertise and roles.
   
 Accelerators are intense environments. And teams need to have the ability to divide and conquer. Everyone can't be in every meeting. It doesn't scale.   
@@ -43,5 +52,15 @@ Accelerators are a social experiment. They are a community experiment. A founder
 Accelerators are all about "not going it alone." Founders should be predisposed to this pack mentality, in the most positive sense.
 
 ## Idea
+
+Once you've determined you have good people in the mix and that the founders have a high likelihood of success in the accelerator environment you're creating, then you can start looking at the idea, product, service, or solution upon which the company is going to be built.
+
+If you're building an accelerator that is focused on demonstrating a return on investment, there is one critical element of this selection criteria with which PIE did not have to deal. But if you're all about IRR, you will. And it's this: 
+
+> The driving idea must not be about seeing a product come to fruition. The driving idea must be about building a scalable and sustainable business. 
+
+Why the distinction? There are any number of entrepreneurially minded folks who have no desire to actually 
+
+
 
 ## Excitement
