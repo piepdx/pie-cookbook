@@ -59,8 +59,26 @@ If you're building an accelerator that is focused on demonstrating a return on i
 
 > The driving idea must not be about seeing a product come to fruition. The driving idea must be about building a scalable and sustainable business. 
 
-Why the distinction? There are any number of entrepreneurially minded folks who have no desire to actually 
+Why the distinction? Because there are any number of entrepreneurially minded folks who have no desire to actually build a business. What they want is to see their product idea come to fruition. 
 
+They may have formed a company around the product concept. And that product may have the ability to generate revenue. But that's a fringe benefit. They are driven by realizing their product vision.
 
+And that, is very different from building a business. And it's an incredibly easy trap into which an accelerator can fall. 
+
+So push on this element. And there is one easy question to help determine what kind of founders you're dealing with: If you had to stop working on this product — or kill this product altogether — in order for the business to survive, would you do that?
+
+Because products do not equal businesses. And sometimes business requires eliminating the product that inspired the formation of a company.
 
 ## Excitement
+
+We refer to this as the "serendipity element." But if we called this section "Serendipity" it would ruin our acronym. Just like when the name of PIE was almost DIE. 
+
+There are any number of facets to the serendipity element, but they all revolve around excitement. And it fits our acronym a lot better.
+
+### Are we excited by the product or the space the startup is exploring?
+### Do we have a mentor who's expertise would be exciting to this company?
+### Would it be exciting to have this company in the same room as some of the other companies we've selected for this class?
+### Will PIE alums be excited to have this company as part of their community?
+### Will Portland be excited to have this company in town?
+### Is there something exciting for W+K's creative team with this company?
+### Is there exciting potential for one of W+K's clients?
