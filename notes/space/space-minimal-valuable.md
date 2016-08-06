@@ -15,6 +15,6 @@ Your only primary requirements are a solid wifi connection, access to power, a s
 
 You should have too many people in the space. You should have too few conference rooms. You should have passible coffee and, if it fits your culture, beer. 
 
-
+![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
 
 Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Your job as an accelerator is to get them moving further faster than they would on their own. Your job is to get them to grow up and out.
