@@ -18,3 +18,13 @@ You should have too many people in the space. You should have too few conference
 ![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
 
 Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Your job as an accelerator is to get them moving further faster than they would on their own. Your job is to get them to grow up and out.
+
+If you provide a space that is too comfortable and too accommodating then the startups will stay there. Forever. You need to get them to want to move out. Like being embarrassed to bring your friends over to your parents house because their idea of decor is decades out of date. 
+
+Your accelerator is — both literally and figuratively — their parents' basement. And it should be just as awkward as that arrangement.
+
+There are also fringe benefits to this sort of interior design. You, as an accelerator staff remain scrappy. You feel less comfortable. You don't have it easy, either. And that's just how it should be.
+
+![PIE's kitchen "table"](/source/images/pie-kitchen-table.jpg)
+
+Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire the thought that "We need to get you out of here."  
