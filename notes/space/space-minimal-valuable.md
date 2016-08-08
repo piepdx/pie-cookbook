@@ -42,3 +42,7 @@ There are also fringe benefits to this sort of interior design. You, as an accel
 ![PIE's kitchen "table"](/source/images/pie-kitchen-table.jpg)
 
 Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire the thought that "We need to get you out of here."  
+
+## IKEA is your friend
+
+Don't make furnishings a major line item
