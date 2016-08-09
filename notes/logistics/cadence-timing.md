@@ -33,7 +33,7 @@ By class three (Coconut Creme) we had learned to break the class into three mara
 
 Throughout the course of these stages and gates, we tailor the mentor talks to match the topic — or to queue up the obvious need for the startups to focus on these particular topics.
 
-Here's how we broke it out:
+Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
 
 ### Product (Month 1)
 
