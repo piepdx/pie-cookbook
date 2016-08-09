@@ -67,6 +67,8 @@ With projections, we experience the polar opposite of product. No one feels conf
 
 To support, we offer templates, mentors, and office hours to help. But it usually doesn't. And it becomes a last minute scramble, rife with cries of "Do we really have to do this?"
 
+The answer is "Yes." It's a required element of the class.
+
 From this position of lacking confidence, the revealing of the projections to peers in the a group becomes a very different exercise. With the presenting founder often asking more questions than the audience.
 
 "How did you do this?", "Does this seem realistic?", "What's missing?"
@@ -75,8 +77,31 @@ A second month of stress induced collaboration has heightened the trust among pe
 
 But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
 
-
 ### Pitch (Month 3)
+
+Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
+
+It's important to note that many programs choose to pitch throughout the course of the entire class. We've found this to have diminishing returns if run for longer than a month. It's also a good chunk of time which we feel is better focused on things like product and projections.
+
+If the product demo is the area of the most confidence and projections are the area of least confidence, the pitch is somewhere in the middle. But it's often the most difficult to refine and finesse, so plan to spend a great deal of time doing it. 
+
+At PIE, we played it by ear, with no fewer than two full group pitch practices per week. With individual staff, mentor, and peer-to-peer pitch practices rounding out the month of activity. 
+
+We began with no slides, only story. Because it does no good to waste time building slides for a story that is going to change drastically anyway. We continue with no slides until we feel the stories are starting to solidify. Then we move to pitches with slides and story.
+
+Group pitch practices are attended by all startups and staff. Mentors are invited to attend when and if they can. Presenters receive feedback from staff, peers, and their team members. 
+
+But there is one distinct difference from the previous two milestones. The difference — and this is critically important — is that while previous presentations are a conversation among the presenter and the audience, this feedback loop is one way. The audience can critique the presentation, but the presenter cannot respond. 
+
+Why? Well, we learned from our speaking coach mentor that this is a critical step in getting people to actually implement changes and improve their talks. You see, if they respond to the feedback, they subconsciously assume that they've fixed the problem. So don't let them respond. And they go and actually fix the problem.
+
+Once the story and deck are starting to come together, start recording the presenters. Not only will it give them a valuable asset to review, it will present another stressor that breaks them out of their comfort zone.
+
+Another piece of feedback we've received from the startups? 
+
+The last week is pretty much nonstop practice, where we not only continue to finesse the story and the deck, but we start getting the presenter to give the pitch in the uniform that they plan to wear on stage. We've learned that the more we gradually attempt to mimic the environment and conditions they will experience on Demo Day — even if it can't be done perfectly — the better the presentations are.
+
+If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
 
 
 
