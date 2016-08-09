@@ -45,11 +45,14 @@ But that led to some interesting things, as well.
 
 Those who were further ahead on product often discovered that they lacked the language to effectively convey what they were building. Worse yet, they sometimes that the current version of the product was difficult, if not impossible, to demo to a diverse audience. 
 
+We get to question assumptions, clarify utility, and make suggestions, as a class. In a group environment. Companies get to respond directly to queries, jot down feature ideas, and generally scratch their head a great deal and ask "Why **did** we do it that way?"
+
 So month one, get the product momentum going. And reward those who are making progress. Because that's going to be the crux of everything going forward. 
 
-And give them the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
+It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
 
 ### Projections (Month 2)
+
 ### Pitch (Month 3)
 
 
