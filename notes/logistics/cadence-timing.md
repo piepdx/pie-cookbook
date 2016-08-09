@@ -31,6 +31,8 @@ So even the three months has to be broken down into smaller chunks. To manage th
 
 By class three (Coconut Creme) we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
 
+Throughout the course of these stages and gates, we tailor the mentor talks to match the topic — or to queue up the obvious need for the startups to focus on these particular topics.
+
 Here's how we broke it out:
 
 ### Product (Month 1)
@@ -52,6 +54,27 @@ So month one, get the product momentum going. And reward those who are making pr
 It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
 
 ### Projections (Month 2)
+
+Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
+
+Now that we've stressed out the developers, we put the stress on the business people. Who, more often than not, are developers learning how to business. 
+
+And in our experience, nothing makes a business person feel more businessy than creating a spreadsheet with lots of dollar values in it. So that's exactly what we focus on during month two, projections.
+
+We usually choose a 12 month window, because none of us know what's really going to happen in the future. But a year seems like a viable window to explore these numbers.
+
+With projections, we experience the polar opposite of product. No one feels confident in their numbers. Most companies don't even know where to begin. 
+
+To support, we offer templates, mentors, and office hours to help. But it usually doesn't. And it becomes a last minute scramble, rife with cries of "Do we really have to do this?"
+
+From this position of lacking confidence, the revealing of the projections to peers in the a group becomes a very different exercise. With the presenting founder often asking more questions than the audience.
+
+"How did you do this?", "Does this seem realistic?", "What's missing?"
+
+A second month of stress induced collaboration has heightened the trust among peers from a feeling of camaraderie to a dynamic of peer mentorship. And this is exactly what we're trying to engender. 
+
+But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
+
 
 ### Pitch (Month 3)
 
