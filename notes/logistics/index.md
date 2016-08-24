@@ -1,0 +1,32 @@
+# Index
+
+- [Staff roles and responsibilities](pie-staff-roles-responsibiliies.md)
+- [Creating a cadence](cadence-timing.md)
+- [What to expect when you're expecting a startup](onboarding-startups.md)
+- [Meeting with Mentors](guide-mentors-meeting-with.md)
+- [Typical week](pie-typical-week.md)
+- [Demo Day](logistics-demo-day.md)
+
+## Communications with startups
+
+### Applications
+
+- [Application/Cheat sheet](pie-application-cheat-sheet.md)
+- [Open applications](letter-applications-open.md)
+- [Applications due (two weeks out)](letter-applications-two-weeks.md)
+- [Applications due (one week out)](letter-application-one-week.md)
+- [Mistakes were made](letter-technical-issues.md)
+
+### Acceptance
+
+- [Onboarding](onboarding.md)
+- [Acceptance letter](onboarding-acceptance-letter.md)
+- [What to expect](onboarding-what-to-expect.md)
+- [What you're getting yourself into](onboarding-what-youre-getting-in-to.md)
+
+## Demo Day communications
+
+- [Invitation](letter-demo-day-invite.md)
+- [Reminder](letter-demo-day-logistics.md)
+- [Livestream](letter-demo-day-livestream-reminder.md)
+- [Follow up](letter-demo-day-follow-up.md) 
