@@ -5,6 +5,7 @@
 - [What to expect when you're expecting a startup](onboarding-startups.md)
 - [Meeting with Mentors](guide-mentors-meeting-with.md)
 - [Typical week](pie-typical-week.md)
+- [404 contest](404-contest.md)
 - [Demo Day](logistics-demo-day.md)
 
 ## Communications with startups
