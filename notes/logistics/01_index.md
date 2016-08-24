@@ -4,13 +4,14 @@
 - [Creating a cadence](cadence-timing.md)
 - [What to expect when you're expecting a startup](onboarding-startups.md)
 - [Meeting with Mentors](guide-mentors-meeting-with.md)
-- [Typical week](pie-typical-week.md)
+- [Typical week](logistics-typical-week.md)
+- [Family Dinner](logistics-family-dinner.md)
 - [404 contest](404-contest.md)
 - [Demo Day](logistics-demo-day.md)
 
 ## Communications with startups
 
-### Applications
+### Recruiting startups
 
 - [Application/Cheat sheet](pie-application-cheat-sheet.md)
 - [Open applications](letter-applications-open.md)
@@ -18,7 +19,7 @@
 - [Applications due (one week out)](letter-application-one-week.md)
 - [Mistakes were made](letter-technical-issues.md)
 
-### Acceptance
+### Onboarding startups
 
 - [Onboarding](onboarding.md)
 - [Acceptance letter](onboarding-acceptance-letter.md)
