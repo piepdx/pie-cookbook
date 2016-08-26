@@ -19,10 +19,23 @@ We’ll take you through each of these elements from least amount of engagement 
 ### For the mentor
 ### For the founders
 
-## 1:1
+## Hands on
 
-### For the mentor
-### For the founders
+### 1:1
+
+#### For the mentor
+#### For the founders
+
+### 1:Company
+
+#### For the mentor
+#### For the founders
+
+### Many:Company
+
+#### For the mentor
+#### For the founders
+
 
 
 

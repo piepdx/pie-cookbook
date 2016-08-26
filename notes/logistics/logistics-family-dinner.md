@@ -24,4 +24,8 @@ Family Dinner problems began to take three distinct forms:
 2. **Now, that's interesting.** An individual would raise an issue that no one had ever dealt with previously, and yet folks were motivated to solve collaboratively. Multiple parties would collaborate to accelerate the resolution of the issue.
 3. **Stop. Do not pass Go.** An individual would raise an issue that folks had tried to solve before, but it would be defined to be a completely intractable problems with no solution. Rather than continue to struggle, the individual would be encouraged to move on — or move around — that problem.
 
+But it wasn't without its flaws. Some folks begin commanding more airtime than others. So we put a time limit on it. And enforced a requirement for everyone to talk. We tried to create a culture of collaboration. Where everyone was getting value out of the gathering. Not just a few squeaky wheels.
+
+## Family Dinner 2.0 (Accelerator)
+
 
