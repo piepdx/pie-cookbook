@@ -10,6 +10,12 @@ Community can refer to any group of individuals who hold common goals and are mo
 > e.g., The Portland technology community has subsets like the Portland open source community and the Portland tech startup community. There is significant crossover between the open source community and the tech startup community, but they do not share exactly the same goals.
 
 ## Incubator
+An incubator is a protected work environment designed to shelter founders and ideas as they work to build concepts and prototypes. Incubators are designed to help early stage ideas survive longer than they would in the wild, independent of shelter. As such, an incubator does not accurately reflect the stressors and turmoil of the real world. Instead, it seeks to shield founders from reality by providing resources that best ensure its likelihood of finding commercial applications of its concept(s). This is by design.
+
+> e.g., University tech transfer programs tend to be a good example of incubators
+
+Although PIE has "incubator" in its name, that's a misnomer. We simply couldn't come up with a phrase that worked for PAELLA.
+
 ## Accelerator
 ## Mentor
 ## Advisor
