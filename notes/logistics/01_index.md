@@ -7,7 +7,6 @@
 - [Typical week](logistics-typical-week.md)
 - [Family Dinner](logistics-family-dinner.md)
 - [Lunch and Learns](logistics-lunch-and-learns.md)
-- [404 contest](404-contest.md)
 - [Demo Day](logistics-demo-day.md)
 
 ## Communications with startups
