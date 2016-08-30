@@ -1,6 +1,7 @@
 # Index
 
 - [Notes on mentoring](mentoring.md)
+- [Mentors vs Advisors](mentors-vs-advisors.md)
 - [Mentoring the mentors](mentoring-mentors.md)
 - [Common sense is not common](common-sense.md)
 - [Bad actors](mentors-bad-actors.md)
