@@ -21,6 +21,12 @@ Incubators are designed to help early stage ideas survive longer than they would
 Although PIE has "incubator" in its name, that's a misnomer. We simply couldn't come up with a phrase that worked for PAELLA.
 
 ## Accelerator
+An accelerator is a semi-protective environment that behaves as a microcosm of the real world, at a highly increased rate of speed. It is designed to help founders rapidly address issues impacting their businesses — and help them to better understand how to deal with personalities and adversity in the real world.  
+
+> Accelerators are not designed to protect founders from the elements of the startup world. They are designed to expose founders to those elements, time and time again in rapid succession. 
+
+To quote Techstars, accelerators, by their very nature, are designed to help companies "do more, faster." They are designed to make founders uncomfortable. And to push founder to do and achieve more — or fail — more rapidly than they would be capable of on their own.
+
 ## Mentor
 ## Advisor
 ## Investor
