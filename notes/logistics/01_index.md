@@ -8,6 +8,7 @@
 - [Family Dinner](logistics-family-dinner.md)
 - [Lunch and Learns](logistics-lunch-and-learns.md)
 - [Demo Day](logistics-demo-day.md)
+- [Post mortem](logistics-post-mortem.md)
 
 ## Communications with startups
 
