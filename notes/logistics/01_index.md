@@ -7,6 +7,7 @@
 - [Typical week](logistics-typical-week.md)
 - [Family Dinner](logistics-family-dinner.md)
 - [Lunch and Learns](logistics-lunch-and-learns.md)
+- [Bonding](logistics-enforced-socializing-with-peers.md)
 - [Demo Day](logistics-demo-day.md)
 - [Post mortem](logistics-post-mortem.md)
 
