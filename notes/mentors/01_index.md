@@ -4,8 +4,11 @@
 - [Mentors vs Advisors](mentors-vs-advisors.md)
 - [Mentoring the mentors](mentoring-mentors.md)
 - [Common sense is not common](common-sense.md)
-- [Homogenous mentors](../misc/mistakes/mentors-homogenous.md)
 - [Bad actors](mentors-bad-actors.md)
+
+## Mistakes
+- [Homogenous mentors](../misc/mistakes/mentors-homogenous.md)
+- [Corporate mentors](../misc/mistakes/mentors-corporate.md)
 
 ## Logistics
 
