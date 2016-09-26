@@ -1,6 +1,6 @@
 # Index
 
-- [Staff roles and responsibilities](pie-staff-roles-responsibiliies.md)
+- [Staff roles and responsibilities](pie-staff-roles-responsibilities.md)
 - [Creating a cadence](cadence-timing.md)
 - [What to expect when you're expecting a startup](onboarding-startups.md)
 - [Meeting with Mentors](guide-mentors-meeting-with.md)
