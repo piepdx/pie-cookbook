@@ -471,7 +471,12 @@
 				84. Events
 				82. Tchotchkes
 			82. Applications
-				83. Example application
+				83. Example application (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
+				84. Communications
+					85. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
+					86. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
+					87. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
+					88. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
 				84. Fringe benefits of applications: Market research
 					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
 					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
@@ -623,11 +628,18 @@
 				124. Additional content
 				118. Venue
 				119. Promotion
+					120. Communications
+						121. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-demo-day-invite.md
+						122. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-demo-day-logistics.md
+						123. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-demo-day-livestream-reminder.md
+						124. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-demo-day-follow-up.md
 				120. Logistics
 					120. Run of show
 					120. Pre-show
 					121. During show
 					122. Post show
+					123. Archive
+						124. https://www.youtube.com/channel/UCMEbih2k3WBsODB68WqwT6g/videos?sort=dd&shelf_id=0&view=0
 		115. Dessert 
 			116. Post mortems (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-post-mortem.md)
 			118. Tweaking the model
