@@ -490,12 +490,17 @@
 			90. Prep
 				91. Background checks
 				92. Paperwork
-			91. Onboarding
+			91. Onboarding 
+				92. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding-startups.md
+				93. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding.md
 				92. Setting expectations
+					93. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
+					94. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding-what-to-expect.md
+					95. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding-what-youre-getting-in-to.md
 				93. Touring the space
 				94. Introducing startups to one another
 			91. First day
-			92. Family Dinner
+			92. Family Dinner (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-family-dinner.md)
 				93. Origin
 					94. Borrowed from YC
 					95. Originally didn’t involve any dinner
@@ -512,7 +517,8 @@
 					98. Everyone has to talk
 					99. If you can help, help
 			96. Day-to-day
-				97. The emotional ebb and flow of a stressful startup accelerator
+				97. The emotional ebb and flow of a stressful startup accelerator (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/cadence-timing.md)
+				98. Typical week (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-typical-week.md)
 				98. Curriculum
 					105. More independent study than classroom
 						106. Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
@@ -547,29 +553,32 @@
 					104. Weekly 1:1
 					105. Office hours
 				99.  Working with mentors
-					99. Mentor engagement
-						100. Formal
-							101. Presentation with Q&A
-								102. As we mention above, founders only care about the problem they’re experiencing today, right now. To further the disconnect, even if a mentor provides step-by-step instructions with excruciating details, the founder will never be able to recreate the steps, moments in time, or luck that founder had. 
-								103. For this reason, we suggest that mentor presentations primarily be used as an anecdotal learning experience. Not a teaching one.
-								104. Your primary objective with this format is to convince your founders that they, like the mentor, are capable of succeeding. 
-								104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
-								105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
-							100. Workshops
-							101. Gauntlet/speed dating
-							102. 1:1
-							103. Office hours
-						103. Informal
-							103. Happy hours
-							104. After hours
-							104. Social gatherings
-							105. Pitch practice
-							106. Drop ins
-							107. On the fly/visiting mentors
+					100.  https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/guide-mentors-meeting-with.md
+				99. Mentor engagement
+					100. Formal
+						101. Presentation with Q&A
+							102. As we mention above, founders only care about the problem they’re experiencing today, right now. To further the disconnect, even if a mentor provides step-by-step instructions with excruciating details, the founder will never be able to recreate the steps, moments in time, or luck that founder had. 
+							103. For this reason, we suggest that mentor presentations primarily be used as an anecdotal learning experience. Not a teaching one.
+							104. Your primary objective with this format is to convince your founders that they, like the mentor, are capable of succeeding. 
+							104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
+							105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
+						100. Workshops
+						101. Lunch and Learns (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-lunch-and-learns.md)
+						101. Gauntlet/speed dating
+						102. 1:1
+						103. Office hours
+					103. Informal
+						103. Happy hours
+						104. After hours
+						104. Social gatherings
+						105. Pitch practice
+						106. Drop ins
+						107. On the fly/visiting mentors
 				108. Peer mentoring
 					109. Creating the culture of peer mentoring
 					110. Enabling random collisions through the selection process
 					111. Reinforcing collaboration and trust
+					112. Encouraging bonding among peers (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-enforced-socializing-with-peers.md)
 					112. Using shared experiences
 						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
 						114. Family Dinner
@@ -598,7 +607,7 @@
 			112. Startup sprints
 				113. 404
 				114. Bring the pain
-			115. Demo Day
+			115. Demo Day (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-demo-day.md)
 				116. To Demo Day or not to Demo Day?
 				116. Objectives
 				117. Audience
@@ -620,7 +629,7 @@
 					121. During show
 					122. Post show
 		115. Dessert 
-			116. Post mortems
+			116. Post mortems (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-post-mortem.md)
 			118. Tweaking the model
 			119. Quarterly surveys
 			119. Metrics for success
