@@ -4,7 +4,9 @@
 ## PIE Cookbook
 
 2. About 
+	3. Preface (https://github.com/piepdx/pie-cookbook/blob/master/notes/context/preface.md)
 	3. Context
+		4. https://github.com/piepdx/pie-cookbook/blob/master/notes/context/building-startup-accelerator.md
 		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on the momentum of an existing community, enabling community leaders, supporters, and contributors to focus their efforts in conjunction with that momentum for the greatest benefit — and highest likelihood of success — for that community. (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-i-context-a-building-an-accelerator)
 		5. While PIE will speak from its vantage point on its experience as coworking space, a community hub, and an early stage tech startup accelerator, the PIE Cookbook is not meant to be tech specific. Nor is it meant to be a guide that only applies to startups. 
 		6. We believe that the accelerator model is a powerful and efficient educational construct to can be applied to a variety of markets, businesses, and communities. 
@@ -55,6 +57,7 @@
 					13. Sometimes you’ll need to start later in the book and work your way backwards.
 					14. Start with what you have. Go from there.
 		10. Definitions
+			11. https://github.com/piepdx/pie-cookbook/blob/master/notes/context/context-definitions.md
 			11. We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
 			11. Community (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-ii-format-e-definitions-b-community)
 			12. Incubator
@@ -476,12 +479,12 @@
 				84. Events
 				82. Tchotchkes
 			82. Applications
-				83. Example application (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
+				83. Example application (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
 				84. Communications
-					85. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
-					86. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
-					87. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
-					88. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
+					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
+					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
+					87. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
+					88. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
 				84. Fringe benefits of applications: Market research
 					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
 					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
@@ -501,16 +504,16 @@
 				91. Background checks
 				92. Paperwork
 			91. Onboarding 
-				92. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding-startups.md
-				93. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding.md
+				92. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-startups.md
+				93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding.md
 				92. Setting expectations
-					93. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
-					94. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding-what-to-expect.md
-					95. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/onboarding-what-youre-getting-in-to.md
+					93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
+					94. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-to-expect.md
+					95. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-youre-getting-in-to.md
 				93. Touring the space
 				94. Introducing startups to one another
 			91. First day
-			92. Family Dinner (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-family-dinner.md)
+			92. Family Dinner (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-family-dinner.md)
 				93. Origin
 					94. Borrowed from YC
 					95. Originally didn’t involve any dinner
@@ -527,8 +530,8 @@
 					98. Everyone has to talk
 					99. If you can help, help
 			96. Day-to-day
-				97. The emotional ebb and flow of a stressful startup accelerator (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/cadence-timing.md)
-				98. Typical week (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-typical-week.md)
+				97. The emotional ebb and flow of a stressful startup accelerator (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/cadence-timing.md)
+				98. Typical week (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-typical-week.md)
 				98. Curriculum
 					105. More independent study than classroom
 						106. Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
@@ -563,7 +566,7 @@
 					104. Weekly 1:1
 					105. Office hours
 				99.  Working with mentors
-					100.  https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/guide-mentors-meeting-with.md
+					100.  https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/guide-mentors-meeting-with.md
 				99. Mentor engagement
 					100. Formal
 						101. Presentation with Q&A
@@ -573,7 +576,7 @@
 							104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
 							105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
 						100. Workshops
-						101. Lunch and Learns (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-lunch-and-learns.md)
+						101. Lunch and Learns (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-lunch-and-learns.md)
 						101. Gauntlet/speed dating
 						102. 1:1
 						103. Office hours
@@ -588,7 +591,7 @@
 					109. Creating the culture of peer mentoring
 					110. Enabling random collisions through the selection process
 					111. Reinforcing collaboration and trust
-					112. Encouraging bonding among peers (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-enforced-socializing-with-peers.md)
+					112. Encouraging bonding among peers (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-enforced-socializing-with-peers.md)
 					112. Using shared experiences
 						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
 						114. Family Dinner
@@ -617,7 +620,7 @@
 			112. Startup sprints
 				113. 404
 				114. Bring the pain
-			115. Demo Day (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-demo-day.md)
+			115. Demo Day (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-demo-day.md)
 				116. To Demo Day or not to Demo Day?
 				116. Objectives
 				117. Audience
@@ -634,10 +637,10 @@
 				118. Venue
 				119. Promotion
 					120. Communications
-						121. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-demo-day-invite.md
-						122. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-demo-day-logistics.md
-						123. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-demo-day-livestream-reminder.md
-						124. https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/letter-demo-day-follow-up.md
+						121. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-invite.md
+						122. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-logistics.md
+						123. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-livestream-reminder.md
+						124. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-follow-up.md
 				120. Logistics
 					120. Run of show
 					120. Pre-show
@@ -646,7 +649,7 @@
 					123. Archive
 						124. https://www.youtube.com/channel/UCMEbih2k3WBsODB68WqwT6g/videos?sort=dd&shelf_id=0&view=0
 		115. Dessert 
-			116. Post mortems (https://github.com/turoczy/pie-cookbook/blob/master/notes/logistics/logistics-post-mortem.md)
+			116. Post mortems (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-post-mortem.md)
 			118. Tweaking the model
 			119. Quarterly surveys
 			119. Metrics for success
