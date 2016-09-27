@@ -5,7 +5,7 @@
 
 2. About 
 	3. Context
-		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on the momentum of an existing community, enabling community leaders, supporters, and contributors to focus their efforts in conjunction with that momentum for the greatest benefit — and highest likelihood of success — for that community.
+		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on the momentum of an existing community, enabling community leaders, supporters, and contributors to focus their efforts in conjunction with that momentum for the greatest benefit — and highest likelihood of success — for that community. (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-i-context-a-building-an-accelerator)
 		5. While PIE will speak from its vantage point on its experience as coworking space, a community hub, and an early stage tech startup accelerator, the PIE Cookbook is not meant to be tech specific. Nor is it meant to be a guide that only applies to startups. 
 		6. We believe that the accelerator model is a powerful and efficient educational construct to can be applied to a variety of markets, businesses, and communities. 
 		7. We believe that no one has perfected it yet. So you should feel free to adapt and revise it as you see fit. 
@@ -15,7 +15,7 @@
 			9. As far as accelerators go, we have our Ivy Leagues and our Stanford, but we have barely begun to scratch the surface for this educational model. Where is the Georgia Tech of accelerators? Where is the RISD? Where is the Reed or Whitman? Better yet, where is the state school or community college or junior college? Where is the vocational school of accelerators? There’s still plenty of room to explore this educational model. We have a long way to go before we’ve even leveraged the existing model, let alone begun to inflate the bubble. https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.qjyagrd3p
 		6. This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most every case, it may not be wise — or downright foolhardy — to start where PIE ended. You should start where PIE started. And try to end where you want to end. 
 		7. There is inherent value in the journey, itself.
-		8. Risks
+		8. Risks (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-i-context-h-risks)
 			9. Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
 			10. You can go too far.
 				11. In structure
@@ -56,7 +56,7 @@
 					14. Start with what you have. Go from there.
 		10. Definitions
 			11. We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
-			11. Community
+			11. Community (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-ii-format-e-definitions-b-community)
 			12. Incubator
 			12. Accelerator
 			12. Mentor
@@ -73,6 +73,7 @@
 			15. Sponsor
 			15. Partner
 	8. Before you begin
+		9. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-iii-before-you-begin-b-pre-requisite-reading-a-required-a-startup-communities
 		9. Establishing context and your own vocabulary
 		10. Prerequisite reading
 			11. Required
@@ -198,6 +199,7 @@
 					13. Day-long speed dating
 					14. Pitching from the beginning of the program
 15. Kitchen Prep
+	16. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#3-kitchen-prep
 	16. Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
 	16. Environmental scan
 		18. Assess what's what before you begin
@@ -217,6 +219,7 @@
 		16. You're helping founders understand how to survive in the real world
 	15. Base ingredients
 		16. Community
+			17. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#4-cooking-ii-base-ingredients-a-community
 			17. How do you define your community?
 			17. What are the objectives?
 				18. Shared
@@ -414,12 +417,14 @@
 		58. Good cop/bad cop
 	59. Recipes
 		60. Beverages (community engagement)
+			61. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#4-cooking-v-recipes-a-beverages-community-engagement
 			61. Attending events
 			62. Online presence
 			63. Social
 			64. Blog
 		65. Hors d'oeuvre (Hackathons, events, coworking)
-			66. Don’t start with an accelerator
+			66. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#4vb-hors-doeuvre-hackathons-events-coworking
+			66. Don’t start with an accelerator (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#want-to-start-an-accelerator-dont-start-an-accelerator)
 			66. Coworking and Community Development are not complementary
 				67. We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
 				68. Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
