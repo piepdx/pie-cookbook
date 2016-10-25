@@ -16,45 +16,45 @@
 
 ## Outline
 
-### 1. About i. Context a. Building an accelerator… 
+~~### 1. About i. Context a. Building an accelerator… ~~
 
-It seems a lot of folks want to build an accelerator to somehow create a startup community from scratch. Unfortunately, that's not really how this thing works. 
+~~It seems a lot of folks want to build an accelerator to somehow create a startup community from scratch. Unfortunately, that's not really how this thing works. ~~
 
-An accelerator can attract a community. An accelerator can codify a community. An accelerator can even import a community. But an accelerator has to have a community. 
+~~An accelerator can attract a community. An accelerator can codify a community. An accelerator can even import a community. But an accelerator has to have a community. ~~
 
-Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of accelerating or capitalizing on the momentum of an existing community, identifying and enabling community leaders, and providing infrastructure for supporters and contributors to engage, thereby enabling all parties, throughout the community, to focus everyone's efforts to the greatest benefit — and highest likelihood of success — for that community.
+~~Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of accelerating or capitalizing on the momentum of an existing community, identifying and enabling community leaders, and providing infrastructure for supporters and contributors to engage, thereby enabling all parties, throughout the community, to focus everyone's efforts to the greatest benefit — and highest likelihood of success — for that community.~~
 
-The best accelerators spring up from communities. Great communities can form around accelerators, but they need a seed community from which to spring.
+~~The best accelerators spring up from communities. Great communities can form around accelerators, but they need a seed community from which to spring.~~
 
-If you don't have an existing community, keep this in mind when you're deciding on the focus of your accelerator. Because if you don't have a community then your accelerator needs to be attractive enough to recruit a community around it.
+~~If you don't have an existing community, keep this in mind when you're deciding on the focus of your accelerator. Because if you don't have a community then your accelerator needs to be attractive enough to recruit a community around it.~~
 
 
 ### 1. About i. Context h. Risks
 
-Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for disaster. 
+~~Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for disaster. ~~
 
-Accelerators don't start communities. Communities start accelerators.
+~~Accelerators don't start communities. Communities start accelerators.~~
 
-Your accelerator should be a reflection of your community — or the community you want to attract. 
+~~Your accelerator should be a reflection of your community — or the community you want to attract. ~~
 
-In other words, don't try to build an accelerator that doesn't have a target community. 
+~~In other words, don't try to build an accelerator that doesn't have a target community. ~~
 
-For PIE, that target community was the startup community that was beginning to form in Portland. It was the combination of the open source community, a nascent group of early stage companies who were seeking assistance and capital, and a group of experienced startup folks who were looking for a means of giving back to the community. Folks who were willing to share their expertise if only there were a means of doing that.
+~~For PIE, that target community was the startup community that was beginning to form in Portland. It was the combination of the open source community, a nascent group of early stage companies who were seeking assistance and capital, and a group of experienced startup folks who were looking for a means of giving back to the community. Folks who were willing to share their expertise if only there were a means of doing that.~~
 
-- It's a means of catalyzing existing community
-- Be honest about your community
-- You can only work with what you've got
-- You have to start with the ingredients your community has, but you don't need to follow the existing community momentum
-- You're allowed to bring different ingredients into the community, but the initial activity must start with existing assets
-- Some of your community assets may have never combined before (e.g., Portland startup community and W+K), but they're still both assets to be considered
+~~- It's a means of catalyzing existing community~~
+~~- Be honest about your community~~
+~~- You can only work with what you've got~~
+~~- You have to start with the ingredients your community has, but you don't need to follow the existing community momentum~~
+~~- You're allowed to bring different ingredients into the community, but the initial activity must start with existing assets~~
+~~- Some of your community assets may have never combined before (e.g., Portland startup community and W+K), but they're still both assets to be considered~~
 
-It is incredibly difficult to do virtual communities well. Not loosely affiliated social networks. Clearly folks have managed to do that. But communities. Actual interacting and collaborating communities. Groups of people who share common interests, work toward common goals, and support one another. 
+~~It is incredibly difficult to do virtual communities well. Not loosely affiliated social networks. Clearly folks have managed to do that. But communities. Actual interacting and collaborating communities. Groups of people who share common interests, work toward common goals, and support one another. ~~
 
-In our experience, this kind of activity does not happen out in the ether. It happens somewhere. Physically and personally. Community, we believe, needs a place. 
+~~In our experience, this kind of activity does not happen out in the ether. It happens somewhere. Physically and personally. Community, we believe, needs a place. ~~
 
-And this has come into sharp relief as we've moved away from PIE being a physical presence. We've learned that not having a physical space has actually weakened our ability to scale and the strength of our connections. The more we rely on virtual, the more it makes it difficult to accomplish the things our community needs. 
+~~And this has come into sharp relief as we've moved away from PIE being a physical presence. We've learned that not having a physical space has actually weakened our ability to scale and the strength of our connections. The more we rely on virtual, the more it makes it difficult to accomplish the things our community needs. ~~
 
-Long story short, we greatly underestimated the positive impact and community benefits of having an actual physical place. That's why we're working to correct that. To return to PIE being less virtual and more physical. Because our community needs that physical space.
+~~Long story short, we greatly underestimated the positive impact and community benefits of having an actual physical place. That's why we're working to correct that. To return to PIE being less virtual and more physical. Because our community needs that physical space.~~
 
 ### 1. About ii. Format e. Definitions b. Community
 
