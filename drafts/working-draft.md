@@ -282,51 +282,102 @@ By way of analogy, the PIE Cookbook should serve as a map for your road trip.
 It's a visualization of where you're trying to go and a record of all of the places you'll stop along the way as you head toward your intended destination. 
 
 We're providing the details and roadside attractions so that you understand what the journey will take. 
-				9. Sometimes, you may get off the beaten path and discover something incredibly interesting. 
-				10. Sometimes, the map may be dated and the roads don't exists anymore. So you'll need to find your own way. 
-				11. It's not designed to be an airplane ticket that allows you to skip all of the messy stuff. The messy stuff is actually what it takes to bake something tasty, sustainable, and effective. 
-				12. Unfortunately, we’ve now mixed metaphors with cookbooks and roadmaps. Get used to it. We said it was a mess.
-		7. Open Source
-			7. We are releasing this information as an open source project for a reason. Because we want this to be a conversation. 
-				8. This isn't a broadcast or soliloquy. It's a collaboration among communities. 
-				9. That's why, it is equally important that your provide feedback. What was helpful? What worked? What didn't work? What was complete malarkey? Where was PIE’s experience a matter of timing and luck, rather than repeatable? How did you do things differently?
-			8. https://medium.com/portland-incubator-experiment/no-interest-in-building-a-startup-accelerator-like-pie-good-f31ecbd14e05#.7ybyv2grm
-			9. Unnecessarily proprietary: https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.97oi6moii
-				10. “So with the PIE Cookbook, getting the chance to actually help lead an open source project…? That’s been a long time coming for me. I’m looking forward to learning — and probably making some mistakes. But no matter what, I’m really interested in seeing where the community takes this project.”
-		6. History
-			7. In that same vein, we are providing the PIE history as an example or parable, not a step-by-step, cookie cutter process for you to follow to achieve the same ends. 
-			8. It is important to note that, like many things in the world of startups, PIE worked at a moment in time, because of the people involved, and the way the world happened to be going in Portland, Oregon, with open source, technology, startups, blogging, and creative agencies. 
-			9. To put it another way, the way PIE came into being and worked would likely not work if we tried to do the same thing today. Too many things have changed. There is no way to recreate those random collisions of things. Or to recreate that period in time. 
-			9. That said, your community is likely at a different place. Maybe there are similarities to our experience or moment in time. Maybe there are companies or individuals we’ll reference in the PIE Cookbook who remind you of someone in your community. 
-			10. Whatever the case, we are hopeful that our history with PIE provides reference points that allow you to better identify — and take advantage of — potential opportunities in your community, today.
-		7. Recipes
-			8. Julia Child vs Better Homes and Gardens
-				9. We don't expect you to follow these recipes step by step. This isn't a science experiment. This is sustenance for your community. And as such, it needs to taste the way your community wants it to taste. 
-				10. We expect you to make these recipes your own. Maybe you like more salt or more spice. Do what works for your community. 
-				10. Jump around as needed. Choose your own adventure.
-					11. This isn’t a book you read cover to cover. 
-					12. Some of this will seem obvious to you… but it’s not obvious to everyone
-					13. Sometimes you’ll need to start later in the book and work your way backwards.
-					14. Start with what you have. Go from there.
-		10. Definitions
-			11. https://github.com/piepdx/pie-cookbook/blob/master/notes/context/context-definitions.md
-			11. We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
-			11. Community (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-ii-format-e-definitions-b-community)
-			12. Incubator
-			12. Accelerator
-			12. Mentor
-			13. Advisor
-			14. Investor
-				15. Angel
-				16. Venture Capital
-				17. Institutional Capital
-				17. Private Equity
-			13. Startup
-			14. Founder
-			14. Resident
-			14. Patron
-			15. Sponsor
-			15. Partner
+
+Sometimes, you may get off the beaten path and discover something incredibly interesting. 
+
+Sometimes, the map may be dated and the roads don't exists anymore. So you'll need to find your own way. 
+
+It's not designed to be an airplane ticket that allows you to skip all of the messy stuff. The messy stuff is actually what it takes to bake something tasty, sustainable, and effective. 
+
+Unfortunately, we’ve now mixed metaphors with cookbooks and roadmaps. Get used to it. We said it was a mess.
+
+## Open Source
+
+We are releasing this information as an open source project for a reason. Because we want this to be a conversation. 
+
+This isn't a broadcast or soliloquy. It's a collaboration among communities. That's why it is equally important that your provide feedback. What was helpful? What worked? What didn't work? What was complete malarkey? Where was PIE’s experience a matter of timing and luck, rather than repeatable? How did you do things differently?
+
+(Footnote: https://medium.com/portland-incubator-experiment/no-interest-in-building-a-startup-accelerator-like-pie-good-f31ecbd14e05#.7ybyv2grm)
+
+
+> “So with the PIE Cookbook, getting the chance to actually help lead an open source project…? That’s been a long time coming for me. I’m looking forward to learning — and probably making some mistakes. But no matter what, I’m really interested in seeing where the community takes this project.”
+
+> - [Unnecessarily proprietary](https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.97oi6moii)
+
+## History
+
+In that same vein, we are providing the PIE history as an example or parable, not a step-by-step, cookie cutter process for you to follow to achieve the same ends. 
+
+It is important to note that, like many things in the world of startups, PIE worked at a moment in time, because of the people involved, and the way the world happened to be going in Portland, Oregon, with open source, technology, startups, blogging, and creative agencies. 
+
+To put it another way, the way PIE came into being and worked would likely not work if we tried to do the same thing today. Too many things have changed. There is no way to recreate those random collisions of things. Or to recreate that period in time.
+
+That said, your community is likely at a different place. Maybe there are similarities to our experience or moment in time. Maybe there are companies or individuals we’ll reference in the PIE Cookbook who remind you of someone in your community. 
+
+Whatever the case, we are hopeful that our history with PIE provides reference points that allow you to better identify — and take advantage of — potential opportunities in your community, today.
+
+## Recipes
+
+We don't expect you to follow these recipes step by step. This isn't a science experiment. This is sustenance for your community. And as such, it needs to taste the way your community wants it to taste. 
+
+We expect you to make these recipes your own. Maybe you like more salt or more spice. Do what works for your community. 
+
+### Jump around as needed. Choose your own adventure.
+
+This isn’t a book you read cover to cover. 
+
+Some of this will seem obvious to you. If it is? Skip it. 
+
+Sometimes you’ll need to start later in the book and work your way backwards.
+
+Start with what you have. Go from there.
+
+## Definitions
+
+We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
+We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
+
+For that reason, we're going to provide you with some definitions of terms that are regularly used throughout the PIE Cookbook. Please note that, like all things in this document, we are simply providing this as a reference. We would encourage you to create your own set of definitions for your specific needs.
+
+### Community
+Community can refer to any group of individuals who hold common goals and are motivated to collaborate to achieve those goals. There is no specified size for a community. And communities can be nested within other communities — or overlap. Therefore, it is always important to test the assumptions of toward what the "community" is working.
+
+> e.g., The Portland technology community has subsets like the Portland open source community and the Portland tech startup community. There is significant crossover between the open source community and the tech startup community, but they do not share exactly the same goals.
+
+A community simply has to have a focus. It can revolve around concepts, ideals, goals, brands, or any combination thereof. We see community, at its essence, as a group of people with a shared, collaborative vision.
+
+### Incubator
+An incubator is a protected work environment designed to shelter founders and ideas as they work to realize concepts and prototypes. There is no "business" yet. There are simply ideas and potential. 
+
+Incubators are designed to help early stage ideas survive longer than they would in the wild, independent of shelter. As such, an incubator does not accurately reflect the stressors and turmoil of the real world. Instead, it seeks to shield founders from reality by providing resources that best ensure its likelihood of finding commercial applications of its concept(s). This is by design.
+
+> e.g., University tech transfer programs tend to be a good example of incubators
+
+Although PIE has "incubator" in its name, that's a misnomer. We simply couldn't come up with a phrase that worked for PAELLA.
+
+### Accelerator
+An accelerator is a semi-protective environment that behaves as a microcosm of the real world, at a highly increased rate of speed. It is designed to help founders rapidly address issues impacting their businesses — and help them to better understand how to deal with personalities and adversity in the real world.  
+
+> Accelerators are not designed to protect founders from the elements of the startup world. They are designed to expose founders to those elements, time and time again in rapid succession. 
+
+To quote Techstars, accelerators, by their very nature, are designed to help companies "do more, faster." They are designed to make founders uncomfortable. And to push founder to do and achieve more — or fail — more rapidly than they would be capable of on their own.
+
+### Mentor
+### Advisor
+### Investor
+#### Angel
+#### Venture Capital
+#### Institutional Capital
+#### Private Equity
+### Startup
+### Founder
+### Resident
+### Patron
+### Sponsor
+### Partner
+
+——————
+
 	8. Before you begin
 		9. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-iii-before-you-begin-b-pre-requisite-reading-a-required-a-startup-communities
 		9. Establishing context and your own vocabulary
