@@ -258,20 +258,30 @@ And this has come into sharp relief as we've moved away from PIE being a physica
 
 Long story short, we greatly underestimated the positive impact and community benefits of having an actual physical place. That's why we're working to correct that. To return to PIE being less virtual and more physical. Because our community needs that physical space.
 
-—
+### Community, then accelerator
 
-			9. Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
-			10. You can go too far.
-				11. In structure
-				12. In goals
-				13. In trying to over architect the experience
-				14. In over planning and under participating
-			11. Once you start, you cannot stop. Ever.
-	4. Format
-		5. How to use this book
-			6. By way of analogy, the PIE Cookbook should serve as a map for your road trip. 
-				7. It's a visualization of where you're trying to go and a record of all of the places you'll stop along the way as you head toward your intended destination. 
-				8. We're providing the details and roadside attractions so that you understand what the journey will take. 
+Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
+
+### Just enough
+You can go too far.
+* In design
+* In environment
+* In structure
+* In goals
+* In trying to over architect the experience
+* In over planning and under participating
+
+### There is no pause button
+
+Once you start, you cannot stop. Ever.
+
+## How to use this book
+
+By way of analogy, the PIE Cookbook should serve as a map for your road trip. 
+
+It's a visualization of where you're trying to go and a record of all of the places you'll stop along the way as you head toward your intended destination. 
+
+We're providing the details and roadside attractions so that you understand what the journey will take. 
 				9. Sometimes, you may get off the beaten path and discover something incredibly interesting. 
 				10. Sometimes, the map may be dated and the roads don't exists anymore. So you'll need to find your own way. 
 				11. It's not designed to be an airplane ticket that allows you to skip all of the messy stuff. The messy stuff is actually what it takes to bake something tasty, sustainable, and effective. 
