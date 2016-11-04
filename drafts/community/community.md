@@ -97,18 +97,18 @@ Attempt to provide alignment or strengthen community when the opportunity avails
 ~~	- Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.~~
 ~~	- Then you can get visionary~~
 
-### 4. Cooking ii. Base ingredients a. Community
+~~### 4. Cooking ii. Base ingredients a. Community~~
 
-- How do you define your community? 
-- What are the objectives?
-	- Shared
-	- Conflicting
-- What is the expertise (if any)?
-- What are the weaknesses?
-- What are the silos?
-- What are the issues?
-- What are the gaps?
-- How can they help (if at all)?
+~~- How do you define your community? ~~
+~~- What are the objectives?~~
+~~	- Shared~~
+~~	- Conflicting~~
+~~- What is the expertise (if any)?~~
+~~- What are the weaknesses?~~
+~~- What are the silos?~~
+~~- What are the issues?~~
+~~- What are the gaps?~~
+~~- How can they help (if at all)?~~
 
 ### 4. Cooking v. Recipes a. Beverages (community engagement)
 

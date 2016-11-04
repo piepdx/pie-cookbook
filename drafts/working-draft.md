@@ -736,7 +736,19 @@ Where you start is where you start. It might not be where you want to end up. Bu
 		16. You're helping founders understand how to survive in the real world
 	15. Base ingredients
 		16. Community
-			17. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#4-cooking-ii-base-ingredients-a-community
+
+- How do you define your community? 
+- What are the objectives?
+	- Shared
+	- Conflicting
+- What is the expertise (if any)?
+- What are the weaknesses?
+- What are the silos?
+- What are the issues?
+- What are the gaps?
+- How can they help (if at all)?
+
+
 			17. How do you define your community?
 			17. What are the objectives?
 				18. Shared
