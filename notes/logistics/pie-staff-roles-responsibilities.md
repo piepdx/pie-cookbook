@@ -1,64 +1,64 @@
 # PIE staff roles and responsibilities
 
 ## Program Manager 
-### Role
-The Program Manager works to ensure that the current class of PIE startups has the most rewarding and beneficial experience while in the space. This role also serves as the primary startup liaison and ombudsman.
+~~### Role~~
+~~The Program Manager works to ensure that the current class of PIE startups has the most rewarding and beneficial experience while in the space. This role also serves as the primary startup liaison and ombudsman.~~
 
-### Primary responsibilities
-- Serve as primary contact point for startups, from application through graduation
-- Recommend strategies and tactics that improve the program for startups
-- Manage day-to-day relations with PIE class members
-- Monitor and moderate stress within the environment through creative use of meals, parties, perks, contests, and the like
-- Manage weekly checkpoints, including but not limited to:
-	- Monday morning kick off meetings
-	- Family Dinner meeting
-	- Weekly check-ins with each company
-- Provide a weekly status report for each company
-- Manage the schedule for curriculum and mentor visits
-- Manage major events like Demo Day
-- Manage startup relations with W+K internal teams
-- Manage the application process, from initial forms through final selection
+~~### Primary responsibilities~~
+~~- Serve as primary contact point for startups, from application through graduation~~
+~~- Recommend strategies and tactics that improve the program for startups~~
+~~- Manage day-to-day relations with PIE class members~~
+~~- Monitor and moderate stress within the environment through creative use of meals, parties, perks, contests, and the like~~
+~~- Manage weekly checkpoints, including but not limited to:~~
+~~	- Monday morning kick off meetings~~
+~~	- Family Dinner meeting~~
+~~	- Weekly check-ins with each company~~
+~~- Provide a weekly status report for each company~~
+~~- Manage the schedule for curriculum and mentor visits~~
+~~- Manage major events like Demo Day~~
+~~- Manage startup relations with W+K internal teams~~
+~~- Manage the application process, from initial forms through final selection~~
 
-### Secondary responsibilities
-- Advise on strategic planning and goal setting
-- Communicate with PIE management and W+K 
+~~### Secondary responsibilities~~
+~~- Advise on strategic planning and goal setting~~
+~~- Communicate with PIE management and W+K ~~
 
 ## General Manager
-### Role
-The General Manager works to ensure that current startups, mentors, alumni, investors, brand sponsors, and PIE staff have a mutually rewarding experience that improves the perception and quality of entrepreneurial ventures associated with PIE.
+~~### Role~~
+~~The General Manager works to ensure that current startups, mentors, alumni, investors, brand sponsors, and PIE staff have a mutually rewarding experience that improves the perception and quality of entrepreneurial ventures associated with PIE.~~
 
-### Primary responsibilities
-- Serve as primary contact point for mentors and alumni
-- Coordinate mentor and startup relations
-- Recommend strategies and tactics that improve the program for all participants
-- Recommend strategies and tactics that promote PIE, startups, alumni, and mentors
-- Manage strategic planning and goal setting
-- Manage relations with PIE mentors, investors, and alumni
-- Work to ensure PIE participates in the larger startup and accelerator community
-- Manage online presence, including but not limited to:
-	- Web content
-	- Blog
-	- Social
-- Participate in weekly checkpoints, including but not limited to:
-	- Monday morning kick off meetings
-	- Family Dinner meeting
-	- Weekly check-ins with each company
-- Provide a weekly status report on PIE progress
-- Document the PIE experience from all perspectives
-- Manage facilities, including but not limited to:
-	- Physical space
-	- Furniture
-	- Keg, coffee, water
-	- Kitchen
-	- IT
-- Propose and manage tools that enable and facilitate communications and management
+~~### Primary responsibilities~~
+~~- Serve as primary contact point for mentors and alumni~~
+~~- Coordinate mentor and startup relations~~
+~~- Recommend strategies and tactics that improve the program for all participants~~
+~~- Recommend strategies and tactics that promote PIE, startups, alumni, and mentors~~
+~~- Manage strategic planning and goal setting~~
+~~- Manage relations with PIE mentors, investors, and alumni~~
+~~- Work to ensure PIE participates in the larger startup and accelerator community~~
+~~- Manage online presence, including but not limited to:~~
+~~	- Web content~~
+~~	- Blog~~
+~~	- Social~~
+~~- Participate in weekly checkpoints, including but not limited to:~~
+~~	- Monday morning kick off meetings~~
+~~	- Family Dinner meeting~~
+~~	- Weekly check-ins with each company~~
+~~- Provide a weekly status report on PIE progress~~
+~~- Document the PIE experience from all perspectives~~
+~~- Manage facilities, including but not limited to:~~
+~~	- Physical space~~
+~~	- Furniture~~
+~~	- Keg, coffee, water~~
+~~	- Kitchen~~
+~~	- IT~~
+~~- Propose and manage tools that enable and facilitate communications and management~~
 
-### Secondary responsibilities
-- Assist with schedule for curriculum and mentor visits
-- Assist with major events like Demo Day
-- Assist with weekly checkpoints
-- Assist with weekly progress reports for startups
-- Work with W+K communications to promote PIE within the advertising industry
+~~### Secondary responsibilities~~
+~~- Assist with schedule for curriculum and mentor visits~~
+~~- Assist with major events like Demo Day~~
+~~- Assist with weekly checkpoints~~
+~~- Assist with weekly progress reports for startups~~
+~~- Work with W+K communications to promote PIE within the advertising industry~~
 
 
 ## Brand Manager 
