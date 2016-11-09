@@ -700,388 +700,8 @@ Now let’s get you working on your own. And hopefully doing this whole accelera
 					13. Day-long speed dating
 					14. Pitching from the beginning of the program
 					
-# Kitchen Prep
 
-Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
-- Environmental scan
-	- Assess what's what before you begin
-	- Start with reality
-	- What assets/resources does your community have?
-		- How mature are they?
-		- Are they currently accessible?
-	- Where are the gaps?
-		- Are they solvable?
-		- How entrenched are they?
-	- Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.
-	- Then you can get visionary
-
-——
-
-	16. Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
-	16. Environmental scan
-		18. Assess what's what before you begin
-		18. Start with reality
-		18. What assets/resources does your community have?
-			19. How mature are they?
-			20. Are they currently accessible?
-		19. Where are the gaps?
-			21. Are they solvable?
-			22. How entrenched are they?
-		23. Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.
-		23. Then you can get visionary
-12. Cooking
-	13. Primary objective: **Create an environment of trust that accelerates creative output**
-		14. Tinge it with realism
-		15. This should be a representation of the outside world, not a utopian existence
-		16. You're helping founders understand how to survive in the real world
-	15. Base ingredients
-		16. Community
-
-- How do you define your community? 
-- What are the objectives?
-	- Shared
-	- Conflicting
-- What is the expertise (if any)?
-- What are the weaknesses?
-- What are the silos?
-- What are the issues?
-- What are the gaps?
-- How can they help (if at all)?
-
-
-			17. How do you define your community?
-			17. What are the objectives?
-				18. Shared
-				19. Conflicting
-			20. What is the expertise (if any)?
-			21. What are the weaknesses?
-			17. What are the silos?
-			18. What are the issues?
-			19. What are the gaps?
-			20. How can they help (if at all)?
-
-## Patron(s)
-
-At PIE, we get a lot of questions about how to fund accelerator operations and investments. It makes sense. Finding the money that matches up with the opportunity is a challenge. It’s never easy. No matter how compelling the pitch. 
-
-What are the objectives?
-
-What is the expertise?
-
-How can they help?
-
-Can take several flavors (Note: This isn’t an exhaustive list. But it’s gives you a pretty good idea of where to look.)
-
-In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall.
-
-### True patron
-### Sponsor
-### Partner
-### Investor
-
-On the upside, venture capital can be a very effective means of funding this sort of activity.
-
-- Used to spending money on risky efforts
-- Have a time horizon that is in line with company maturation
-- Have the potential to provide follow on investment.
-- Ongoing portfolio management can be super valuable for the continued success of your companies.
-
-On the downside, this funding mechanism can curtail the experimental nature of an accelerator if VC is the only backing. 
-
-- VCs are in the business of making money. 
-- The relationship will be driven by financial motivations. Will likely be only interested in investing in. Companies that have the highest likelihood of returning capital to the fund. Companies that best match their investment thesis.
-
-This sort of focus can hamstring accelerators and incubators who may see promise or opportunity in verticals or companies that are outside of the fund’s purview. 
-
-Long story short, you don’t get to “experiment” with VC money. You get to make money.
-
-## Soapbox(s)
-
-## Other critical ingredients
-		21. Mentors
-			21. Types
-				22. Non-resident
-					22. Typical
-						23. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
-					23. Lead
-						24. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
-					30. Corporate mentors
-						24. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
-						30. Special challenges of corporate mentors
-							31. Making mentorship a requirement
-							32. Including mentorship in review process and roles & responsibilities
-							33. Getting corporate mentors to take off the “brand hat” and speak from personal experience
-								34. “You’ve achieved a level of success as [executive at company x]. What’s your personal opinion?”
-					35. Investor mentors
-						36. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
-						30. Special challenges of investor mentors
-							31. Getting investors to take off the investor hat and mentor
-							32. This isn’t due diligence. It’s mentorship.
-							33. Preparing the startups for when an investor switches from mentoring to investing
-				30. Resident
-					24. Peer
-						25. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Special challenges of peer mentors
-					25. Mentors in residence
-						26. Define role and expectations
-							27. At PIE, these were companies PIE alums who had been through the PIE process
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-							30. Can provide valuable insights into working with PIE and mentors
-							31. Can provide tips and tricks for getting the most out of the program
-							32. Can help startups work the system
-					26. Entrepreneurs in Residence
-						27. Define role and expectations
-						29. Value to the organization
-						30. Value to the entrepreneur
-					31. Staff
-						32. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Special challenges of staff as mentors
-			21. Anyone can (and should) be a mentor
-				22. It’s not just “experts”
-				23. Different viewpoints reveal flaws and opportunities
-			22. Identifying potential mentors
-			23. Qualifying potential mentors
-			24. Alums as mentors
-			24. Onboarding
-			24. Time commitment
-			25. Mentoring the mentors
-				26. Setting the tone
-					27. https://github.com/piepdx/pie-cookbook/blob/master/notes/mentors/mentoring-mentors.md
-				26. How to mentor
-				27. Common mistakes
-			26. Test driving mentors
-			27. Assessing skill fit
-			28. Assessing personality fit
-			29. Actively engaged pool
-			30. Passively engaged pool
-			30. Overlap
-			31. Integrity
-				32. https://github.com/piepdx/pie-cookbook/issues/2
-			33. Managing mentors
-				34. Scheduling should occur at the mentor’s convenience, not yours
-				35. Always make mentors aware that things change
-				36. Be prepared for pop-ins — and always take advantage of them
-			32. Unused mentors
-			33. Bad actors
-			34. Mentor value beyond the accelerator
-			35. Mentors referencing the accelerator
-				36. Online profiles
-				37. Spokespeople
-				38. Speakers
-		34. Startups
-			35. Do they have to be traditional startups?
-			35. Focus
-			36. Stage
-			37. Needs
-		38. Investors
-			39. Objectives
-			40. Outcomes  
-			39. Investor as mentor
-			40. Homegrown or imported?
-				41. Travel to them or bring them to you?
-			40. Focus
-			41. Stages
-		42. Sponsors
-			43. Objectives
-			44. Outcomes
-		45. Staff
-			46. Hiring
-			47. Required roles
-
-## Managing Director (or General Manager)
-
-### Role
-The General Manager works to ensure that current startups, mentors, alumni, investors, brand sponsors, and PIE staff have a mutually rewarding experience that improves the perception and quality of entrepreneurial ventures associated with PIE.
-
-### Primary responsibilities
-- Serve as primary contact point for mentors and alumni
-- Coordinate mentor and startup relations
-- Recommend strategies and tactics that improve the program for all participants
-- Recommend strategies and tactics that promote PIE, startups, alumni, and mentors
-- Manage strategic planning and goal setting
-- Manage relations with PIE mentors, investors, and alumni
-- Work to ensure PIE participates in the larger startup and accelerator community
-- Manage online presence, including but not limited to:
-	- Web content
-	- Blog
-	- Social
-- Participate in weekly checkpoints, including but not limited to:
-	- Monday morning kick off meetings
-	- Family Dinner meeting
-	- Weekly check-ins with each company
-- Provide a weekly status report on PIE progress
-- Document the PIE experience from all perspectives
-- Manage facilities, including but not limited to:
-	- Physical space
-	- Furniture
-	- Keg, coffee, water
-	- Kitchen
-	- IT
-- Propose and manage tools that enable and facilitate communications and management
-
-### Secondary responsibilities
-- Assist with schedule for curriculum and mentor visits
-- Assist with major events like Demo Day
-- Assist with weekly checkpoints
-- Assist with weekly progress reports for startups
-- Work with W+K communications to promote PIE within the advertising industry
-
-
-
-## Program Manager
-
-### Role
-The Program Manager works to ensure that the current class of PIE startups has the most rewarding and beneficial experience while in the space. This role also serves as the primary startup liaison and ombudsman.
-
-### Primary responsibilities
-- Serve as primary contact point for startups, from application through graduation
-- Recommend strategies and tactics that improve the program for startups
-- Manage day-to-day relations with PIE class members
-- Monitor and moderate stress within the environment through creative use of meals, parties, perks, contests, and the like
-- Manage weekly checkpoints, including but not limited to:
-	- Monday morning kick off meetings
-	- Family Dinner meeting
-	- Weekly check-ins with each company
-- Provide a weekly status report for each company
-- Manage the schedule for curriculum and mentor visits
-- Manage major events like Demo Day
-- Manage startup relations with W+K internal teams
-- Manage the application process, from initial forms through final selection
-
-### Secondary responsibilities
-- Advise on strategic planning and goal setting
-- Communicate with PIE management and W+K 
-
-## Optional roles
-
-### Entrepreneur in Residence (EiR) 
-
-#### Role
-The entrepreneur in residence role is designed to serve two critical functions. First, they are designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with PIE management. Second, the EiR is charged with assessing and highlighting opportunities within PIE that may result in efficiencies or revenue generation.
-
-#### Primary responsibilities
-- Work to formalize and codify PIE processes and programs
-- Document the PIE experience from a startup perspective
-- Serve as confidante for startups, both current and alums
-- Manage relationship with W+K technical mentors
-- Recommend strategies and tactics that improve the program for startups
-- Lead build vs. buy decisions for PIE management tools
-Work to ensure PIE participates in the larger startup and accelerator community
-
-#### Secondary responsibilities
-- Assist with schedule for curriculum and mentor visits
-- Assist with major events like Demo Day
-- Assist with weekly checkpoints
-- Assist with weekly progress reports for startups
-- Assist with online presence, including but not limited to:
-	- Web content
-	- Blog
-	- Social
-
-### Intern
-### Associate
-### Technical assistance
-
-Partners
-			52. Objectives
-			53. Outcomes
-		54. Media
-		55. Culture
-			56. Hospitality
-				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
-				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
-			57. Diversity and Inclusion
-	52. Oven
-		53. Budget
-			54. Considerations
-			54. Pro forma
-		55. Space and requirements
-			56. Infrastructure
-				57. Power
-				59. Internet
-				60. Wifi
-				61. Printing/copying
-			57. Furniture
-				58. "Amazon"-esque/garage days
-				59. Ikea desk days
-			60. Kitchen
-				61. Coffee
-				62. Refrigerator(s)
-				63. Dishwasher
-				61. To kegerator or not to kegerator
-			61. Bathrooms	
-			62. Mail
-				63. You will be receiving mail for your startups for the rest of your life	
-			58. Office arrangement
-			59. Ongoing build out
-				60. Conference room
-				61. Meeting areas
-				62. Phone booths
-				63. Fishbowl
-					64. How this enabled more effective mentors in residence and portfolio management
-		56. Catalysts (Entrepreneur + Patron)
-		57. Pressure/heat (Startups + Staff + Patron)
-		58. Good cop/bad cop
-
-# Recipes
-
-## Beverages (community engagement)
-
-A lot of folks dive into this whole accelerator thing thinking they can just start with the accelerator.
-
-"Hey! Hey you! We’ve got an accelerator. Come get accelerated and stuff!"
-
-It doesn’t work that way. Any more than starting your fancy dinner party with a big ol’ main course gets the conversation going. 
-
-You need to do some work before hand. Not only in how you plan and invite participants, but in how you kick things off. You can't just dive right in.
-
-That’s why you need to do some work warming up the crowd. And getting people to know one another before you try to create a more intimate setting like an accelerator. Because that's what an accelerator is. It's a environment of trust where founders feel comfortable. Where they are comfortable opening up. And being honest. Where they can feel vulnerable. 
-
-That's actually what a good accelerator is. It's a support group. 
-
-Trying to create this environment of trust — or some other permutation of what you believe an accelerator to be — without doing the pre-work will likely just end up being a bunch of people sitting around quietly chewing their food. Uncomfortably. And you’ll feel like a complete failure. 
-
-Worst of all, so will the companies you're trying to help. 
-
-So how do you break the ice? The secret is community. Behind every good accelerator is a good community. Behind every failed accelerator is… well, no one. Because they didn't have any community. 
-
-So how do you work with the community to build the accelerator you want to build? Here are some recipes based on our experience at PIE that helped us get the conversation going before we dove into the accelerator.
-
-It's like the cocktail hour before the main course. 
-
-
-Attending events
-Online presence
-Social
-Blog
-
-## Hors d'oeuvre (Hackathons, events, coworking)
-
-
-### Don’t start with an accelerator 
+# Before you begin
 
 ## Want to start an accelerator? Don't start an accelerator
 
@@ -1278,17 +898,376 @@ Long story short, we feel we’ve gotten exponentially more value out of giving 
 		- Hybrid
 		- Hackathons
 
+# Kitchen Prep
 
-			67. Curation of coworking participants
-				68. https://github.com/piepdx/pie-cookbook/issues/3
-			68. Home away from home
-			69. Day-to-day
-			70. Hosting events
-				71. Startup
-				72. Creative
-				73. Technical
-				74. Hybrid
-				75. Hackathons
+Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
+- Environmental scan
+	- Assess what's what before you begin
+	- Start with reality
+	- What assets/resources does your community have?
+		- How mature are they?
+		- Are they currently accessible?
+	- Where are the gaps?
+		- Are they solvable?
+		- How entrenched are they?
+	- Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.
+	- Then you can get visionary
+# Cooking
+	13. Primary objective: **Create an environment of trust that accelerates creative output**
+		14. Tinge it with realism
+		15. This should be a representation of the outside world, not a utopian existence
+		16. You're helping founders understand how to survive in the real world
+
+# Base ingredients
+## Community
+
+- How do you define your community? 
+- What are the objectives?
+	- Shared
+	- Conflicting
+- What is the expertise (if any)?
+- What are the weaknesses?
+- What are the silos?
+- What are the issues?
+- What are the gaps?
+- How can they help (if at all)?
+
+
+			17. How do you define your community?
+			17. What are the objectives?
+				18. Shared
+				19. Conflicting
+			20. What is the expertise (if any)?
+			21. What are the weaknesses?
+			17. What are the silos?
+			18. What are the issues?
+			19. What are the gaps?
+			20. How can they help (if at all)?
+
+## Patron(s)
+
+At PIE, we get a lot of questions about how to fund accelerator operations and investments. It makes sense. Finding the money that matches up with the opportunity is a challenge. It’s never easy. No matter how compelling the pitch. 
+
+What are the objectives?
+
+What is the expertise?
+
+How can they help?
+
+Can take several flavors (Note: This isn’t an exhaustive list. But it’s gives you a pretty good idea of where to look.)
+
+In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall.
+
+### True patron
+### Sponsor
+### Partner
+### Investor
+
+On the upside, venture capital can be a very effective means of funding this sort of activity.
+
+- Used to spending money on risky efforts
+- Have a time horizon that is in line with company maturation
+- Have the potential to provide follow on investment.
+- Ongoing portfolio management can be super valuable for the continued success of your companies.
+
+On the downside, this funding mechanism can curtail the experimental nature of an accelerator if VC is the only backing. 
+
+- VCs are in the business of making money. 
+- The relationship will be driven by financial motivations. Will likely be only interested in investing in. Companies that have the highest likelihood of returning capital to the fund. Companies that best match their investment thesis.
+
+This sort of focus can hamstring accelerators and incubators who may see promise or opportunity in verticals or companies that are outside of the fund’s purview. 
+
+Long story short, you don’t get to “experiment” with VC money. You get to make money.
+
+## Soapbox(s)
+
+## Other critical ingredients
+		21. Mentors
+			21. Types
+				22. Non-resident
+					22. Typical
+						23. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+						29. Typical percentage of the mentor pool
+					23. Lead
+						24. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+						29. Typical percentage of the mentor pool
+					30. Corporate mentors
+						24. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+						29. Typical percentage of the mentor pool
+						30. Special challenges of corporate mentors
+							31. Making mentorship a requirement
+							32. Including mentorship in review process and roles & responsibilities
+							33. Getting corporate mentors to take off the “brand hat” and speak from personal experience
+								34. “You’ve achieved a level of success as [executive at company x]. What’s your personal opinion?”
+					35. Investor mentors
+						36. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+						29. Typical percentage of the mentor pool
+						30. Special challenges of investor mentors
+							31. Getting investors to take off the investor hat and mentor
+							32. This isn’t due diligence. It’s mentorship.
+							33. Preparing the startups for when an investor switches from mentoring to investing
+				30. Resident
+					24. Peer
+						25. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+						29. Special challenges of peer mentors
+					25. Mentors in residence
+						26. Define role and expectations
+							27. At PIE, these were companies PIE alums who had been through the PIE process
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+							30. Can provide valuable insights into working with PIE and mentors
+							31. Can provide tips and tricks for getting the most out of the program
+							32. Can help startups work the system
+					26. Entrepreneurs in Residence
+						27. Define role and expectations
+						29. Value to the organization
+						30. Value to the entrepreneur
+					31. Staff
+						32. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Special challenges of staff as mentors
+			21. Anyone can (and should) be a mentor
+				22. It’s not just “experts”
+				23. Different viewpoints reveal flaws and opportunities
+			22. Identifying potential mentors
+			23. Qualifying potential mentors
+			24. Alums as mentors
+			24. Onboarding
+			24. Time commitment
+			25. Mentoring the mentors
+				26. Setting the tone
+					27. https://github.com/piepdx/pie-cookbook/blob/master/notes/mentors/mentoring-mentors.md
+				26. How to mentor
+				27. Common mistakes
+			26. Test driving mentors
+			27. Assessing skill fit
+			28. Assessing personality fit
+			29. Actively engaged pool
+			30. Passively engaged pool
+			30. Overlap
+			31. Integrity
+				32. https://github.com/piepdx/pie-cookbook/issues/2
+			33. Managing mentors
+				34. Scheduling should occur at the mentor’s convenience, not yours
+				35. Always make mentors aware that things change
+				36. Be prepared for pop-ins — and always take advantage of them
+			32. Unused mentors
+			33. Bad actors
+			34. Mentor value beyond the accelerator
+			35. Mentors referencing the accelerator
+				36. Online profiles
+				37. Spokespeople
+				38. Speakers
+		34. Startups
+			35. Do they have to be traditional startups?
+			35. Focus
+			36. Stage
+			37. Needs
+		38. Investors
+			39. Objectives
+			40. Outcomes  
+			39. Investor as mentor
+			40. Homegrown or imported?
+				41. Travel to them or bring them to you?
+			40. Focus
+			41. Stages
+		42. Sponsors
+			43. Objectives
+			44. Outcomes
+		
+
+# Staff
+
+## Managing Director (or General Manager)
+
+### Role
+The General Manager works to ensure that current startups, mentors, alumni, investors, brand sponsors, and PIE staff have a mutually rewarding experience that improves the perception and quality of entrepreneurial ventures associated with PIE.
+
+### Primary responsibilities
+- Serve as primary contact point for mentors and alumni
+- Coordinate mentor and startup relations
+- Recommend strategies and tactics that improve the program for all participants
+- Recommend strategies and tactics that promote PIE, startups, alumni, and mentors
+- Manage strategic planning and goal setting
+- Manage relations with PIE mentors, investors, and alumni
+- Work to ensure PIE participates in the larger startup and accelerator community
+- Manage online presence, including but not limited to:
+	- Web content
+	- Blog
+	- Social
+- Participate in weekly checkpoints, including but not limited to:
+	- Monday morning kick off meetings
+	- Family Dinner meeting
+	- Weekly check-ins with each company
+- Provide a weekly status report on PIE progress
+- Document the PIE experience from all perspectives
+- Manage facilities, including but not limited to:
+	- Physical space
+	- Furniture
+	- Keg, coffee, water
+	- Kitchen
+	- IT
+- Propose and manage tools that enable and facilitate communications and management
+
+### Secondary responsibilities
+- Assist with schedule for curriculum and mentor visits
+- Assist with major events like Demo Day
+- Assist with weekly checkpoints
+- Assist with weekly progress reports for startups
+- Work with W+K communications to promote PIE within the advertising industry
+
+
+
+## Program Manager
+
+### Role
+The Program Manager works to ensure that the current class of PIE startups has the most rewarding and beneficial experience while in the space. This role also serves as the primary startup liaison and ombudsman.
+
+### Primary responsibilities
+- Serve as primary contact point for startups, from application through graduation
+- Recommend strategies and tactics that improve the program for startups
+- Manage day-to-day relations with PIE class members
+- Monitor and moderate stress within the environment through creative use of meals, parties, perks, contests, and the like
+- Manage weekly checkpoints, including but not limited to:
+	- Monday morning kick off meetings
+	- Family Dinner meeting
+	- Weekly check-ins with each company
+- Provide a weekly status report for each company
+- Manage the schedule for curriculum and mentor visits
+- Manage major events like Demo Day
+- Manage startup relations with W+K internal teams
+- Manage the application process, from initial forms through final selection
+
+### Secondary responsibilities
+- Advise on strategic planning and goal setting
+- Communicate with PIE management and W+K 
+
+## Optional roles
+
+### Entrepreneur in Residence (EiR) 
+
+#### Role
+The entrepreneur in residence role is designed to serve two critical functions. First, they are designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with PIE management. Second, the EiR is charged with assessing and highlighting opportunities within PIE that may result in efficiencies or revenue generation.
+
+#### Primary responsibilities
+- Work to formalize and codify PIE processes and programs
+- Document the PIE experience from a startup perspective
+- Serve as confidante for startups, both current and alums
+- Manage relationship with W+K technical mentors
+- Recommend strategies and tactics that improve the program for startups
+- Lead build vs. buy decisions for PIE management tools
+Work to ensure PIE participates in the larger startup and accelerator community
+
+#### Secondary responsibilities
+- Assist with schedule for curriculum and mentor visits
+- Assist with major events like Demo Day
+- Assist with weekly checkpoints
+- Assist with weekly progress reports for startups
+- Assist with online presence, including but not limited to:
+	- Web content
+	- Blog
+	- Social
+
+### Intern
+### Associate
+### Technical assistance
+
+## How to hire
+
+
+Partners
+			52. Objectives
+			53. Outcomes
+		54. Media
+		55. Culture
+			56. Hospitality
+				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
+				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
+			57. Diversity and Inclusion
+	52. Oven
+		53. Budget
+			54. Considerations
+			54. Pro forma
+		55. Space and requirements
+			56. Infrastructure
+				57. Power
+				59. Internet
+				60. Wifi
+				61. Printing/copying
+			57. Furniture
+				58. "Amazon"-esque/garage days
+				59. Ikea desk days
+			60. Kitchen
+				61. Coffee
+				62. Refrigerator(s)
+				63. Dishwasher
+				61. To kegerator or not to kegerator
+			61. Bathrooms	
+			62. Mail
+				63. You will be receiving mail for your startups for the rest of your life	
+			58. Office arrangement
+			59. Ongoing build out
+				60. Conference room
+				61. Meeting areas
+				62. Phone booths
+				63. Fishbowl
+					64. How this enabled more effective mentors in residence and portfolio management
+		56. Catalysts (Entrepreneur + Patron)
+		57. Pressure/heat (Startups + Staff + Patron)
+		58. Good cop/bad cop
+
+# Recipes
+
+## Beverages (community engagement)
+
+A lot of folks dive into this whole accelerator thing thinking they can just start with the accelerator.
+
+"Hey! Hey you! We’ve got an accelerator. Come get accelerated and stuff!"
+
+It doesn’t work that way. Any more than starting your fancy dinner party with a big ol’ main course gets the conversation going. 
+
+You need to do some work before hand. Not only in how you plan and invite participants, but in how you kick things off. You can't just dive right in.
+
+That’s why you need to do some work warming up the crowd. And getting people to know one another before you try to create a more intimate setting like an accelerator. Because that's what an accelerator is. It's a environment of trust where founders feel comfortable. Where they are comfortable opening up. And being honest. Where they can feel vulnerable. 
+
+That's actually what a good accelerator is. It's a support group. 
+
+Trying to create this environment of trust — or some other permutation of what you believe an accelerator to be — without doing the pre-work will likely just end up being a bunch of people sitting around quietly chewing their food. Uncomfortably. And you’ll feel like a complete failure. 
+
+Worst of all, so will the companies you're trying to help. 
+
+So how do you break the ice? The secret is community. Behind every good accelerator is a good community. Behind every failed accelerator is… well, no one. Because they didn't have any community. 
+
+So how do you work with the community to build the accelerator you want to build? Here are some recipes based on our experience at PIE that helped us get the conversation going before we dove into the accelerator.
+
+It's like the cocktail hour before the main course. 
+
+
+Attending events
+Online presence
+Social
+Blog
+
+## Hors d'oeuvre (Hackathons, events, coworking)
+
+
 ## Main course (Accelerator)
 ### Culture/brand of the accelerator
 #### Have a thesis
