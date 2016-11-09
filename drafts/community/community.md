@@ -112,224 +112,224 @@ Attempt to provide alignment or strengthen community when the opportunity avails
 
 ### 4. Cooking v. Recipes a. Beverages (community engagement)
 
-A lot of folks dive into this whole accelerator thing thinking they can just start with the accelerator.
+~~A lot of folks dive into this whole accelerator thing thinking they can just start with the accelerator.~~
 
-"Hey! Hey you! We’ve got an accelerator. Come get accelerated and stuff!"
+~~"Hey! Hey you! We’ve got an accelerator. Come get accelerated and stuff!"~~
 
-It doesn’t work that way. Any more than starting your fancy dinner party with a big ol’ main course gets the conversation going. 
+~~It doesn’t work that way. Any more than starting your fancy dinner party with a big ol’ main course gets the conversation going. ~~
 
-You need to do some work before hand. Not only in how you plan and invite participants, but in how you kick things off. You can't just dive right in.
+~~You need to do some work before hand. Not only in how you plan and invite participants, but in how you kick things off. You can't just dive right in.~~
 
-That’s why you need to do some work warming up the crowd. And getting people to know one another before you try to create a more intimate setting like an accelerator. Because that's what an accelerator is. It's a environment of trust where founders feel comfortable. Where they are comfortable opening up. And being honest. Where they can feel vulnerable. 
+~~That’s why you need to do some work warming up the crowd. And getting people to know one another before you try to create a more intimate setting like an accelerator. Because that's what an accelerator is. It's a environment of trust where founders feel comfortable. Where they are comfortable opening up. And being honest. Where they can feel vulnerable. ~~
 
-That's actually what a good accelerator is. It's a support group. 
+~~That's actually what a good accelerator is. It's a support group. ~~
 
-Trying to create this environment of trust — or some other permutation of what you believe an accelerator to be — without doing the pre-work will likely just end up being a bunch of people sitting around quietly chewing their food. Uncomfortably. And you’ll feel like a complete failure. 
+~~Trying to create this environment of trust — or some other permutation of what you believe an accelerator to be — without doing the pre-work will likely just end up being a bunch of people sitting around quietly chewing their food. Uncomfortably. And you’ll feel like a complete failure. ~~
 
-Worst of all, so will the companies you're trying to help. 
+~~Worst of all, so will the companies you're trying to help. ~~
 
-So how do you break the ice? The secret is community. Behind every good accelerator is a good community. Behind every failed accelerator is… well, no one. Because they didn't have any community. 
+~~So how do you break the ice? The secret is community. Behind every good accelerator is a good community. Behind every failed accelerator is… well, no one. Because they didn't have any community. ~~
 
-So how do you work with the community to build the accelerator you want to build? Here are some recipes based on our experience at PIE that helped us get the conversation going before we dove into the accelerator.
+~~So how do you work with the community to build the accelerator you want to build? Here are some recipes based on our experience at PIE that helped us get the conversation going before we dove into the accelerator.~~
 
-It's like the cocktail hour before the main course. 
+~~It's like the cocktail hour before the main course. ~~
 
 
-Attending events
-Online presence
-Social
-Blog
+~~Attending events~~
+~~Online presence~~
+~~Social~~
+~~Blog~~
 
 ### 4.v.b. Hors d'oeuvre (Hackathons, events, coworking)
-- Don’t start with an accelerator
-- Coworking and Community Development are not necessarily complementary
-	- We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
-	- Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
-	- It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
-	- Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.
-- Curation of coworking participants
-	- https://github.com/piepdx/pie-cookbook/issues/3
-	- Home away from home
-	- Day-to-day
-	- Hosting events
-		- Startup
-		- Creative
-		- Technical
-		- Hybrid
-		- Hackathons
+~~- Don’t start with an accelerator~~
+~~- Coworking and Community Development are not necessarily complementary~~
+~~	- We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.~~
+~~	- Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)~~
+~~	- It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.~~
+~~	- Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.~~
+~~- Curation of coworking participants~~
+~~	- https://github.com/piepdx/pie-cookbook/issues/3~~
+~~	- Home away from home~~
+~~	- Day-to-day~~
+~~	- Hosting events~~
+~~		- Startup~~
+~~		- Creative~~
+~~		- Technical~~
+~~		- Hybrid~~
+~~		- Hackathons~~
 
 
-## Want to start an accelerator? Don't start an accelerator
+~~## Want to start an accelerator? Don't start an accelerator~~
 
-You don't get to start in the middle. You have to start at the beginning.
+~~You don't get to start in the middle. You have to start at the beginning.~~
 
-When we started the experiment with Wieden+Kennedy that would become PIE, we didn't set out to build an accelerator. We started with something to support the existing startup community. Something that would fill gaps that were preventing our community from growing and thriving. Something that would enable connections and random collisions and happily serendipitous events to occur. 
+~~When we started the experiment with Wieden+Kennedy that would become PIE, we didn't set out to build an accelerator. We started with something to support the existing startup community. Something that would fill gaps that were preventing our community from growing and thriving. Something that would enable connections and random collisions and happily serendipitous events to occur. ~~
 
-Honestly, we just kind of stumbled into this whole accelerator thing. It wasn't even on our list of objectives when we started. Or part of the conversation. It's just where we wound up for a time. But oddly enough — even though we never set out to build an accelerator — we managed to build a very effective one.
+~~Honestly, we just kind of stumbled into this whole accelerator thing. It wasn't even on our list of objectives when we started. Or part of the conversation. It's just where we wound up for a time. But oddly enough — even though we never set out to build an accelerator — we managed to build a very effective one.~~
 
-This is a recurring theme. That we will touch on time and time again in this book. Throughout PIE's life, we have been part of an ongoing series of happy accidents. But that, itself, is no accident. We designed the project to work that way. To never take itself too seriously. And to always be open to changing the recipe. Even if staying the course seemed safe and sane. To always pushing the envelope, exploring the edges, and not getting comfortable. 
+~~This is a recurring theme. That we will touch on time and time again in this book. Throughout PIE's life, we have been part of an ongoing series of happy accidents. But that, itself, is no accident. We designed the project to work that way. To never take itself too seriously. And to always be open to changing the recipe. Even if staying the course seemed safe and sane. To always pushing the envelope, exploring the edges, and not getting comfortable. ~~
 
-It's not hard. You can do this too. And if you need help, we'll be happy to give you a nudge from time to time. 
+~~It's not hard. You can do this too. And if you need help, we'll be happy to give you a nudge from time to time. ~~
 
-PIE is an experiment. 
+~~PIE is an experiment. ~~
 
-Starting with the relationship between Wieden+Kennedy and the Portland startup community. And kind of just continuing to cascade from there.
+~~Starting with the relationship between Wieden+Kennedy and the Portland startup community. And kind of just continuing to cascade from there.~~
 
-Well, honestly, to be more accurate, it was less an experiment in the traditional sense a more a whole bunch of mistakes, failures, and missteps that happen to be punctuated — here and there — by some very happy accidents. And we have lucked our way into some things — once the timing was right and all signs pointed to an opportunity — that enabled us to solve problems for the Portland startup community. By identifying gaps and then building something to satisfy that gap. Again and again. And we're still trying to do that.
+~~Well, honestly, to be more accurate, it was less an experiment in the traditional sense a more a whole bunch of mistakes, failures, and missteps that happen to be punctuated — here and there — by some very happy accidents. And we have lucked our way into some things — once the timing was right and all signs pointed to an opportunity — that enabled us to solve problems for the Portland startup community. By identifying gaps and then building something to satisfy that gap. Again and again. And we're still trying to do that.~~
 
-Simple, right? Well, sort of. Simple, but convoluted. So maybe give us the opportunity to be your accidental sherpa. To help you along a similarly incongruous — but beneficial — path.
+~~Simple, right? Well, sort of. Simple, but convoluted. So maybe give us the opportunity to be your accidental sherpa. To help you along a similarly incongruous — but beneficial — path.~~
 
-But do get the best results, you have to be similarly inclined to risk, fail, and misstep. If you're looking for a recipe that will always have you creating successful accelerator class after accelerator class using our simple recipe, you're reading the wrong book. Because like the communities, startups, and entrepreneurially minded folks you're looking to help, this process is a series of best guesses and iterations. And you have to be comfortable with that. 
+~~But do get the best results, you have to be similarly inclined to risk, fail, and misstep. If you're looking for a recipe that will always have you creating successful accelerator class after accelerator class using our simple recipe, you're reading the wrong book. Because like the communities, startups, and entrepreneurially minded folks you're looking to help, this process is a series of best guesses and iterations. And you have to be comfortable with that. ~~
 
-If we had started with an accelerator, we're confident that PIE would have failed. Miserably. And that's why we're recommending that — if you're thinking about starting an accelerator — you do anything but that.
+~~If we had started with an accelerator, we're confident that PIE would have failed. Miserably. And that's why we're recommending that — if you're thinking about starting an accelerator — you do anything but that.~~
 
-## Start at the beginning
+~~## Start at the beginning~~
 
-So if starting with an accelerator isn't the right place, where should folks begin? Well, if you skipped straight to the recipes, how about you go back and read the timeline of PIE's existence. Maybe it will give you some clues as to what's coming next. And maybe you'll find commonality in your community that gives you a more appropriate starting place.
+~~So if starting with an accelerator isn't the right place, where should folks begin? Well, if you skipped straight to the recipes, how about you go back and read the timeline of PIE's existence. Maybe it will give you some clues as to what's coming next. And maybe you'll find commonality in your community that gives you a more appropriate starting place.~~
 
-Or maybe, just maybe, you'll discover that you're one of the rare few who has already done all of the legwork. One who has completed all of the prerequisites. One of those lucky few strong communities that can, in fact, dive straight into the deep end of the pool. Because they've been ramping up all along. And now you're actually ready to take on that accelerator opportunity.
+~~Or maybe, just maybe, you'll discover that you're one of the rare few who has already done all of the legwork. One who has completed all of the prerequisites. One of those lucky few strong communities that can, in fact, dive straight into the deep end of the pool. Because they've been ramping up all along. And now you're actually ready to take on that accelerator opportunity.~~
 
-Don't start patting yourself on the back yet. There's still a ton of hard work ahead of you. But you can keep reading from here. You don't have to go back.
+~~Don't start patting yourself on the back yet. There's still a ton of hard work ahead of you. But you can keep reading from here. You don't have to go back.~~
 
-But if you're not there yet, please do not skip ahead. Do not pass go. There is no shortcut. It takes time.
+~~But if you're not there yet, please do not skip ahead. Do not pass go. There is no shortcut. It takes time.~~
 
-## Building a startup accelerator in seven easy steps
+~~## Building a startup accelerator in seven easy steps~~
 
-tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
+~~tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.~~
 
-### Step 1: Found your own company. Or at least work at a startup.
+~~### Step 1: Found your own company. Or at least work at a startup.~~
 
-Per Brad Feld's advice in Startup Communities, if you're going to truly succeed in building a vibrant startup community then "the leaders have to be entrepreneurs." Not politicians. Not corporations. Not agencies. Or economic development bodies. Entrepreneurs.
+~~Per Brad Feld's advice in Startup Communities, if you're going to truly succeed in building a vibrant startup community then "the leaders have to be entrepreneurs." Not politicians. Not corporations. Not agencies. Or economic development bodies. Entrepreneurs.~~
 
-With that in mind, we realize that PIE's journey started when the founders started working in startups. Sometimes as founders. Sometimes as employees of startups. But in startups. 
+~~With that in mind, we realize that PIE's journey started when the founders started working in startups. Sometimes as founders. Sometimes as employees of startups. But in startups. ~~
 
-In the trenches, as it were. Experiencing the insanity that was the dotcom days, firsthand. Being wildly optimistic time and time again about how this time it was going to pay off. How all of the stock options would actually be worth something. How we were going to change the world.
+~~In the trenches, as it were. Experiencing the insanity that was the dotcom days, firsthand. Being wildly optimistic time and time again about how this time it was going to pay off. How all of the stock options would actually be worth something. How we were going to change the world.~~
 
-Note: No one said you had to actually be a *successful* entrepreneur. Just an entrepreneur. 
+~~Note: No one said you had to actually be a successful entrepreneur. Just an entrepreneur. ~~
 
-On the surface, this is the price you pay for credibility.
+~~On the surface, this is the price you pay for credibility.~~
 
-But, more importantly, it's also this time — mired in the struggles of startups — that allows you to see the real problems and opportunities from the trenches. That provides the hindsight. That provides the what-if-ed-ness in your brain. That has rethinking every decision you ever made as a cofounder or employee or consultant. 
+~~But, more importantly, it's also this time — mired in the struggles of startups — that allows you to see the real problems and opportunities from the trenches. That provides the hindsight. That provides the what-if-ed-ness in your brain. That has rethinking every decision you ever made as a cofounder or employee or consultant. ~~
 
-That has you thinking like a founder.
+~~That has you thinking like a founder.~~
 
-Because it's that direct startup experience that will inform the accelerator you want to build, eventually.
+~~Because it's that direct startup experience that will inform the accelerator you want to build, eventually.~~
 
-I mean, you don't get to build it right now. You've got a long ways to go before that happens. But eventually. When we get closer to your time to build the accelerator. Then. That's when this experience will really help.
+~~I mean, you don't get to build it right now. You've got a long ways to go before that happens. But eventually. When we get closer to your time to build the accelerator. Then. That's when this experience will really help.~~
 
-But in the meantime, it will really help you engage and understand your community.
+~~But in the meantime, it will really help you engage and understand your community.~~
 
-Also, let's not forget the most important aspect of that accelerator you're going to build sometime in the distant future after you get through all of the recipes. After you work your fingers to the bone building value for the community. Let's not forget that it's that time working with other startup types, meeting people, and building a network of intelligent and driven folks that becomes the most critical element of this first step. Because it's those people who will provide the foundation for a broader community. A community that will be critical to your accelerator. Because these are your colleagues, mentors, advisors, investors — and more often than not, your potential applicants.
+~~Also, let's not forget the most important aspect of that accelerator you're going to build sometime in the distant future after you get through all of the recipes. After you work your fingers to the bone building value for the community. Let's not forget that it's that time working with other startup types, meeting people, and building a network of intelligent and driven folks that becomes the most critical element of this first step. Because it's those people who will provide the foundation for a broader community. A community that will be critical to your accelerator. Because these are your colleagues, mentors, advisors, investors — and more often than not, your potential applicants.~~
 
-But this takes more than winning at home. It's not just local community. Because building an accelerator requires variety and diversity. It takes more than just local flavor. It takes expansive and extended networks. And a multitude of viewpoints. And getting outside of your comfort zone.
+~~But this takes more than winning at home. It's not just local community. Because building an accelerator requires variety and diversity. It takes more than just local flavor. It takes expansive and extended networks. And a multitude of viewpoints. And getting outside of your comfort zone.~~
 
-So you have to do the hard work at home. But you also have to be out and about. Visiting other regions. Figuring out how other communities work. Making interesting connections. And bringing value to your community by connecting it to communities everywhere.
+~~So you have to do the hard work at home. But you also have to be out and about. Visiting other regions. Figuring out how other communities work. Making interesting connections. And bringing value to your community by connecting it to communities everywhere.~~
 
-So yeah. A little bit of work. But you can do it. 
+~~So yeah. A little bit of work. But you can do it. ~~
 
-### Step 2: Participate in the community.
+~~### Step 2: Participate in the community.~~
 
-The most important part of beginning to build community isn't throwing the best parties or planning the biggest events. It isn't renting a massive space and inviting everyone to join you. It isn't bringing in dignitaries from around the globe and expecting the community to rally around you. 
+~~The most important part of beginning to build community isn't throwing the best parties or planning the biggest events. It isn't renting a massive space and inviting everyone to join you. It isn't bringing in dignitaries from around the globe and expecting the community to rally around you. ~~
 
-Although you may be tempted to try all of these things.  
+~~Although you may be tempted to try all of these things.  ~~
 
-The most important thing to do when starting to build and accelerate your intended community is to meet the existing community where it is, currently.
+~~The most important thing to do when starting to build and accelerate your intended community is to meet the existing community where it is, currently.~~
 
-Maybe you don't think you have a current community. Maybe the current community isn't shaped like the community you want. Maybe you're unclear as to where this existing community gathers or communicates.
+~~Maybe you don't think you have a current community. Maybe the current community isn't shaped like the community you want. Maybe you're unclear as to where this existing community gathers or communicates.~~
 
-Get to work. 
+~~Get to work. ~~
 
-Because we can guarantee — whether you think there is community or not — that there is community. Tons of it. It's just not evenly distributed. It's disconnected. Broken into different factions. It's in hidden pockets, here and there. Soloed. Presenting as something different than your archetypes.
+~~Because we can guarantee — whether you think there is community or not — that there is community. Tons of it. It's just not evenly distributed. It's disconnected. Broken into different factions. It's in hidden pockets, here and there. Soloed. Presenting as something different than your archetypes.~~
 
-But trust us. It's there. It's already there. 
+~~But trust us. It's there. It's already there. ~~
 
-And your challenge is to find it. And meet it. Where it lives.
+~~And your challenge is to find it. And meet it. Where it lives.~~
 
-PIE's founders attended coffee gatherings, happy hours, user groups, tech meet ups, startup discussions, open source gatherings, BarCamps, Ignites, unconferences, tradeshows, and on and on and on.
+~~PIE's founders attended coffee gatherings, happy hours, user groups, tech meet ups, startup discussions, open source gatherings, BarCamps, Ignites, unconferences, tradeshows, and on and on and on.~~
 
-But we also did things far less organized and structured. Sometimes, we just sat in coffeeshops and struck up conversations with other laptop-wielding denizens. We talked to people both in Portland and outside of Portland. Because we needed that diverse network. And diversity of viewpoints. We tried to figure out what was going on and who was doing what.
+~~But we also did things far less organized and structured. Sometimes, we just sat in coffeeshops and struck up conversations with other laptop-wielding denizens. We talked to people both in Portland and outside of Portland. Because we needed that diverse network. And diversity of viewpoints. We tried to figure out what was going on and who was doing what.~~
 
-Did we always fit in? No. Was it always successful? No. Was it clear we were getting any traction whatsoever? Absolutely not.
+~~Did we always fit in? No. Was it always successful? No. Was it clear we were getting any traction whatsoever? Absolutely not.~~
 
-But we did it. And we did it on the community's turf. Not ours. We tried to provide value and get invited to their gatherings. We didn't egotistically start our own events. 
+~~But we did it. And we did it on the community's turf. Not ours. We tried to provide value and get invited to their gatherings. We didn't egotistically start our own events. ~~
 
-And in so doing — from that collaborative standpoint — we began to build the a network that would become the most critical component of PIE: a subset of an already vibrant community.
+~~And in so doing — from that collaborative standpoint — we began to build the a network that would become the most critical component of PIE: a subset of an already vibrant community.~~
 
-### Step 3: Talk about the community.
+~~### Step 3: Talk about the community.~~
 
-There's something about a tree falling and no one hearing it. Community is the same way. You have to talk about it. And blog about it. And tweet about it. You have to connect it. And highlight what it's doing.
+~~There's something about a tree falling and no one hearing it. Community is the same way. You have to talk about it. And blog about it. And tweet about it. You have to connect it. And highlight what it's doing.~~
 
-Why? Because, for the most part, community is not immediately self-aware. As such, people don't just realize that there's "a community." Unless they're specifically looking for it. And this is true, even if they're deeply involved in that community. 
+~~Why? Because, for the most part, community is not immediately self-aware. As such, people don't just realize that there's "a community." Unless they're specifically looking for it. And this is true, even if they're deeply involved in that community. ~~
 
-You have to tell them. And then tell them again. And again.
+~~You have to tell them. And then tell them again. And again.~~
 
-You have to cheerlead. You have to create a bully pulpit. And you have to use that megaphone to convince those outside of the community that the community is, in fact, real. And to encourage those who are starting to become self-aware of the community to connect more deeply with that community.
+~~You have to cheerlead. You have to create a bully pulpit. And you have to use that megaphone to convince those outside of the community that the community is, in fact, real. And to encourage those who are starting to become self-aware of the community to connect more deeply with that community.~~
 
-You saw folks like Brad Feld, Mark Suster, and Fred Wilson doing — and continue to do — this with their personal blogs. You saw Silicon Alley and Silicon Prairie and GeekWire do this with more journalistic efforts. And if you were in the same communities we were, you saw Michael Arrington do this with TechCrunch. To ridiculous effect. 
+~~You saw folks like Brad Feld, Mark Suster, and Fred Wilson doing — and continue to do — this with their personal blogs. You saw Silicon Alley and Silicon Prairie and GeekWire do this with more journalistic efforts. And if you were in the same communities we were, you saw Michael Arrington do this with TechCrunch. To ridiculous effect. ~~
 
-For us in Portland, those vehicles were things like Silicon Florist, our personal blogs, larger tech blogs outside of our region like TechCrunch, local publications, and the — then nascent — social media landscape. All served as the means of talking about the Portland startup community. And to spread the belief that it existed and had the potential to be much, much more.
+~~For us in Portland, those vehicles were things like Silicon Florist, our personal blogs, larger tech blogs outside of our region like TechCrunch, local publications, and the — then nascent — social media landscape. All served as the means of talking about the Portland startup community. And to spread the belief that it existed and had the potential to be much, much more.~~
 
-Yes, Virginia, there is a Portland startup community.
+~~Yes, Virginia, there is a Portland startup community.~~
 
-Note: This step is ongoing. You don't get to stop talking about the community. Ever. Keep going. Keep talking.
+~~Note: This step is ongoing. You don't get to stop talking about the community. Ever. Keep going. Keep talking.~~
 
-### Step 4: Invite the community in.
+~~### Step 4: Invite the community in.~~
 
-Now that your community is gaining definition. Now that it is starting to solidify and formalize. Now that you are taking an active role within that community. Only now can you start to host events. Shine a spotlight on talented community members. And invite people who would benefit from hearing those community members. Renny did this by having W+K serve as the inaugural host of Ignite Portland. And hosting events like Portland Lunch 2.0, among others.
+~~Now that your community is gaining definition. Now that it is starting to solidify and formalize. Now that you are taking an active role within that community. Only now can you start to host events. Shine a spotlight on talented community members. And invite people who would benefit from hearing those community members. Renny did this by having W+K serve as the inaugural host of Ignite Portland. And hosting events like Portland Lunch 2.0, among others.~~
 
-Without—and this is critical—expecting anything in return. At all.
+~~Without—and this is critical—expecting anything in return. At all.~~
 
-Don't think that you have to acquire space before this happens. You can partner with existing spaces. Or pay to rent spaces that you make accessible to others. Or this can occur in a shared space or a known resource.
+~~Don't think that you have to acquire space before this happens. You can partner with existing spaces. Or pay to rent spaces that you make accessible to others. Or this can occur in a shared space or a known resource.~~
 
-You don't have to own the space, but you must do what it takes to make space available to the community.
-With PIE, we were lucky enough to own space. Which had been generously donated by our patron, W+K, as part of the experiment. So we hosted community gatherings that we didn't manage. We invited people into the space. We had them hold their events in our space. We let people crash out overnight for crazy caffeine fueled coding sessions. Heck, we even hosted the first ever 30 hour nonstop livestreamed Web telethon in the space to help the community raise money for charity during the holiday season.
+~~You don't have to own the space, but you must do what it takes to make space available to the community.~~
+~~With PIE, we were lucky enough to own space. Which had been generously donated by our patron, W+K, as part of the experiment. So we hosted community gatherings that we didn't manage. We invited people into the space. We had them hold their events in our space. We let people crash out overnight for crazy caffeine fueled coding sessions. Heck, we even hosted the first ever 30 hour nonstop livestreamed Web telethon in the space to help the community raise money for charity during the holiday season.~~
 
-We made the PIE space a resource by the community, for the community.
+~~We made the PIE space a resource by the community, for the community.~~
 
-### Step 5: Create a common space.
+~~### Step 5: Create a common space.~~
 
-Events are great. But truly valuable community spaces are leveraged as a utility, all day, every day.
+~~Events are great. But truly valuable community spaces are leveraged as a utility, all day, every day.~~
 
-For PIE, forming a coworking space was the way to go. In part because Wieden had given us the space to do it. And in part because we thought it was what our community needed. It ensured that the space was being used throughout the day while making it available for events in the evening. Plus it gave the space ongoing and sustainable energy. Everybody wins.
+~~For PIE, forming a coworking space was the way to go. In part because Wieden had given us the space to do it. And in part because we thought it was what our community needed. It ensured that the space was being used throughout the day while making it available for events in the evening. Plus it gave the space ongoing and sustainable energy. Everybody wins.~~
 
-Maybe your community needs the same thing. Or maybe it simply needs an event space that it uses throughout the day. Or maybe it needs a coffeeshop or a brewpub. Who knows? Maybe it needs a multistory complex that houses everything from startups through established businesses.
+~~Maybe your community needs the same thing. Or maybe it simply needs an event space that it uses throughout the day. Or maybe it needs a coffeeshop or a brewpub. Who knows? Maybe it needs a multistory complex that houses everything from startups through established businesses.~~
 
-We don't know what your community needs. It's your community. There is no right answer. Or, perhaps more appropriately, there is no one answer that is right for every community.
-Your task is to find the answer that solves an actual need within your community. And to find the partners and patrons who are going to help you get there. You need to create the space that your community needs to continue to thrive. And to continue the momentum you, as a community, have created.
+~~We don't know what your community needs. It's your community. There is no right answer. Or, perhaps more appropriately, there is no one answer that is right for every community.~~
+~~Your task is to find the answer that solves an actual need within your community. And to find the partners and patrons who are going to help you get there. You need to create the space that your community needs to continue to thrive. And to continue the momentum you, as a community, have created.~~
 
-For us, the space in the Wieden+Kennedy building afforded us opportunities for coworking and hosting events—which in turn provided all kinds of value for the community. In retrospect, there are three things we found to be most important about having a physical space:
+~~For us, the space in the Wieden+Kennedy building afforded us opportunities for coworking and hosting events—which in turn provided all kinds of value for the community. In retrospect, there are three things we found to be most important about having a physical space:~~
 
-1. As different groups in the community took advantage of the space, it created an opportunity for random collisions to occur and serendipity to thrive—from W+K and giant global brands to nascent startups. We found that those collisions created real and sustainable connections.
-2. It provided a vantage point for us—the startup community and our patron—to better understand the dynamics of the community, where the momentum was, and where the gaps were. At times, it also provided us with an opportunity to simply observe, as an objective third party.
-3. It served as a physical representation of the community, as a whole. So when folks were visiting town or were new to town, they had a place to land. And that space enabled others to discover and engage with the community more readily.
+~~1. As different groups in the community took advantage of the space, it created an opportunity for random collisions to occur and serendipity to thrive—from W+K and giant global brands to nascent startups. We found that those collisions created real and sustainable connections.~~
+~~2. It provided a vantage point for us—the startup community and our patron—to better understand the dynamics of the community, where the momentum was, and where the gaps were. At times, it also provided us with an opportunity to simply observe, as an objective third party.~~
+~~3. It served as a physical representation of the community, as a whole. So when folks were visiting town or were new to town, they had a place to land. And that space enabled others to discover and engage with the community more readily.~~
 
-### Step 6: Keep doing all of that stuff. But do more of it. Faster.
+~~### Step 6: Keep doing all of that stuff. But do more of it. Faster.~~
 
-Now that you've got some momentum, you've got a working space, and you've started to define your role in the community, you have to really get to work. Or maybe you have to build something else. But you get the gist.
+~~Now that you've got some momentum, you've got a working space, and you've started to define your role in the community, you have to really get to work. Or maybe you have to build something else. But you get the gist.~~
 
-There's more to do.
+~~There's more to do.~~
 
-In addition to hosting, you now get to start programming your own events. And using your network to make those events interesting, engaging, and valuable. But bear in mind, that this event programming has to occur in collaboration with — not in competition to — the events we mentioned in Steps 2 and 4.
+~~In addition to hosting, you now get to start programming your own events. And using your network to make those events interesting, engaging, and valuable. But bear in mind, that this event programming has to occur in collaboration with — not in competition to — the events we mentioned in Steps 2 and 4.~~
 
-It's incredibly important that these events fill gaps. Not replicate existing content.
-With PIE, we created our own programming and invited folks to attend. We held hackathons that combined the startup community with the creative community and corporate community. We offered our space for coworking sessions for the "friends of PIE." Even if that meant giving space away.
+~~It's incredibly important that these events fill gaps. Not replicate existing content.~~
+~~With PIE, we created our own programming and invited folks to attend. We held hackathons that combined the startup community with the creative community and corporate community. We offered our space for coworking sessions for the "friends of PIE." Even if that meant giving space away.~~
 
-In short, we were on the constant lookout for interesting opportunities to bring our networks together. For talks. For gatherings. And for all sorts of collaboration. Because connecting our disparate communities and adding value to the broader community is what helped us establish our space as valuable, needed, and sustainable.
+~~In short, we were on the constant lookout for interesting opportunities to bring our networks together. For talks. For gatherings. And for all sorts of collaboration. Because connecting our disparate communities and adding value to the broader community is what helped us establish our space as valuable, needed, and sustainable.~~
 
-And then, only then, were Renny and I ready to…
+~~And then, only then, were Renny and I ready to…~~
 
-### Step 7: Start an accelerator.
+~~### Step 7: Start an accelerator.~~
 
-Now that you've done all of that work, you're ready. I mean, if it's even still needed.
+~~Now that you've done all of that work, you're ready. I mean, if it's even still needed.~~
 
-At PIE, we needed to start an accelerator. The community needed it. W+K needed it. Startups needed it. Individuals needed it. First a bullhorn. Then a coworking space. Then an accelerator. Because we needed it. As a community.
+~~At PIE, we needed to start an accelerator. The community needed it. W+K needed it. Startups needed it. Individuals needed it. First a bullhorn. Then a coworking space. Then an accelerator. Because we needed it. As a community.~~
 
-But if you discover it's not needed, that's okay too.
+~~But if you discover it's not needed, that's okay too.~~
 
-Again, this isn't the right way to do anything. This just happens to be how PIE came into being.
-Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
+~~Again, this isn't the right way to do anything. This just happens to be how PIE came into being.~~
+~~Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.~~
 
-Whatever you choose to do—start a long journey or jump into the deep end of the pool—just remember that, in the long run, you're not building an accelerator. You're building a community.
+~~Whatever you choose to do—start a long journey or jump into the deep end of the pool—just remember that, in the long run, you're not building an accelerator. You're building a community.~~
 
 ## When we talk about community
 

@@ -1045,21 +1045,243 @@ Partners
 		56. Catalysts (Entrepreneur + Patron)
 		57. Pressure/heat (Startups + Staff + Patron)
 		58. Good cop/bad cop
-	59. Recipes
-		60. Beverages (community engagement)
-			61. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#4-cooking-v-recipes-a-beverages-community-engagement
-			61. Attending events
-			62. Online presence
-			63. Social
-			64. Blog
-		65. Hors d'oeuvre (Hackathons, events, coworking)
-			66. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#4vb-hors-doeuvre-hackathons-events-coworking
-			66. Don’t start with an accelerator (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#want-to-start-an-accelerator-dont-start-an-accelerator)
-			66. Coworking and Community Development are not complementary
-				67. We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
-				68. Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
-				69. It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
-				70. Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.
+
+# Recipes
+
+## Beverages (community engagement)
+
+A lot of folks dive into this whole accelerator thing thinking they can just start with the accelerator.
+
+"Hey! Hey you! We’ve got an accelerator. Come get accelerated and stuff!"
+
+It doesn’t work that way. Any more than starting your fancy dinner party with a big ol’ main course gets the conversation going. 
+
+You need to do some work before hand. Not only in how you plan and invite participants, but in how you kick things off. You can't just dive right in.
+
+That’s why you need to do some work warming up the crowd. And getting people to know one another before you try to create a more intimate setting like an accelerator. Because that's what an accelerator is. It's a environment of trust where founders feel comfortable. Where they are comfortable opening up. And being honest. Where they can feel vulnerable. 
+
+That's actually what a good accelerator is. It's a support group. 
+
+Trying to create this environment of trust — or some other permutation of what you believe an accelerator to be — without doing the pre-work will likely just end up being a bunch of people sitting around quietly chewing their food. Uncomfortably. And you’ll feel like a complete failure. 
+
+Worst of all, so will the companies you're trying to help. 
+
+So how do you break the ice? The secret is community. Behind every good accelerator is a good community. Behind every failed accelerator is… well, no one. Because they didn't have any community. 
+
+So how do you work with the community to build the accelerator you want to build? Here are some recipes based on our experience at PIE that helped us get the conversation going before we dove into the accelerator.
+
+It's like the cocktail hour before the main course. 
+
+
+Attending events
+Online presence
+Social
+Blog
+
+## Hors d'oeuvre (Hackathons, events, coworking)
+
+- Don’t start with an accelerator
+- Coworking and Community Development are not necessarily complementary
+	- We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
+	- Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
+	- It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
+	- Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.
+- Curation of coworking participants
+	- https://github.com/piepdx/pie-cookbook/issues/3
+	- Home away from home
+	- Day-to-day
+	- Hosting events
+		- Startup
+		- Creative
+		- Technical
+		- Hybrid
+		- Hackathons
+
+### Don’t start with an accelerator 
+
+## Want to start an accelerator? Don't start an accelerator
+
+You don't get to start in the middle. You have to start at the beginning.
+
+When we started the experiment with Wieden+Kennedy that would become PIE, we didn't set out to build an accelerator. We started with something to support the existing startup community. Something that would fill gaps that were preventing our community from growing and thriving. Something that would enable connections and random collisions and happily serendipitous events to occur. 
+
+Honestly, we just kind of stumbled into this whole accelerator thing. It wasn't even on our list of objectives when we started. Or part of the conversation. It's just where we wound up for a time. But oddly enough — even though we never set out to build an accelerator — we managed to build a very effective one.
+
+This is a recurring theme. That we will touch on time and time again in this book. Throughout PIE's life, we have been part of an ongoing series of happy accidents. But that, itself, is no accident. We designed the project to work that way. To never take itself too seriously. And to always be open to changing the recipe. Even if staying the course seemed safe and sane. To always pushing the envelope, exploring the edges, and not getting comfortable. 
+
+It's not hard. You can do this too. And if you need help, we'll be happy to give you a nudge from time to time. 
+
+PIE is an experiment. 
+
+Starting with the relationship between Wieden+Kennedy and the Portland startup community. And kind of just continuing to cascade from there.
+
+Well, honestly, to be more accurate, it was less an experiment in the traditional sense a more a whole bunch of mistakes, failures, and missteps that happen to be punctuated — here and there — by some very happy accidents. And we have lucked our way into some things — once the timing was right and all signs pointed to an opportunity — that enabled us to solve problems for the Portland startup community. By identifying gaps and then building something to satisfy that gap. Again and again. And we're still trying to do that.
+
+Simple, right? Well, sort of. Simple, but convoluted. So maybe give us the opportunity to be your accidental sherpa. To help you along a similarly incongruous — but beneficial — path.
+
+But do get the best results, you have to be similarly inclined to risk, fail, and misstep. If you're looking for a recipe that will always have you creating successful accelerator class after accelerator class using our simple recipe, you're reading the wrong book. Because like the communities, startups, and entrepreneurially minded folks you're looking to help, this process is a series of best guesses and iterations. And you have to be comfortable with that. 
+
+If we had started with an accelerator, we're confident that PIE would have failed. Miserably. And that's why we're recommending that — if you're thinking about starting an accelerator — you do anything but that.
+
+## Start at the beginning
+
+So if starting with an accelerator isn't the right place, where should folks begin? Well, if you skipped straight to the recipes, how about you go back and read the timeline of PIE's existence. Maybe it will give you some clues as to what's coming next. And maybe you'll find commonality in your community that gives you a more appropriate starting place.
+
+Or maybe, just maybe, you'll discover that you're one of the rare few who has already done all of the legwork. One who has completed all of the prerequisites. One of those lucky few strong communities that can, in fact, dive straight into the deep end of the pool. Because they've been ramping up all along. And now you're actually ready to take on that accelerator opportunity.
+
+Don't start patting yourself on the back yet. There's still a ton of hard work ahead of you. But you can keep reading from here. You don't have to go back.
+
+But if you're not there yet, please do not skip ahead. Do not pass go. There is no shortcut. It takes time.
+
+## Building a startup accelerator in seven easy steps
+
+tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
+
+### Step 1: Found your own company. Or at least work at a startup.
+
+Per Brad Feld's advice in Startup Communities, if you're going to truly succeed in building a vibrant startup community then "the leaders have to be entrepreneurs." Not politicians. Not corporations. Not agencies. Or economic development bodies. Entrepreneurs.
+
+With that in mind, we realize that PIE's journey started when the founders started working in startups. Sometimes as founders. Sometimes as employees of startups. But in startups. 
+
+In the trenches, as it were. Experiencing the insanity that was the dotcom days, firsthand. Being wildly optimistic time and time again about how this time it was going to pay off. How all of the stock options would actually be worth something. How we were going to change the world.
+
+Note: No one said you had to actually be a *successful* entrepreneur. Just an entrepreneur. 
+
+On the surface, this is the price you pay for credibility.
+
+But, more importantly, it's also this time — mired in the struggles of startups — that allows you to see the real problems and opportunities from the trenches. That provides the hindsight. That provides the what-if-ed-ness in your brain. That has rethinking every decision you ever made as a cofounder or employee or consultant. 
+
+That has you thinking like a founder.
+
+Because it's that direct startup experience that will inform the accelerator you want to build, eventually.
+
+I mean, you don't get to build it right now. You've got a long ways to go before that happens. But eventually. When we get closer to your time to build the accelerator. Then. That's when this experience will really help.
+
+But in the meantime, it will really help you engage and understand your community.
+
+Also, let's not forget the most important aspect of that accelerator you're going to build sometime in the distant future after you get through all of the recipes. After you work your fingers to the bone building value for the community. Let's not forget that it's that time working with other startup types, meeting people, and building a network of intelligent and driven folks that becomes the most critical element of this first step. Because it's those people who will provide the foundation for a broader community. A community that will be critical to your accelerator. Because these are your colleagues, mentors, advisors, investors — and more often than not, your potential applicants.
+
+But this takes more than winning at home. It's not just local community. Because building an accelerator requires variety and diversity. It takes more than just local flavor. It takes expansive and extended networks. And a multitude of viewpoints. And getting outside of your comfort zone.
+
+So you have to do the hard work at home. But you also have to be out and about. Visiting other regions. Figuring out how other communities work. Making interesting connections. And bringing value to your community by connecting it to communities everywhere.
+
+So yeah. A little bit of work. But you can do it. 
+
+### Step 2: Participate in the community.
+
+The most important part of beginning to build community isn't throwing the best parties or planning the biggest events. It isn't renting a massive space and inviting everyone to join you. It isn't bringing in dignitaries from around the globe and expecting the community to rally around you. 
+
+Although you may be tempted to try all of these things.  
+
+The most important thing to do when starting to build and accelerate your intended community is to meet the existing community where it is, currently.
+
+Maybe you don't think you have a current community. Maybe the current community isn't shaped like the community you want. Maybe you're unclear as to where this existing community gathers or communicates.
+
+Get to work. 
+
+Because we can guarantee — whether you think there is community or not — that there is community. Tons of it. It's just not evenly distributed. It's disconnected. Broken into different factions. It's in hidden pockets, here and there. Soloed. Presenting as something different than your archetypes.
+
+But trust us. It's there. It's already there. 
+
+And your challenge is to find it. And meet it. Where it lives.
+
+PIE's founders attended coffee gatherings, happy hours, user groups, tech meet ups, startup discussions, open source gatherings, BarCamps, Ignites, unconferences, tradeshows, and on and on and on.
+
+But we also did things far less organized and structured. Sometimes, we just sat in coffeeshops and struck up conversations with other laptop-wielding denizens. We talked to people both in Portland and outside of Portland. Because we needed that diverse network. And diversity of viewpoints. We tried to figure out what was going on and who was doing what.
+
+Did we always fit in? No. Was it always successful? No. Was it clear we were getting any traction whatsoever? Absolutely not.
+
+But we did it. And we did it on the community's turf. Not ours. We tried to provide value and get invited to their gatherings. We didn't egotistically start our own events. 
+
+And in so doing — from that collaborative standpoint — we began to build the a network that would become the most critical component of PIE: a subset of an already vibrant community.
+
+### Step 3: Talk about the community.
+
+There's something about a tree falling and no one hearing it. Community is the same way. You have to talk about it. And blog about it. And tweet about it. You have to connect it. And highlight what it's doing.
+
+Why? Because, for the most part, community is not immediately self-aware. As such, people don't just realize that there's "a community." Unless they're specifically looking for it. And this is true, even if they're deeply involved in that community. 
+
+You have to tell them. And then tell them again. And again.
+
+You have to cheerlead. You have to create a bully pulpit. And you have to use that megaphone to convince those outside of the community that the community is, in fact, real. And to encourage those who are starting to become self-aware of the community to connect more deeply with that community.
+
+You saw folks like Brad Feld, Mark Suster, and Fred Wilson doing — and continue to do — this with their personal blogs. You saw Silicon Alley and Silicon Prairie and GeekWire do this with more journalistic efforts. And if you were in the same communities we were, you saw Michael Arrington do this with TechCrunch. To ridiculous effect. 
+
+For us in Portland, those vehicles were things like Silicon Florist, our personal blogs, larger tech blogs outside of our region like TechCrunch, local publications, and the — then nascent — social media landscape. All served as the means of talking about the Portland startup community. And to spread the belief that it existed and had the potential to be much, much more.
+
+Yes, Virginia, there is a Portland startup community.
+
+Note: This step is ongoing. You don't get to stop talking about the community. Ever. Keep going. Keep talking.
+
+### Step 4: Invite the community in.
+
+Now that your community is gaining definition. Now that it is starting to solidify and formalize. Now that you are taking an active role within that community. Only now can you start to host events. Shine a spotlight on talented community members. And invite people who would benefit from hearing those community members. Renny did this by having W+K serve as the inaugural host of Ignite Portland. And hosting events like Portland Lunch 2.0, among others.
+
+Without—and this is critical—expecting anything in return. At all.
+
+Don't think that you have to acquire space before this happens. You can partner with existing spaces. Or pay to rent spaces that you make accessible to others. Or this can occur in a shared space or a known resource.
+
+You don't have to own the space, but you must do what it takes to make space available to the community.
+With PIE, we were lucky enough to own space. Which had been generously donated by our patron, W+K, as part of the experiment. So we hosted community gatherings that we didn't manage. We invited people into the space. We had them hold their events in our space. We let people crash out overnight for crazy caffeine fueled coding sessions. Heck, we even hosted the first ever 30 hour nonstop livestreamed Web telethon in the space to help the community raise money for charity during the holiday season.
+
+We made the PIE space a resource by the community, for the community.
+
+### Step 5: Create a common space.
+
+Events are great. But truly valuable community spaces are leveraged as a utility, all day, every day.
+
+For PIE, forming a coworking space was the way to go. In part because Wieden had given us the space to do it. And in part because we thought it was what our community needed. It ensured that the space was being used throughout the day while making it available for events in the evening. Plus it gave the space ongoing and sustainable energy. Everybody wins.
+
+Maybe your community needs the same thing. Or maybe it simply needs an event space that it uses throughout the day. Or maybe it needs a coffeeshop or a brewpub. Who knows? Maybe it needs a multistory complex that houses everything from startups through established businesses.
+
+We don't know what your community needs. It's your community. There is no right answer. Or, perhaps more appropriately, there is no one answer that is right for every community.
+Your task is to find the answer that solves an actual need within your community. And to find the partners and patrons who are going to help you get there. You need to create the space that your community needs to continue to thrive. And to continue the momentum you, as a community, have created.
+
+For us, the space in the Wieden+Kennedy building afforded us opportunities for coworking and hosting events—which in turn provided all kinds of value for the community. In retrospect, there are three things we found to be most important about having a physical space:
+
+1. As different groups in the community took advantage of the space, it created an opportunity for random collisions to occur and serendipity to thrive—from W+K and giant global brands to nascent startups. We found that those collisions created real and sustainable connections.
+2. It provided a vantage point for us—the startup community and our patron—to better understand the dynamics of the community, where the momentum was, and where the gaps were. At times, it also provided us with an opportunity to simply observe, as an objective third party.
+3. It served as a physical representation of the community, as a whole. So when folks were visiting town or were new to town, they had a place to land. And that space enabled others to discover and engage with the community more readily.
+
+### Step 6: Keep doing all of that stuff. But do more of it. Faster.
+
+Now that you've got some momentum, you've got a working space, and you've started to define your role in the community, you have to really get to work. Or maybe you have to build something else. But you get the gist.
+
+There's more to do.
+
+In addition to hosting, you now get to start programming your own events. And using your network to make those events interesting, engaging, and valuable. But bear in mind, that this event programming has to occur in collaboration with — not in competition to — the events we mentioned in Steps 2 and 4.
+
+It's incredibly important that these events fill gaps. Not replicate existing content.
+With PIE, we created our own programming and invited folks to attend. We held hackathons that combined the startup community with the creative community and corporate community. We offered our space for coworking sessions for the "friends of PIE." Even if that meant giving space away.
+
+In short, we were on the constant lookout for interesting opportunities to bring our networks together. For talks. For gatherings. And for all sorts of collaboration. Because connecting our disparate communities and adding value to the broader community is what helped us establish our space as valuable, needed, and sustainable.
+
+And then, only then, were Renny and I ready to…
+
+### Step 7: Start an accelerator.
+
+Now that you've done all of that work, you're ready. I mean, if it's even still needed.
+
+At PIE, we needed to start an accelerator. The community needed it. W+K needed it. Startups needed it. Individuals needed it. First a bullhorn. Then a coworking space. Then an accelerator. Because we needed it. As a community.
+
+But if you discover it's not needed, that's okay too.
+
+Again, this isn't the right way to do anything. This just happens to be how PIE came into being.
+Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
+
+Whatever you choose to do—start a long journey or jump into the deep end of the pool—just remember that, in the long run, you're not building an accelerator. You're building a community.
+
+
+## Coworking and Community Development are not complementary
+
+We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
+
+Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
+
+It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
+
+Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.
+
 			67. Curation of coworking participants
 				68. https://github.com/piepdx/pie-cookbook/issues/3
 			68. Home away from home
@@ -1070,25 +1292,42 @@ Partners
 				73. Technical
 				74. Hybrid
 				75. Hackathons
-		76. Main course (Accelerator)
-			77. Culture/brand of the accelerator
-				78. Have a thesis
-					79. You don't have to be married to it forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof.
-					80. At PIE, we hit upon the fact that we were really good at accelerating platforms and enabling technology. Why did we get good at this? There were any number of reasons.
-						81. Portland has a culture of platforms and enabling technologies
-						82. We inherited the culture of the agency itself moreso than the cultures of the agency's clients.
-						83. Our mentors had expertise in building platforms.
-						84. Our startups happened to be focused on platforms.
-						85. The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
-						86. We started PIE just as both the SaaS and mobile markets were exploding
-				87. Know where you suck
-					88. Know — don’t assume; know — what you are truly good at doing.
-					89. And even more importantly? Be willing to admit where you suck. 
-					90. At PIE, it quickly became obvious that we sucked at helping startups with fundraising. We were hamstrung by several things. 
-						91. First, there was a small investment community in Portland. 
-						92. Second, the community that was there had little appetite for the types of companies—or the risk profiles of those companies—as investments. 
-						93. Third, we had not established adequate ties with investors in other regions. We had friends here and there, but we didn’t have a strong rolodex of investors whose theses matched our startup profiles.
-					94. But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provide us with yet another measure by which to select the companies we chose. 
+## Main course (Accelerator)
+### Culture/brand of the accelerator
+#### Have a thesis
+
+You don't have to be married to it forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof.
+
+At PIE, we hit upon the fact that we were really good at accelerating platforms and enabling technology. Why did we get good at this? There were any number of reasons.
+
+Portland has a culture of platforms and enabling technologies
+
+We inherited the culture of the agency itself moreso than the cultures of the agency's clients.
+
+Our mentors had expertise in building platforms.
+
+Our startups happened to be focused on platforms.
+
+The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
+
+We started PIE just as both the SaaS and mobile markets were exploding
+
+#### Know where you suck
+
+Know — don’t assume; know — what you are truly good at doing.
+
+And even more importantly? Be willing to admit where you suck.
+
+At PIE, it quickly became obvious that we sucked at helping startups with fundraising. We were hamstrung by several things.
+
+First, there was a nascent investment community in Portland. 
+
+Second, the community that happened to exist did not possess a complementary risk profile for the companies with whom we were working. Because of that, the local investors had little appetite for the types of companies as investments. 
+
+Third, we had not established adequate ties with investors in other regions. We had friends here and there, but we didn’t have a strong rolodex of investors whose theses matched our startup profiles.
+
+But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provide us with yet another measure by which to select the companies we chose.
+ 
 				78. Setting expectations
 				79. Communicating expectations
 			78. Time period
@@ -1130,8 +1369,33 @@ Partners
 			90. Prep
 				91. Background checks
 				92. Paperwork
-			91. Onboarding 
-				92. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-startups.md
+
+## Onboarding 
+
+# Onboarding new startups
+
+It’s important to recognize that this is a large transition for your companies.  Some might have even relocated completely to participate in your program. And if they haven’t, well, going from planning your own schedule and working out of a coffee shop, to a structured accelerator program is still a big transition.  
+
+Do what you can to help mitigate an issues your teams might have as they join you. Some welcome wagon items may include 
+- Housing suggestions or referrals
+- Maps of the city
+- Information on public transportation
+- Places to eat or grocery shop
+
+What would you want to know if you were moving to a new city or even a new office? Your teams will want to know that too.
+
+## Take it slow
+
+We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
+
+We recommend providing documentation and creating some sort of reference for startups so they know what to expect as the program becomes more structured. It’ll also help them be clear on deadlines for deliverables and the expectations for them.
+
+Here’s how we’ve used:
+- [What you’re getting yourself in to](/notes/logistics/onboarding-what-youre-getting-in-to.md) 
+- [Woohoo! Here’s what to expect on your first day](/notes/logistics/onboarding-what-to-expect.md). (Along with acceptance letter)
+
+Consider providing these docs along with a welcome basket of swag.  Again, it’s about making folks feel welcome. The more comfortable your teams feel in the space the sooner they’ll be able to hit the ground running and work — and begin building up the trust that will enable them to succeed in this environment.
+
 				93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding.md
 				92. Setting expectations
 					93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
@@ -1157,8 +1421,197 @@ Partners
 					98. Everyone has to talk
 					99. If you can help, help
 			96. Day-to-day
-				97. The emotional ebb and flow of a stressful startup accelerator (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/cadence-timing.md)
-				98. Typical week (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-typical-week.md)
+## The emotional ebb and flow of a stressful startup accelerator 
+
+# Creating a cadence
+
+One of the most critical roles for the accelerator staff is managing the cadence of the class. Both in terms of introducing stressors and pulling pressure release valves, as necessary.
+
+There is no prescribed timing here. You add more pressure when it's needed. And you try to break the tension when it's needed. You just have to play it by ear.
+
+# Three months
+
+PIE chose to run our program for a three month intensive period. (We ran the first class for four and half months, and it seemed to be too long. So we shortened. We'll get into why it seemed long.)
+
+## Three months is a very short time
+
+Most corporations, governments, and larger organization often question how we can possibly get anything done in three months. "Three months seems so short." 
+
+And it is. It's a short intensive period of incredibly stressful work. Piled on top of the long period of incredibly stressful work that is building a startup. 
+
+And if companies aren't careful, the three months can slip by very quickly. Without much to show for it. A few skipped mentor meetings. A talk or two. And suddenly it's Demo Day. Just like that. 
+
+## Three months is a very long time
+
+But fact of the matter is, when you're in the thick of it, three months is an incredibly long time. Especially when you're breaking it into minutes. 
+
+![PIE's infamous countdown clock](/source/images/pie-countdown-clock.jpg)
+
+From the PIE starts until Demo Day begins is about 130,000 minutes. And each one is critical. 
+
+But over that length of time, it's incredibly hard to keep a sustained sprint going. It's like running toward a goal somewhere off in the distance. Like trying to realize a strategy without any tactics. 
+
+So even the three months has to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
+
+By class three (Coconut Creme) we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
+
+Throughout the course of these stages and gates, we tailor the mentor talks to match the topic — or to queue up the obvious need for the startups to focus on these particular topics.
+
+Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
+
+### Product (Month 1)
+
+Because PIE classes generally consisted of groups of developers who understood how to build products, we started in a place of strength and confidence: product development. 
+
+The challenge? Be ready to demo the current version of the company's product in front of the others startups in the class. The deadline was one month into the class. And it was a required activity. 
+
+For some, this was a relatively simple request and in line with their product development schedules. For others, it required a great deal of effort to meet the milestone.
+
+But that led to some interesting things, as well.
+
+Those who were further ahead on product often discovered that they lacked the language to effectively convey what they were building. Worse yet, they sometimes that the current version of the product was difficult, if not impossible, to demo to a diverse audience. 
+
+We get to question assumptions, clarify utility, and make suggestions, as a class. In a group environment. Companies get to respond directly to queries, jot down feature ideas, and generally scratch their head a great deal and ask "Why **did** we do it that way?"
+
+So month one, get the product momentum going. And reward those who are making progress. Because that's going to be the crux of everything going forward. 
+
+It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
+
+### Projections (Month 2)
+
+Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
+
+Now that we've stressed out the developers, we put the stress on the business people. Who, more often than not, are developers learning how to business. 
+
+And in our experience, nothing makes a business person feel more businessy than creating a spreadsheet with lots of dollar values in it. So that's exactly what we focus on during month two, projections.
+
+We usually choose a 12 month window, because none of us know what's really going to happen in the future. But a year seems like a viable window to explore these numbers.
+
+With projections, we experience the polar opposite of product. No one feels confident in their numbers. Most companies don't even know where to begin. 
+
+To support, we offer templates, mentors, and office hours to help. But it usually doesn't. And it becomes a last minute scramble, rife with cries of "Do we really have to do this?"
+
+The answer is "Yes." It's a required element of the class.
+
+From this position of lacking confidence, the revealing of the projections to peers in the a group becomes a very different exercise. With the presenting founder often asking more questions than the audience.
+
+"How did you do this?", "Does this seem realistic?", "What's missing?"
+
+A second month of stress induced collaboration has heightened the trust among peers from a feeling of camaraderie to a dynamic of peer mentorship. And this is exactly what we're trying to engender. 
+
+But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
+
+### Pitch (Month 3)
+
+Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
+
+It's important to note that many programs choose to pitch throughout the course of the entire class. We've found this to have diminishing returns if run for longer than a month. It's also a good chunk of time which we feel is better focused on things like product and projections.
+
+If the product demo is the area of the most confidence and projections are the area of least confidence, the pitch is somewhere in the middle. But it's often the most difficult to refine and finesse, so plan to spend a great deal of time doing it. 
+
+At PIE, we played it by ear, with no fewer than two full group pitch practices per week. With individual staff, mentor, and peer-to-peer pitch practices rounding out the month of activity. 
+
+We began with no slides, only story. Because it does no good to waste time building slides for a story that is going to change drastically anyway. We continue with no slides until we feel the stories are starting to solidify. Then we move to pitches with slides and story.
+
+Group pitch practices are attended by all startups and staff. Mentors are invited to attend when and if they can. Presenters receive feedback from staff, peers, and their team members. 
+
+But there is one distinct difference from the previous two milestones. The difference — and this is critically important — is that while previous presentations are a conversation among the presenter and the audience, this feedback loop is one way. The audience can critique the presentation, but the presenter cannot respond. 
+
+Why? Well, we learned from our speaking coach mentor that this is a critical step in getting people to actually implement changes and improve their talks. You see, if they respond to the feedback, they subconsciously assume that they've fixed the problem. So don't let them respond. And they go and actually fix the problem.
+
+Once the story and deck are starting to come together, start recording the presenters. Not only will it give them a valuable asset to review, it will present another stressor that breaks them out of their comfort zone.
+
+Another piece of feedback we've received from the startups? 
+
+The last week is pretty much nonstop practice, where we not only continue to finesse the story and the deck, but we start getting the presenter to give the pitch in the uniform that they plan to wear on stage. We've learned that the more we gradually attempt to mimic the environment and conditions they will experience on Demo Day — even if it can't be done perfectly — the better the presentations are.
+
+If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
+
+## Typical week in PIE
+
+We often get asked, "What's a typical week like in an accelerator?" And while the term "typical week" is an oxymoron for PIE, there are some things that occur with enough regularity — and provide enough structure for participants — that we can describe them.
+
+So here's an imperfect look at a typical week at PIE:
+
+## Monday
+
+8:00AM 
+Staff arrives, meets about week's upcoming events. Some startups are already working.
+
+10:00AM 
+Workspace is full. All startups have arrived. Staff holds one-on-one meetings with each team. 
+
+5:00PM
+Family Dinner starts. Founders and staff leave the workspace to have dinner together. Non-founding team members remain in the space working. 
+
+7:00PM 
+Family Dinner ends. Startups return to workspace and continue working. Staff returns to space. Compares notes. Continues peer mentoring momentum from Family Dinner.
+
+8:00PM Workspace is about half full with the founders who prefer the late shift. Staff remains online in the chat room or accessible via email.
+
+## Tuesday
+
+8:00AM Staff arrives. Continues making mentor connections for startups based on issues raised during family dinner. Typically two or three mentors per startup per issue. 
+
+10:00AM Workspace is full.
+
+12:00PM Catered lunch in the workspace. Some startups sit together and chat. Others simply eat at their desks. (Their is no required socializing. Just a request that the founders take time to eat.)
+
+1:00PM Anecdotal founder story from a PIE mentor, followed by Q&A.
+
+2:30PM Return to work. Mentors often remain behind to continue the conversation with a startup or two.
+
+7:00PM Staff and startups start to thin out in the workspace. Staff remains online in the chat room or accessible via email.
+
+## Wednesday
+
+8:00AM Work day for startups and staff. Staff arrives. Checks in on progress. Spends day meeting with mentors, potential mentors, alums, and future recruits. 
+
+10:00AM Startups working in the workspace.
+
+11:00AM Random visitor pings staff. Staff invites the visitor to grab a desk and hang out in PIE for the day.
+
+1:00PM Random visitor provides an informal talk and Q&A for startups.
+
+2:30PM Startups working in workspace. Staff meetings with W+K account and creative teams. 
+
+5:00PM Startups encouraged to attend a targeted community event and spend time networking with the rest of the Portland tech community. Staff suggests they drag the random visitor along for the ride. 
+
+8:00PM Startups return to space and continue working and discuss event. Or opt to grab drinks with the random visitor.
+
+## Thursday
+
+8:00AM Staff arrives. Startups start to roll in.
+
+12:00PM Catered lunch in the workspace. 
+
+1:00PM Workshop based on common problem all startups are experiencing. Staff, mentors, and peer-to-peer engagement encouraged.
+
+3:00PM Startups return to work. Small groups break off to work on issues that arose during the workshop.
+
+7:00PM Staff departs. Space starts to clear out. 
+
+## Friday
+
+8:00AM Staff arrives. Startups start to roll in.
+
+10:00AM Staff learns that there is an investor in town to meet with a PIE alum. Staff invites the investor to run the gauntlet. Investor agrees. Startups are given 15 minutes each to meet with the investor.
+
+12:00PM Staff talks with startups about what happened, what went well, what could be better. 
+
+4:00PM Happy Hour with PIE mentors, alums, and community members.
+
+7:00PM Happy Hour winds down. Startups go back to work.
+
+8:00PM Founders who clicked with the investor meet up to continue the conversation
+
+## Saturday and Sunday
+
+Staff and startups in space sporadically. No scheduled events.
+
+
+
+
 				98. Curriculum
 					105. More independent study than classroom
 						106. Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
@@ -1192,8 +1645,45 @@ Partners
 					103. Status reporting
 					104. Weekly 1:1
 					105. Office hours
-				99.  Working with mentors
-					100.  https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/guide-mentors-meeting-with.md
+
+**Advice for startups: Working with mentors**
+
+Are you interested in engaging with mentors? Good. That's what we're here to do.
+
+Here are a some tips:
+
+## OVERALL
+- These folks are volunteering their time because they want to give back to the community. Please be cognizant and respectful of this contribution.
+- Please understand that while our program is a priority for them, they have day jobs and families and whatnot.
+- Following the deep dive meetings, management has compiled a list of mentors who will be helpful to your startup. We will make those introductions on an ongoing basis. Please use one of the two methods below for engaging with those mentors.
+- If you’re not finding mentors who meet your needs, please alert management with your concerns and we will recruit mentors to assist with your particular situation.
+- Shit happens. Sometimes they’ll need to cancel and/or reschedule.
+
+## OFFICE HOURS
+- Keep tabs on the Office Hours page and be on the lookout for mentors who you find interesting 
+- If management staff sees a mentor with office hours who would be beneficial for you, we’ll generally nudge you to set up some time.
+- Once you’ve secured time, confirm the time and place via email. Mentors are busy and sometimes a single email gets lost in the fray.
+- Do one last follow up/confirmation via email evening before/morning of your meeting.
+- Following the Office Hours, send a follow up email touching on any salient points.
+- Fill out the mentor feedback form
+https://docs.google.com/forms/d/1vwn3OQRAiZbGaDNYUt38BOkdPVqnmMG77qRLJMXFnW0/viewform
+
+## AD HOC MENTOR MEETINGS
+
+Need an intro?
+
+The database was designed to be an easy way of searching through the mentor network. Feel free to search through and find folks who are of interest to you.
+
+Ping management with requests for introduction or schedule time via mentor’s office hours
+
+Once you’re introduced…
+
+- Once management makes an email introduction, immediately follow up to schedule a time and place with the mentor.
+- Do one last follow up/confirmation via email evening before/morning of your meeting.
+- Following the Office Hours, send a follow up email touching on any salient points.
+- Fill out the mentor feedback form
+
+					
 				99. Mentor engagement
 					100. Formal
 						101. Presentation with Q&A
@@ -1203,10 +1693,36 @@ Partners
 							104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
 							105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
 						100. Workshops
-						101. Lunch and Learns (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-lunch-and-learns.md)
-						101. Gauntlet/speed dating
-						102. 1:1
-						103. Office hours
+
+**Lunch and Learns** 
+
+Sometimes a mentor talk, other times a workshop, lunch and learns are scheduled twice a week during the three month program during the lunch hour. Speakers can range from founders with anecdotal “war stories” to subject matter experts. We often bring our higher profiled mentors in for these talks, as it is easier to schedule for them. These are some of the most valuable learning opportunities of the program.
+ 
+Despite how straightforward these sessions sound, we’ve discovered a few snags. There is a chance that any given topic, might not be something a company is dealing with that particular day or week, but trust us, they will – and when they are dealing with it, they might not have a chance to meet with that mentor again. This is one of those; take advantage of the opportunity while you have it, moments.
+ 
+Teams will be busy and claim they just don’t have the time for another meeting.  Again, see above. These opportunities aren’t always on the table so they should be treated as such. 
+ 
+Active engagement is crucial for the companies and for the speakers.  A silent room means that your companies aren’t paying attention or asking questions and maybe even more importantly, it means that your speaker is wasting their time and becoming less and less likely to mentor for your program again. We ask our companies to step away from their machines and actively listen / take notes when during the session – it’s only an hour.
+ 
+Oh, and don’t forget to supply lunch – as it’s in the name and presents an opportunity for peer mentoring among the companies or a chance to talk more with the speaker. We’ve found it's best served before the talk.
+
+This doesn’t have to be mentor led. This can be peer led. Some of the most interesting lunch and learns are peer led.
+
+Example topics:
+- Getting the most out of an accelerator
+- Pricing Model roundtable – multiple mentors
+- The importance of documentation  	
+- Minimum “Valuable” Product
+- Founder Talks
+- Business Development 101
+- Presenting 101 
+- PR 101
+
+**Gauntlet/speed dating**
+**1:1**
+**1:Team**
+**Office hours**
+
 					103. Informal
 						103. Happy hours
 						104. After hours
@@ -1218,7 +1734,41 @@ Partners
 					109. Creating the culture of peer mentoring
 					110. Enabling random collisions through the selection process
 					111. Reinforcing collaboration and trust
-					112. Encouraging bonding among peers (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-enforced-socializing-with-peers.md)
+					
+**Encouraging bonding among peers** 
+
+This is an important part of our program and one that we feel is often overlooked by others.  We believe that we aren’t just graduating individual companies from our program, but collaborative groups who will improve and enhance our existing community. 
+
+But this doesn't necessarily happen organically. It takes effort. And intent. That's why we've learned to put time into creating opportunities that enable those peer bonds to form, even on a short timescale. 
+
+We've also learned that it’s important to use a range of bonding activities. A beer or cocktail is fine every once in a while, but it's important to break out of the startup stereotype. Plan activities that don’t just involve drinking. Heck, maybe even plan some activities that are healthy (gasp) or educational. 
+
+The basic rule is: Be inclusive. And provide a range of options. Not every option will work for every participant. 
+
+Below is a list of things we’ve done.
+	
+## Activity examples 
+
+### Cooking class
+With a name like PIE, it should come as little surprise that a number of our activities revolve around food. And when you have that much creative talent in one room, sometimes it's refreshing to give folks a different outlet for that creativity — especially one that doesn't involve banging on a keyboard. 
+
+One activity that met both our food and creativity needs was a cooking class. For the first couple of years, we partnered with a local food accelerator that had commercial kitchen space. They put together a menu, taught our founders to prepare a dish from scratch, and then the entire group had the opportunity to share in the creations, family style. 
+
+Everyone — no matter how well attuned they were to a kitchen — was out of his or her element. And it put everyone on equal footing. Best of all, there were always a few unexpected surprises when we discovered the true chefs in our midst.
+
+Each year we did this resulted in the best family dinner of the class. 
+
+### Alumni vs new class kickball or picnic 
+### Away from the computer/office activities 
+### Mixers + happy hours
+we’ve done hot sauce tasting, cheese and wine pairings, etc
+
+### Family open house
+a lot of program companies have families.  It’s nice to give family and friends an opportunity to check out the space
+
+Admittedly we could do a better job of fostering the community among all of our classes, but at the very least there is an understanding that they can count on one another for support.
+
+
 					112. Using shared experiences
 						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
 						114. Family Dinner
@@ -1247,18 +1797,86 @@ Partners
 			112. Startup sprints
 				113. 404
 				114. Bring the pain
-			115. Demo Day (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-demo-day.md)
-				116. To Demo Day or not to Demo Day?
-				116. Objectives
-				117. Audience
-					118. Investors
-					119. Media
-					120. Community
-					121. Mentors
-					122. Government
-					123. Peers
-					124. Partners
-					125. Sponsors
+# Demo Day 
+## To Demo Day or not to Demo Day?
+## Graduating from the program | DEMO DAY
+
+Graduation requirements can be modified to fit your programs needs or specialities. Most, if not all, programs culminate with a demo day. Companies give a 6-8 minute pitches of their product in front of an audience that can be made up of a combination of stakeholders, investors, mentors, media, and/or community. 
+
+We believe that the focus of demo day should be about gaining attention, not funding. Check don’t get written at demo days, but conversations get started. Your demo day can be as large or small, open or private, as makes sense for your program.  
+
+But while all of the above is true, it is important to understand that demo days are regularly occurring events, meaning, you’re going to work very hard to get attention from the media and investors, and you still might not get it. Their dance cards are typically full. That doesn’t mean you shouldn’t have one, because it’s important to have something that signifies the culmination of the program.
+
+You should also consider the demo day goals of your teams and come up with ways to help them reach them.  Can you get the investors or potential new client they're courting at demo day?  Help them set up a dinner afterwards, or drinks even. 
+
+The hand holding doesn’t stop just because they’ve gone on stage.  
+
+But on to the planning! Here is a look at how we handle ours, some suggestions, and some stats for context:
+
+We believe it’s important to put just as much effort and energy into the event of demo day, as the companies put into their pitches. For many, this day signifies as their public launch and it is our responsibility to make their splash as big as it can be.  
+
+
+## Objectives
+## Audience
+- Investors
+- Media
+- Community
+- Mentors
+- Government
+- Peers
+- Partners
+- Sponsors
+
+
+## Logistics
+
+To help you stay on schedule, we're sharing this [PIE Demo Day: Run of Show document](/source/documents/pie-Demo-Day-Run-of-Show.xlsx).
+
+### Invites
+We manage our invites through Eventbrite and reserve groups of tickets for Investors, Media, Friends and Family, and Community. This enables us to control guest numbers within each group.  There is no cost to attend demo day, but you can make the invite password protected if that makes sense for your event.
+ 
+### Venue
+Ideally you'll find one that that not only meets your needs for capacity, but can also handle the technical requirements you’ll have.  Make sure that your venue gives you time for walk-thrus with the presenters as well as rehearsal time. Bonus if you find one where you can host your post presentation reception (we’ll talk about those in a bit).  We had our first at a locally owned theatre and served popcorn.  We’ve since held it at a nicer venue.  The details are important here.  It’s like the saying goes, dress for the job you want to have – find a venue that matches the level you’re aiming for.
+
+As a reference we used the main theatre and mezzanine for our reception here: http://www.pcs.org/rent-the-armory/
+
+### Technical requirements
+#### Number one rule
+Set your presenters and your audience up for success.  Having the right equipment will make your presenters and your program feel more polished.
+
+#### Projector + Screen
+Make sure that the projector and the screen are large enough that any one in the house can see.  Set your screen up in a place on stage so that presenters aren’t standing right in front of their presentations. 
+
+#### Confidence monitors
+**THESE ARE MANDATORY**, or at least should be.  While we expect our speakers to be prepared for anything during their presentations, ya know, technical glitches, power outages, booing (kidding), we like to provide them with a little bit of a security blanket.  1 for current screen, 1 for presenter notes.
+
+#### Lav + hand mics
+Presenters should use lav mics, period.  This is especially crucial if they’re going to be transitioning their own slides via a clicker.  Too many things to hold and they’ll find themselves juggling.  Hand mics should be reserved for anyone doing presenter introductions or show opening and closing notes.  
+
+#### Wifi
+A definite nice to have, but can get expensive if your venue isn’t equipped.  
+
+Livestreaming: Another nice to have.  We reach another 1000+ viewers by having a live stream of our demo day.  This is great for folks who don’t have time to make a trip just for your event, but would still like to participate.
+
+#### Entertainment/music: 
+Most demo days have their companies walk on stage to a theme song.  We like to take that up a notch and have a live band perform the song.  The band stays on stage and adds a little extra flavor to the whole show.  Year after year, we get a ton of compliments on the band.  If you can swing it, you should.
+
+### What to wear:
+We have teams wear logo branded t-shirts, each team has a different color.  Why do we do this? Well because after 1.5-2 hour long presentations, folks tend to forget names and faces, but can recognize a t-shirt color / logo that they wanted to talk to.  Trust us.  It makes a difference.  How do you decide what colors folks wear? Well, you can let them fight to death, or you can decide for them.  Logos are either black or white - keep it simple.
+
+### Demo day swag:
+Sigh.  You could do it, but do you wanna?  (inside joke ftw) It’s really not worth the time or the money to create swag specific to your demo day.  We know because we’ve done it.  We’ve even created awesome notebooks with pages dedicated to each team so that while they present the user could take notes on that teams specific page AND it had their business card attached to the page! Pure genius and a total waste of money that no one used or cared about.  
+
+### Post show reception (1.5 hours)
+To facilitate conversations post presentations we host a private reception for our companies, media, and investors, immediately after curtain call.  Work with teams to find out who they’d like to attend and help make those introductions happen.  This is not a wrap party, but you should provide some bites and drinks. After all, the majority of the attendees just sat through an entire presentation. 
+
+### Finally, food
+Producing an event like demo day takes a lot of time.  Not only are you managing each individual company and making sure their presentation is ready, but you’re managing the entire show.  
+
+### Denouement: Repair to dinner
+One of the things we tried time and time again was to get the startups to take mentors and potential investors out to dinner after the event. From giving them money to do so to planning their itinerary. It never really worked as expected, but we still think it's a great way of continuing the conversations in a more intimate environment. 
+
+
 				123. Demo format
 				124. Additional content
 				118. Venue
