@@ -1080,22 +1080,6 @@ Blog
 
 ## Hors d'oeuvre (Hackathons, events, coworking)
 
-- Don’t start with an accelerator
-- Coworking and Community Development are not necessarily complementary
-	- We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
-	- Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
-	- It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
-	- Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.
-- Curation of coworking participants
-	- https://github.com/piepdx/pie-cookbook/issues/3
-	- Home away from home
-	- Day-to-day
-	- Hosting events
-		- Startup
-		- Creative
-		- Technical
-		- Hybrid
-		- Hackathons
 
 ### Don’t start with an accelerator 
 
@@ -1252,6 +1236,7 @@ There's more to do.
 In addition to hosting, you now get to start programming your own events. And using your network to make those events interesting, engaging, and valuable. But bear in mind, that this event programming has to occur in collaboration with — not in competition to — the events we mentioned in Steps 2 and 4.
 
 It's incredibly important that these events fill gaps. Not replicate existing content.
+
 With PIE, we created our own programming and invited folks to attend. We held hackathons that combined the startup community with the creative community and corporate community. We offered our space for coworking sessions for the "friends of PIE." Even if that meant giving space away.
 
 In short, we were on the constant lookout for interesting opportunities to bring our networks together. For talks. For gatherings. And for all sorts of collaboration. Because connecting our disparate communities and adding value to the broader community is what helped us establish our space as valuable, needed, and sustainable.
@@ -1281,6 +1266,18 @@ Why do we believe this is an effective model for PIE and other accelerators? At 
 It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
 
 Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.
+
+- Curation of coworking participants
+	- https://github.com/piepdx/pie-cookbook/issues/3
+	- Home away from home
+	- Day-to-day
+	- Hosting events
+		- Startup
+		- Creative
+		- Technical
+		- Hybrid
+		- Hackathons
+
 
 			67. Curation of coworking participants
 				68. https://github.com/piepdx/pie-cookbook/issues/3
