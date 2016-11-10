@@ -55,7 +55,7 @@ Again, if your hope is to find some easily repeatable way of doing this, the way
 
 Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, that one of how time consuming this is. It doesn't scale. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build the best accelerator for your community — no matter what that community happens to be.
 
-### Format
+## Format
 
 We’ve structured this as a cookbook for an accelerator. And admittedly, we may have been a little heavy handed with that whole analogy. Sorry. That’s just how we roll. But you’ll get used to it. 
 
@@ -75,11 +75,11 @@ Finally, we’ll do our best to share all of the ingredients, preparations, step
 
 Note: Your flavors of PIE will vary. In fact, they must vary. If they don’t, you’re likely doing it wrong.
 
-### Building a studio
+## Building a studio
 
 When it comes right down to it, all we’ve done at PIE is figure out a way to create a protected and trusted environment for creative people to try new things — and potentially fail. It’s like any artist’s studio. 
 
-### PIE as an example
+## PIE as an example
 
 > My hope is that you do not view the use of Boulder here as "Boulder tooting its own horn." I use Boulder as an example of a lasting and vibrant startup community because I know it extremely well (at least one segment). This approach is called synecdoche, where the part stands for the whole. There are many things the Boulder startup community can do better and many more for it to discovers we continue on our journey; my hope is that by exploring it in depth it helps you with your journey in your startup community.
 
@@ -260,7 +260,7 @@ Long story short, we greatly underestimated the positive impact and community be
 
 ### Community, then accelerator
 
-Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
+Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure. For that reason, we'll cover ways to discover, identify, engage with, and collaborate with your community prior to beginning your accelerator effort.
 
 ### Just enough
 You can go too far.
@@ -270,6 +270,8 @@ You can go too far.
 * In goals
 * In trying to over architect the experience
 * In over planning and under participating
+
+This is meant to be a little messy.
 
 ### There is no pause button
 
@@ -701,6 +703,11 @@ Now let’s get you working on your own. And hopefully doing this whole accelera
 					14. Pitching from the beginning of the program
 					
 
+---
+
+---
+
+# RECIPES
 # Before you begin
 
 ## Want to start an accelerator? Don't start an accelerator
