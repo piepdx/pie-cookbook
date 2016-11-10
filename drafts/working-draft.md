@@ -1168,21 +1168,51 @@ The Program Manager works to ensure that the current class of PIE startups has t
 
 ## Optional roles
 
-### Entrepreneur in Residence (EiR) 
+## Brand Manager 
 
-#### Role
+### Role
+The Brand Manager works to ensure that brand sponsors and Wieden+Kennedy derive demonstrable value from their engagement with PIE. This role serves as the primary liaison and ombudsman for PIE’s brand mentors.
+
+### Primary responsibilities
+- Serve as primary contact point for brand representatives and mentors
+- Coordinate brand relations and communications
+- Recommend strategies and tactics that improve the program for brand participation
+- Recommend strategies and tactics that facilitate brand activations
+- Manage sponsor involvement from a financial and contractual standpoint
+- Manage sponsor visits and schedules
+- Manage interaction between W+K brand account teams and startups
+- Serve as a conduit for brand and startup collaboration
+- Formalize process for brand mentor engagement from role definition through engagement
+- Advise startups and mentors on brand engagement
+- Participate in weekly checkpoints, including but not limited to:
+	- Monday morning kick off meetings
+	- Family Dinner meeting
+	- Weekly check-ins with each company
+- Provide a weekly status report to sponsoring brands on PIE progress
+
+### Secondary responsibilities
+- Assist with schedule for curriculum and mentor visits
+- Assist with major events like Demo Day
+- Assist with weekly checkpoints
+- Assist with weekly progress reports for startups
+- Work with W+K communications to promote brand sponsors within the advertising industry
+
+
+## Entrepreneur in Residence (EiR)
+
+### Role
 The entrepreneur in residence role is designed to serve two critical functions. First, they are designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with PIE management. Second, the EiR is charged with assessing and highlighting opportunities within PIE that may result in efficiencies or revenue generation.
 
-#### Primary responsibilities
+### Primary responsibilities
 - Work to formalize and codify PIE processes and programs
 - Document the PIE experience from a startup perspective
 - Serve as confidante for startups, both current and alums
 - Manage relationship with W+K technical mentors
 - Recommend strategies and tactics that improve the program for startups
 - Lead build vs. buy decisions for PIE management tools
-Work to ensure PIE participates in the larger startup and accelerator community
+- Work to ensure PIE participates in the larger startup and accelerator community
 
-#### Secondary responsibilities
+### Secondary responsibilities
 - Assist with schedule for curriculum and mentor visits
 - Assist with major events like Demo Day
 - Assist with weekly checkpoints
@@ -1355,7 +1385,15 @@ But you know what? Admitting we sucked at that — and being open with our appli
 
 ## Onboarding 
 
-# Onboarding new startups
+One of the biggest mistakes most accelerators make — and we've made it a few times — is with onboarding. Or, to put it another way, assuming that participants realize what the accelerator is designed to do, what resources are available, and how to make best use of those resources.
+
+If you're building an early stage tech accelerator, you can sometimes skate by without doing a great deal of onboarding. And just get lucky. 
+
+Why? Because most early stage tech companies are familiar with the concept of accelerators. They know what they are designed to do. And they understand, at a high level, what they're supposed to get out of the accelerator.
+
+Other industries? Not so much. The accelerator is not a common concept. So  we've found that assuming folks will know how to engage is a huge mistake. You have to tell them.
+
+# Give the startups context
 
 It’s important to recognize that this is a large transition for your companies.  Some might have even relocated completely to participate in your program. And if they haven’t, well, going from planning your own schedule and working out of a coffee shop, to a structured accelerator program is still a big transition.  
 
@@ -1387,7 +1425,54 @@ Consider providing these docs along with a welcome basket of swag.  Again, it’
 				93. Touring the space
 				94. Introducing startups to one another
 			91. First day
-			92. Family Dinner (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-family-dinner.md)
+			
+	# Family Dinner
+
+Arguably one of the most important parts of the program, family dinner is a weekly gathering exclusively for our company founders to come together, share status updates and gives guidance to one another over dinner. We’ve found that only talking about each other’s successes tends to discourage any folks who are further behind or have had a rough week, so we keep family dinner conversations strictly to topics where founders could use help and support.  Think of it as it a support group over dinner.
+
+Having a gathering like this is crucial to the (mental) health of your program and founders and will deepen the connections between companies.  Peer mentoring is not something that can be forced, but in a setting like family dinner, it is only natural that folks will offer help to their fellow founders.
+ 
+Here are a few tips for how to effectively run a family dinner – because it’s not just as simple as ordering food.
+ 
+For a program of 6-8 companies, dinner usually run for an hour and a half.  Any longer than that and folks will start tuning out, and trust us, it will go longer than that if you’re not in control.  To avoid dinners that drag on, help your founders either cut to the chase, by calling out specific issues you know they’re having and could use help on or know when to politely cut folks off and move to the next company.  You don’t want to discourage any dialog that happens, but you do want to be mindful of everyone’s times.  Suggest they continue the conversation post dinner.
+ 
+As a management team, it is your responsibility to know what buttons to push and what levers to pull, to get your founders to open up.  Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing.  Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
+ 
+These dinners are always open to past class, and if you’re running your dinners right, your alumni will be regulars.
+ 
+We recommend hosting your dinners on-site rather than at a restaurant, unless you can get a private room. Having the meal catered means it’s easier for folks to get up from their desk and join, rather than being tempted to go home and stay there before joining you at restaurant.
+ 
+Unless teams are traveling, consider family dinner mandatory.
+
+## Family Dinner 0.9 Beta (Coworking version)
+
+The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. We only called it Family Dinner because that's what YC called their gathering. And we liked the implications of family and strengthening the connections among the members of the PIE folks.
+
+As far as participants, it tended to be a mixture of folks from early stage startups and other individual contributors working out of the space.  There were a few regular attendees. But the mix changed and morphed from week to week. Conversations ranged from business to personal life to business' impact on personal life.
+
+Then something interesting began to happen. Rather than simply sitting around and engaging in small talk, folks began to share issues and problems they were having. They began to explore the stress and emotions of running a startup. And they began to shed the "entrepreneurial veneer" of "Everything is awesome!" to reveal what was really happening. And to start to ask for help.
+
+## Family Dinner 1.0 (Coworking version)
+
+As Family Dinner moved from Happy Hour to Reality Hour, something interesting began to happen. More folks attended. More folks participated. More folks shared. And more folks were encouraged to share. 
+  
+> Rather than opting for voluntary participation, the weekly event became an exercise in peer mentoring. 
+
+Each person who arrived was required to talk about what they were going through that week. In turn, other folks around the table were required to comment, critique, and collaborate to help that individual. Family Dinner began to solve problems — or identify problems as intractable. 
+
+Family Dinner problems began to take three distinct forms:
+
+1. **Been there done that.** An individual would highlight a problem that they had experienced. That problem had already been solved by someone else around the table. The two parties would collaborate to accelerate the resolution of the issue. 
+2. **Now, that's interesting.** An individual would raise an issue that no one had ever dealt with previously, and yet folks were motivated to solve collaboratively. Multiple parties would collaborate to accelerate the resolution of the issue.
+3. **Stop. Do not pass Go.** An individual would raise an issue that folks had tried to solve before, but it would be defined to be a completely intractable problems with no solution. Rather than continue to struggle, the individual would be encouraged to move on — or move around — that problem.
+
+But it wasn't without its flaws. Some folks begin commanding more airtime than others. So we put a time limit on it. And enforced a requirement for everyone to talk. We tried to create a culture of collaboration. Where everyone was getting value out of the gathering. Not just a few squeaky wheels.
+
+## Family Dinner 2.0 (Accelerator)
+
+
+
+	
 				93. Origin
 					94. Borrowed from YC
 					95. Originally didn’t involve any dinner
@@ -1876,8 +1961,31 @@ One of the things we tried time and time again was to get the startups to take m
 					122. Post show
 					123. Archive
 						124. https://www.youtube.com/channel/UCMEbih2k3WBsODB68WqwT6g/videos?sort=dd&shelf_id=0&view=0
-		115. Dessert 
-			116. Post mortems (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-post-mortem.md)
+# Dessert 
+
+## Post mortem
+
+If you’ve done your work on pitch practice correctly, your startups will be primed to turn the tables on you. 
+
+> “You critiqued my pitch? Let me critique your job.” 
+
+At PIE, we even couch it as such. Like pitch practice, PIE staff may not respond to any criticism during the post mortem. We can take notes and ask for clarification on feedback. But we are not permitted to try to explain away any blemishes the startups describe. Nor are we allowed to defend our actions.
+
+Not saying that all of the feedback is negative. Quite the opposite. But after the first thirty minutes or so, the founders start to run out of niceties. And then they get down to provide the truly valuable feedback.
+
+We receive feedback over the course of an hour to ninety minutes from each startup, preferably with all members of the founding team. If necessary, we meet with founders separately and then consolidate the feedback.
+
+Then we look for common themes and concerns. We place role-specific elements into buckets. Like if the CTOs all referenced a particular aspect of the program. Or if the majority of the CEOs had a similar complaint.
+
+We're looking for things that we need to change to make the program more effective. Not easier. Not less stressful. But more effective.
+
+To this end, we can almost guarantee that one of the most consistent pieces of feedback you will receive throughout the post mortem process is “I wish you would have told us [x] sooner” or “If only I’d be taught [x] earlier in the class.” 
+
+Rest easy. Had you told them any earlier, they wouldn’t have heard you. They would have ignored it. Or they would have believed that the problem would never affect them.
+
+Don’t believe us? Try telling your next class earlier and see what happens.
+
+
 			118. Tweaking the model
 			119. Quarterly surveys
 			119. Metrics for success
