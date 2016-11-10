@@ -1,15 +1,15 @@
 # Index
 
-- [Staff roles and responsibilities](pie-staff-roles-responsibilities.md)
-- [Creating a cadence](cadence-timing.md)
-- [What to expect when you're expecting a startup](onboarding-startups.md)
-- [Meeting with Mentors](guide-mentors-meeting-with.md)
-- [Typical week](logistics-typical-week.md)
-- [Family Dinner](logistics-family-dinner.md)
-- [Lunch and Learns](logistics-lunch-and-learns.md)
-- [Bonding](logistics-enforced-socializing-with-peers.md)
-- [Demo Day](logistics-demo-day.md)
-- [Post mortem](logistics-post-mortem.md)
+- [Staff roles and responsibilities](archive/pie-staff-roles-responsibilities.md)
+- [Creating a cadence](archive/cadence-timing.md)
+- [What to expect when you're expecting a startup](archive/onboarding-startups.md)
+- [Meeting with Mentors](archive/guide-mentors-meeting-with.md)
+- [Typical week](archive/logistics-typical-week.md)
+- [Family Dinner](archive/logistics-family-dinner.md)
+- [Lunch and Learns](archive/logistics-lunch-and-learns.md)
+- [Bonding](archive/logistics-enforced-socializing-with-peers.md)
+- [Demo Day](archive/logistics-demo-day.md)
+- [Post mortem](archive/logistics-post-mortem.md)
 
 ## Communications with startups
 
@@ -23,7 +23,7 @@
 
 ### Onboarding startups
 
-- [Onboarding](onboarding.md)
+- [Onboarding](archive/onboarding.md)
 - [Acceptance letter](onboarding-acceptance-letter.md)
 - [What to expect](onboarding-what-to-expect.md)
 - [What you're getting yourself into](onboarding-what-youre-getting-in-to.md)
