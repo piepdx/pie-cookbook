@@ -61,57 +61,57 @@
 ~~- Work with W+K communications to promote PIE within the advertising industry~~
 
 
-## Brand Manager 
+~~## Brand Manager ~~
 
-### Role
-The Brand Manager works to ensure that brand sponsors and Wieden+Kennedy derive demonstrable value from their engagement with PIE. This role serves as the primary liaison and ombudsman for PIE’s brand mentors.
+~~### Role~~
+~~The Brand Manager works to ensure that brand sponsors and Wieden+Kennedy derive demonstrable value from their engagement with PIE. This role serves as the primary liaison and ombudsman for PIE’s brand mentors.~~
 
-### Primary responsibilities
-- Serve as primary contact point for brand representatives and mentors
-- Coordinate brand relations and communications
-- Recommend strategies and tactics that improve the program for brand participation
-- Recommend strategies and tactics that facilitate brand activations
-- Manage sponsor involvement from a financial and contractual standpoint
-- Manage sponsor visits and schedules
-- Manage interaction between W+K brand account teams and startups
-- Serve as a conduit for brand and startup collaboration
-- Formalize process for brand mentor engagement from role definition through engagement
-- Advise startups and mentors on brand engagement
-- Participate in weekly checkpoints, including but not limited to:
-	- Monday morning kick off meetings
-	- Family Dinner meeting
-	- Weekly check-ins with each company
-- Provide a weekly status report to sponsoring brands on PIE progress
+~~### Primary responsibilities~~
+~~- Serve as primary contact point for brand representatives and mentors~~
+~~- Coordinate brand relations and communications~~
+~~- Recommend strategies and tactics that improve the program for brand participation~~
+~~- Recommend strategies and tactics that facilitate brand activations~~
+~~- Manage sponsor involvement from a financial and contractual standpoint~~
+~~- Manage sponsor visits and schedules~~
+~~- Manage interaction between W+K brand account teams and startups~~
+~~- Serve as a conduit for brand and startup collaboration~~
+~~- Formalize process for brand mentor engagement from role definition through engagement~~
+~~- Advise startups and mentors on brand engagement~~
+~~- Participate in weekly checkpoints, including but not limited to:~~
+~~	- Monday morning kick off meetings~~
+~~	- Family Dinner meeting~~
+~~	- Weekly check-ins with each company~~
+~~- Provide a weekly status report to sponsoring brands on PIE progress~~
 
-### Secondary responsibilities
-- Assist with schedule for curriculum and mentor visits
-- Assist with major events like Demo Day
-- Assist with weekly checkpoints
-- Assist with weekly progress reports for startups
-- Work with W+K communications to promote brand sponsors within the advertising industry
+~~### Secondary responsibilities~~
+~~- Assist with schedule for curriculum and mentor visits~~
+~~- Assist with major events like Demo Day~~
+~~- Assist with weekly checkpoints~~
+~~- Assist with weekly progress reports for startups~~
+~~- Work with W+K communications to promote brand sponsors within the advertising industry~~
 
 
-## Entrepreneur in residence
+~~## Entrepreneur in residence~~
 
-### Role
-The entrepreneur in residence role is designed to serve two critical functions. First, they are designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with PIE management. Second, the EiR is charged with assessing and highlighting opportunities within PIE that may result in efficiencies or revenue generation.
+~~### Role~~
+~~The entrepreneur in residence role is designed to serve two critical functions. First, they are designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with PIE management. Second, the EiR is charged with assessing and highlighting opportunities within PIE that may result in efficiencies or revenue generation.~~
 
-### Primary responsibilities
-- Work to formalize and codify PIE processes and programs
-- Document the PIE experience from a startup perspective
-- Serve as confidante for startups, both current and alums
-- Manage relationship with W+K technical mentors
-- Recommend strategies and tactics that improve the program for startups
-- Lead build vs. buy decisions for PIE management tools
-Work to ensure PIE participates in the larger startup and accelerator community
+~~### Primary responsibilities~~
+~~- Work to formalize and codify PIE processes and programs~~
+~~- Document the PIE experience from a startup perspective~~
+~~- Serve as confidante for startups, both current and alums~~
+~~- Manage relationship with W+K technical mentors~~
+~~- Recommend strategies and tactics that improve the program for startups~~
+~~- Lead build vs. buy decisions for PIE management tools~~
+~~Work to ensure PIE participates in the larger startup and accelerator community~~
 
-### Secondary responsibilities
-- Assist with schedule for curriculum and mentor visits
-- Assist with major events like Demo Day
-- Assist with weekly checkpoints
-- Assist with weekly progress reports for startups
-- Assist with online presence, including but not limited to:
-	- Web content
-	- Blog
-	- Social
+~~### Secondary responsibilities~~
+~~- Assist with schedule for curriculum and mentor visits~~
+~~- Assist with major events like Demo Day~~
+~~- Assist with weekly checkpoints~~
+~~- Assist with weekly progress reports for startups~~
+~~- Assist with online presence, including but not limited to:~~
+~~	- Web content~~
+~~	- Blog~~
+~~	- Social~~
 
