@@ -1493,21 +1493,25 @@ But it wasn't without its flaws. Some folks begin commanding more airtime than o
 
 # Creating a cadence
 
-One of the most critical roles for the accelerator staff is managing the cadence of the class. Both in terms of introducing stressors and pulling pressure release valves, as necessary.
+One of the most critical roles for the accelerator staff is managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
 
 There is no prescribed timing here. You add more pressure when it's needed. And you try to break the tension when it's needed. You just have to play it by ear.
 
+That said, there are some clear guardrails to help guide this effort.
+
 # Three months
 
-PIE chose to run our program for a three month intensive period. (We ran the first class for four and half months, and it seemed to be too long. So we shortened. We'll get into why it seemed long.)
+PIE chose to run our program for a three month intensive period. 
+
+We ran the first class for four and half months, and it seemed to be too long. So we shortened the program. Later, we'll get into why it seemed long. 
 
 ## Three months is a very short time
 
-Most corporations, governments, and larger organization often question how we can possibly get anything done in three months. "Three months seems so short." 
+Most corporations, governments, and larger organization often question how we can possibly get anything effective done in three months. "Three months seems so short," they say. 
 
-And it is. It's a short intensive period of incredibly stressful work. Piled on top of the long period of incredibly stressful work that is building a startup. 
+And it is. It's a short intensive period of incredibly stressful work. Piled on top of — or in the middle of — the long period of incredibly stressful and arduous work that is building a startup. (In all honesty, the accelerator period is the least stressful — and most supportive — of any of it.)
 
-And if companies aren't careful, the three months can slip by very quickly. Without much to show for it. A few skipped mentor meetings. A talk or two. And suddenly it's Demo Day. Just like that. 
+And if companies aren't careful, the three months can slip by very quickly. Too quickly. Without much to show for it. A few skipped mentor meetings. A talk or two. And suddenly it's Demo Day. Just like that. 
 
 ## Three months is a very long time
 
@@ -1515,11 +1519,11 @@ But fact of the matter is, when you're in the thick of it, three months is an in
 
 ![PIE's infamous countdown clock](/source/images/pie-countdown-clock.jpg)
 
-From the PIE starts until Demo Day begins is about 130,000 minutes. And each one is critical. 
+From the time the first day of PIE starts until we bring the house lights down and Demo Day begins is about 130,000 minutes. And each one is critical. 
 
-But over that length of time, it's incredibly hard to keep a sustained sprint going. It's like running toward a goal somewhere off in the distance. Like trying to realize a strategy without any tactics. 
+But no matter how motivated the founder, no matter how real the opportunity, no matter how passionate the team, it's a challenge to keep the momentum going. It's nearly impossible, over that length of time, to keep a sustained sprint going. It's like running toward a goal somewhere off in the distance. Like trying to realize a strategy without any tactics. 
 
-So even the three months has to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
+So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
 
 By class three (Coconut Creme) we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
 
