@@ -211,6 +211,36 @@ The best accelerators spring up from communities. Great communities can form aro
 
 If you don't have an existing community, keep this in mind when you're deciding on the focus of your accelerator. Because if you don't have a community then your accelerator needs to be attractive enough to recruit a community around it.
 
+## Understanding — and working within — the existing culture of the community
+
+Every accelerator needs a community. Every community does not need an accelerator.
+
+Communities exist on a spectrum. Some communities don't even realize that they're communities. Others are a loosely assembled group of individuals who identify with peers and members of their community through a feeling of commonality and affinity, even though they lack definition, infrastructure, and process for formalizing that community. Still other communities are well defined, organized, and managed as communities.
+
+[PLACEHOLDER] Provide analogies/examples of each of the communities above.
+
+When it comes to accelerators, no one type of community has a particular advantage over any other. They all have their respective pros and cons.
+
+Amorphous and nebulous communities, for example, have the benefit of needing the structure accelerators bring to a community. That's an upside. No pre-existing conditions or competition or toes on which to step. That's awesome. On the downside, these ill defined communities are — well — ill defined. As such, they don't have easily accessible resources into which an accelerator can immediately tap. The onus, therefore, is on the accelerator to create these assets and resources from scratch.
+
+Conversely, a well established community — on the upside — could have a wealth of infrastructure and programmatic elements which can be leveraged by an accelerator. While on the downside, it may have pre-existing and well established players, organizations, and cultural mores that prevent an accelerator from being as effective as it can be — without spending significant political capital to navigate the existing infrastructure.
+
+See? Pros and cons. No community is perfect.
+
+What we're saying is that the community doesn't have to be a certain kind of community to support the concept of an accelerator. It simply has to exist. As a community. Even if the members of said community are still not fully cognizant of the community's existence or their inclusion therein.
+
+If you, as the accelerator perceive something that behaves like community — no matter how ill defined — then there's enough there to begin.
+
+## Accelerators function within communities
+
+Accelerators can be a means of bringing an existing — but nebulous and ill defined — community together. Or accelerating the momentum of an organized community.
+
+But make no mistakes. Accelerators are not a means of creating a community from scratch. And this is an assumption that most people make. Many potential accelerator founders are enamored of the concept of creating an accelerator that will somehow result in the creation of an amazing and vibrant community. It's actually the converse that is true.
+
+Community first. Accelerator second.
+
+To be successful, you must work within the context and culture of your existing community. You're not going to be successful trying to build something that flies in the face of the community in which you're trying to build it.
+
 ## Current state of accelerators 
 
 While PIE will speak from its vantage point on its experience as coworking space, a community hub, and an early stage tech startup accelerator, the PIE Cookbook is not meant to be tech specific. Nor is it meant to be a guide that only applies to startups.
