@@ -5,7 +5,7 @@
 
 > - Paul Graham, [How Y Combinator Started](http://old.ycombinator.com/start.html)
 
-This cookbook all began simply enough. As a way of formalizing the mechanics and processes of the PIE program. In case one of us, as the euphemism goes, got hit by a bus.
+This cookbook all began simply enough. As a way of formalizing the mechanics and processes of the PIE program. In case one of us, as the euphemism goes, got hit by a bus. Painfully.
 
 But once we started working on it. And building it out. We realized that we were actually beginning to scratch the surface of something much larger. Something far more compelling. 
 
