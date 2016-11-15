@@ -1,10 +1,10 @@
 # Index
 
-- [Notes on mentoring](mentoring.md)
-- [Mentors vs Advisors](mentors-vs-advisors.md)
-- [Mentoring the mentors](mentoring-mentors.md)
-- [Common sense is not common](common-sense.md)
-- [Bad actors](mentors-bad-actors.md)
+- [Notes on mentoring](archive/mentoring.md)
+- [Mentors vs Advisors](archive/mentors-vs-advisors.md)
+- [Mentoring the mentors](archive/mentoring-mentors.md)
+- [Common sense is not common](archive/common-sense.md)
+- [Bad actors](archive/mentors-bad-actors.md)
 
 ## Mistakes
 - [Homogenous mentors](../misc/mistakes/mentors-homogenous.md)
@@ -12,11 +12,11 @@
 
 ## Logistics
 
-- [Time commitment](mentors-time-commitment.md)
-- [How to activate mentors](mentors-activating.md)
-- [Preparing mentors to speak to startups](mentors-coaching-on-speaking.md)
-- [Speed dating vs Matchmaking](mentors-matchmaking-vs-speed-dating.md)
+- [Time commitment](archive/mentors-time-commitment.md)
+- [How to activate mentors](archive/mentors-activating.md)
+- [Preparing mentors to speak to startups](archive/mentors-coaching-on-speaking.md)
+- [Speed dating vs Matchmaking](archive/mentors-matchmaking-vs-speed-dating.md)
 
 ## Snippet
 
-- [Mentor integrity](mentor-integrity.md)
+- [Mentor integrity](archive/mentor-integrity.md)
