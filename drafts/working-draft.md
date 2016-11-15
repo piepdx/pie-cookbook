@@ -55,6 +55,12 @@ Again, if your hope is to find some easily repeatable way of doing this, the way
 
 Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, that one of how time consuming this is. It doesn't scale. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build the best accelerator for your community — no matter what that community happens to be.
 
+#### 4. Be intentional
+
+So much of what occurs in an accelerator environment appears to happen organically and dynamically. But appearances, as they say, can be deceiving. And can belie all of the prior effort that has been invested prior to the accelerator environment.
+
+To be successful, you must be intentional. And work with the intent of making stuff happen. Not just letting stuff happen.
+
 ## Format
 
 We’ve structured this as a cookbook for an accelerator. And admittedly, we may have been a little heavy handed with that whole analogy. Sorry. That’s just how we roll. But you’ll get used to it. 
@@ -307,21 +313,21 @@ This is meant to be a little messy.
 
 Once you start, you cannot stop. Ever.
 
-## How to use this book
+## How to use this cookbook
 
-By way of analogy, the PIE Cookbook should serve as a map for your road trip. 
+Like many cookbooks, there’s no one way to use this book. But we have designed it with two particular use cases in mind:
 
-It's a visualization of where you're trying to go and a record of all of the places you'll stop along the way as you head toward your intended destination. 
+1. If you are intrigued by the idea of starting an accelerator but have absolutely no idea where to start—or, worse yet, are paralyzed by a fear of failure that’s preventing you from taking the leap—this book will guide you step-by-step through the iterations that PIE followed, highlighting mistakes we made along the way and culminating with the process we use to run our accelerator today.  
+2. If you have already started an accelerator but are feeling like you could be doing better, this book will allow you to jump to sections that apply to specific areas of your program that you’re looking to improve. 
 
-We're providing the details and roadside attractions so that you understand what the journey will take. 
+Like any cookbook, this book provides the recipes that worked for PIE. They may or may not work for your organization. And your special adaptations are what make the recipe work for you. 
 
-Sometimes, you may get off the beaten path and discover something incredibly interesting. 
+With that in mind, it is our intention to:
 
-Sometimes, the map may be dated and the roads don't exists anymore. So you'll need to find your own way. 
+- Arm you with enough knowledge to be dangerous. And to break things.
+- Give you enough insight into our process for you to internalize it, change it, and create your own way of doing things.
+- Encourage you to communicate back to us what worked and what didn’t. So that we can create a more compelling cookbook for everyone that is just as crazy as we are.
 
-It's not designed to be an airplane ticket that allows you to skip all of the messy stuff. The messy stuff is actually what it takes to bake something tasty, sustainable, and effective. 
-
-Unfortunately, we’ve now mixed metaphors with cookbooks and roadmaps. Get used to it. We said it was a mess.
 
 ## Open Source
 
@@ -707,7 +713,33 @@ Now let’s get you working on your own. And hopefully doing this whole accelera
 					19. Startup PDX Challenge
 			9. W+K engagement
 			10. Brand engagement
-		7. Drawing inspiration from other chefs
+		
+
+# Drawing inspiration from other chefs
+
+There are a benefits to starting something after people have already tested the waters. You’re getting the chance to take advantage of learnings from predecessors to inform the organization you’re trying to build. 
+
+We tried to do the same thing. But when we started thinking about PIE as an accelerator, we weren’t quite as lucky. Much like when we started the coworking space, there were few models from which to select—and none of them had proven whether the model would actually pencil out. (Many of them still haven’t.) 
+
+So we just had to take our best guess from the available options. But unlike you with hundreds of successful accelerator programs from which to choose, we had, well, two. Those two models were still in their early existence but they made the most sense to us. And seemed most in line with what we were trying to accomplish. So we took a risk. And tried to glean as much as we could from what they were doing and apply those concepts to our program.
+
+Now the names of our inspirational chefs — our Julia Child and James Beard as it were — aren’t going to be surprising to you, in this day and age. The two programs we chose to serve as role models were — now obvious thanks to their continued success — Y Combinator and TechStars. 
+
+Things weren’t as obvious back then as they are today. There was little indication at that time that these two entities would become the juggernauts of startup acceleration that they are today. 
+
+We just got lucky. 
+
+Note: This is a recurring theme.
+
+Looking back, we also made a decidedly important decision by accident. 
+
+You see, we knew we couldn’t recreate the perceived effectiveness of either of those programs, wholesale. Because we didn’t have all of the necessary ingredients at our disposal. Nor were we in a region that would provide all of those elements. 
+
+So rather than selecting one program after which to pattern ourselves in a cookie-cutter fashion we chose to instead dissect each program and take only the elements which we felt best resonated with our audience—and that we had a chance of effectively emulating.
+
+That is, it did us no good to strive to set up the program up as the onramp to the Silicon Valley elite and a bevy of investors—because we didn’t have the access that would have enabled this. Instead, we took only the parts of each program we had the ingredients to effectively recreate. 
+
+Kind of like borrowing a cup of sugar from your neighbor.		
 			8. YC
 				9. Ingredients we borrowed
 					10. Investment strategy
