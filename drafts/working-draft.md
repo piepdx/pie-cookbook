@@ -83,7 +83,7 @@ Finally, we’ll do our best to share all of the ingredients, preparations, step
 
 Note: Your flavors of PIE will vary. In fact, they must vary. If they don’t, you’re likely doing it wrong.
 
-## Building a studio
+**Building a studio**
 
 When it comes right down to it, all we’ve done at PIE is figure out a way to create a protected and trusted environment for creative people to try new things — and potentially fail. It’s like any artist’s studio. 
 
@@ -117,8 +117,9 @@ But our context for this experimentation has always been PIE. And in order for P
 
 While we’ll get into specific elements of the program, its composition, and its multiple iterations throughout the book, here is some grounding in where this whole thing started.
 
+- - - -
 
-## No interest in building a startup accelerator like PIE? Good. 
+## [SIDEBAR] No interest in building a startup accelerator like PIE? Good. 
 [Source](https://medium.com/portland-incubator-experiment/no-interest-in-building-a-startup-accelerator-like-pie-good-f31ecbd14e05 "Permalink to No interest in building a startup accelerator like PIE? Good. — Portland Incubator Experiment — Medium")
 
 ### Our motivation to[ share the _PIE Cookbook_][10] isn't to convince you to recreate[ PIE][11]. It's to inspire you to create something new — and better.
@@ -209,6 +210,10 @@ And, by all means, please keep us in the loop. We're looking forward to learning
 [30]: http://twitter.com/PIEpdx "Twitter profile for @PIEpdx"
 [31]: http://twitter.com/orstoryboard "Twitter profile for @orstoryboard"
 
+- - - - -
+
+## Motivations
+
 It seems a lot of folks want to build an accelerator to somehow create a startup community from scratch. Unfortunately, that's not really how this thing works. 
 
 An accelerator can attract a community. An accelerator can codify a community. An accelerator can even import a community. But an accelerator has to have a community. 
@@ -239,7 +244,7 @@ What we're saying is that the community doesn't have to be a certain kind of com
 
 If you, as the accelerator perceive something that behaves like community — no matter how ill defined — then there's enough there to begin.
 
-## Accelerators function within communities
+### Accelerators function within communities
 
 Accelerators can be a means of bringing an existing — but nebulous and ill defined — community together. Or accelerating the momentum of an organized community.
 
@@ -296,11 +301,11 @@ And this has come into sharp relief as we've moved away from PIE being a physica
 
 Long story short, we greatly underestimated the positive impact and community benefits of having an actual physical place. That's why we're working to correct that. To return to PIE being less virtual and more physical. Because our community needs that physical space.
 
-### Community, then accelerator
+#### Community, then accelerator
 
 Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure. For that reason, we'll cover ways to discover, identify, engage with, and collaborate with your community prior to beginning your accelerator effort.
 
-### Just enough
+#### Just enough
 You can go too far.
 * In design
 * In environment
@@ -311,7 +316,7 @@ You can go too far.
 
 This is meant to be a little messy.
 
-### There is no pause button
+#### There is no pause button
 
 Once you start, you cannot stop. Ever.
 
