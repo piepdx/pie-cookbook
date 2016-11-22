@@ -1020,12 +1020,22 @@ Long story short, we feel we’ve gotten exponentially more value out of giving 
 	- https://github.com/piepdx/pie-cookbook/issues/3
 	- Home away from home
 	- Day-to-day
-	- Hosting events
-		- Startup
-		- Creative
-		- Technical
-		- Hybrid
-		- Hackathons
+
+## Hosting events
+
+Part of the appeal of hosting events is providing an opportunity for random, serendipitous collisions to occur by getting day-to-day coworking participants in the same room as members of the community whom they may not regularly encounter. 
+
+For this reason, you should try to program the majority of the events with content that is tangentially or orthogonally related to the day-to-day pursuits of the coworking space. Members of the coworking space get to chat with one another on a regular basis. And that can create a bit of an echo chamber. 
+
+These events should be striving to introduce speakers, topics, and communities that get the coworking companies thinking differently or, at the very least, more broadly. 
+
+At PIE, we provided programming around the following topics
+
+- Startup including legal and accounting
+- Creative which featured talks like "Design for Developers" and "PR 101"
+- Technical issues like specific technologies that were of interest to participants
+- Hybrid events that combined several topics, like "How to manage developers" or "How to successfully engage with open source projects"
+- Hackathons
 
 # Kitchen Prep
 
