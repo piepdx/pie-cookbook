@@ -7,21 +7,21 @@ You don't get to start in the middle. You have to start at the beginning.
 
 When we started the experiment with Wieden+Kennedy that would become PIE, we didn't set out to build an accelerator. We started with something to support the existing startup community. Something that would fill gaps that were preventing our community from growing and thriving. Something that would enable connections and random collisions and happily serendipitous events to occur. 
 
-Honestly, we just kind of stumbled into this whole accelerator thing. It wasn't even on our list of objectives when we started. Or part of the conversation. It's just where we wound up for a time. But oddly enough — even though we never set out to build an accelerator — we managed to build a very effective one.
+Honestly, we just kind of stumbled into the  whole "accelerator" thing. It wasn't even on our list of objectives when we started. Or part of the conversation. It's just where we wound up for a time. But oddly enough — even though we never set out to build an accelerator — we managed to build a very effective one.
 
-This is a recurring theme. That we will touch on time and time again in this book. Throughout PIE's life, we have been part of an ongoing series of happy accidents. But that, itself, is no accident. We designed the project to work that way. To never take itself too seriously. And to always be open to changing the recipe. Even if staying the course seemed safe and sane. To always pushing the envelope, exploring the edges, and not getting comfortable. 
+This is a recurring theme that we will touch on time and time again in this book. Throughout PIE's life, we have been part of an ongoing series of happy accidents. But those accidents were expected. We designed the project to work that way. To never take itself too seriously. And to always be open to changing the recipe. Even if staying the course seemed safe and sane. We wanted to always be pushing the envelope, exploring the edges, and not getting comfortable. Because that's where some of the most interesting things happen. 
 
-It's not hard. You can do this too. And if you need help, we'll be happy to give you a nudge from time to time. 
+You can do this too. It's not hard. And if you need help, we'll be happy to give you a nudge from time to time. 
 
 PIE is an experiment. 
 
-Starting with the relationship between Wieden+Kennedy and the Portland startup community. And kind of just continuing to cascade from there.
+It started as experiment between Wieden+Kennedy and the Portland startup community to determine how established corporations and startups could work together to mutual benefit. And the project just sort of continued to cascade from there.
 
-Well, honestly, to be more accurate, it was less an experiment in the traditional sense a more a whole bunch of mistakes, failures, and missteps that happen to be punctuated — here and there — by some very happy accidents. And we have lucked our way into some things — once the timing was right and all signs pointed to an opportunity — that enabled us to solve problems for the Portland startup community. By identifying gaps and then building something to satisfy that gap. Again and again. And we're still trying to do that.
+Well, honestly, to be more accurate, it was less an experiment in the traditional sense. It was a more a whole bunch of mistakes, failures, and missteps that happen to be punctuated — here and there — by some very happy accidents. And we have lucked our way into some things — once the timing was right and all signs pointed to an opportunity — that enabled us to solve problems for the Portland startup community. By identifying gaps and then building something to satisfy that gap. Again and again. And we're still trying to do that.
 
 Simple, right? Well, sort of. Simple, but convoluted. So maybe give us the opportunity to be your accidental sherpa. To help you along a similarly incongruous — but beneficial — path.
 
-But do get the best results, you have to be similarly inclined to risk, fail, and misstep. If you're looking for a recipe that will always have you creating successful accelerator class after accelerator class using our simple recipe, you're reading the wrong book. Because like the communities, startups, and entrepreneurially minded folks you're looking to help, this process is a series of best guesses and iterations. And you have to be comfortable with that. 
+But to get the best results, you have to be similarly inclined to take risks, to fail, and to misstep. Because that's what it takes. Honestly, if you're looking for a recipe that will empower you to create successful accelerator class after accelerator class using a straightforward and simple recipe, you're probably reading the wrong book. Because like the communities, startups, and entrepreneurially minded folks you're looking to help, this process is a series of best guesses and iterations. And you have to be comfortable with that. 
 
 If we had started with an accelerator, we're confident that PIE would have failed. Miserably. And that's why we're recommending that — if you're thinking about starting an accelerator — you do anything but that.
 
@@ -38,6 +38,8 @@ But if you're not there yet, please do not skip ahead. Do not pass go. There is 
 ## Building a startup accelerator in seven easy steps
 
 tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
+
+Caveat: Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
 
 ### Step 1: Found your own company. Or at least work at a startup.
 
@@ -165,12 +167,11 @@ And then, only then, were Renny and I ready to…
 
 Now that you've done all of that work, you're ready. I mean, if it's even still needed.
 
-At PIE, we needed to start an accelerator. The community needed it. W+K needed it. Startups needed it. Individuals needed it. First a bullhorn. Then a coworking space. Then an accelerator. Because we needed it. As a community.
+At PIE, we absolutely needed to start an accelerator. The community needed it. W+K needed it. Startups needed it. Individuals needed it. First a bullhorn. Then a coworking space. Then an accelerator. Because we needed it. As a community.
 
-But if you discover it's not needed, that's okay too.
+But if you discover that — after all of your hard work — an accelerator is not needed, that's okay too. No one said that having an accelerator was a requirement.
 
 Again, this isn't the right way to do anything. This just happens to be how PIE came into being.
-Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
 
 Whatever you choose to do—start a long journey or jump into the deep end of the pool—just remember that, in the long run, you're not building an accelerator. You're building a community.
 
@@ -209,61 +210,51 @@ At PIE, we provided programming around the following topics
 # Kitchen Prep
 
 Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
-- Environmental scan
-	- Assess what's what before you begin
-	- Start with reality
-	- What assets/resources does your community have?
-		- How mature are they?
-		- Are they currently accessible?
-	- Where are the gaps?
-		- Are they solvable?
-		- How entrenched are they?
-	- Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.
-	- Then you can get visionary
+
+# Before you begin
+
+At PIE, we dove headlong into the effort with a bunch of assumptions. Among those assumptions was the ideas that when one of us used a particular word, we all had a similar concept for what that word meant. We were wrong. And it caused confusion and stress. 
+
+So we learned that it was important to diffuse those assumptions by taking some time to establish context and vocabulary for what you're trying to accomplish. Below, you'll find an example of the definitions we used to explain the different elements of the PIE community.
 
 ## Definitions
+
+Like many industries, the startup world is rife with terminology that holds special meaning to individuals who are well versed in its own cryptic lexicon. For that reason, we often fall into situations where we assume we’re on the same page as one of our similarly immersed counterparts. And — like most assumptions — that can cause problems. We believe that communication and clarity are vital, so we’re always looking for ways to get everyone speaking the same language.
 
 We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
 
 For that reason, we're going to provide you with some definitions of terms that are regularly used throughout the PIE Cookbook. Please note that, like all things in this document, we are simply providing this as a reference. We would encourage you to create your own set of definitions for your specific needs.
 
 ### Community
-Community can refer to any group of individuals who hold common goals and are motivated to collaborate to achieve those goals. There is no specified size for a community. And communities can be nested within other communities — or overlap. Therefore, it is always important to test the assumptions of toward what the "community" is working.
+Community can refer to any group of individuals who hold common goals and are motivated to collaborate to achieve those goals. There is no specified size for a community. And communities can be nested within other communities — or overlap. Therefore, it is always important to test the assumptions and continually re-evaluate the ends toward which the "community" is working.
 
-> e.g., The Portland technology community has subsets like the Portland open source community and the Portland tech startup community. There is significant crossover between the open source community and the tech startup community, but they do not share exactly the same goals.
+> e.g., The Portland technology community has subsets like the Portland open source community and the Portland tech startup community. There is significant crossover between the participants in the open source community and founders and employees in the tech startup community. But, at the core of those communities, they do not share the same goals.
 
 A community simply has to have a focus. It can revolve around concepts, ideals, goals, brands, or any combination thereof. We see community, at its essence, as a group of people with a shared, collaborative vision.
 
 ### Incubator
-An incubator is a protected work environment designed to shelter founders and ideas as they work to realize concepts and prototypes. There is no "business" yet. There are simply ideas and potential. 
+An incubator is a protected work environment designed to shelter founders and ideas as they work to realize concepts and prototypes in an effort to bring a functional product to market. 
 
-Incubators are designed to help early stage ideas survive longer than they would in the wild, independent of shelter. As such, an incubator does not accurately reflect the stressors and turmoil of the real world. Instead, it seeks to shield founders from reality by providing resources that best ensure its likelihood of finding commercial applications of its concept(s). This is by design.
+In our definition of an incubator, there is no "business" yet. There are simply ideas and potential. 
+
+Incubators are designed to help early stage ideas survive longer than they would in the wild, without the shelter, care, and feeding of an incubator. As such, an incubator does not strive to accurately reflect the stressors and turmoil of the real world. Instead, it seeks to shield founders from reality by providing resources that best ensure its likelihood of finding commercial applications of its concept(s). This is by design.
 
 > e.g., University tech transfer programs tend to be a good example of incubators
 
-Although PIE has "incubator" in its name, that's a misnomer. We simply couldn't come up with a phrase that worked for PAELLA.
+Incubators are unsuccessful when they fail to provide adequate support for the founders engaged in their programs. Failing concepts are not a "failure" for the incubator. They are simply a recognition of the fallacy of the pursuit.
+
+NOTE: Although PIE has "incubator" in its name, that's a misnomer. We started as an incubator and transitioned into an accelerator. We chose not to rebrand the effort. Or maybe we simply couldn't come up with an acronym that worked. Except PAELLA.
 
 ### Accelerator
-An accelerator is a semi-protective environment that behaves as a microcosm of the real world, at a highly increased rate of speed. It is designed to help founders rapidly address issues impacting their businesses — and help them to better understand how to deal with personalities and adversity in the real world.  
+An accelerator is a semi-protective environment that behaves as a microcosm of the real world, at a highly increased rate of speed. It is designed to help founders better understand how to deal with trends, personalities, and adversity in the real world. It is also designed to support founders in rapidly addressing issues impacting their businesses.  
 
 > Accelerators are not designed to protect founders from the elements of the startup world. They are designed to expose founders to those elements, time and time again in rapid succession. 
 
 To quote Techstars, accelerators, by their very nature, are designed to help companies "do more, faster." They are designed to make founders uncomfortable. And to push founder to do and achieve more — or fail — more rapidly than they would be capable of on their own.
 
+Accelerators are unsuccessful when they allow unproven founders or products to survive longer than they reasonably should. Failed companies are not a "failure" of an accelerator. In fact, accelerating a company toward failure, sooner rather than later, is one of the most important functions of an accelerator. It saves founders time, money, and emotional stress by helping them recognize that the timing simply isn't right for their pursuit.
+
 ### Mentor
-### Advisor
-
-- - - -
-
-# [SIDEBAR] Do you need a Mentor or do you need an Advisor?
-
-Like many industries, the startup world is rife with terminology that holds special meaning to individuals who are well versed in its own cryptic lexicon. For that reason, we often fall into situations where we assume we’re on the same page as one of our similarly immersed counterparts. And — like most assumptions — that can cause problems. We believe that communication and clarity are vital, so we’re always looking for ways to get everyone speaking the same language.
-
-One area of muddy definitions and confusion that we encounter time and time again is with “Mentors” and “Advisors.” In the vein of clarification, we thought we would take a few minutes to split hairs and explain the difference between these two roles, from a PIE perspective.
-
-> The primary difference between a mentor and an advisor is that the former is chiefly tasked with providing opinions on problems and the latter is tasked with resolving those issues.
-
-## Mentors
 
 Obviously, as an early stage startup accelerator, we spend far more time with mentors than advisors. In our world, we define a Mentor as an individual who volunteers his or her time to provide a startup with opinions, criticism, and feedback on problems, opportunities, or quandaries.
 
@@ -280,7 +271,7 @@ Therefore, mentors should…
 - Float in and out of a startup’s purview, enabling the mentor to provide fresh perspectives on problems as they change
 - Be used en masse to simultaneously provide a variety of viewpoints on specific problems or opportunities — the more opinions, the better— even if it winds up causing the classic “[mentor whiplash](http://avc.com/2013/07/mentorinvestor-whiplash/)”
 
-## Advisors
+### Advisors
 
 Conversely, we define an Advisor as an individual who is compensated —either in the form of equity or cash — by a startup in exchange for effort on solving a specific issue with the company or who is charged with assisting the founding team with a variety of issues.
 
@@ -296,7 +287,11 @@ Therefore, advisors should…
 - Provide more than advice or guidance
 - Continue to provide value to the startup throughout their tenure
 
+- - - 
+[sidebar]
 ## Pick the right person for the job
+
+> The primary difference between a mentor and an advisor is that the former is chiefly tasked with providing opinions on problems and the latter is tasked with resolving those issues.
 
 To recap, if you’re working with a **mentor**, ask them for advice, not effort. They’re volunteers. They’re not being paid to help you. They’re providing their insights with the hopes that others will not have to suffer the same pains the mentor has.
 
@@ -307,10 +302,30 @@ Mentors volunteer; advisors are paid. Mentors advise; advisors work.
 - - - - -
 
 ### Investor
+
+Folks have a tendency to lump all investors together. However, when you're dealing with a specific stage of company, it's best to be more granular about the types of investors with whom that company will be interacting, both in the short term and in the future.
+
+At the most basic, an investor is someone who is using either personal capital or someone else's capital to make investments with the long-term objective of creating more money than they started with. 
+
+A common misconception is that it's an investor's job to "give people money" or "cut checks." It is not. Their job is to leverage their assets to create an appreciable return on investment. This is important to note because, in many ways, the investor with whom you will be dealing is in a very similar predicament to the startup founders with whom you are dealing. They are often two parties using someone else's money to build a business.
+
+We used the following definitions to describe the investors with whom we had a tendency to interact. 
+
 #### Angel
-#### Venture Capital
-#### Institutional Capital
+
+An Angel is an individual who invests his or her own money in a very early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating in early stage rounds.
+
+ 
+#### Angel Groups
+#### Micro Venture Capital
+#### Traditional/Instituional Venture Capital
+#### Corporate Capital
 #### Private Equity
+### Rounds
+#### Friends and Family
+#### Pre-Seed
+#### Seed
+#### Lettered
 ### Startup
 ### Founder
 ### Resident
@@ -318,9 +333,18 @@ Mentors volunteer; advisors are paid. Mentors advise; advisors work.
 ### Sponsor
 ### Partner
 
-# Before you begin
+- Environmental scan
+	- Assess what's what before you begin
+	- Start with reality
+	- What assets/resources does your community have?
+		- How mature are they?
+		- Are they currently accessible?
+	- Where are the gaps?
+		- Are they solvable?
+		- How entrenched are they?
+	- Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.
+	- Then you can get visionary
 
-Establishing context and your own vocabulary
 
 # Cooking
 	13. Primary objective: **Create an environment of trust that accelerates creative output**
