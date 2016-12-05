@@ -321,7 +321,29 @@ Due to the stage at which they are investing, Angels are often required to make 
 
 Some Angels are described as "true Angels," where the investor bases the investment decisions on the founders and appeal of the product whether or not that investment has a high likelihood of paying off in a significant way. These are individuals who are supporting both the founder and the community by using their capital. This type of investment is not charity, but it is goodwill in that it often lacks the rigor or due diligence of other investments. It's an "I like you and I think you're going to make something happen" sort of investment.
 
+Angels often invest in industries where they made their money. So it is important to understand the Angel's pedigree before engaging him/her as a potential investor. 
+
+e.g., If an Angel made his/her money in food and beverage, it may be unlikely that they will feel comfortable investing in a technology startup.
+
 #### Angel Groups
+
+Angel investors will sometimes collaborate with other Angels to pool funds, get access to more deal flow, or share due diligence with one another. We refer to these collectives as "Angel Groups." Angel Groups may be in a position to write larger checks from pooled funds than individual Angels would be willing to commit.
+
+One of the benefits of Angel groups — to both investors and startups — are the inherent efficiencies of these types of organizations. Rather than having to speak to each Angel individually, a startup can pitch the group, en masse. Likewise, instead of an Angel having to chase down a bunch of deals, they can rely on the organization to line those deals up for the Angels.
+
+Another benefit is that it enables Angels to invest "outside of their comfort zone," thanks to the trust in their peers.
+
+In addition, Angel Groups provide a means of educating first-time or inexperienced Angels on deal flow, due diligence, and investing.
+
+Long story short, because these organizations can be structured in a variety of ways, it is important to understand how the Angel Group is organized. Some important questions to ask:
+
+1. How are decisions made?
+2. Is there a pooled fund or do Angels invest individually?
+3. Is there shared due diligence or is each Angels doing his/her own?
+4. Can Angels choose to invest individually, independent of the decisions of the group?
+
+#### Syndicates
+
 #### Accelerators
 #### Micro Venture Capital
 #### Traditional/Instituional Venture Capital
