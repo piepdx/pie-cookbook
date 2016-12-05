@@ -307,16 +307,22 @@ Folks have a tendency to lump all investors together. However, when you're deali
 
 At the most basic, an investor is someone who is using either personal capital or someone else's capital to make investments with the long-term objective of creating more money than they started with. 
 
-A common misconception is that it's an investor's job to "give people money" or "cut checks." It is not. Their job is to leverage their assets to create an appreciable return on investment. This is important to note because, in many ways, the investor with whom you will be dealing is in a very similar predicament to the startup founders with whom you are dealing. They are often two parties using someone else's money to build a business.
+https://twitter.com/turoczy/status/777181970782523393
+
+A common misconception is that it's an investor's job to "give people money" or "cut checks." It is not. An investor's job is to leverage their assets to create an appreciable return on investment. This is important to note because, in many ways, the investor with whom you will be dealing is in a very similar predicament to the startup founders with whom you are dealing. They are often two parties using someone else's money to build a business.
 
 We used the following definitions to describe the investors with whom we had a tendency to interact. 
 
 #### Angel
 
-An Angel is an individual who invests his or her own money in a very early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating in early stage rounds.
+An Angel is an individual who invests his or her own money in an early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating sooner rather than later.
 
- 
+Due to the stage at which they are investing, Angels are often required to make judgments based on the founders of a company and the Angel's understanding of the product and market. This is because Angels are usually engaging before the product has been completed or before the product has been taken to the market. 
+
+Some Angels are described as "true Angels," where the investor bases the investment decisions on the founders and appeal of the product whether or not that investment has a high likelihood of paying off in a significant way. These are individuals who are supporting both the founder and the community by using their capital. This type of investment is not charity, but it is goodwill in that it often lacks the rigor or due diligence of other investments. It's an "I like you and I think you're going to make something happen" sort of investment.
+
 #### Angel Groups
+#### Accelerators
 #### Micro Venture Capital
 #### Traditional/Instituional Venture Capital
 #### Corporate Capital
