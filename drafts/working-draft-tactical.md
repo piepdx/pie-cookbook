@@ -7,21 +7,21 @@ You don't get to start in the middle. You have to start at the beginning.
 
 When we started the experiment with Wieden+Kennedy that would become PIE, we didn't set out to build an accelerator. We started with something to support the existing startup community. Something that would fill gaps that were preventing our community from growing and thriving. Something that would enable connections and random collisions and happily serendipitous events to occur. 
 
-Honestly, we just kind of stumbled into this whole accelerator thing. It wasn't even on our list of objectives when we started. Or part of the conversation. It's just where we wound up for a time. But oddly enough — even though we never set out to build an accelerator — we managed to build a very effective one.
+Honestly, we just kind of stumbled into the  whole "accelerator" thing. It wasn't even on our list of objectives when we started. Or part of the conversation. It's just where we wound up for a time. But oddly enough — even though we never set out to build an accelerator — we managed to build a very effective one.
 
-This is a recurring theme. That we will touch on time and time again in this book. Throughout PIE's life, we have been part of an ongoing series of happy accidents. But that, itself, is no accident. We designed the project to work that way. To never take itself too seriously. And to always be open to changing the recipe. Even if staying the course seemed safe and sane. To always pushing the envelope, exploring the edges, and not getting comfortable. 
+This is a recurring theme that we will touch on time and time again in this book. Throughout PIE's life, we have been part of an ongoing series of happy accidents. But those accidents were expected. We designed the project to work that way. To never take itself too seriously. And to always be open to changing the recipe. Even if staying the course seemed safe and sane. We wanted to always be pushing the envelope, exploring the edges, and not getting comfortable. Because that's where some of the most interesting things happen. 
 
-It's not hard. You can do this too. And if you need help, we'll be happy to give you a nudge from time to time. 
+You can do this too. It's not hard. And if you need help, we'll be happy to give you a nudge from time to time. 
 
 PIE is an experiment. 
 
-Starting with the relationship between Wieden+Kennedy and the Portland startup community. And kind of just continuing to cascade from there.
+It started as experiment between Wieden+Kennedy and the Portland startup community to determine how established corporations and startups could work together to mutual benefit. And the project just sort of continued to cascade from there.
 
-Well, honestly, to be more accurate, it was less an experiment in the traditional sense a more a whole bunch of mistakes, failures, and missteps that happen to be punctuated — here and there — by some very happy accidents. And we have lucked our way into some things — once the timing was right and all signs pointed to an opportunity — that enabled us to solve problems for the Portland startup community. By identifying gaps and then building something to satisfy that gap. Again and again. And we're still trying to do that.
+Well, honestly, to be more accurate, it was less an experiment in the traditional sense. It was a more a whole bunch of mistakes, failures, and missteps that happen to be punctuated — here and there — by some very happy accidents. And we have lucked our way into some things — once the timing was right and all signs pointed to an opportunity — that enabled us to solve problems for the Portland startup community. By identifying gaps and then building something to satisfy that gap. Again and again. And we're still trying to do that.
 
 Simple, right? Well, sort of. Simple, but convoluted. So maybe give us the opportunity to be your accidental sherpa. To help you along a similarly incongruous — but beneficial — path.
 
-But do get the best results, you have to be similarly inclined to risk, fail, and misstep. If you're looking for a recipe that will always have you creating successful accelerator class after accelerator class using our simple recipe, you're reading the wrong book. Because like the communities, startups, and entrepreneurially minded folks you're looking to help, this process is a series of best guesses and iterations. And you have to be comfortable with that. 
+But to get the best results, you have to be similarly inclined to take risks, to fail, and to misstep. Because that's what it takes. Honestly, if you're looking for a recipe that will empower you to create successful accelerator class after accelerator class using a straightforward and simple recipe, you're probably reading the wrong book. Because like the communities, startups, and entrepreneurially minded folks you're looking to help, this process is a series of best guesses and iterations. And you have to be comfortable with that. 
 
 If we had started with an accelerator, we're confident that PIE would have failed. Miserably. And that's why we're recommending that — if you're thinking about starting an accelerator — you do anything but that.
 
@@ -38,6 +38,8 @@ But if you're not there yet, please do not skip ahead. Do not pass go. There is 
 ## Building a startup accelerator in seven easy steps
 
 tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
+
+Caveat: Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
 
 ### Step 1: Found your own company. Or at least work at a startup.
 
@@ -165,12 +167,11 @@ And then, only then, were Renny and I ready to…
 
 Now that you've done all of that work, you're ready. I mean, if it's even still needed.
 
-At PIE, we needed to start an accelerator. The community needed it. W+K needed it. Startups needed it. Individuals needed it. First a bullhorn. Then a coworking space. Then an accelerator. Because we needed it. As a community.
+At PIE, we absolutely needed to start an accelerator. The community needed it. W+K needed it. Startups needed it. Individuals needed it. First a bullhorn. Then a coworking space. Then an accelerator. Because we needed it. As a community.
 
-But if you discover it's not needed, that's okay too.
+But if you discover that — after all of your hard work — an accelerator is not needed, that's okay too. No one said that having an accelerator was a requirement.
 
 Again, this isn't the right way to do anything. This just happens to be how PIE came into being.
-Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
 
 Whatever you choose to do—start a long journey or jump into the deep end of the pool—just remember that, in the long run, you're not building an accelerator. You're building a community.
 
