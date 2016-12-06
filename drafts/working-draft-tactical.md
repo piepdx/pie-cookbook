@@ -315,7 +315,9 @@ We used the following definitions to describe the investors with whom we had a t
 
 #### Angel
 
-An Angel is an individual who invests his or her own money in an early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating sooner rather than later.
+An Angel is an individual who invests his or her own money in an early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating sooner rather than later, ranging from low five figure checks to six figure checks, depending on the Angel and his/her investment strategy. Some Angels choose to make a series of small bets; others choose to make a significant investment in a single company. Some Angels are comfortable investing on their own; others prefer to invest with other Angels or as part of an Angel Group (defined below).
+
+NOTE: It is important to understand invidual Angels and they're preferred investment strategies, because they run the gamut.
 
 Due to the stage at which they are investing, Angels are often required to make judgments based on the founders of a company and the Angel's understanding of the product and market. This is because Angels are usually engaging before the product has been completed or before the product has been taken to the market. 
 
@@ -327,7 +329,9 @@ e.g., If an Angel made his/her money in food and beverage, it may be unlikely th
 
 #### Angel Groups
 
-Angel investors will sometimes collaborate with other Angels to pool funds, get access to more deal flow, or share due diligence with one another. We refer to these collectives as "Angel Groups." Angel Groups may be in a position to write larger checks from pooled funds than individual Angels would be willing to commit.
+Angel investors will sometimes collaborate with other Angels to pool funds, get access to more deal flow, or share due diligence with one another. We refer to these collectives as "Angel Groups." Angel Groups may be in a position to write larger checks from pooled funds than individual Angels would be willing to commit. 
+
+Angel Group check sizes range from individual Angel checks at low five figures 
 
 One of the benefits of Angel groups — to both investors and startups — are the inherent efficiencies of these types of organizations. Rather than having to speak to each Angel individually, a startup can pitch the group, en masse. Likewise, instead of an Angel having to chase down a bunch of deals, they can rely on the organization to line those deals up for the Angels.
 
@@ -350,7 +354,12 @@ Members of the Syndicate agree to invest capital when the dealmaker invests capi
 
 Why is this even a thing? Well, it has two benefits. One, like Angel Groups, it simplifies fundraising from the startup perspective. They can focus on pitching Syndicate leads with the hopes of gaining the investment of the entire Syndicate. For the Syndicate lead, helping source deals provides them with a the benefit of participating in the carry, like a traditional fund, which provides an additional upside should the deal prove lucrative. 
 
-#### Accelerators
+#### Accelerator Investment
+
+While it is not a requirement, many accelerators chose to invest capital in the startups participating in their programs. Some of these investments are structured as traditional equity purchases while, these days, more accelerators seem to offer convertible notes as the structure for investment. Y Combinator uses a vehicle called SAFE (Standard Agreement for Future Equity). 
+
+Some programs 
+
 #### Micro Venture Capital
 #### Traditional/Instituional Venture Capital
 #### Corporate Capital
