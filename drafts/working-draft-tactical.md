@@ -223,7 +223,7 @@ Like many industries, the startup world is rife with terminology that holds spec
 
 We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
 
-For that reason, we're going to provide you with some definitions of terms that are regularly used throughout the PIE Cookbook. Please note that, like all things in this document, we are simply providing this as a reference. We would encourage you to create your own set of definitions for your specific needs.
+For that reason, we're going to provide you with some definitions of terms that are regularly used throughout the PIE Cookbook. Please note that, like all things in this document, we are simply providing this as a reference. We would encourage you to create your own set of definitions for your community and for your accelerator's specific needs.
 
 ### Community
 Community can refer to any group of individuals who hold common goals and are motivated to collaborate to achieve those goals. There is no specified size for a community. And communities can be nested within other communities — or overlap. Therefore, it is always important to test the assumptions and continually re-evaluate the ends toward which the "community" is working.
@@ -343,6 +343,12 @@ Long story short, because these organizations can be structured in a variety of 
 4. Can Angels choose to invest individually, independent of the decisions of the group?
 
 #### Syndicates
+
+A Syndicate is a venture capital fund often composed of a group of Angels led by a single dealmaker designed to make a single investment. The model is predicated on the idea that the dealmaker is a trustworthy source of deals and that is a good judge of opportunity. 
+
+Members of the Syndicate agree to invest capital when the dealmaker invests capital. 
+
+Why is this even a thing? Well, it has two benefits. One, like Angel Groups, it simplifies fundraising from the startup perspective. They can focus on pitching Syndicate leads with the hopes of gaining the investment of the entire Syndicate. For the Syndicate lead, helping source deals provides them with a the benefit of participating in the carry, like a traditional fund, which provides an additional upside should the deal prove lucrative. 
 
 #### Accelerators
 #### Micro Venture Capital
