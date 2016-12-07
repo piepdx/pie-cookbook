@@ -418,19 +418,31 @@ As an Accelerator taking equity, Lettered rounds are where you will experience t
 
 ### Startup
 
-How, exactly, does one define a startup? Well, honestly, we could write a whole nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
+How, exactly, does one define a startup? Well, honestly, we could write a-whole-nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
 
 At a macro level, we tend to see a "startup" as any company that: 
 1. Has the potential for exponential growth
 2. Lacks the resources — either capital or otherwise — to fuel that exponential growth
 2. Has yet to experience a significant liquidity event
 
-For the sake of this book, a "startup" will be any company with whom your Accelerator chooses to work. Simple as that. 
+For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. To eradicate that simplicity and make things confusing, however, we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
 
-Your Accelerator is inhabited by Startups.
+Long story short, your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
 
-### Founder
+### Founder/Cofounder
+
+Founders — often referred to a Cofounders — create Startups. So Founders are the folks with whom you will be working. They're the person or people who had the courage to make the leap and start the company. Often, Founders come in teams, but there are solo Founders, as well.  
+
+Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
+
+NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they retain the trusted environment they are seeking to create in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
+ 
 ### Resident
+
+At PIE, we introduced the concept of a Resident, that was different from the Startups participating in the program. A Resident could take any of the following forms in our environment:
+1. Mentor in Residence: This designation was reserved for Startups who had participated in an Accelerator class and then remained in our coworking space. In exchange for a rent-free existence, Mentors in Residence were obligated to work with Startups in the active Accelerator class, providing them with guidance and insights that would make the program more effective, e.g., "Make sure and meet with this mentor," or "Don't pay attention when Rick throws that tantrum," or "I remember when were struggling at this stage."
+2. Startup in Residence: PIE started as a coworking space. As such, when we transitioned to an Accelerator, we had a number of companies who resided in our space, participated in peer mentoring and assisting one another, but who had not officially participated in an Accelerator class. We found these more objective startups so valuable, that we continued to invite Startups in Residence to hang out in the space even after the original startups had outgrown the space. Sometimes these startups would be at an earlier stage than the participants. Sometimes they were startups that had already completed another Accelerator program. Sometimes they were startups that had recently relocated to Portland and just needed somewhere to crash for a bit. Whatever the case, having these peers as resources for our startups always proved beneficial. 
+3. Investor in Residence: 
 ### Patron
 ### Sponsor
 ### Partner
