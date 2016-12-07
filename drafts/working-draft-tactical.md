@@ -315,7 +315,7 @@ We used the following definitions to describe the investors with whom we had a t
 
 A note about capital: We'll use "capital" in the broad sense, but you should recognize that many investors — especially those at later stages — have at least two distinct capital resources at their disposal. A portion of the fund is dedicated to making the initial investment in a company, establishing the relationship between the investor and the company. Another portion of the fund is often dedicated to follow-on capital. This is the money used to prevent an investor's position in the company from being significantly diluted. 
 
-Therefore, Accelerators operating with only initial investment capital must be comfortable with the concept of their position being increasingly diluted in future rounds of funding.  
+Therefore, Accelerators operating with only initial investment capital must be comfortable with the concept of their position being increasingly diluted in future rounds of funding. To allay this, Accelerators may raise funds to go to follow-on rounds or they may partner with other investors to help protect the Accelerator's interest. Another tactic some Accelerators employ is introducing "anti-dilution" clauses into their agreements that prevent dilution from happening. Or assigning Warrants for future equity purchases. At PIE, we have found this practice — especially for new or little known Accelerators — to make future fundraising more difficult for  companies. So it's not something we'd recommend.
 
 #### Angel
 
@@ -417,6 +417,18 @@ Lettered rounds (A, B, C, etc.) are what most folks think of when they talk abou
 As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant capital at your disposal for follow-on.
 
 ### Startup
+
+How, exactly, does one define a startup? Well, honestly, we could write a whole nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
+
+At a macro level, we tend to see a "startup" as any company that: 
+1. Has the potential for exponential growth
+2. Lacks the resources — either capital or otherwise — to fuel that exponential growth
+2. Has yet to experience a significant liquidity event
+
+For the sake of this book, a "startup" will be any company with whom your Accelerator chooses to work. Simple as that. 
+
+Your Accelerator is inhabited by Startups.
+
 ### Founder
 ### Resident
 ### Patron
