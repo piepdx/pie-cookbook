@@ -313,6 +313,10 @@ A common misconception is that it's an investor's job to "give people money" or 
 
 We used the following definitions to describe the investors with whom we had a tendency to interact. 
 
+A note about capital: We'll use "capital" in the broad sense, but you should recognize that many investors — especially those at later stages — have at least two distinct capital resources at their disposal. A portion of the fund is dedicated to making the initial investment in a company, establishing the relationship between the investor and the company. Another portion of the fund is often dedicated to follow-on capital. This is the money used to prevent an investor's position in the company from being significantly diluted. 
+
+Therefore, Accelerators operating with only initial investment capital must be comfortable with the concept of their position being increasingly diluted in future rounds of funding.  
+
 #### Angel
 
 An Angel is an individual who invests his or her own money in an early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating sooner rather than later, ranging from low five figure checks to six figure checks, depending on the Angel and his/her investment strategy. Some Angels choose to make a series of small bets; others choose to make a significant investment in a single company. Some Angels are comfortable investing on their own; others prefer to invest with other Angels or as part of an Angel Group (defined below).
