@@ -313,6 +313,10 @@ A common misconception is that it's an investor's job to "give people money" or 
 
 We used the following definitions to describe the investors with whom we had a tendency to interact. 
 
+A note about capital: We'll use "capital" in the broad sense, but you should recognize that many investors — especially those at later stages — have at least two distinct capital resources at their disposal. A portion of the fund is dedicated to making the initial investment in a company, establishing the relationship between the investor and the company. Another portion of the fund is often dedicated to follow-on capital. This is the money used to prevent an investor's position in the company from being significantly diluted. 
+
+Therefore, Accelerators operating with only initial investment capital must be comfortable with the concept of their position being increasingly diluted in future rounds of funding. To allay this, Accelerators may raise funds to go to follow-on rounds or they may partner with other investors to help protect the Accelerator's interest. Another tactic some Accelerators employ is introducing "anti-dilution" clauses into their agreements that prevent dilution from happening. Or assigning Warrants for future equity purchases. At PIE, we have found this practice — especially for new or little known Accelerators — to make future fundraising more difficult for  companies. So it's not something we'd recommend.
+
 #### Angel
 
 An Angel is an individual who invests his or her own money in an early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating sooner rather than later, ranging from low five figure checks to six figure checks, depending on the Angel and his/her investment strategy. Some Angels choose to make a series of small bets; others choose to make a significant investment in a single company. Some Angels are comfortable investing on their own; others prefer to invest with other Angels or as part of an Angel Group (defined below).
@@ -385,12 +389,60 @@ Most accelerators will only deal with private equity folks as mentors for their 
 While it's a bit of a shifting target, it's important to distinguish typical investment rounds and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions of the stages of rounds of equity investment.
 
 #### Friends and Family
+
+This is generally the first round of funding many startups pursue. Whether it be a nest egg that the founders have tucked away, small checks from family members, or capital from a friend who has a little cash to spare, this is the capital that allows founders and potentially team members to leave their day jobs and focus on their startup full time. With Friends and Family, the primary objective is getting to prototype.
+
+This is often short-term capital that lasts months, not years.
+
 #### Pre-Seed
+
+Pre-Seed is often the first "official" round of funding. In our lexicon, this is the round where Accelerator funding falls. It's the capital that provides the founders with runway to take a prototype and find product-market fit. Or to refine the prototype until that fit can be found. 
+
+Other investors who may participate in these rounds are individual Angels and very early stage Micro VCs.
+
+Again, this is often short term capital that lasts months, not years. More "keep the company alive" capital than "grow the company" capital.
+
 #### Seed
+
+Seed is the first significant infusion of capital into the company. Currently, this infusion comes when the founders can demonstrate that their concept or prototype has potential in a specific market. This capital provides the runway to take the product to that market and establish traction and, hopefully, revenue. 
+
+Seed funding often comes post-Accelerator. Investors in Seed rounds include Angels, Angel Groups, Syndicates, and Micro VCs. Traditional VCs may also choose to participate in these rounds.
+
+This is longer term capital designed to fuel company growth, rather than just keeping the company alive. 
+
 #### Lettered
+
+Lettered rounds (A, B, C, etc.) are what most folks think of when they talk about "venture capital." These rounds are the money that keeps the company growing or supports the company as they struggle to grow. As the rounds progress, there are more and more investors involved, either early stage investors providing "follow-on capital" to retain their positions or new investors seeking an equity stake in promising startups. 
+
+As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant capital at your disposal for follow-on.
+
 ### Startup
-### Founder
+
+How, exactly, does one define a startup? Well, honestly, we could write a-whole-nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
+
+At a macro level, we tend to see a "startup" as any company that: 
+1. Has the potential for exponential growth
+2. Lacks the resources — either capital or otherwise — to fuel that exponential growth
+2. Has yet to experience a significant liquidity event
+
+For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. To eradicate that simplicity and make things confusing, however, we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
+
+Long story short, your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
+
+### Founder/Cofounder
+
+Founders — often referred to a Cofounders — create Startups. So Founders are the folks with whom you will be working. They're the person or people who had the courage to make the leap and start the company. Often, Founders come in teams, but there are solo Founders, as well.  
+
+Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
+
+NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they retain the trusted environment they are seeking to create in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
+ 
 ### Resident
+
+At PIE, we introduced the concept of a Resident, that was different from the Startups participating in the program. A Resident could take any of the following forms in our environment:
+1. Mentor in Residence: This designation was reserved for Startups who had participated in an Accelerator class and then remained in our coworking space. In exchange for a rent-free existence, Mentors in Residence were obligated to work with Startups in the active Accelerator class, providing them with guidance and insights that would make the program more effective, e.g., "Make sure and meet with this mentor," or "Don't pay attention when Rick throws that tantrum," or "I remember when were struggling at this stage."
+2. Startup in Residence: PIE started as a coworking space. As such, when we transitioned to an Accelerator, we had a number of companies who resided in our space, participated in peer mentoring and assisting one another, but who had not officially participated in an Accelerator class. We found these more objective startups so valuable, that we continued to invite Startups in Residence to hang out in the space even after the original startups had outgrown the space. Sometimes these startups would be at an earlier stage than the participants. Sometimes they were startups that had already completed another Accelerator program. Sometimes they were startups that had recently relocated to Portland and just needed somewhere to crash for a bit. Whatever the case, having these peers as resources for our startups always proved beneficial. 
+3. Investor in Residence: 
 ### Patron
 ### Sponsor
 ### Partner
