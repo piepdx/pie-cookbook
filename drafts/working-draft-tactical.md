@@ -385,9 +385,33 @@ Most accelerators will only deal with private equity folks as mentors for their 
 While it's a bit of a shifting target, it's important to distinguish typical investment rounds and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions of the stages of rounds of equity investment.
 
 #### Friends and Family
+
+This is generally the first round of funding many startups pursue. Whether it be a nest egg that the founders have tucked away, small checks from family members, or capital from a friend who has a little cash to spare, this is the capital that allows founders and potentially team members to leave their day jobs and focus on their startup full time. With Friends and Family, the primary objective is getting to prototype.
+
+This is often short-term capital that lasts months, not years.
+
 #### Pre-Seed
+
+Pre-Seed is often the first "official" round of funding. In our lexicon, this is the round where Accelerator funding falls. It's the capital that provides the founders with runway to take a prototype and find product-market fit. Or to refine the prototype until that fit can be found. 
+
+Other investors who may participate in these rounds are individual Angels and very early stage Micro VCs.
+
+Again, this is often short term capital that lasts months, not years. More "keep the company alive" capital than "grow the company" capital.
+
 #### Seed
+
+Seed is the first significant infusion of capital into the company. Currently, this infusion comes when the founders can demonstrate that their concept or prototype has potential in a specific market. This capital provides the runway to take the product to that market and establish traction and, hopefully, revenue. 
+
+Seed funding often comes post-Accelerator. Investors in Seed rounds include Angels, Angel Groups, Syndicates, and Micro VCs. Traditional VCs may also choose to participate in these rounds.
+
+This is longer term capital designed to fuel company growth, rather than just keeping the company alive. 
+
 #### Lettered
+
+Lettered rounds (A, B, C, etc.) are what most folks think of when they talk about "venture capital." These rounds are the money that keeps the company growing or supports the company as they struggle to grow. As the rounds progress, there are more and more investors involved, either early stage investors providing "follow-on capital" to retain their positions or new investors seeking an equity stake in promising startups. 
+
+As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant capital at your disposal for follow-on.
+
 ### Startup
 ### Founder
 ### Resident
