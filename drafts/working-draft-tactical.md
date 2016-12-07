@@ -358,13 +358,32 @@ Why is this even a thing? Well, it has two benefits. One, like Angel Groups, it 
 
 While it is not a requirement, many accelerators chose to invest capital in the startups participating in their programs. Some of these investments are structured as traditional equity purchases while, these days, more accelerators seem to offer convertible notes as the structure for investment. Y Combinator uses a vehicle called SAFE (Standard Agreement for Future Equity). 
 
-Some programs 
+Some programs choose to provide all of the capital at once. Some programs provide a small amount of capital at the outset of the program, followed by a more significant investment once the company completes the program.
 
 #### Micro Venture Capital
-#### Traditional/Instituional Venture Capital
-#### Corporate Capital
+
+Micro Venture Capital tends to be funds of under $100 million that invest in early stage companies often before typical institutional investors would participate in a deal. Check sizes vary for these types of organizations. It is important to note that these funds often reserve follow-on capital to protect their positions.
+
+#### Traditional/Institutional Venture Capital
+
+Most accelerators will only deal with traditional venture capital as mentors for their programs, given that large funds do not generally invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
+
+#### Corporate Venture
+
+Corporations with venture arms most often choose to make strategic investments in companies at later rounds as a means of strengthening partnerships or market position. 
+
+Most accelerators will only deal with corporate venture as mentors for their programs, given that corporate funds do not generally invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
+
 #### Private Equity
+
+Private Equity firms provide a means of creating a liquidity event without an initial public offering or acquisition by another company. 
+
+Most accelerators will only deal with private equity folks as mentors for their programs, given that private equity does not tend to invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
+
 ### Rounds
+
+While it's a bit of a shifting target, it's important to distinguish typical investment rounds and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions of the stages of rounds of equity investment.
+
 #### Friends and Family
 #### Pre-Seed
 #### Seed
