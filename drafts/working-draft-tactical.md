@@ -453,7 +453,21 @@ We always referred to W+K as a "patron" rather than a "sponsor." Our reasoning? 
 W+K is the Patron for PIE. And anything we've accomplished is only due to that generosity.
 
 ### Sponsor
+
+At PIE, we saw Sponsors as benefactors who provided capital for the operating costs of an Accelerator with the expectation of a measurable return for that capital. The money from Sponsors was not put to work in the way of equity investments. Rather, it was used to pay for space, staff, services, and other costs associated with the day-to-day operations of the Accelerator. 
+
+In return, these Sponsors expected something. This is what makes them different from Patrons. Patrons assume that something will come of the investment eventually. Sponsors expect that something demonstrable will come of the investment at the outset.
+
+Sponsors worked with PIE to cohost events, embed staff as mentors, receive consulting from PIE staff and startups, and the like.
+
 ### Partner
+
+We define Partners as an entity that provides a product or service to the organization in an effort to promote that product or service. For Accelerators, these Partners tend to be the folks who provide the "added services" that create additional value for your Accelerator. 
+
+Partner agreements are neither equity nor capital based. Instead, they are often based on "in kind" contributions to the Accelerator or its Startups.
+
+A good example of a Partner is a hosting service that provides a limited number of "credits" for free hosting on its platform with the intent that Startups will remain on the platform and become paying customers once the credits are exhausted. 
+
 
 - Environmental scan
 	- Assess what's what before you begin
@@ -500,7 +514,7 @@ W+K is the Patron for PIE. And anything we've accomplished is only due to that g
 			19. What are the gaps?
 			20. How can they help (if at all)?
 
-## Patron(s)
+## Funding the accelerator
 
 At PIE, we get a lot of questions about how to fund accelerator operations and investments. It makes sense. Finding the money that matches up with the opportunity is a challenge. It’s never easy. No matter how compelling the pitch. 
 
@@ -512,12 +526,12 @@ How can they help?
 
 Can take several flavors (Note: This isn’t an exhaustive list. But it’s gives you a pretty good idea of where to look.)
 
-In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall.
+In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall: Patron, Sponsor, Partner, Investor.
 
-### True patron
+### Patron
 ### Sponsor
 ### Partner
-### Investor
+### Investor 
 
 On the upside, venture capital can be a very effective means of funding this sort of activity.
 
