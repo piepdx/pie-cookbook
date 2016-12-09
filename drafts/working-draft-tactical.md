@@ -443,7 +443,15 @@ At PIE, we introduced the concept of a Resident, that was different from the Sta
 1. Mentor in Residence: This designation was reserved for Startups who had participated in an Accelerator class and then remained in our coworking space. In exchange for a rent-free existence, Mentors in Residence were obligated to work with Startups in the active Accelerator class, providing them with guidance and insights that would make the program more effective, e.g., "Make sure and meet with this mentor," or "Don't pay attention when Rick throws that tantrum," or "I remember when were struggling at this stage."
 2. Startup in Residence: PIE started as a coworking space. As such, when we transitioned to an Accelerator, we had a number of companies who resided in our space, participated in peer mentoring and assisting one another, but who had not officially participated in an Accelerator class. We found these more objective startups so valuable, that we continued to invite Startups in Residence to hang out in the space even after the original startups had outgrown the space. Sometimes these startups would be at an earlier stage than the participants. Sometimes they were startups that had already completed another Accelerator program. Sometimes they were startups that had recently relocated to Portland and just needed somewhere to crash for a bit. Whatever the case, having these peers as resources for our startups always proved beneficial. 
 3. Investor in Residence: Some of the residents of the space weren't even startups. They were investors who spent time with our startups, providing connections, criticism, and feedback to our startups. And the value of that different perspective provided a unique vantage for our companies and helped them better understand the investor perspective. If you have the opportunity to engage with investors and have them share your space — even if it's only a limited exposure — it's still incredibly valuable. 
+
 ### Patron
+
+With PIE, we were very careful with the language we used to describe our primary underwriter, Wieden+Kennedy. Because they, as an organization, were consistently more concerned with soft returns on their investment — education, on the job training, and serendipitous connections. It wasn't a financial, hard return for W+K. And so the language we chose was designed to reflect that. 
+
+We always referred to W+K as a "patron" rather than a "sponsor." Our reasoning? We meant it as a compliment, in the same vein as those benefactors who saw the value of providing financial support for artists to pursue their work — without any guarantee that that expenditure would result in anything more than creative exploration.
+
+W+K is the Patron for PIE. And anything we've accomplished is only due to that generosity.
+
 ### Sponsor
 ### Partner
 
