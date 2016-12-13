@@ -468,18 +468,35 @@ Partner agreements are neither equity nor capital based. Instead, they are often
 
 A good example of a Partner is a hosting service that provides a limited number of "credits" for free hosting on its platform with the intent that Startups will remain on the platform and become paying customers once the credits are exhausted. 
 
+## So why all of that?
 
-- Environmental scan
-	- Assess what's what before you begin
-	- Start with reality
-	- What assets/resources does your community have?
-		- How mature are they?
-		- Are they currently accessible?
-	- Where are the gaps?
-		- Are they solvable?
-		- How entrenched are they?
-	- Create one of those annoying Venn diagrams, because those things are a thing for a reason. They actually can help you visualize where the opportunity exists.
-	- Then you can get visionary
+Why all of the definition setting at the outset? Because the more context you have going into the situation — the more clarity and the more consensus — the better you'll communicate. And the fewer misunderstandings you'll have. And the more likelihood you'll have of success.
+
+Now that we've defined the terms of the types of players in the ecosystem — or those completely absent from the ecosystem — it's important to describe and define the environment in which your accelerator will exist. Otherwise, how will you know what you've got at your disposal? Or what's missing?
+
+## Environmental scan
+
+You may anecdotally understand the community in which you exist, but it's always  good to survey a number of participants to determine the true composition of your community. 
+
+We recommend an environmental scan. It doesn't have to be exhaustive but it does have to accurately reflect reality. This isn't an optimistic look at your community. It's the truth. 
+
+The more honest you can be, the better off your accelerator efforts will be.
+
+As part of this scan, you should be working to answer questions like:
+
+- What assets/resources does your community have?
+	- How mature are they? Have they been around a while or are they relatively new?
+	- Are they currently accessible or are they largely inaccessible?
+- Where are the gaps in the current community?
+	- Are they solvable?
+	- How entrenched are they?
+- What types of companies generally find success in your area, independently of any support? Are there particular themes? (In PIE's ecosystem of Portland technology startups, for example, companies tend to excel at building enabling technology and frameworks. To put it another way, Portland tech startups tend to be developers building tools for other developers.)  
+		
+Once you've captured a variety of detail, create one of those annoying Venn diagrams. Because those things are a thing for a reason. They actually can help you visualize where the opportunity exists. It might not be where you think. But it's that point of overlap where you have the highest likelihood of success. 
+
+It doesn't do you any good to try to build an accelerator full of consumer facing products that require tons and tons of capital if you have neither consumer facing expertise nor tons of capital. That's a losing proposition.
+
+First, play to your strengths. Once you have momentum, then you can get visionary
 
 
 # Cooking
