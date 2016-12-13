@@ -490,13 +490,13 @@ As part of this scan, you should be working to answer questions like:
 - Where are the gaps in the current community?
 	- Are they solvable?
 	- How entrenched are they?
-- What types of companies generally find success in your area, independently of any support? Are there particular themes? (In PIE's ecosystem of Portland technology startups, for example, companies tend to excel at building enabling technology and frameworks. To put it another way, Portland tech startups tend to be developers building tools for other developers.)  
+- What types of companies generally find success in your area, independently of any support? Are there particular themes? (In PIE's ecosystem of Portland technology startups, for example, companies tend to excel at enabling technology and frameworks. To put it another way, Portland tech startups tend to be developers building tools for other developers.)  
 		
 Once you've captured a variety of detail, create one of those annoying Venn diagrams. Because those things are a thing for a reason. They actually can help you visualize where the opportunity exists. It might not be where you think. But it's that point of overlap where you have the highest likelihood of success. 
 
 It doesn't do you any good to try to build an accelerator full of consumer facing products that require tons and tons of capital if you have neither consumer facing expertise nor tons of capital. That's a losing proposition.
 
-First, play to your strengths. Once you have momentum, then you can get visionary
+First, play to your strengths. Once you have momentum, then you can get visionary.
 
 
 # Cooking
