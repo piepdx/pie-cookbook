@@ -509,9 +509,13 @@ But it's not just startups. Mentors trust you to engage them, if and only if, it
 
 It's a whole bunch of people looking for something in which to trust. And that trust is hard earned. And easily lost. But that's your role. To be the trusted — and fairly objective — third party. To be the trusted advisor. To everyone.
  
-		14. Tinge it with realism
-		15. This should be a representation of the outside world, not a utopian existence
-		16. You're helping founders understand how to survive in the real world
+A close second to an Accelerator's role of establishing trust? Reality. 
+
+As we've highlighted in the definitions, an Accelerator is not designed to be a protective environment. It is not a fantasy world. That's what Incubators are for.  
+
+Accelerators are about reality. 
+
+Therefore, the environment you build should be a representation of the outside world, not a utopian existence. Why? Because your objective is helping founders understand how to survive and prosper in the real world. Or, tangentially, to understand the harsh environment of reality is not the right environment for them to be pursuing their company.
 
 # Base ingredients
 ## Community
