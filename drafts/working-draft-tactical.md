@@ -490,20 +490,32 @@ As part of this scan, you should be working to answer questions like:
 - Where are the gaps in the current community?
 	- Are they solvable?
 	- How entrenched are they?
-- What types of companies generally find success in your area, independently of any support? Are there particular themes? (In PIE's ecosystem of Portland technology startups, for example, companies tend to excel at building enabling technology and frameworks. To put it another way, Portland tech startups tend to be developers building tools for other developers.)  
+- What types of companies generally find success in your area, independently of any support? Are there particular themes? (In PIE's ecosystem of Portland technology startups, for example, companies tend to excel at enabling technology and frameworks. To put it another way, Portland tech startups tend to be developers building tools for other developers.)  
 		
 Once you've captured a variety of detail, create one of those annoying Venn diagrams. Because those things are a thing for a reason. They actually can help you visualize where the opportunity exists. It might not be where you think. But it's that point of overlap where you have the highest likelihood of success. 
 
 It doesn't do you any good to try to build an accelerator full of consumer facing products that require tons and tons of capital if you have neither consumer facing expertise nor tons of capital. That's a losing proposition.
 
-First, play to your strengths. Once you have momentum, then you can get visionary
+First, play to your strengths. Once you have momentum, then you can get visionary.
 
 
 # Cooking
-	13. Primary objective: **Create an environment of trust that accelerates creative output**
-		14. Tinge it with realism
-		15. This should be a representation of the outside world, not a utopian existence
-		16. You're helping founders understand how to survive in the real world
+
+Let's start with this. First and foremost, the primary objective of any Accelerator should be to **create an environment of trust that accelerates creative output**. That is the most basic way to describe it.
+
+Founders trust you to help them make sense of this whole startup thing. To be honest with them. To say the hard things that need to be said. To connect them with the expertise that helps them continue. Or the insight that helps them to quit. 
+
+But it's not just startups. Mentors trust you to engage them, if and only if, it will be worth their time. Investors trust you as a filter to help them mitigate their risk. Media trusts you as a means of identifying interesting companies and trends. People who dream of starting a company one day trust you as a resource to support them. 
+
+It's a whole bunch of people looking for something in which to trust. And that trust is hard earned. And easily lost. But that's your role. To be the trusted — and fairly objective — third party. To be the trusted advisor. To everyone.
+ 
+A close second to an Accelerator's role of establishing trust? Reality. 
+
+As we've highlighted in the definitions, an Accelerator is not designed to be a protective environment. It is not a fantasy world. That's what Incubators are for.  
+
+Accelerators are about reality. 
+
+Therefore, the environment you build should be a representation of the outside world, not a utopian existence. Why? Because your objective is helping founders understand how to survive and prosper in the real world. Or, tangentially, to understand the harsh environment of reality is not the right environment for them to be pursuing their company.
 
 # Base ingredients
 ## Community
