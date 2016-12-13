@@ -500,7 +500,13 @@ First, play to your strengths. Once you have momentum, then you can get visionar
 
 
 # Cooking
-	13. Primary objective: **Create an environment of trust that accelerates creative output**
+
+Let's start with this. First and foremost, the primary objective of any Accelerator should be to **create an environment of trust that accelerates creative output**. That is the most basic way to describe it.
+
+Founders trust you to help them make sense of this whole startup thing. Mentors trust you to engage them, if and only if, it will be worth their time. Investors trust you as a filter to help them mitigate their risk. Media trusts you as a means of identifying interesting companies and trends. People who dream of starting a company one day trust you as a resource to support them. 
+
+It's a whole bunch of people looking for something in which to trust. And that trust is hard earned. And easily lost. But that's your role. To be the trusted — and fairly objective — third party. To be the trusted advisor. To everyone.
+ 
 		14. Tinge it with realism
 		15. This should be a representation of the outside world, not a utopian existence
 		16. You're helping founders understand how to survive in the real world
