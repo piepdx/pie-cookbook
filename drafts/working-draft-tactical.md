@@ -555,7 +555,7 @@ Again, some questions to ask:
 - What is their expertise?
 - How can they help? Is it only financial or are there other opportunities for collaboration?
 
-A benefactor can take any number of flavors — or potentially several flavors. (Note: This isn’t an exhaustive list. But it’s gives you a pretty good idea of where to look.)
+A benefactor can take any number of flavors — or potentially several flavors. (Note: This isn’t an exhaustive list. But it gives you a pretty good idea of where to look.)
 
 In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall: Patron, Sponsor, Partner, Investor.
 
