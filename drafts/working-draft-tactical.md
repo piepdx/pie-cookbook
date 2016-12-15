@@ -545,13 +545,17 @@ Some questions to ask about your Community:
 
 At PIE, we get a lot of questions about how to fund accelerator operations and investments. It makes sense. Finding the money that matches up with the opportunity is a challenge. It’s never easy. No matter how compelling the pitch. 
 
-What are the objectives?
+Like a Community, these benefactors will have certain goals that motivate them to engage with your Community. Some of these may be in line with the Community objectives. Some of them may not be in line. You may find some benefactors who have capital to contribute but are at odds with the Community. And you may find potential benefactors who don't even realize the opportunity availed by supporting an Accelerator.
 
-What is the expertise?
+Whatever the case, your job is to find the value equation that provides value for your Community and the benefactor(s) while providing the financial wherewithal for supporting your Accelerator activities.
 
-How can they help?
+Again, some questions to ask: 
 
-Can take several flavors (Note: This isn’t an exhaustive list. But it’s gives you a pretty good idea of where to look.)
+- What are the objectives of the potential benefactors?
+- What is their expertise?
+- How can they help? Is it only financial or are there other opportunities for collaboration?
+
+A benefactor can take any number of flavors — or potentially several flavors. (Note: This isn’t an exhaustive list. But it’s gives you a pretty good idea of where to look.)
 
 In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall: Patron, Sponsor, Partner, Investor.
 
