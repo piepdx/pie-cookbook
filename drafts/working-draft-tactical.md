@@ -421,28 +421,30 @@ As an Accelerator taking equity, Lettered rounds are where you will experience t
 How, exactly, does one define a startup? Well, honestly, we could write a-whole-nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
 
 At a macro level, we tend to see a "startup" as any company that: 
+
 1. Has the potential for exponential growth
 2. Lacks the resources — either capital or otherwise — to fuel that exponential growth
 2. Has yet to experience a significant liquidity event
 
-For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. To eradicate that simplicity and make things confusing, however, we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
+For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
 
 Long story short, your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
 
 ### Founder/Cofounder
 
-Founders — often referred to a Cofounders — create Startups. So Founders are the folks with whom you will be working. They're the person or people who had the courage to make the leap and start the company. Often, Founders come in teams, but there are solo Founders, as well.  
+Founders — often referred to a Cofounders when part of a founding team — create Startups. So Founders are the folks with whom you will be working. They're the person or people who were motivated to solve a problem and start a company. Often, Founders come in teams, but there are solo Founders, as well.  
 
 Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
 
-NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they retain the trusted environment they are seeking to create in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
+NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they create an environment of trust for Founders in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
  
 ### Resident
 
 At PIE, we introduced the concept of a Resident, that was different from the Startups participating in the program. A Resident could take any of the following forms in our environment:
-1. Mentor in Residence: This designation was reserved for Startups who had participated in an Accelerator class and then remained in our coworking space. In exchange for a rent-free existence, Mentors in Residence were obligated to work with Startups in the active Accelerator class, providing them with guidance and insights that would make the program more effective, e.g., "Make sure and meet with this mentor," or "Don't pay attention when Rick throws that tantrum," or "I remember when were struggling at this stage."
-2. Startup in Residence: PIE started as a coworking space. As such, when we transitioned to an Accelerator, we had a number of companies who resided in our space, participated in peer mentoring and assisting one another, but who had not officially participated in an Accelerator class. We found these more objective startups so valuable, that we continued to invite Startups in Residence to hang out in the space even after the original startups had outgrown the space. Sometimes these startups would be at an earlier stage than the participants. Sometimes they were startups that had already completed another Accelerator program. Sometimes they were startups that had recently relocated to Portland and just needed somewhere to crash for a bit. Whatever the case, having these peers as resources for our startups always proved beneficial. 
-3. Investor in Residence: Some of the residents of the space weren't even startups. They were investors who spent time with our startups, providing connections, criticism, and feedback to our startups. And the value of that different perspective provided a unique vantage for our companies and helped them better understand the investor perspective. If you have the opportunity to engage with investors and have them share your space — even if it's only a limited exposure — it's still incredibly valuable. 
+
+1. **Mentor in Residence**: This designation was reserved for Startups who had participated in an Accelerator class and then remained in our coworking space. In exchange for a rent-free existence, Mentors in Residence were obligated to work with Startups in the active Accelerator class, providing them with guidance and insights that would make the program more effective, e.g., "Make sure and meet with this mentor," or "Don't pay attention when Rick throws that tantrum," or "I remember when were struggling at this stage."
+2. **Startup in Residence**: PIE started as a coworking space. As such, when we transitioned to an Accelerator, we had a number of companies who resided in our space, participated in peer mentoring and assisting one another, but who had not officially participated in an Accelerator class. We found these more objective startups so valuable, that we continued to invite Startups in Residence to hang out in the space even after the original startups had outgrown the space. Sometimes these startups would be at an earlier stage than the participants. Sometimes they were startups that had already completed another Accelerator program. Sometimes they were startups that had recently relocated to Portland and just needed somewhere to crash for a bit. Whatever the case, having these peers as resources for our startups always proved beneficial. 
+3. **Investor in Residence**: Some of the residents of the space weren't even startups. They were investors who spent time with our startups, providing connections, criticism, and feedback to our startups. And the value of that different perspective provided a unique vantage for our companies and helped them better understand the investor perspective. If you have the opportunity to engage with investors and have them share your space — even if it's only a limited exposure — it's still incredibly valuable. 
 
 ### Patron
 
@@ -454,7 +456,7 @@ W+K is the Patron for PIE. And anything we've accomplished is only due to that g
 
 ### Sponsor
 
-At PIE, we saw Sponsors as benefactors who provided capital for the operating costs of an Accelerator with the expectation of a measurable return for that capital. The money from Sponsors was not put to work in the way of equity investments. Rather, it was used to pay for space, staff, services, and other costs associated with the day-to-day operations of the Accelerator. 
+At PIE, we saw Sponsors as benefactors who provided capital for the operating costs of an Accelerator with the expectation of a measurable return for that capital. The money from Sponsors was not put to work by  making equity investments. Rather, it was used to pay for space, staff, services, and other costs associated with the day-to-day operations of the Accelerator. This helped Corporations participate in the Accelerator without the complexity of engaging as Investors.
 
 In return, these Sponsors expected something. This is what makes them different from Patrons. Patrons assume that something will come of the investment eventually. Sponsors expect that something demonstrable will come of the investment at the outset.
 
@@ -520,6 +522,14 @@ Therefore, the environment you build should be a representation of the outside w
 # Base ingredients
 ## Community
 
+While we've defined a generic form of Community, each particular Community is different. Some are collaborative. Some are competitive. Some have an embarrassment of riches. Some struggle to make ends meet. Some have a wealth of knowledge. Some lack the expertise they need.
+
+None of these aspects of the Community ensures your success nor dooms you to failure. They're just aspects of your Community. That said, you need to know those facets of your Community so that you can leverage the resources you have and accommodate for the strengths you lack.
+
+A lot of these details will be anecdotal. As a participant in the Community, you'll have a good feel for the composition of the Community. But again, an Environmental Scan will help you better understand the opportunities and challenges within your Community. 
+
+Some questions to ask about your Community:
+
 - How do you define your community? 
 - What are the objectives?
 	- Shared
@@ -531,29 +541,21 @@ Therefore, the environment you build should be a representation of the outside w
 - What are the gaps?
 - How can they help (if at all)?
 
-
-			17. How do you define your community?
-			17. What are the objectives?
-				18. Shared
-				19. Conflicting
-			20. What is the expertise (if any)?
-			21. What are the weaknesses?
-			17. What are the silos?
-			18. What are the issues?
-			19. What are the gaps?
-			20. How can they help (if at all)?
-
 ## Funding the accelerator
 
 At PIE, we get a lot of questions about how to fund accelerator operations and investments. It makes sense. Finding the money that matches up with the opportunity is a challenge. It’s never easy. No matter how compelling the pitch. 
 
-What are the objectives?
+Like a Community, these benefactors will have certain goals that motivate them to engage with your Community. Some of these may be in line with the Community objectives. Some of them may not be in line. You may find some benefactors who have capital to contribute but are at odds with the Community. And you may find potential benefactors who don't even realize the opportunity availed by supporting an Accelerator.
 
-What is the expertise?
+Whatever the case, your job is to find the value equation that provides value for your Community and the benefactor(s) while providing the financial wherewithal for supporting your Accelerator activities.
 
-How can they help?
+Again, some questions to ask: 
 
-Can take several flavors (Note: This isn’t an exhaustive list. But it’s gives you a pretty good idea of where to look.)
+- What are the objectives of the potential benefactors?
+- What is their expertise?
+- How can they help? Is it only financial or are there other opportunities for collaboration?
+
+A benefactor can take any number of flavors — or potentially several flavors. (Note: This isn’t an exhaustive list. But it’s gives you a pretty good idea of where to look.)
 
 In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall: Patron, Sponsor, Partner, Investor.
 
