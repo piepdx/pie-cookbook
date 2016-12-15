@@ -522,6 +522,14 @@ Therefore, the environment you build should be a representation of the outside w
 # Base ingredients
 ## Community
 
+While we've defined a generic form of Community, each particular Community is different. Some are collaborative. Some are competitive. Some have an embarrassment of riches. Some struggle to make ends meet. Some have a wealth of knowledge. Some lack the expertise they need.
+
+None of these aspects of the Community ensures your success nor dooms you to failure. They're just aspects of your Community. That said, you need to know those facets of your Community so that you can leverage the resources you have and accommodate for the strengths you lack.
+
+A lot of these details will be anecdotal. As a participant in the Community, you'll have a good feel for the composition of the Community. But again, an Environmental Scan will help you better understand the opportunities and challenges within your Community. 
+
+Some questions to ask about your Community:
+
 - How do you define your community? 
 - What are the objectives?
 	- Shared
@@ -532,18 +540,6 @@ Therefore, the environment you build should be a representation of the outside w
 - What are the issues?
 - What are the gaps?
 - How can they help (if at all)?
-
-
-			17. How do you define your community?
-			17. What are the objectives?
-				18. Shared
-				19. Conflicting
-			20. What is the expertise (if any)?
-			21. What are the weaknesses?
-			17. What are the silos?
-			18. What are the issues?
-			19. What are the gaps?
-			20. How can they help (if at all)?
 
 ## Funding the accelerator
 
