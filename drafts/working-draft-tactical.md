@@ -572,6 +572,17 @@ However, throughout the course of the project, the main motivation remained one 
 To the Accelerator, a relationship with a Patron provides much needed operating capital, another party who is interested in the success of the Accelerator and its residents, and a sounding board for the management of the Accelerator. It is important to note, however, that defining a Patron's goals and metrics for success require assistance from the Accelerator, as well.  
 
 ### Sponsor
+
+A Sponsor provides financial resources for the Accelerator in exchange for specific outcomes. These outcomes are usually defined as objectives prior to the sponsorship occurring. 
+
+Sponsor dollars are used to support operating costs of the Accelerator. They are not generally used to make equity investments in Startups.
+
+In PIE's case, we generally worked with corporate Sponsors to help underwrite the costs of PIE. Some of these Sponsors collaborated with PIE to manage events that facilitated collaboration between the Sponsor and the startup  community. Other sponsors took an active role in the Accelerator as Mentors. 
+
+Choosing the right Sponsors can be a challenge for Accelerators. Like any investor, it is important that a Sponsor's desired outcomes are in line with the objectives of the accelerator and that achieving those outcomes has a high likelihood of success during the normal operations of the accelerator.
+
+A great example of an effective sponsor relationship is the "Powered by Techstars" model that Techstars employee with brand sponsors. 
+
 ### Partner
 ### Investor 
 
