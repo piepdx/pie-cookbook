@@ -560,7 +560,29 @@ A benefactor can take any number of flavors — or potentially several flavors. 
 In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall: Patron, Sponsor, Partner, Investor.
 
 ### Patron
+
+As defined above, a Patron is a benefactor who engages with an Accelerator without a specific outcome in mind or in an effort to better understand the Accelerator's given community.
+
+In PIE's case, our primary Patron was Wieden+Kennedy, a global creative firm. The motivation for W+K to provide operating capital and in-kind resources for the Accelerator was motivated by a desire to gain a deeper understanding of the startup community and the creative process of early stage founders.
+
+Later in the project, we discovered other ways to engage with W+K. Some of these went beyond patronage, like when they became early stage investors in our accelerator companies. Some of them were an extension of patronage, like when we engaged with members of the creative  team to provide services for our startups. 
+
+However, throughout the course of the project, the main motivation remained one of patronage, a desire to engage and learn from early stage tech startups.
+
+To the Accelerator, a relationship with a Patron provides much needed operating capital, another party who is interested in the success of the Accelerator and its residents, and a sounding board for the management of the Accelerator. It is important to note, however, that defining a Patron's goals and metrics for success require assistance from the Accelerator, as well.  
+
 ### Sponsor
+
+A Sponsor provides financial resources for the Accelerator in exchange for specific outcomes. These outcomes are usually defined as objectives prior to the sponsorship occurring. 
+
+Sponsor dollars are used to support operating costs of the Accelerator. They are not generally used to make equity investments in Startups.
+
+In PIE's case, we generally worked with corporate Sponsors to help underwrite the costs of PIE. Some of these Sponsors collaborated with PIE to manage events that facilitated collaboration between the Sponsor and the startup  community. Other sponsors took an active role in the Accelerator as Mentors. 
+
+Choosing the right Sponsors can be a challenge for Accelerators. Like any investor, it is important that a Sponsor's desired outcomes are in line with the objectives of the accelerator and that achieving those outcomes has a high likelihood of success during the normal operations of the accelerator.
+
+A great example of an effective sponsor relationship is the "Powered by Techstars" model that Techstars employee with brand sponsors. 
+
 ### Partner
 ### Investor 
 
