@@ -569,6 +569,8 @@ Later in the project, we discovered other ways to engage with W+K. Some of these
 
 However, throughout the course of the project, the main motivation remained one of patronage, a desire to engage and learn from early stage tech startups.
 
+To the Accelerator, a relationship with a Patron provides much needed operating capital, another party who is interested in the success of the Accelerator and its residents, and a sounding board for the management of the Accelerator. It is important to note, however, that defining a Patron's goals and metrics for success require assistance from the Accelerator, as well.  
+
 ### Sponsor
 ### Partner
 ### Investor 
