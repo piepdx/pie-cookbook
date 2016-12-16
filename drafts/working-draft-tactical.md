@@ -560,6 +560,15 @@ A benefactor can take any number of flavors — or potentially several flavors. 
 In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall: Patron, Sponsor, Partner, Investor.
 
 ### Patron
+
+As defined above, a Patron is a benefactor who engages with an Accelerator without a specific outcome in mind or in an effort to better understand the Accelerator's given community.
+
+In PIE's case, our primary Patron was Wieden+Kennedy, a global creative firm. The motivation for W+K to provide operating capital and in-kind resources for the Accelerator was motivated by a desire to gain a deeper understanding of the startup community and the creative process of early stage founders.
+
+Later in the project, we discovered other ways to engage with W+K. Some of these went beyond patronage, like when they became early stage investors in our accelerator companies. Some of them were an extension of patronage, like when we engaged with members of the creative  team to provide services for our startups. 
+
+However, throughout the course of the project, the main motivation remained one of patronage, a desire to engage and learn from early stage tech startups.
+
 ### Sponsor
 ### Partner
 ### Investor 
