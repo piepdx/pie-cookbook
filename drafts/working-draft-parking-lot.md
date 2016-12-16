@@ -36,6 +36,8 @@ Put stuff here that you know belongs somewhere but you’re not quite sure where
 		156. What an investor looks like? monetary, connector, champion, others? 
 		157. As a founder you really aren't all that so, DO THE WORK! (theme?) 
 		158. Decision making.... to steal yogi berra "If you come to a fork in the road, take it"
+159. Community
+	160. http://www.slideshare.net/cuevasm1/fostering-a-startup-and-innovation-ecosystem
 159. Startups
 	160. How do we leverage feedback and insights on the accelerator experience from PIE alums ?
 	161. Insights from post mortem interviews
