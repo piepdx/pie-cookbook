@@ -591,7 +591,8 @@ Partners are organizations that support the Accelerator program with resources r
 
 It is important that Accelerators are careful with partnerships, because poorly constructed partnerships could be detrimental to startups going through the accelerator program. 
 
-One of the most prevalent examples of an Accelerator partnership is the Amazon Web Services  
+One of the most prevalent examples of an Accelerator partnership is the [Amazon Web Services Activate program](https://aws.amazon.com/activate/). With this partnership, AWS provides an allotment of free credits to each company in the Accelerator. This allows startups to build on Amazon infrastructure without any out-of-pocket costs. In return, AWS has a higher likelihood of converting those startups into paying customers once the credits are exhausted. 
+
 ### Investor 
 
 On the upside, venture capital can be a very effective means of funding this sort of activity.
