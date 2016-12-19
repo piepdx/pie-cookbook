@@ -583,9 +583,15 @@ In PIE's case, we generally worked with corporate Sponsors to help underwrite th
 
 Choosing the right Sponsors can be a challenge for Accelerators. Like any investor, it is important that a Sponsor's desired outcomes are in line with the objectives of the accelerator and that achieving those outcomes has a high likelihood of success during the normal operations of the accelerator.
 
-A great example of an effective sponsor relationship is the "Powered by Techstars" model that Techstars employee with brand sponsors. 
+A great example of an effective sponsor relationship is the "Powered by Techstars" model that Techstars employee with corporate sponsors. With this sponsorship arrangement, Techstars and the corporation collaborate to ensure that the Accelerator program is meeting the needs of the corporate sponsor. In addition to capital, the corporate sponsor provides validation and market expertise for the Techstars program. 
 
 ### Partner
+
+Partners are organizations that support the Accelerator program with resources rather than direct capital. This is a mutually beneficial arrangement that is generally used as a loss-leader for Partners.
+
+It is important that Accelerators are careful with partnerships, because poorly constructed partnerships could be detrimental to startups going through the accelerator program. 
+
+One of the most prevalent examples of an Accelerator partnership is the Amazon Web Services  
 ### Investor 
 
 On the upside, venture capital can be a very effective means of funding this sort of activity.
