@@ -571,6 +571,8 @@ However, throughout the course of the project, the main motivation remained one 
 
 To the Accelerator, a relationship with a Patron provides much needed operating capital, another party who is interested in the success of the Accelerator and its residents, and a sounding board for the management of the Accelerator. It is important to note, however, that defining a Patron's goals and metrics for success require assistance from the Accelerator, as well.  
 
+The most important consideration with a Patron is not mistaking another type of benefactor as a Patron. It's critical that you have a clear understanding of the expectations of any benefactor with whom you engage.
+
 ### Sponsor
 
 A Sponsor provides financial resources for the Accelerator in exchange for specific outcomes. These outcomes are usually defined as objectives prior to the sponsorship occurring. 
