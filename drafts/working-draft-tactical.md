@@ -520,6 +520,17 @@ Accelerators are about reality.
 Therefore, the environment you build should be a representation of the outside world, not a utopian existence. Why? Because your objective is helping founders understand how to survive and prosper in the real world. Or, tangentially, to understand the harsh environment of reality is not the right environment for them to be pursuing their company.
 
 # Base ingredients
+
+In our experience, there are three critical components to supporting and maintaining a sustainable Accelerator: community, funding, and promotion. 
+
+Without Community, there will be no resources upon which to draw. You don't use an Accelerator to create a Community. You use a Community to create an Accelerator.
+
+Without Funding, there will be no operating capital for the Accelerator, whether that Accelerator chooses to invest in its startups or not. There needs to be capital for the space, the staff, and the infrastructure to support the Accelerator. 
+
+Finally, and often most overlooked, is Promotion. Without promotional efforts, the applicant pool will suffer, the caliber of mentoring resources may be impacted, the interest from Venture Capital may be lackluster, and the potential for startup success may be diminished. 
+
+So let's take a look at each of these critical elements in more detail. 
+
 ## Community
 
 While we've defined a generic form of Community, each particular Community is different. Some are collaborative. Some are competitive. Some have an embarrassment of riches. Some struggle to make ends meet. Some have a wealth of knowledge. Some lack the expertise they need.
