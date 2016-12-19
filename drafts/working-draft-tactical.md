@@ -520,6 +520,17 @@ Accelerators are about reality.
 Therefore, the environment you build should be a representation of the outside world, not a utopian existence. Why? Because your objective is helping founders understand how to survive and prosper in the real world. Or, tangentially, to understand the harsh environment of reality is not the right environment for them to be pursuing their company.
 
 # Base ingredients
+
+In our experience, there are three critical components to supporting and maintaining a sustainable Accelerator: community, funding, and promotion. 
+
+Without Community, there will be no resources upon which to draw. You don't use an Accelerator to create a Community. You use a Community to create an Accelerator.
+
+Without Funding, there will be no operating capital for the Accelerator, whether that Accelerator chooses to invest in its startups or not. There needs to be capital for the space, the staff, and the infrastructure to support the Accelerator. 
+
+Finally, and often most overlooked, is Promotion. Without promotional efforts, the applicant pool will suffer, the caliber of mentoring resources may be impacted, the interest from Venture Capital may be lackluster, and the potential for startup success may be diminished. 
+
+So let's take a look at each of these critical elements in more detail. 
+
 ## Community
 
 While we've defined a generic form of Community, each particular Community is different. Some are collaborative. Some are competitive. Some have an embarrassment of riches. Some struggle to make ends meet. Some have a wealth of knowledge. Some lack the expertise they need.
@@ -571,6 +582,8 @@ However, throughout the course of the project, the main motivation remained one 
 
 To the Accelerator, a relationship with a Patron provides much needed operating capital, another party who is interested in the success of the Accelerator and its residents, and a sounding board for the management of the Accelerator. It is important to note, however, that defining a Patron's goals and metrics for success require assistance from the Accelerator, as well.  
 
+The most important consideration with a Patron is not mistaking another type of benefactor as a Patron. It's critical that you have a clear understanding of the expectations of any benefactor with whom you engage.
+
 ### Sponsor
 
 A Sponsor provides financial resources for the Accelerator in exchange for specific outcomes. These outcomes are usually defined as objectives prior to the sponsorship occurring. 
@@ -581,12 +594,23 @@ In PIE's case, we generally worked with corporate Sponsors to help underwrite th
 
 Choosing the right Sponsors can be a challenge for Accelerators. Like any investor, it is important that a Sponsor's desired outcomes are in line with the objectives of the accelerator and that achieving those outcomes has a high likelihood of success during the normal operations of the accelerator.
 
-A great example of an effective sponsor relationship is the "Powered by Techstars" model that Techstars employee with brand sponsors. 
+A great example of an effective sponsor relationship is the "Powered by Techstars" model that Techstars employee with corporate sponsors. With this sponsorship arrangement, Techstars and the corporation collaborate to ensure that the Accelerator program is meeting the needs of the corporate sponsor. In addition to capital, the corporate sponsor provides validation and market expertise for the Techstars program. 
 
 ### Partner
+
+Partners are organizations that support the Accelerator program with resources rather than direct capital. This is a mutually beneficial arrangement that is generally used as a loss-leader for Partners.
+
+It is important that Accelerators are careful with partnerships, because poorly constructed partnerships could be detrimental to startups going through the accelerator program. 
+
+One of the most prevalent examples of an Accelerator partnership is the [Amazon Web Services Activate program](https://aws.amazon.com/activate/). With this partnership, AWS provides an allotment of free credits to each company in the Accelerator. This allows startups to build on Amazon infrastructure without any out-of-pocket costs. In return, AWS has a higher likelihood of converting those startups into paying customers once the credits are exhausted. 
+
 ### Investor 
 
-On the upside, venture capital can be a very effective means of funding this sort of activity.
+Investors collaborate and fund Accelerator activity in an effort to improve deal flow, identify companies that have a better chance of succeeding, and gain additional validation of product market fit. The filtering that Accelerators provide, therefore, can result in a very symbiotic relationship for both parties. 
+
+Given the similarities of VC behavior and Accelerator behavior, however, it is critical that these arrangements only occur between parties whose goals are completely aligned. It does an Accelerator absolutely no good to accept funding from a VC whose investment thesis does not match the Accelerator's. And it does a VC no good to invest in an Accelerator that does not provide beneficial deal flow or services.  
+
+On the upside, venture capital can be a very effective means of funding Accelerator activity, because they are used to playing in the space of startups.
 
 - Used to spending money on risky efforts
 - Have a time horizon that is in line with company maturation
@@ -600,7 +624,7 @@ On the downside, this funding mechanism can curtail the experimental nature of a
 
 This sort of focus can hamstring accelerators and incubators who may see promise or opportunity in verticals or companies that are outside of the fund’s purview. 
 
-Long story short, you don’t get to “experiment” with VC money. You get to make money.
+Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
 
 ## Soapbox(s)
 
