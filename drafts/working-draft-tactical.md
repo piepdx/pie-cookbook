@@ -626,7 +626,7 @@ This sort of focus can hamstring accelerators and incubators who may see promise
 
 Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
 
-## Soapbox(s) or bullhorn or campfire or promotional platforms or whatever you want to call them
+## Soapbox(es) or bullhorn or campfire or promotional platforms or whatever you want to call them
 
 One of the things that dawned on us in hindsight was the value of having  platforms for sharing opinions, promoting our efforts, and conversing with our community. 
 
