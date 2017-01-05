@@ -626,7 +626,34 @@ This sort of focus can hamstring accelerators and incubators who may see promise
 
 Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
 
-## Soapbox(s)
+## Soapbox(s) or bullhorn or campfire or promotional platforms or whatever you want to call them
+
+One of the things that dawned on us in hindsight was the value of having  platforms for sharing opinions, promoting our efforts, and conversing with our community. 
+
+It seems straightforward and obvious, but it's often overlooked. 
+
+You need a soapbox. Or a bully pulpit. Or a bullhorn. 
+
+You need some way of amplifying your signal. And some way of communicating effectively with the community you're engaging. 
+
+There are any number of examples of these kinds of platforms. It could be an email list or a blog. It could be a series of events. It doesn't even necessarily need to be something you "own." It can be a social network presence. It could be a local publication that assists with your communications. It could be a blog run by someone else who wants to cover your community. 
+
+But whatever the case, you need that promotional and conversational outlet. To engage.
+
+At PIE, we used [Silicon Florist](http://siliconflorist.com/) as our initial platform, because it already had a following in the community with whom we were interested in engaging. Twitter, which had an early following in Portland, was also an extremely beneficial platform in this regard. First with personal accounts, then with a PIE account. Eventually, we adopted email, a PIE blog, Facebook, Instagram, and Medium, as well. We also used the space, itself, as a promotional platform by creating our own events and hosting others. Now, Github has become a critical component of our platform, thanks to the PIE Cookbook. And we've added Slack to the mix, as well.
+
+Admittedly, things were much more simple we started. We didn't have a great deal from which to choose. There were blogs and Twitter. And had the opportunity to watch new platforms come online, assess how they were being used, and then choose to adopt those platforms if and only if they showed promise in our community. 
+
+You, my friend, have got a much wider and frenetic breadth of options from which to choose, these days. And they all have their idiosyncrasies and communities. 
+
+So we encourage you to approach your platform choices with these questions:
+
+- Where does your community go for information and conversation, today?
+- What publications or organizations talk to the same communities you do?
+- Are there certain platforms that your team simply enjoys using more than others? (If you don't like writing, starting a blog is the wrong idea. But maybe a podcast or a YouTube channel would be appropriate?)
+- What are the one or two platforms which would be most successful with the least amount of effort? Just because all of the platforms are there doesn't mean you need to be on all of them. Look for efficiencies.
+
+
 
 ## Other critical ingredients
 		21. Mentors
