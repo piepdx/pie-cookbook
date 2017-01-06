@@ -552,7 +552,7 @@ Some questions to ask about your Community:
 - What are the gaps?
 - How can they help (if at all)?
 
-## Funding the accelerator
+## Funding
 
 At PIE, we get a lot of questions about how to fund accelerator operations and investments. It makes sense. Finding the money that matches up with the opportunity is a challenge. It’s never easy. No matter how compelling the pitch. 
 
@@ -601,6 +601,8 @@ A great example of an effective sponsor relationship is the "Powered by Techstar
 Partners are organizations that support the Accelerator program with resources rather than direct capital. This is a mutually beneficial arrangement that is generally used as a loss-leader for Partners.
 
 It is important that Accelerators are careful with partnerships, because poorly constructed partnerships could be detrimental to startups going through the accelerator program. 
+
+Even in situations where the Partner is tightly integrated into the Accelerator, it is important that there are other entities to balance the influence of the Partner. An example of this is the Techstars "Powered by" programs, where the Partner and the Sponsor are often one and the same. In this situation, Techstars provides the balance that balances the Accelerator. 
 
 One of the most prevalent examples of an Accelerator partnership is the [Amazon Web Services Activate program](https://aws.amazon.com/activate/). With this partnership, AWS provides an allotment of free credits to each company in the Accelerator. This allows startups to build on Amazon infrastructure without any out-of-pocket costs. In return, AWS has a higher likelihood of converting those startups into paying customers once the credits are exhausted. 
 
@@ -653,10 +655,16 @@ So we encourage you to approach your platform choices with these questions:
 - Are there certain platforms that your team simply enjoys using more than others? (If you don't like writing, starting a blog is the wrong idea. But maybe a podcast or a YouTube channel would be appropriate?)
 - What are the one or two platforms which would be most successful with the least amount of effort? Just because all of the platforms are there doesn't mean you need to be on all of them. Look for efficiencies.
 
-
-
 ## Other critical ingredients
-		21. Mentors
+
+Like any recipe, there are main ingredients and the ingredients which add flavor or make the dish. So while you could likely build an Accelerator with the base ingredients, we highly recommend adding some of these other critical ingredients to your Accelerator recipe.
+
+### Mentors
+
+The most critical of these "additional ingredients" will be your mentors. 
+
+While we've provided a generic definition of a mentor above, it is important to understand that there are different types of mentors, different ways to apply those mentors, and different motivations for the mentors to participate in the program. 
+ 
 			21. Types
 				22. Non-resident
 					22. Typical
@@ -721,6 +729,7 @@ So we encourage you to approach your platform choices with these questions:
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities
 			22. Identifying potential mentors
+			23. Recruiting potential mentors
 			23. Qualifying potential mentors
 			24. Alums as mentors
 			24. Onboarding
