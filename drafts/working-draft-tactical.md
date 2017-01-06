@@ -657,9 +657,11 @@ So we encourage you to approach your platform choices with these questions:
 
 ## Other critical ingredients
 
-Like any recipe, there are main ingredients and the ingredients which add flavor or make the dish. So while you could likely build an Accelerator with the base ingredients, we highly recommend adding some of these other critical ingre
+Like any recipe, there are main ingredients and the ingredients which add flavor or make the dish. So while you could likely build an Accelerator with the base ingredients, we highly recommend adding some of these other critical ingredients to your Accelerator recipe.
 
-		21. Mentors
+### Mentors
+
+The most critical of these "additional ingredients" will be your mentors. And while we've provided a generic definition of a mentor
 			21. Types
 				22. Non-resident
 					22. Typical
