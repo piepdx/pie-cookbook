@@ -661,7 +661,10 @@ Like any recipe, there are main ingredients and the ingredients which add flavor
 
 ### Mentors
 
-The most critical of these "additional ingredients" will be your mentors. And while we've provided a generic definition of a mentor
+The most critical of these "additional ingredients" will be your mentors. 
+
+While we've provided a generic definition of a mentor above, it is important to understand that there are different types of mentors, different ways to apply those mentors, and different motivations for the mentors to participate in the program. 
+ 
 			21. Types
 				22. Non-resident
 					22. Typical
@@ -726,6 +729,7 @@ The most critical of these "additional ingredients" will be your mentors. And wh
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities
 			22. Identifying potential mentors
+			23. Recruiting potential mentors
 			23. Qualifying potential mentors
 			24. Alums as mentors
 			24. Onboarding
