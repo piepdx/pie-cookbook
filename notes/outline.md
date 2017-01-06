@@ -7,8 +7,8 @@
 	3. Preface (https://github.com/piepdx/pie-cookbook/blob/master/notes/context/preface.md)
 	3. Context
 		4. https://github.com/piepdx/pie-cookbook/blob/master/notes/context/building-startup-accelerator.md
-		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on the momentum of an existing community, enabling community leaders, supporters, and contributors to focus their efforts in conjunction with that momentum for the greatest benefit — and highest likelihood of success — for that community. (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-i-context-a-building-an-accelerator)
-		5. While PIE will speak from its vantage point on its experience as coworking space, a community hub, and an early stage tech startup accelerator, the PIE Cookbook is not meant to be tech specific. Nor is it meant to be a guide that only applies to startups. 
+		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of recognizing, embracing, and capitalizing on the momentum of an existing community, enabling community leaders, supporters, and contributors to focus their efforts in conjunction with that momentum for the greatest benefit — and highest likelihood of success — for that community. (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-i-context-a-building-an-accelerator)
+		5. While PIE speaks from its vantage point on its experience as coworking space, a community hub, and an early stage tech startup accelerator, the PIE Cookbook is not meant to be tech specific. Nor is it meant to be a guide that only applies to startups. 
 		6. We believe that the accelerator model is a powerful and efficient educational construct to can be applied to a variety of markets, businesses, and communities. 
 		7. We believe that no one has perfected it yet. So you should feel free to adapt and revise it as you see fit. 
 		7. We believe that the accelerator market is currently like the search engine market pre-Google. There are lots of well meaning people sort of doing things right but no one has really hit upon a repeatable and successful formula for doing this.
@@ -18,13 +18,14 @@
 		6. This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most every case, it may not be wise — or downright foolhardy — to start where PIE ended. You should start where PIE started. And try to end where you want to end. 
 		7. There is inherent value in the journey, itself.
 		8. Risks (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-i-context-h-risks)
-			9. Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
-			10. You can go too far.
+			9. Too Early. Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
+			10. Too rigid. You can go too far.
 				11. In structure
 				12. In goals
 				13. In trying to over architect the experience
 				14. In over planning and under participating
-			11. Once you start, you cannot stop. Ever.
+			11. Too exclusive. Stepford wives versus Berkley. 'nuf said.
+			12. Too short. Once you start, you cannot stop. Ever.
 	4. Format
 		5. How to use this book
 			6. By way of analogy, the PIE Cookbook should serve as a map for your road trip. 
@@ -63,6 +64,10 @@
 			12. Incubator
 			12. Accelerator
 			12. Mentor
+				Technical
+				Marketing
+				Sales
+				Operations
 			13. Advisor
 			14. Investor
 				15. Angel
@@ -75,6 +80,8 @@
 			14. Patron
 			15. Sponsor
 			15. Partner
+			16.Cheerleader
+			16. Leader
 	8. Before you begin
 		9. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-iii-before-you-begin-b-pre-requisite-reading-a-required-a-startup-communities
 		9. Establishing context and your own vocabulary
@@ -206,7 +213,7 @@
 	16. Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
 	16. Environmental scan
 		18. Assess what's what before you begin
-		18. Start with reality
+		18. Start with reality	
 		18. What assets/resources does your community have?
 			19. How mature are they?
 			20. Are they currently accessible?
@@ -228,6 +235,7 @@
 				18. Shared
 				19. Conflicting
 			20. What is the expertise (if any)?
+				(via @tlucich) "Not every community will start with the depth of talent or experience to launch into the celebrated 'tech incubator' paradigm. The same principles used at PIE are every bit as pertinent for fledgling concepts and companies - from window coverings, to consulting services, to widget makers. (I'd personally love to see the local grange hall doing sometihng like this with a new generation of farmers. It was easier when kids grew up to do what our parents did, living in the same familiar and networked community. The PIE concept helps us rediscover what this kind of intimate and engaged community used to do.) The rules around crowdsourcing open up a new world for more traditional businesses to secure startup capital, but they equally need a thoughtful ecosystem of engaged parties to guide them and help shape their success. Anyone can start to redefine their community: working from where they are, with what they have."
 			21. What are the weaknesses?
 			17. What are the silos?
 			18. What are the issues?
@@ -476,6 +484,7 @@
 					86. Partners
 					87. Patrons
 					88. Sponsors
+					89. Evangelists & Cheerleaders
 				84. Events
 				82. Tchotchkes
 			82. Applications
@@ -511,6 +520,9 @@
 					94. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-to-expect.md
 					95. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-youre-getting-in-to.md
 				93. Touring the space
+					94. Think Skunkworks, not Architectural Digest
+					95. The space sets the tone - is this my 3rd place?
+					
 				94. Introducing startups to one another
 			91. First day
 			92. Family Dinner (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-family-dinner.md)
