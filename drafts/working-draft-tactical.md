@@ -523,11 +523,11 @@ Therefore, the environment you build should be a representation of the outside w
 
 In our experience, there are three critical components to supporting and maintaining a sustainable Accelerator: community, funding, and promotion. 
 
-Without Community, there will be no resources upon which to draw. You don't use an Accelerator to create a Community. You use a Community to create an Accelerator.
+Without **Community**, there will be no resources upon which to draw. You don't use an Accelerator to create a Community. You use a Community to create an Accelerator.
 
-Without Funding, there will be no operating capital for the Accelerator, whether that Accelerator chooses to invest in its startups or not. There needs to be capital for the space, the staff, and the infrastructure to support the Accelerator. 
+Without **Funding**, there will be no operating capital for the Accelerator, whether that Accelerator chooses to invest in its startups or not. There needs to be capital for the space, the staff, and the infrastructure to support the Accelerator. 
 
-Finally, and often most overlooked, is Promotion. Without promotional efforts, the applicant pool will suffer, the caliber of mentoring resources may be impacted, the interest from Venture Capital may be lackluster, and the potential for startup success may be diminished. 
+Finally, and often most overlooked, is **Promotion**. Without promotional efforts, the applicant pool will suffer, the caliber of mentoring resources may be impacted, the interest from Venture Capital may be lackluster, and the potential for startup success may be diminished. 
 
 So let's take a look at each of these critical elements in more detail. 
 
@@ -628,7 +628,9 @@ This sort of focus can hamstring accelerators and incubators who may see promise
 
 Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
 
-## Soapbox(es) or bullhorn or campfire or promotional platforms or whatever you want to call them
+## Promotion 
+
+Soapbox(es) or bullhorn or campfire or promotional platforms or whatever you want to call them
 
 One of the things that dawned on us in hindsight was the value of having  platforms for sharing opinions, promoting our efforts, and conversing with our community. 
 
