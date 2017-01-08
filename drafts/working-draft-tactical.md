@@ -321,7 +321,7 @@ Therefore, Accelerators operating with only initial investment capital must be c
 
 An Angel is an individual who invests his or her own money in an early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating sooner rather than later, ranging from low five figure checks to six figure checks, depending on the Angel and his/her investment strategy. Some Angels choose to make a series of small bets; others choose to make a significant investment in a single company. Some Angels are comfortable investing on their own; others prefer to invest with other Angels or as part of an Angel Group (defined below).
 
-NOTE: It is important to understand invidual Angels and they're preferred investment strategies, because they run the gamut.
+NOTE: It is important to understand individual Angels and they're preferred investment strategies, because they run the gamut.
 
 Due to the stage at which they are investing, Angels are often required to make judgments based on the founders of a company and the Angel's understanding of the product and market. This is because Angels are usually engaging before the product has been completed or before the product has been taken to the market. 
 
