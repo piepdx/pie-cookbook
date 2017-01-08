@@ -59,6 +59,15 @@ So much of what occurs in an accelerator environment appears to happen organical
 
 To be successful, you must be intentional. And work with the intent of making stuff happen. Not just letting stuff happen.
 
+#### 5. This is not about creating a community
+
+With the PIE Cookbook, we have to start with a series of assumptions about you and your community. These assumptions are:
+* You are already part of a well defined community. 
+* You have a relevant role in that community. 
+* You have identified an opportunity for an Accelerator within that community. 
+
+With these assumptions in mind, please understand that we may lightly touch on community management and development from time to time. However, the PIE Cookbook is not designed to educate you on how communities are defined, built, and maintained. This guide is a resource for helping existing communities take build Accelerators to support their members.
+
 ## Format
 
 We’ve structured this as a cookbook for an accelerator. And admittedly, we may have been a little heavy handed with that whole analogy. Sorry. That’s just how we roll. But you’ll get used to it. 
