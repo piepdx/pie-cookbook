@@ -1,6 +1,10 @@
 # RECIPES
 # Before you begin
 
+As we have stated before, we are working under the assumption that your are already part of a well defined community. Furthermore, we are assuming that you have a relevant role in that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. 
+
+With those assumptions in mind, we may lightly touch on community development from time to time. But we will not describe, in depth, how communities are defined, built, and maintained. That topic is another book — or library of books — in an of itself.
+
 ## Want to start an accelerator? Don't start an accelerator
 
 You don't get to start in the middle. You have to start at the beginning.
