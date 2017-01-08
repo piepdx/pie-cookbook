@@ -630,7 +630,7 @@ Long story short, you don’t get to “experiment” with VC money. You get to 
 
 ## Promotion 
 
-Soapbox(es) or bullhorn or campfire or promotional platforms or whatever you want to call them
+aka Soapbox(es) or bullhorn(s) or campfire(s) or promotional platforms or whatever you want to call them
 
 One of the things that dawned on us in hindsight was the value of having  platforms for sharing opinions, promoting our efforts, and conversing with our community. 
 
