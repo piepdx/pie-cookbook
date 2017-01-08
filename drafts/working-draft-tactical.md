@@ -509,7 +509,7 @@ Founders trust you to help them make sense of this whole startup thing. To be ho
 
 But it's not just startups. Mentors trust you to engage them, if and only if, it will be worth their time. Investors trust you as a filter to help them mitigate their risk. Media trusts you as a means of identifying interesting companies and trends. People who dream of starting a company one day trust you as a resource to support them. 
 
-It's a whole bunch of people looking for something in which to trust. And that trust is hard earned. And easily lost. But that's your role. To be the trusted — and fairly objective — third party. To be the trusted advisor. To everyone.
+It's a whole bunch of people looking for something in which to trust. And that trust is hard earned. And easily lost. But that is your role. To be the trusted — and fairly objective — third party. To be the trusted advisor. To everyone.
  
 A close second to an Accelerator's role of establishing trust? Reality. 
 
