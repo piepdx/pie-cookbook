@@ -1,6 +1,10 @@
 # RECIPES
 # Before you begin
 
+As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you have a relevant role in that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. 
+
+With those assumptions in mind, we may lightly touch on community development from time to time. But we will not describe, in depth, how communities are defined, built, and maintained. That topic is another book — or library of books — in an of itself.
+
 ## Want to start an accelerator? Don't start an accelerator
 
 You don't get to start in the middle. You have to start at the beginning.
@@ -321,7 +325,7 @@ Therefore, Accelerators operating with only initial investment capital must be c
 
 An Angel is an individual who invests his or her own money in an early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating sooner rather than later, ranging from low five figure checks to six figure checks, depending on the Angel and his/her investment strategy. Some Angels choose to make a series of small bets; others choose to make a significant investment in a single company. Some Angels are comfortable investing on their own; others prefer to invest with other Angels or as part of an Angel Group (defined below).
 
-NOTE: It is important to understand invidual Angels and they're preferred investment strategies, because they run the gamut.
+NOTE: It is important to understand individual Angels and they're preferred investment strategies, because they run the gamut.
 
 Due to the stage at which they are investing, Angels are often required to make judgments based on the founders of a company and the Angel's understanding of the product and market. This is because Angels are usually engaging before the product has been completed or before the product has been taken to the market. 
 
@@ -509,7 +513,7 @@ Founders trust you to help them make sense of this whole startup thing. To be ho
 
 But it's not just startups. Mentors trust you to engage them, if and only if, it will be worth their time. Investors trust you as a filter to help them mitigate their risk. Media trusts you as a means of identifying interesting companies and trends. People who dream of starting a company one day trust you as a resource to support them. 
 
-It's a whole bunch of people looking for something in which to trust. And that trust is hard earned. And easily lost. But that's your role. To be the trusted — and fairly objective — third party. To be the trusted advisor. To everyone.
+It's a whole bunch of people looking for something in which to trust. And that trust is hard earned. And easily lost. But that is your role. To be the trusted — and fairly objective — third party. To be the trusted advisor. To everyone.
  
 A close second to an Accelerator's role of establishing trust? Reality. 
 
@@ -523,11 +527,11 @@ Therefore, the environment you build should be a representation of the outside w
 
 In our experience, there are three critical components to supporting and maintaining a sustainable Accelerator: community, funding, and promotion. 
 
-Without Community, there will be no resources upon which to draw. You don't use an Accelerator to create a Community. You use a Community to create an Accelerator.
+Without **Community**, there will be no resources upon which to draw. You don't use an Accelerator to create a Community. You use a Community to create an Accelerator.
 
-Without Funding, there will be no operating capital for the Accelerator, whether that Accelerator chooses to invest in its startups or not. There needs to be capital for the space, the staff, and the infrastructure to support the Accelerator. 
+Without **Funding**, there will be no operating capital for the Accelerator, whether that Accelerator chooses to invest in its startups or not. There needs to be capital for the space, the staff, and the infrastructure to support the Accelerator. 
 
-Finally, and often most overlooked, is Promotion. Without promotional efforts, the applicant pool will suffer, the caliber of mentoring resources may be impacted, the interest from Venture Capital may be lackluster, and the potential for startup success may be diminished. 
+Finally, and often most overlooked, is **Promotion**. Without promotional efforts, the applicant pool will suffer, the caliber of mentoring resources may be impacted, the interest from Venture Capital may be lackluster, and the potential for startup success may be diminished. 
 
 So let's take a look at each of these critical elements in more detail. 
 
@@ -628,7 +632,9 @@ This sort of focus can hamstring accelerators and incubators who may see promise
 
 Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
 
-## Soapbox(es) or bullhorn or campfire or promotional platforms or whatever you want to call them
+## Promotion 
+
+aka Soapbox(es) or bullhorn(s) or campfire(s) or promotional platforms or whatever you want to call them
 
 One of the things that dawned on us in hindsight was the value of having  platforms for sharing opinions, promoting our efforts, and conversing with our community. 
 
