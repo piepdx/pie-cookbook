@@ -424,7 +424,7 @@ As an Accelerator taking equity, Lettered rounds are where you will experience t
 
 How, exactly, does one define a startup? Well, honestly, we could write a-whole-nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
 
-At a macro level, we tend to see a "startup" as any company that: 
+At a macro level, we tend to define a "startup" as any company that: 
 
 1. Has the potential for exponential growth
 2. Lacks the resources — either capital or otherwise — to fuel that exponential growth
