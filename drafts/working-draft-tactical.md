@@ -432,7 +432,7 @@ At a macro level, we tend to define a "startup" as any company that:
 
 For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
 
-tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
+# tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
 
 ### Founder/Cofounder
 
