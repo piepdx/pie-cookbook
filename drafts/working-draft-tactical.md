@@ -41,7 +41,7 @@ But if you're not there yet, please do not skip ahead. Do not pass go. There is 
 
 ## Building a startup accelerator in seven easy steps
 
-tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
+# tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
 
 Caveat: Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
 
