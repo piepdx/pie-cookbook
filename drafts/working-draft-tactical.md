@@ -380,11 +380,11 @@ Most accelerators will only work with traditional venture capital in the role of
 
 What's more, it's always best to start these conversations sooner rather than later. And it's always nice to have conversations about money and expectations when neither party is currently in a position to engage with one another — rather than at the awkward point where the startup is in dire need of capital.
 
-#### Corporate Venture
+#### Corporate Venture aka Strategics
 
-Corporations with venture arms most often choose to make strategic investments in companies at later rounds as a means of strengthening partnerships or market position. 
+Corporations with venture arms most often choose to make strategic investments in companies at later rounds as a means of strengthening partnerships or market position. You often hear these investments referred to as "strategic investments." As such, Corporate Venture groups are sometimes referred to as "strategics."
 
-Most accelerators will only deal with corporate venture as mentors for their programs, given that corporate funds do not generally invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
+Most accelerators will only work with corporate venture folks in the role of  mentors for Accelerator programs, given that corporate funds do not generally invest in early stage companies. Like traditional VC, it's better to establish these relationships before a capital need arises for the startup. 
 
 #### Private Equity
 
