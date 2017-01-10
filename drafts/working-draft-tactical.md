@@ -333,7 +333,7 @@ Some Angels are described as "true Angels," where the investor bases the investm
 
 Angels often invest in industries where they made their money. So it is important to understand the Angel's pedigree before engaging him/her as a potential investor. 
 
-e.g., If an Angel made his/her money in food and beverage, it may be unlikely that they will feel comfortable investing in a technology startup.
+> e.g., If an Angel made his/her money in food and beverage, it may be unlikely that they will feel comfortable investing in a technology startup.
 
 #### Angel Groups
 
