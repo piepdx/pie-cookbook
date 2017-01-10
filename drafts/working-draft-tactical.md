@@ -420,7 +420,9 @@ This is longer term capital designed to fuel company growth, rather than just ke
 
 #### Lettered
 
-Lettered rounds (A, B, C, etc.) are what most folks think of when they talk about "venture capital." These rounds are the money that keeps the company growing or supports the company as they struggle to grow. As the rounds progress, there are more and more investors involved, either early stage investors providing "follow-on capital" to retain their positions or new investors seeking an equity stake in promising startups. 
+Lettered rounds (A, B, C, etc.) are what most folks think of when they talk about "venture capital." These rounds are the money that keeps the company growing, supports the company as they struggle to grow, helps them address new markets or market changes, allows them to acquire complimentary or competing companies, and address any number of other "costs of doing business" which may not be covered by the revenue the company generates. 
+
+As the rounds progress, there are more and more investors involved, either early stage investors providing "follow-on capital" to retain their positions or new investors seeking an equity stake in promising startups. 
 
 As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant capital at your disposal for follow-on.
 
