@@ -1510,13 +1510,22 @@ But you know what? Admitting we sucked at that — and being open with our appli
 
 ## Onboarding 
 
-One of the biggest mistakes most accelerators make — and we've made it a few times — is with onboarding. Or, to put it another way, assuming that participants realize what the accelerator is designed to do, what resources are available, and how to make best use of those resources.
+With the growing prevalence of Accelerators and the popularity of programs like Y Combinator, Techstars, and 500 startups, it has become incredibly safe to assume that people are cognizant, if not deeply knowledgeable, about what Accelerators are designed to do, how they operate, and how to make the most of being a participant in one.
 
-If you're building an early stage tech accelerator, you can sometimes skate by without doing a great deal of onboarding. And just get lucky. 
+Nothing could be further from the truth. 
+
+In fact, one of the biggest mistakes most accelerators make — and we've made it a few times — is with onboarding. Or, to put it another way, assuming that participants realize what the accelerator is designed to do, what resources are available, and how to make best use of those resources.
+
+If you're building an early stage tech accelerator, you can sometimes skate by without doing a great deal of onboarding. And just get lucky. We wouldn't recommend it, but you could do that.
 
 Why? Because most early stage tech companies are familiar with the concept of accelerators. They know what they are designed to do. And they understand, at a high level, what they're supposed to get out of the accelerator.
 
 Other industries? Not so much. The accelerator is not a common concept. So  we've found that assuming folks will know how to engage is a huge mistake. You have to tell them.
+
+Tech founder or not, fact of the matter is that most Founders — regardless of their familiarity with Accelerator model — have a limited understanding of how an Accelerator works, how to make use with the resources being offered, or how to effectively engage with the firehose of connections to which they're being exposed.
+
+Granted, learning to deal with these issues is part of the educational process of being in the Accelerator. But part of it is just an unnecessary waste of Founders' and Mentors' time and Accelerators' resources. So give your startups the best chance of succeeding by preparing them with some Accelerator 101 onboarding. 
+
 
 # Give the startups context
 
