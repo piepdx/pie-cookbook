@@ -414,7 +414,7 @@ Again, this is often short term capital that lasts months, not years. More "keep
 
 Seed is the first significant infusion of capital into the company. Currently, this infusion comes when the founders can demonstrate that their concept or prototype has potential in a specific market. This capital provides the runway to take the product to that market and establish traction and, hopefully, revenue. 
 
-Seed funding often comes post-Accelerator. Investors in Seed rounds include Angels, Angel Groups, Syndicates, and Micro VCs. Traditional VCs may also choose to participate in these rounds.
+Seed funding often comes post-Accelerator. Investors in Seed rounds include Angels, Angel Groups, Syndicates, and Micro VCs. Traditional VCs may also choose to participate in these rounds. Again, previous investors with pro rata rights — like an Accelerator — may also "re-up" in this round.
 
 This is longer term capital designed to fuel company growth, rather than just keeping the company alive. 
 
