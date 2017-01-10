@@ -404,7 +404,7 @@ This is often short-term capital that lasts months, not years.
 
 #### Pre-Seed
 
-Pre-Seed is often the first "official" round of funding. In our lexicon, this is the round where Accelerator funding falls. It's the capital that provides the founders with runway to take a prototype and find product-market fit. Or to refine the prototype until that fit can be found. 
+Pre-Seed is often the first "official" round of funding. In our lexicon, this is the round where Accelerator funding — the equity purchase you are likely to be making, should you choose to do so — falls. It's the capital that provides the founders with runway to take a prototype and find product-market fit. Or to refine the prototype until that fit can be found. 
 
 Other investors who may participate in these rounds are individual Angels and very early stage Micro VCs.
 
