@@ -376,7 +376,9 @@ Micro Venture Capital tends to be funds of under $100 million that invest in ear
 
 #### Traditional/Institutional Venture Capital
 
-Most accelerators will only deal with traditional venture capital as mentors for their programs, given that large funds do not generally invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
+Most accelerators will only work with traditional venture capital in the role of mentors for their programs, given that large funds do not generally invest in early stage companies. That said, having later stage investors involved in the program can be extremely beneficial as a means of preventing problems before they start or helping guide startups on conversations that will occur in the future. 
+
+What's more, it's always best to start these conversations sooner rather than later. And it's always nice to have conversations about money and expectations when neither party is currently in a position to engage with one another — rather than at the awkward point where the startup is in dire need of capital.
 
 #### Corporate Venture
 
