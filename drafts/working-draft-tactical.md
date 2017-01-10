@@ -390,7 +390,9 @@ Most accelerators will only work with corporate venture folks in the role of  me
 
 Private Equity firms provide a means of creating a liquidity event without an initial public offering or acquisition by another company. 
 
-Most accelerators will only deal with private equity folks as mentors for their programs, given that private equity does not tend to invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
+Most accelerators will only work with private equity folks in the role of mentors for their programs, given that private equity does not tend to invest in early stage companies. Again, it's always best to start these conversations sooner rather than later. 
+
+# tl;dr Traditional VC, Corporate Venture, and Private Equity can be good sources of Mentors for Accelerators because there is likely no immediate transactional opportunity for the participating startups.
 
 ### Investment rounds
 
