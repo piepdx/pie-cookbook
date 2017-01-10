@@ -398,7 +398,7 @@ Most accelerators will only work with private equity folks in the role of mentor
 
 While it's a bit of a shifting target, it is important to distinguish each type of investment round and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions using the common lexicon of the stages of rounds of equity investment. 
 
-NOTE: We are providing the definitions PIE used. Your results may vary. 
+> NOTE: We are providing the definitions PIE used. Your results may vary. 
 
 #### Friends and Family aka FFF (Friends, Family, and Fools)
 
