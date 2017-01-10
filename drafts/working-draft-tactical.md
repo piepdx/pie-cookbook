@@ -1529,7 +1529,9 @@ Granted, learning to deal with these issues is part of the educational process o
 
 # Give the startups context
 
-It’s important to recognize that this is a large transition for your companies.  Some might have even relocated completely to participate in your program. And if they haven’t, well, going from planning your own schedule and working out of a coffee shop, to a structured accelerator program is still a big transition.  
+It’s important to recognize that joining an Accelerator program — despite the potential upside — is a huge disruption for your Founders. And the transition from day-to-day into the Accelerator environment is jarring, at best.
+
+Some individuals may have relocated to participate in your program. Entire companies may have pulled up and moved to your town. And if they haven’t, well, going from planning your own schedule and working out of a coffee shop, to a structured accelerator program is still a big transition.  
 
 Do what you can to help mitigate an issues your teams might have as they join you. Some welcome wagon items may include 
 - Housing suggestions or referrals
