@@ -333,7 +333,7 @@ Some Angels are described as "true Angels," where the investor bases the investm
 
 Angels often invest in industries where they made their money. So it is important to understand the Angel's pedigree before engaging him/her as a potential investor. 
 
-e.g., If an Angel made his/her money in food and beverage, it may be unlikely that they will feel comfortable investing in a technology startup.
+> e.g., If an Angel made his/her money in food and beverage, it may be unlikely that they will feel comfortable investing in a technology startup.
 
 #### Angel Groups
 
@@ -347,12 +347,14 @@ Another benefit is that it enables Angels to invest "outside of their comfort zo
 
 In addition, Angel Groups provide a means of educating first-time or inexperienced Angels on deal flow, due diligence, and investing.
 
-Long story short, because these organizations can be structured in a variety of ways, it is important to understand how the Angel Group is organized. Some important questions to ask:
+Long story short, because these organizations can be structured in a variety of ways, it is important to understand how the Angel Group is organized. 
 
-1. How are decisions made?
-2. Is there a pooled fund or do Angels invest individually?
-3. Is there shared due diligence or is each Angels doing his/her own?
-4. Can Angels choose to invest individually, independent of the decisions of the group?
+Some important questions to ask:
+
+- How are decisions made?
+- Is there a pooled fund or do Angels invest individually?
+- Is there shared due diligence or is each Angels doing his/her own?
+- Can Angels choose to invest individually, independent of the decisions of the group?
 
 #### Syndicates
 
@@ -388,21 +390,23 @@ Private Equity firms provide a means of creating a liquidity event without an in
 
 Most accelerators will only deal with private equity folks as mentors for their programs, given that private equity does not tend to invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
 
-### Rounds
+### Investment rounds
 
-While it's a bit of a shifting target, it's important to distinguish typical investment rounds and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions of the stages of rounds of equity investment.
+While it's a bit of a shifting target, it is important to distinguish each type of investment round and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions using the common lexicon of the stages of rounds of equity investment. 
 
-#### Friends and Family
+NOTE: We are providing the definitions PIE used. Your results may vary. 
 
-This is generally the first round of funding many startups pursue. Whether it be a nest egg that the founders have tucked away, small checks from family members, or capital from a friend who has a little cash to spare, this is the capital that allows founders and potentially team members to leave their day jobs and focus on their startup full time. With Friends and Family, the primary objective is getting to prototype.
+#### Friends and Family aka FFF (Friends, Family, and Fools)
+
+This is generally the first round of funding many startups pursue. Whether it be a nest egg that the founders have tucked away, small checks from family members, capital from a friend who has a little cash to spare, or someone simply intrigued with the idea who is willing to take a flyer, this is the capital that allows founders and potentially team members to leave their day jobs and focus on their startup full time. With Friends and Family, the primary objective is getting to prototype.
 
 This is often short-term capital that lasts months, not years.
 
 #### Pre-Seed
 
-Pre-Seed is often the first "official" round of funding. In our lexicon, this is the round where Accelerator funding falls. It's the capital that provides the founders with runway to take a prototype and find product-market fit. Or to refine the prototype until that fit can be found. 
+Pre-Seed is often the first "official" round of funding. In our lexicon, this is the round where Accelerator funding — the equity purchase you are likely to be making, should you choose to do so — falls. It's the capital that provides the founders with runway to take a prototype and find product-market fit. Or to refine the prototype until that fit can be found. 
 
-Other investors who may participate in these rounds are individual Angels and very early stage Micro VCs.
+Other investors who may participate in these rounds are individual Angels and very early stage Micro VCs. Friends and Family investors may continue to participate in this round, especially if they have received pro rata rights.
 
 Again, this is often short term capital that lasts months, not years. More "keep the company alive" capital than "grow the company" capital.
 
@@ -410,15 +414,17 @@ Again, this is often short term capital that lasts months, not years. More "keep
 
 Seed is the first significant infusion of capital into the company. Currently, this infusion comes when the founders can demonstrate that their concept or prototype has potential in a specific market. This capital provides the runway to take the product to that market and establish traction and, hopefully, revenue. 
 
-Seed funding often comes post-Accelerator. Investors in Seed rounds include Angels, Angel Groups, Syndicates, and Micro VCs. Traditional VCs may also choose to participate in these rounds.
+Seed funding often comes post-Accelerator. Investors in Seed rounds include Angels, Angel Groups, Syndicates, and Micro VCs. Traditional VCs may also choose to participate in these rounds. Again, previous investors with pro rata rights — like an Accelerator — may also "re-up" in this round.
 
 This is longer term capital designed to fuel company growth, rather than just keeping the company alive. 
 
 #### Lettered
 
-Lettered rounds (A, B, C, etc.) are what most folks think of when they talk about "venture capital." These rounds are the money that keeps the company growing or supports the company as they struggle to grow. As the rounds progress, there are more and more investors involved, either early stage investors providing "follow-on capital" to retain their positions or new investors seeking an equity stake in promising startups. 
+Lettered rounds (A, B, C, etc.) are what most folks think of when they talk about "venture capital." These rounds are the money that keeps the company growing, supports the company as they struggle to grow, helps them address new markets or market changes, allows them to acquire complimentary or competing companies, and address any number of other "costs of doing business" which may not be covered by the revenue the company generates. 
 
-As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant capital at your disposal for follow-on.
+As the rounds progress, there are more and more investors involved, either early stage investors providing "follow-on capital" to retain their positions or new investors seeking an equity stake in promising startups. 
+
+As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant follow-on capital at your disposal for defending your position in the company.
 
 ### Startup
 

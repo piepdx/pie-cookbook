@@ -12,6 +12,8 @@ Put stuff here that you know belongs somewhere but you’re not quite sure where
 		148. Segregated management and one team up in the fishbowl (pre-fishbowl buildout)
 146. Happy accidents
 	147. Mentors in residence
+	148. Family Dinner
+		149. Controlled Chaos [https://www.fastcompany.com/3066570/innovation-agents/the-management-secret-that-makes-snls-chaotic-writers-room-succeed](https://www.fastcompany.com/3066570/innovation-agents/the-management-secret-that-makes-snls-chaotic-writers-room-succeed)
 147. Unresolvable friction
 	148. Some things simply cannot be resolved. Nor do they necessarily need to be. But it's important that we highlight these areas of a friction, so that they don't surprise folks.
 147. Blogs
