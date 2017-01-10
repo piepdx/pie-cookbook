@@ -390,7 +390,7 @@ Private Equity firms provide a means of creating a liquidity event without an in
 
 Most accelerators will only deal with private equity folks as mentors for their programs, given that private equity does not tend to invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
 
-### Rounds
+### Investment rounds
 
 While it's a bit of a shifting target, it's important to distinguish typical investment rounds and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions of the stages of rounds of equity investment.
 
