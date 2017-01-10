@@ -1529,7 +1529,7 @@ Granted, learning to deal with these issues is part of the educational process o
 
 # Give the startups context
 
-It’s important to recognize that joining an Accelerator program — despite the potential upside — is a huge disruption for your Founders. And the transition from day-to-day into the Accelerator environment is jarring, at best.
+It’s important to recognize that joining an Accelerator program — despite the potential upside for the company in the long run — is a huge, immediate disruption for the Founders. And the transition from a typical startup day-to-day of "building a company at your own pace" and "being in charge of your own schedule" into the Accelerator environment can be jarring, at best.
 
 Some individuals may have relocated to participate in your program. Entire companies may have pulled up and moved to your town. And if they haven’t, well, going from planning your own schedule and working out of a coffee shop, to a structured accelerator program is still a big transition.  
 
