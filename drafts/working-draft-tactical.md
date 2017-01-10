@@ -396,7 +396,7 @@ While it's a bit of a shifting target, it is important to distinguish each type 
 
 NOTE: We are providing the definitions PIE used. Your results may vary. 
 
-#### Friends and Family
+#### Friends and Family aka FFF (Friends, Family, and Fools)
 
 This is generally the first round of funding many startups pursue. Whether it be a nest egg that the founders have tucked away, small checks from family members, or capital from a friend who has a little cash to spare, this is the capital that allows founders and potentially team members to leave their day jobs and focus on their startup full time. With Friends and Family, the primary objective is getting to prototype.
 
