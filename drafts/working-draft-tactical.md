@@ -366,7 +366,7 @@ Why is this even a thing? Well, it has two benefits. One, like Angel Groups, it 
 
 #### Accelerator Investment
 
-While it is not a requirement, many accelerators chose to invest capital in the startups participating in their programs. Some of these investments are structured as traditional equity purchases while, these days, more accelerators seem to offer convertible notes as the structure for investment. Y Combinator uses a vehicle called SAFE (Standard Agreement for Future Equity). 
+- While it is not a requirement, many accelerators chose to invest capital in the startups participating in their programs. Some of these investments are structured as traditional equity purchases while, these days, more accelerators seem to offer convertible notes as the structure for investment. Y Combinator uses a vehicle called [SAFE (Standard Agreement for Future Equity)](https://www.ycombinator.com/documents/). 
 
 Some programs choose to provide all of the capital at once. Some programs provide a small amount of capital at the outset of the program, followed by a more significant investment once the company completes the program.
 
