@@ -424,7 +424,7 @@ Lettered rounds (A, B, C, etc.) are what most folks think of when they talk abou
 
 As the rounds progress, there are more and more investors involved, either early stage investors providing "follow-on capital" to retain their positions or new investors seeking an equity stake in promising startups. 
 
-As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant capital at your disposal for follow-on.
+As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant follow-on capital at your disposal for defending your position in the company.
 
 ### Startup
 
