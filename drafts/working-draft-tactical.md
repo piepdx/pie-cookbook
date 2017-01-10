@@ -347,12 +347,14 @@ Another benefit is that it enables Angels to invest "outside of their comfort zo
 
 In addition, Angel Groups provide a means of educating first-time or inexperienced Angels on deal flow, due diligence, and investing.
 
-Long story short, because these organizations can be structured in a variety of ways, it is important to understand how the Angel Group is organized. Some important questions to ask:
+Long story short, because these organizations can be structured in a variety of ways, it is important to understand how the Angel Group is organized. 
 
-1. How are decisions made?
-2. Is there a pooled fund or do Angels invest individually?
-3. Is there shared due diligence or is each Angels doing his/her own?
-4. Can Angels choose to invest individually, independent of the decisions of the group?
+Some important questions to ask:
+
+- How are decisions made?
+- Is there a pooled fund or do Angels invest individually?
+- Is there shared due diligence or is each Angels doing his/her own?
+- Can Angels choose to invest individually, independent of the decisions of the group?
 
 #### Syndicates
 
