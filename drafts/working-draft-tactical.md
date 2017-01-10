@@ -366,7 +366,7 @@ Why is this even a thing? Well, it has two benefits. One, like Angel Groups, it 
 
 #### Accelerator Investment
 
-While it is not a requirement, many accelerators chose to invest capital in the startups participating in their programs. Some of these investments are structured as traditional equity purchases while, these days, more accelerators seem to offer convertible notes as the structure for investment. Y Combinator uses a vehicle called SAFE (Standard Agreement for Future Equity). 
+- While it is not a requirement, many accelerators chose to invest capital in the startups participating in their programs. Some of these investments are structured as traditional equity purchases while, these days, more accelerators seem to offer convertible notes as the structure for investment. Y Combinator uses a vehicle called [SAFE (Standard Agreement for Future Equity)](https://www.ycombinator.com/documents/). 
 
 Some programs choose to provide all of the capital at once. Some programs provide a small amount of capital at the outset of the program, followed by a more significant investment once the company completes the program.
 
@@ -376,29 +376,33 @@ Micro Venture Capital tends to be funds of under $100 million that invest in ear
 
 #### Traditional/Institutional Venture Capital
 
-Most accelerators will only deal with traditional venture capital as mentors for their programs, given that large funds do not generally invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
+Most accelerators will only work with traditional venture capital in the role of mentors for their programs, given that large funds do not generally invest in early stage companies. That said, having later stage investors involved in the program can be extremely beneficial as a means of preventing problems before they start or helping guide startups on conversations that will occur in the future. 
 
-#### Corporate Venture
+What's more, it's always best to start these conversations sooner rather than later. And it's always nice to have conversations about money and expectations when neither party is currently in a position to engage with one another — rather than at the awkward point where the startup is in dire need of capital.
 
-Corporations with venture arms most often choose to make strategic investments in companies at later rounds as a means of strengthening partnerships or market position. 
+#### Corporate Venture aka Strategics
 
-Most accelerators will only deal with corporate venture as mentors for their programs, given that corporate funds do not generally invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
+Corporations with venture arms most often choose to make strategic investments in companies at later rounds as a means of strengthening partnerships or market position. You often hear these investments referred to as "strategic investments." As such, Corporate Venture groups are sometimes referred to as "strategics."
+
+Most accelerators will only work with corporate venture folks in the role of  mentors for Accelerator programs, given that corporate funds do not generally invest in early stage companies. Like traditional VC, it's better to establish these relationships before a capital need arises for the startup. 
 
 #### Private Equity
 
 Private Equity firms provide a means of creating a liquidity event without an initial public offering or acquisition by another company. 
 
-Most accelerators will only deal with private equity folks as mentors for their programs, given that private equity does not tend to invest in early stage companies. That said, it's always best to start these conversations sooner rather than later. 
+Most accelerators will only work with private equity folks in the role of mentors for their programs, given that private equity does not tend to invest in early stage companies. Again, it's always best to start these conversations sooner rather than later. 
+
+# tl;dr Traditional VC, Corporate Venture, and Private Equity can be good sources of Mentors for Accelerators because there is likely no immediate transactional opportunity for the participating startups.
 
 ### Investment rounds
 
 While it's a bit of a shifting target, it is important to distinguish each type of investment round and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions using the common lexicon of the stages of rounds of equity investment. 
 
-NOTE: We are providing the definitions PIE used. Your results may vary. 
+> NOTE: We are providing the definitions PIE used. Your results may vary. 
 
 #### Friends and Family aka FFF (Friends, Family, and Fools)
 
-This is generally the first round of funding many startups pursue. Whether it be a nest egg that the founders have tucked away, small checks from family members, capital from a friend who has a little cash to spare, or someone simply intrigued with the idea who is willing to take a flyer, this is the capital that allows founders and potentially team members to leave their day jobs and focus on their startup full time. With Friends and Family, the primary objective is getting to prototype.
+The "Friends and Family" round is generally the first round of funding many startups pursue. Whether it be a nest egg that the founders have tucked away, small checks from family members, capital from a friend who has a little cash to spare, or someone simply intrigued with the idea who is willing to take a flyer, this is the capital that allows founders and potentially team members to leave their day jobs and focus on their startup full time. With Friends and Family, the primary objective is providing working capital that facilitates the effort of developing a prototype.
 
 This is often short-term capital that lasts months, not years.
 
@@ -412,7 +416,7 @@ Again, this is often short term capital that lasts months, not years. More "keep
 
 #### Seed
 
-Seed is the first significant infusion of capital into the company. Currently, this infusion comes when the founders can demonstrate that their concept or prototype has potential in a specific market. This capital provides the runway to take the product to that market and establish traction and, hopefully, revenue. 
+Seed is often the first significant infusion of capital into the company. Currently, this infusion comes when the founders can demonstrate that their concept or prototype has potential in a specific market. This capital provides the runway to take the product to that market and establish traction and, hopefully, revenue. 
 
 Seed funding often comes post-Accelerator. Investors in Seed rounds include Angels, Angel Groups, Syndicates, and Micro VCs. Traditional VCs may also choose to participate in these rounds. Again, previous investors with pro rata rights — like an Accelerator — may also "re-up" in this round.
 
@@ -446,7 +450,7 @@ Founders — often referred to a Cofounders when part of a founding team — cre
 
 Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
 
-NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they create an environment of trust for Founders in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
+> NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they create an environment of trust for Founders in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
  
 ### Resident
 
