@@ -392,7 +392,9 @@ Most accelerators will only deal with private equity folks as mentors for their 
 
 ### Investment rounds
 
-While it's a bit of a shifting target, it's important to distinguish typical investment rounds and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions of the stages of rounds of equity investment.
+While it's a bit of a shifting target, it is important to distinguish each type of investment round and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions using the common lexicon of the stages of rounds of equity investment. 
+
+NOTE: We are providing the definitions PIE used. Your results may vary. 
 
 #### Friends and Family
 
