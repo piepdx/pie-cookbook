@@ -1039,7 +1039,7 @@ Bullshit.
 
 PIE's mentors had, arguably, one of the most thankless presentation platforms ever. A cavernous concrete room. With huge columns. And a scattered litany of desks. 
 
-We made due. 
+Tough room, as the comedians say. We made due. 
 
 And I would argue that the very nature of the raw space lent itself to more candid discussions. That forcing founders to pull back from their desks and wheel their chairs away from obstructions caused them to be more engaged. That even those founders who remained intently typing away throughout the presentation gained something. Because they were immersed in the moment.
 
