@@ -681,10 +681,13 @@ The most critical of these "additional ingredients" will be your mentors.
 
 While we've provided a generic definition of a mentor above, it is important to understand that there are different types of mentors, different ways to apply those mentors, and different motivations for the mentors to participate in the program. 
  
-			21. Types
-				22. Non-resident
-					22. Typical
-						23. Define role and expectations
+#### Non-resident Mentors
+
+Non-resident mentors are those mentors that typically assist an Accelerator. They are not present in the space on a regular basis. Rather, they are invited by staff to speak or meet with Founders. 
+
+Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, let's emphasize that it's **experience**, not **expertise**. Anyone has the potential to be a Mentor if applied properly.
+
+Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
 						29. Value to the startups
@@ -936,17 +939,35 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 ### Learn Openly (via @eighteyes)
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
+# Applying Mentors
+
+In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
+
+For example, if you want a mentor to assist as a subject matter expert, make sure they are given the appropriate platform for conveying that knowledge. Don't make them present if a workshop is a more appropriate format. Don't make them take 1:1 meetings if their knowledge is relevant to every company — and will result in them repeating the same advice to 10 different companies. 
+
+# tl;dr Be thoughtful and respectful of how you use Mentor's time. 
+
 # Time commitment
 
 Once you’ve chosen to work with a mentor, your most important job is to understand that mentor’s level of time commitment. Some mentors will want to help but have absolutely no time. Other mentors will be willing to show up for office hours several times a week. It runs the gamut. Your challenge is making the best use of the time they are willing to commit so that they are deriving value from their participation.
 
 ## Sliding scale
 
-At PIE, we found the best way to help assess a mentor's availability was to present a sliding scale. Where the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. Just as importantly, we used other mentors as examples — which provided even more context for their potential engagement. 
+At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowbar. 
 
-Our lowest time commitment was "Be willing to grab coffee with one of our startups. Roughly 30 minutes. One time." That was it. 
+Just as importantly, we used other well know Mentors as examples of time commitment bands — "Mentor X generally presents onetime per class; Mentor Y holds regular office hours at PIE every week" — which provided even more context for their potential engagement. Plus, when a Mentor hears that one of their peers or someone they recognize — "[Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors" — they are given more context for how others are volunteering to do.
 
-At the upper end of the scale was "Hold office hours at PIE on a regular basis. Or just work out of the space regularly and be open to interruption. [Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors."
+# tl;dr You must be this tall to ride. Set your mentor time commitment as a low bar, not a high bar.  
+
+At PIE, our lowest time commitment — our low bar — was "Be willing to grab coffee with one of our startups. Roughly 20-30 minutes. One time." That was it. Thirty minutes of commitment per year. And you're a PIE mentor.
+
+At the upper end of the scale were things like "Work out of the space on a regular basis and be open to interruption, as if you were one of the startups." or "Be willing to take one of the companies under your wing and meet with the Founders consistently over the course of the class."
+
+In every case, we began the conversation with "What are you hoping to get out of mentoring?" And "How much time do you feel you have to volunteer?"
+
+In many cases, we were lucky and humbled to have Mentors consistently increase the amount of time they spent with our Founders — even if they originally thought they could only spare 30 minutes a year. 
+
+# tl;dr Mentoring is addictive. Mentors will often find they enjoy it more than they thought.  
 
 ## Mutual respect
 
@@ -1039,7 +1060,7 @@ Bullshit.
 
 PIE's mentors had, arguably, one of the most thankless presentation platforms ever. A cavernous concrete room. With huge columns. And a scattered litany of desks. 
 
-We made due. 
+Tough room, as the comedians say. We made due. 
 
 And I would argue that the very nature of the raw space lent itself to more candid discussions. That forcing founders to pull back from their desks and wheel their chairs away from obstructions caused them to be more engaged. That even those founders who remained intently typing away throughout the presentation gained something. Because they were immersed in the moment.
 
@@ -1550,7 +1571,8 @@ Again, those are just a few examples. We just encourage Accelerator staff to put
 
 We recommend providing documentation and creating some sort of reference for startups so they know what to expect as the program becomes more structured. It’ll also help them be clear on deadlines for deliverables and the expectations for them.
 
-Here’s how we’ve used:
+Here are some examples of letters we’ve used:
+
 - [What you’re getting yourself in to](/notes/logistics/onboarding-what-youre-getting-in-to.md) 
 - [Woohoo! Here’s what to expect on your first day](/notes/logistics/onboarding-what-to-expect.md). (Along with acceptance letter)
 
