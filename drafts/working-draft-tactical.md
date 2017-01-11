@@ -681,8 +681,12 @@ The most critical of these "additional ingredients" will be your mentors.
 
 While we've provided a generic definition of a mentor above, it is important to understand that there are different types of mentors, different ways to apply those mentors, and different motivations for the mentors to participate in the program. 
  
-			21. Types
-				22. Non-resident
+#### Non-resident Mentors
+
+Non-resident mentors are those mentors that typically assist an Accelerator. They are not present in the space on a regular basis. Rather, they are invited by staff to speak or meet with Founders. 
+
+Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, let's emphasize that it's **experience**, not **expertise**. Anyone has the potential to be a Mentor if applied properly.
+
 					22. Typical
 						23. Define role and expectations
 						27. Value to the organization
