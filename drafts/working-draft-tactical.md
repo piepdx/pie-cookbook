@@ -687,8 +687,7 @@ Non-resident mentors are those mentors that typically assist an Accelerator. The
 
 Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, let's emphasize that it's **experience**, not **expertise**. Anyone has the potential to be a Mentor if applied properly.
 
-					22. Typical
-						23. Define role and expectations
+Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
 						29. Value to the startups
@@ -939,6 +938,14 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 
 ### Learn Openly (via @eighteyes)
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
+
+# Applying Mentors
+
+In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
+
+For example, if you want a mentor to assist as a subject matter expert, make sure they are given the appropriate platform for conveying that knowledge. Don't make them present if a workshop is a more appropriate format. Don't make them take 1:1 meetings if their knowledge is relevant to every company — and will result in them repeating the same advice to 10 different companies. 
+
+# tl;dr Be thoughtful and respectful of how you use Mentor's time. 
 
 # Time commitment
 
