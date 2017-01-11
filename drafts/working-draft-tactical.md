@@ -1548,17 +1548,23 @@ Some suggested welcome wagon items that you can provide ahead of time may includ
 
 Again, those are just a few examples. We just encourage Accelerator staff to put themselves in the Founders' shoes. What would you want to know if you were moving to a new city or a new office? What kind of information would you find valuable about your town or the Accelerator's neighborhood. Start there. Because your startups will want to know that too.
 
-## Take it slow
-
-We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
-
 We recommend providing documentation and creating some sort of reference for startups so they know what to expect as the program becomes more structured. It’ll also help them be clear on deadlines for deliverables and the expectations for them.
 
 Here’s how we’ve used:
 - [What you’re getting yourself in to](/notes/logistics/onboarding-what-youre-getting-in-to.md) 
 - [Woohoo! Here’s what to expect on your first day](/notes/logistics/onboarding-what-to-expect.md). (Along with acceptance letter)
 
-Consider providing these docs along with a welcome basket of swag.  Again, it’s about making folks feel welcome. The more comfortable your teams feel in the space the sooner they’ll be able to hit the ground running and work — and begin building up the trust that will enable them to succeed in this environment.
+Consider providing these docs along with a welcome basket of swag.  Again, it’s about making folks feel welcome. The more comfortable your startups feel in the space, the sooner they’ll be feel the motivation to work — and begin building up the trust that will enable them to succeed in this environment.
+
+## Day 0
+
+## Day 1
+
+## Take it slow
+
+We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
+
+
 
 				92. Setting expectations
 					93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
