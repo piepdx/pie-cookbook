@@ -953,9 +953,11 @@ Once you’ve chosen to work with a mentor, your most important job is to unders
 
 ## Sliding scale
 
-At PIE, we found the best way to help assess a mentor's availability was to present a sliding scale. Where the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. Just as importantly, we used other mentors as examples — which provided even more context for their potential engagement. 
+At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowball. You must be this tall to ride. 
 
-Our lowest time commitment was "Be willing to grab coffee with one of our startups. Roughly 30 minutes. One time." That was it. 
+Just as importantly, we used other mentors as examples — which provided even more context for their potential engagement. 
+
+Our lowest time commitment was "Be willing to grab coffee with one of our startups. Roughly 30 minutes. One time." That was it. Thirty minutes of commitment per year. And you're a PIE mentor.
 
 At the upper end of the scale was "Hold office hours at PIE on a regular basis. Or just work out of the space regularly and be open to interruption. [Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors."
 
