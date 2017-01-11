@@ -953,13 +953,15 @@ Once you’ve chosen to work with a mentor, your most important job is to unders
 
 ## Sliding scale
 
-At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowbar. You must be this tall to ride. 
+At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowbar. 
 
-Just as importantly, we used other mentors as examples — which provided even more context for their potential engagement. 
+Just as importantly, we used other well know Mentors as examples of time commitment bands — "Mentor X generally presents onetime per class; Mentor Y holds regular office hours at PIE every week" — which provided even more context for their potential engagement. Plus, when a Mentor hears that one of their peers or someone they recognize — "[Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors" — they are given more context for how others are volunteering to do.
 
-Our lowest time commitment was "Be willing to grab coffee with one of our startups. Roughly 30 minutes. One time." That was it. Thirty minutes of commitment per year. And you're a PIE mentor.
+# tl;dr You must be this tall to ride. Set your mentor time commitment as a low bar, not a high bar.  
 
-At the upper end of the scale was "Hold office hours at PIE on a regular basis. Or just work out of the space regularly and be open to interruption. [Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors."
+At PIE, our lowest time commitment — our low bar — was "Be willing to grab coffee with one of our startups. Roughly 20-30 minutes. One time." That was it. Thirty minutes of commitment per year. And you're a PIE mentor.
+
+At the upper end of the scale was "Work out of the space on a regular basis and be open to interruption, as if you were one of the startups."
 
 ## Mutual respect
 
