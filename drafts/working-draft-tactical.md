@@ -1529,21 +1529,24 @@ Granted, learning to deal with these issues is part of the educational process o
 
 # Give the startups context
 
-It’s important to recognize that joining an Accelerator program — despite the potential upside for the company in the long run — is a huge, immediate disruption for the Founders. And the transition from a typical startup day-to-day of "building a company at your own pace" and "being in charge of your own schedule" into the Accelerator environment can be jarring, at best.
+It’s important to recognize that joining an Accelerator program — despite the potential upside for the company in the long run — is a huge, immediate disruption for the Founders. And the transition from a typical startup day-to-day of "building a company at your own pace" and "being in charge of your own schedule" into the Accelerator environment can be jarring, at best. And going from working out of a coffee shop or a kitchen to a structured accelerator program is a big transition.
 
-Some individuals may have relocated to participate in your program. Entire companies may have pulled up and moved to your town. And if they haven’t, well, going from planning your own schedule and working out of a coffee shop, to a structured accelerator program is still a big transition.  
+Some individuals may have relocated to participate in your program. Entire companies may have pulled up and moved to your town. Even people who call your town home may soon be spending time in a part of town that's unfamiliar. Or that they're not used to visiting, day in and day out.   
 
-Do what you can to help mitigate an issues your teams might have as they join you. Some welcome wagon items may include 
-- Housing suggestions or referrals
+So we recommend that you do what you can to help mitigate this feeling of displacement by making them feel at home. 
+
+Some suggested welcome wagon items that you can provide ahead of time may include:
+ 
+- Housing suggestions, referrals, or Airbnb listings
 - Maps of the city
 - Information on public transportation
-- Places to eat or grocery shop
+- Places to buy groceries and shop
+- Available on-demand services like Instacart, Postmates, and Lyft
+- Restaurants
+- Coffeeshops
+- Bars
 
-What would you want to know if you were moving to a new city or even a new office? Your teams will want to know that too.
-
-## Take it slow
-
-We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
+Again, those are just a few examples. We just encourage Accelerator staff to put themselves in the Founders' shoes. What would you want to know if you were moving to a new city or a new office? What kind of information would you find valuable about your town or the Accelerator's neighborhood. Start there. Because your startups will want to know that too.
 
 We recommend providing documentation and creating some sort of reference for startups so they know what to expect as the program becomes more structured. It’ll also help them be clear on deadlines for deliverables and the expectations for them.
 
@@ -1551,7 +1554,17 @@ Here’s how we’ve used:
 - [What you’re getting yourself in to](/notes/logistics/onboarding-what-youre-getting-in-to.md) 
 - [Woohoo! Here’s what to expect on your first day](/notes/logistics/onboarding-what-to-expect.md). (Along with acceptance letter)
 
-Consider providing these docs along with a welcome basket of swag.  Again, it’s about making folks feel welcome. The more comfortable your teams feel in the space the sooner they’ll be able to hit the ground running and work — and begin building up the trust that will enable them to succeed in this environment.
+Consider providing these docs along with a welcome basket of swag.  Again, it’s about making folks feel welcome. The more comfortable your startups feel in the space, the sooner they’ll be feel the motivation to work — and begin building up the trust that will enable them to succeed in this environment.
+
+## Day 0
+
+## Day 1
+
+## Take it slow
+
+We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
+
+
 
 				92. Setting expectations
 					93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
