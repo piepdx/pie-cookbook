@@ -1542,13 +1542,11 @@ Some suggested welcome wagon items that you can provide ahead of time may includ
 - Information on public transportation
 - Places to buy groceries and shop
 - Available on-demand services like Instacart, Postmates, and Lyft
-- Coffeeshops 
 - Restaurants
+- Coffeeshops
 - Bars
 
-
-
-What would you want to know if you were moving to a new city or even a new office? Your teams will want to know that too.
+Again, those are just a few examples. We just encourage Accelerator staff to put themselves in the Founders' shoes. What would you want to know if you were moving to a new city or a new office? What kind of information would you find valuable about your town or the Accelerator's neighborhood. Start there. Because your startups will want to know that too.
 
 ## Take it slow
 
