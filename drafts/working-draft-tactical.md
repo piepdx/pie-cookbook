@@ -1550,7 +1550,8 @@ Again, those are just a few examples. We just encourage Accelerator staff to put
 
 We recommend providing documentation and creating some sort of reference for startups so they know what to expect as the program becomes more structured. It’ll also help them be clear on deadlines for deliverables and the expectations for them.
 
-Here’s how we’ve used:
+Here are some examples of letters we’ve used:
+
 - [What you’re getting yourself in to](/notes/logistics/onboarding-what-youre-getting-in-to.md) 
 - [Woohoo! Here’s what to expect on your first day](/notes/logistics/onboarding-what-to-expect.md). (Along with acceptance letter)
 
