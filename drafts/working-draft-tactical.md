@@ -953,7 +953,7 @@ Once you’ve chosen to work with a mentor, your most important job is to unders
 
 ## Sliding scale
 
-At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowball. You must be this tall to ride. 
+At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowbar. You must be this tall to ride. 
 
 Just as importantly, we used other mentors as examples — which provided even more context for their potential engagement. 
 
