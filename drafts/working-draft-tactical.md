@@ -642,6 +642,19 @@ This sort of focus can hamstring accelerators and incubators who may see promise
 
 Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
 
+- - -
+
+**500 Startups hybrid model**
+
+While we don't advocate for making Founders pay to participate in an Accelerator program, we are fans of the creative collaboration between Investors and Program that the [500](http://500.co) Program ([Don't call 500 an Accelerator](http://500.co/the-artist-formerly-known-as-accelerator/)!) has put together. 
+
+In the 500 model, the fund invests in the company. Then the Seed Program charges for participation in their Program. This ensures that the Startup has working capital and a cleaner cap table, the fund has an equity investment, and the program has operating capital. 
+
+> We invest $150k in exchange for 6%. We charge a $37.5k fee for participation in the 500 Seed Program.
+
+- - -
+
+
 ## Promotion 
 
 aka Soapbox(es) or bullhorn(s) or campfire(s) or promotional platforms or whatever you want to call them
