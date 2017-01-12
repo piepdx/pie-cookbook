@@ -982,7 +982,23 @@ When it comes to mentor engagement, no topic is more ripe for discussion — and
 
 ## Speed dating
 
-With this format, either startup or mentor is assigned a location, usually a conference room or section of a larger worker area. The other party is then assigned the task of moving from station to station to meet with one another. This usually occurs on a very short timeframe, most commonly between 15 and 30 minutes. 
+With this format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
+
+From the Mentor's perspective, progress goes something like this:
+
+- Mentor 1 meets with Startup 1
+- Mentor 1 meets with Startup 2
+- Mentor 1 meets with Startup 3…
+
+From the Startup's perspective, progress looks more like this:
+
+- Startup 1 meets with Mentor 1
+- Startup 1 meets with Mentor 2
+- Startup 1 meets with Mentor 3
+
+So as you can ascertain the best number of mentors to arrange for a speed dating session is less than or, ideally, equal to the number of Startups in your Accelerator. Too many, one way or the other, and someone's time is being wasted. Too few, and its value is questioned.
+
+But what if you have three times as many mentors wanting to participate as you have startups? That's right. Separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best.
 
 There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
 
