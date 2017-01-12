@@ -982,11 +982,37 @@ When it comes to mentor engagement, no topic is more ripe for discussion — and
 
 ## Speed dating
 
-With this format, either startup or mentor is assigned a location, usually a conference room or section of a larger worker area. The other party is then assigned the task of moving from station to station to meet with one another. This usually occurs on a very short timeframe, most commonly between 15 and 30 minutes. 
+With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
 
 There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
 
 The process is designed to make efficient use of time for both mentors and startups, giving each party the chance to briefly meet the other. And to give mentors a general lay of the land for the cohort as a whole. It also avails the opportunity for each party to identify folks with whom they would like to be working.
+
+From the Mentor's perspective, progress goes something like this:
+
+- Mentor 1 meets with Startup 1
+- Mentor 1 meets with Startup 2
+- Mentor 1 meets with Startup 3…
+
+From the Startup's perspective, progress looks more like this:
+
+- Startup 1 meets with Mentor 1
+- Startup 1 meets with Mentor 2
+- Startup 1 meets with Mentor 3
+
+So as you can see, the best number of mentors to schedule for a speed dating session is less than or, ideally, equal to the number of Startups in your Accelerator. Too many, one way or the other, and someone's time is being wasted. Too few, and its value is questioned.
+
+But what if you have three times as many mentors wanting to participate as you have startups? That's right. You schedule separate sessions. In this case, you schedule three separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best. 
+
+# tl;dr Speed dating works best when the Mentor to Startup ratio is 1:1
+
+Don't try to have multiple mentors sit down with each Startup. That can be awkward for both the Startups and the Mentors. Unless… they already know one another well.
+
+We've experimented with groups of mentors meeting with Startups in this round robin fashion. It's another way to handle a large number of mentors meeting with the Startups, in an efficient fashion. But we've found that these Mentors need to know one another on a collegial or friendly level before this works. Otherwise, comfort levels tend to compromise the value of this model. 
+
+Where we have found this permutation effective is with Angel groups and Venture Capital partners and/or associates. You can group three Investors from an Angel group or VC, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
+
+# tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.
 
 ## Matchmaking 
 
