@@ -982,7 +982,7 @@ When it comes to mentor engagement, no topic is more ripe for discussion — and
 
 ## Speed dating
 
-With this format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
+With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
 
 From the Mentor's perspective, progress goes something like this:
 
