@@ -1000,6 +1000,12 @@ So as you can ascertain the best number of mentors to arrange for a speed dating
 
 But what if you have three times as many mentors wanting to participate as you have startups? That's right. Separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best.
 
+We've experimented with groups of mentors meeting with Startups in this round robin fashion. It's another way to to handle a large number of mentors meeting with the Startups, in an efficient fashion. But we've found that these Mentors need to know one another on a collegial or friendly level before this works. Otherwise, comfort levels tend to compromise the value of this model. 
+
+Where we have found this permutation effective is with Angel groups. You can group three Angels from an Angel group, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
+
+# tl;dr Speed dating works best when the mentor to startup ratio is 1:1
+
 There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
 
 The process is designed to make efficient use of time for both mentors and startups, giving each party the chance to briefly meet the other. And to give mentors a general lay of the land for the cohort as a whole. It also avails the opportunity for each party to identify folks with whom they would like to be working.
