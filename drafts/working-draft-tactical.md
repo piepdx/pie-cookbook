@@ -982,7 +982,7 @@ When it comes to mentor engagement, no topic is more ripe for discussion — and
 
 ## Speed dating
 
-With this format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
+With this format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
 
 From the Mentor's perspective, progress goes something like this:
 
@@ -1005,10 +1005,6 @@ We've experimented with groups of mentors meeting with Startups in this round ro
 Where we have found this permutation effective is with Angel groups. You can group three Angels from an Angel group, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
 
 # tl;dr Speed dating works best when the mentor to startup ratio is 1:1
-
-There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
-
-The process is designed to make efficient use of time for both mentors and startups, giving each party the chance to briefly meet the other. And to give mentors a general lay of the land for the cohort as a whole. It also avails the opportunity for each party to identify folks with whom they would like to be working.
 
 ## Matchmaking 
 
