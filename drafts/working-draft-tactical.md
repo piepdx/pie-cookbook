@@ -1000,7 +1000,7 @@ From the Startup's perspective, progress looks more like this:
 - Startup 1 meets with Mentor 2
 - Startup 1 meets with Mentor 3
 
-So as you can see, the best number of mentors to arrange for a speed dating session is less than or, ideally, equal to the number of Startups in your Accelerator. Too many, one way or the other, and someone's time is being wasted. Too few, and its value is questioned.
+So as you can see, the best number of mentors to schedule for a speed dating session is less than or, ideally, equal to the number of Startups in your Accelerator. Too many, one way or the other, and someone's time is being wasted. Too few, and its value is questioned.
 
 But what if you have three times as many mentors wanting to participate as you have startups? That's right. Separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best.
 
