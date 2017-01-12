@@ -1008,7 +1008,7 @@ Don't try to have multiple mentors sit down with each Startup. That can be awkwa
 
 We've experimented with groups of mentors meeting with Startups in this round robin fashion. It's another way to handle a large number of mentors meeting with the Startups, in an efficient fashion. But we've found that these Mentors need to know one another on a collegial or friendly level before this works. Otherwise, comfort levels tend to compromise the value of this model. 
 
-Where we have found this permutation effective is with Angel groups. You can group three Angels from an Angel group, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
+Where we have found this permutation effective is with Angel groups and Venture Capital partners and/or associates. You can group three Investors from an Angel group or VC, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
 
 # tl;dr Speed dating works best when the mentor to startup ratio is 1:1
 
