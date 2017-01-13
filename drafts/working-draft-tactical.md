@@ -1027,6 +1027,8 @@ Where we have found this permutation effective is with Angel groups and Venture 
 
 # tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.
 
+In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
+
 ### The dark side of speed dating
 
 While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
