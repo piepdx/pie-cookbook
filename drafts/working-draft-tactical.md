@@ -1057,7 +1057,9 @@ There is no set day or timeframe. Staff introduces the startup and mentor and le
 
 ## So which is it? Both.
 
-At PIE, we believe that each model has its pros and cons, which is why we have always opted to run a hybrid model. Most accelerators try to do the same. In my mentoring experience, however, more programs seem to lean more heavily on speed dating than matchmaking. 
+Unfortunately, there is no easy answer. It's a balance of both types of engagement.
+
+Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
 
 # How to activate mentors
 
