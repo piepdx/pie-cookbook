@@ -1025,6 +1025,8 @@ We've experimented with groups of mentors meeting with Startups in this round ro
 
 Where we have found this permutation effective is with Angel groups and Venture Capital partners and/or associates. You can group three Investors from an Angel group or VC, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
 
+# tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.
+
 ### The dark side of speed dating
 
 While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
@@ -1036,8 +1038,6 @@ These drawbacks include but are not limited to:
 - Lack of meaningful connections
 - Lack of tangible results
 - A feeling of "missed opportunities" by both mentors and startups 
-
-# tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.
 
 ## Matchmaking 
 
