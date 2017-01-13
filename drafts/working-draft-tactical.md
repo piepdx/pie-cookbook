@@ -1027,23 +1027,27 @@ Where we have found this permutation effective is with Angel groups and Venture 
 
 # tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.
 
+In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
+
 ### The dark side of speed dating
 
 While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
 
-These drawbacks include but are not limited to:
+These drawbacks, which we'll cover in more detail, include but are not limited to:
 
-- Mentor fatigue
-- Startup fatigue
-- Lack of meaningful connections
-- Lack of tangible results
-- A feeling of "missed opportunities" by both mentors and startups 
+- Mentor and Startup fatigue
+- Perceived lack of meaningful connections
+- Perceived lack of tangible results
+- A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
 
 ## Matchmaking 
 
-While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
+While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
+
+In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
 
 With matchmaking, the connections between mentors and startups are less serendipitous and more intentional, based on a series of factors, such as:
+
 - Current problems plaguing the founders
 - Stage of the product or company
 - Skill set and expertise of the mentor
@@ -1055,7 +1059,9 @@ There is no set day or timeframe. Staff introduces the startup and mentor and le
 
 ## So which is it? Both.
 
-At PIE, we believe that each model has its pros and cons, which is why we have always opted to run a hybrid model. Most accelerators try to do the same. In my mentoring experience, however, more programs seem to lean more heavily on speed dating than matchmaking. 
+Unfortunately, there is no easy answer. It's a balance of both types of engagement.
+
+Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
 
 # How to activate mentors
 
