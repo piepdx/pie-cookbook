@@ -1029,7 +1029,9 @@ Where we have found this permutation effective is with Angel groups and Venture 
 
 ## Matchmaking 
 
-With matchmaking, introductions between startup and mentor are intentional, based on a series of factors, such as:
+While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
+
+With matchmaking, the connections between mentors and startups are less serendipitous and more intentional, based on a series of factors, such as:
 - Current problems plaguing the founders
 - Stage of the product or company
 - Skill set and expertise of the mentor
