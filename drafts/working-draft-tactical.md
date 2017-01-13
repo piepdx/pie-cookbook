@@ -1031,13 +1031,12 @@ Where we have found this permutation effective is with Angel groups and Venture 
 
 While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
 
-These drawbacks include but are not limited to:
+These drawbacks, which we'll cover in more detail, include but are not limited to:
 
-- Mentor fatigue
-- Startup fatigue
-- Lack of meaningful connections
-- Lack of tangible results
-- A feeling of "missed opportunities" by both mentors and startups 
+- Mentor and Startup fatigue
+- Perceived lack of meaningful connections
+- Perceived lack of tangible results
+- A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
 
 ## Matchmaking 
 
