@@ -710,7 +710,17 @@ That said, your Accelerator should have very low expectations for the amount of 
 
 You should expect that these mentors can answer questions off the cuff from the startups. They should not be engaged on issues which may take additional effort or meetings with this type of mentor. 
  
-Value to the organization
+**Value to the accelerator**
+
+These mentors provide any number of benefits to the Accelerator, but among the most prominent are:
+
+- Providing guidance and feedback to the Startups within the Accelerator
+- Helping to promote the Accelerator and its offerings
+- Helping to recruit Startups for each program
+- Helping to recruit additional Mentors for the Accelerator
+- Assisting in the selection process
+- Providing objective feedback to the Accelerator about both the startups and the accelerator, itself
+
 						28. Value to the mentor
 						29. Value to the startups
 						29. Typical percentage of the mentor pool
