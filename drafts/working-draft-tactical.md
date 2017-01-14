@@ -721,7 +721,17 @@ These mentors provide any number of benefits to the Accelerator, but among the m
 - Assisting in the selection process
 - Providing objective feedback to the Accelerator about both the startups and the accelerator, itself
 
-						28. Value to the mentor
+**Value to the mentor**
+
+While the accelerator and startups are gaining value from the mentor, it is equally important that you understand the value the mentor derives from participating. 
+
+- Strong connection to startup community
+- A feeling of giving back to the community
+- Recognition as an important asset to the community
+- Reaffirms experience and expertise
+- Connections with other mentors
+- Dealflow and due diligence for potential Angel investments
+
 						29. Value to the startups
 						29. Typical percentage of the mentor pool
 					23. Lead
