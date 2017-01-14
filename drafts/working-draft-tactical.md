@@ -1754,7 +1754,7 @@ But no matter how motivated the founder, no matter how real the opportunity, no 
 
 So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
 
-By class three (Coconut Creme) we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
+By class three (Coconut Creme), we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
 
 Throughout the course of these stages and gates, we tailor the mentor talks to match the topic — or to queue up the obvious need for the startups to focus on these particular topics.
 
