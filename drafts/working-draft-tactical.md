@@ -693,6 +693,8 @@ Like any recipe, there are main ingredients and the ingredients which add flavor
 The most critical of these "additional ingredients" will be your mentors. These are the assets that will actually make your Accelerator work — or fail. So we'll spend a great deal of time on this topic. 
 
 It is important to understand that there are different types of mentors, different ways to apply each mentor, and different motivations for the mentors to participate in the program. It's also important that you understand the best ways to recruit, manage, and reward your mentors for their participation in your program.
+
+Let's start by outlining the general categories of Mentors, bearing in mind that Mentors can often fall into multiple categories. 
  
 #### Non-resident Mentors
 
