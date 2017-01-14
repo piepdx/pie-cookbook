@@ -223,20 +223,8 @@ Community can refer to any group of individuals who hold common goals and are mo
 
 A community simply has to have a focus. It can revolve around concepts, ideals, goals, brands, or any combination thereof. We see community, at its essence, as a group of people with a shared, collaborative vision.
 
-### Incubator
-An incubator is a protected work environment designed to shelter founders and ideas as they work to realize concepts and prototypes in an effort to bring a functional product to market. 
-
-In our definition of an incubator, there is no "business" yet. There are simply ideas and potential. 
-
-Incubators are designed to help early stage ideas survive longer than they would in the wild, without the shelter, care, and feeding of an incubator. As such, an incubator does not strive to accurately reflect the stressors and turmoil of the real world. Instead, it seeks to shield founders from reality by providing resources that best ensure its likelihood of finding commercial applications of its concept(s). This is by design.
-
-> e.g., University tech transfer programs tend to be a good example of incubators
-
-Incubators are unsuccessful when they fail to provide adequate support for the founders engaged in their programs. Failing concepts are not a "failure" for the incubator. They are simply a recognition of the fallacy of the pursuit.
-
-NOTE: Although PIE has "incubator" in its name, that's a misnomer. We started as an incubator and transitioned into an accelerator. We chose not to rebrand the effort. Or maybe we simply couldn't come up with an acronym that worked. Except PAELLA.
-
 ### Accelerator
+
 An accelerator is a semi-protective environment that behaves as a microcosm of the real world, at a highly increased rate of speed. It is designed to help founders better understand how to deal with trends, personalities, and adversity in the real world. It is also designed to support founders in rapidly addressing issues impacting their businesses.  
 
 > Accelerators are not designed to protect founders from the elements of the startup world. They are designed to expose founders to those elements, time and time again in rapid succession. 
@@ -244,6 +232,46 @@ An accelerator is a semi-protective environment that behaves as a microcosm of t
 To quote Techstars, accelerators, by their very nature, are designed to help companies "do more, faster." They are designed to make founders uncomfortable. And to push founder to do and achieve more — or fail — more rapidly than they would be capable of on their own.
 
 Accelerators are unsuccessful when they allow unproven founders or products to survive longer than they reasonably should. Failed companies are not a "failure" of an accelerator. In fact, accelerating a company toward failure, sooner rather than later, is one of the most important functions of an accelerator. It saves founders time, money, and emotional stress by helping them recognize that the timing simply isn't right for their pursuit.
+
+### Incubator
+
+An incubator is a protected work environment designed to shelter founders and ideas as they work to realize concepts and prototypes in an effort to bring a functional product to market. 
+
+In our definition of an incubator, there is no "business" yet. There are simply ideas and potential.  
+
+Incubators are designed to help early stage ideas survive longer than they would in the wild, without the shelter, care, and feeding of an incubator. As such, an incubator does not strive to accurately reflect the stressors and turmoil of the real world. Instead, it seeks to shield founders from reality by providing resources that best ensure its likelihood of finding commercial applications of its concept(s). This is by design.
+
+> e.g., University tech transfer programs tend to be a good example of incubators
+
+Incubators are unsuccessful when they fail to provide adequate support for the founders engaged in their programs. Failing concepts are not a "failure" for the incubator. They are simply a recognition of the fallacy of the pursuit.
+
+While the terms "incubator" and "accelerator" are used interchangeably, we see them as very different and distinct pursuits. 
+
+Throughout this document, we will only be focusing on the Accelerator model but Incubators may find some of the content helpful for their day-to-day operations, as well.
+
+NOTE: Although PIE has "incubator" in its name, that's a misnomer. We started as an incubator and transitioned into an accelerator. We chose not to rebrand the effort. Or maybe we simply couldn't come up with an acronym that worked. Except PAELLA.
+
+### Startup
+
+How, exactly, does one define a startup? Well, honestly, we could write a-whole-nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
+
+At a macro level, we tend to define a "startup" as any company that: 
+
+1. Has the potential for exponential growth
+2. Lacks the resources — be it product, staff, capital, experience, market knowledge, business acumen, or otherwise — to fuel that exponential growth
+2. Has yet to experience a significant liquidity event
+
+For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
+
+# tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
+
+### Founder/Cofounder
+
+Founders — often referred to a Cofounders when part of a founding team — create Startups. So Founders are the folks with whom you will be working. They're the person or people who were motivated to solve a problem and start a company. Often, Founders come in teams, but there are solo Founders, as well.  
+
+Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
+
+> NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they create an environment of trust for Founders in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
 
 ### Mentor
 
