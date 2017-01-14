@@ -1496,7 +1496,7 @@ At PIE, we hit upon the fact that we were really good at accelerating technology
 - Our alums happened to be focused on platforms.
 - The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
 - As mentors and alums helped us recruit companies, they inevitably drew from a community of peers — many of whom were building platforms or enabling technology
-- Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — an company built on the premise of helping other companies.
+- Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — a company built on the premise of helping other companies.
 - We started PIE just as both the SaaS and mobile markets were exploding
 
 #### Know where you suck
