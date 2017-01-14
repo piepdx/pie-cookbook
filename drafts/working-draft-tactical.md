@@ -1477,7 +1477,17 @@ Partners
 
 # Recipe for an Accelerator
 
-You don't have to be married to it forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof.
+## Before you begin, establish a thesis
+
+Even if you're not planning to invest capital in your Startups, you should still do one thing like an investor: have a thesis. 
+
+What's a thesis? It's something that guides the types of companies with whom you want to work and often — more importantly — a guideline that prevents you from working with companies that aren't the right fit for your Accelerator.
+
+A thesis is especially important for a first-time program. Otherwise, you'll try to take all comers, which will set you up for failure on any number of fronts.
+
+# tl;dr A thesis will help guide all of your Accelerator activities
+
+You don't have to be married to your thesis forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof. It just needs to be defined. And you need to stick to it.
 
 At PIE, we hit upon the fact that we were really good at accelerating platforms and enabling technology. Why did we get good at this? There were any number of reasons.
 
