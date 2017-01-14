@@ -1667,7 +1667,7 @@ For a program of 6-8 companies, dinner usually run for an hour and a half.  Any 
  
 As a management team, it is your responsibility to know what buttons to push and what levers to pull, to get your founders to open up. Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing. Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
  
-These dinners are always open to past class, and if you’re running your dinners right, your alumni will be regulars.
+These dinners are always open to founders who are alums of the PIE program, and if you’re running your dinners right, your alumni will be regulars.
  
 We recommend hosting your dinners on-site rather than at a restaurant, unless you can get a private room. Having the meal catered means it’s easier for folks to get up from their desk and join, rather than being tempted to go home and stay there before joining you at restaurant.
  
