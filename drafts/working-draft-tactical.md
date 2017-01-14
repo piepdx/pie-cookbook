@@ -1772,7 +1772,7 @@ But that led to some interesting things, as well.
 
 Those who were further ahead on product often discovered that they lacked the language to effectively convey what they were building. Worse yet, they sometimes that the current version of the product was difficult, if not impossible, to demo to a diverse audience. 
 
-We get to question assumptions, clarify utility, and make suggestions, as a class. In a group environment. Companies get to respond directly to queries, jot down feature ideas, and generally scratch their head a great deal and ask "Why **did** we do it that way?"
+We get to question assumptions, clarify utility, and make suggestions, as a class — in a group environment. Companies get to respond directly to queries, jot down feature ideas, and generally scratch their head a great deal and ask "Why **did** we do it that way?"
 
 So month one, get the product momentum going. And reward those who are making progress. Because that's going to be the crux of everything going forward. 
 
