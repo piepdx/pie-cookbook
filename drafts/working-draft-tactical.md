@@ -1489,19 +1489,15 @@ A thesis is especially important for a first-time program. Otherwise, you'll try
 
 You don't have to be married to your thesis forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof. It just needs to be defined. And you need to stick to it.
 
-At PIE, we hit upon the fact that we were really good at accelerating platforms and enabling technology. Why did we get good at this? There were any number of reasons.
+At PIE, we hit upon the fact that we were really good at accelerating technology platforms and enabling technology. Or to put it another way, we did really well with developers building tools for other developers. Why did we get good at this? There were any number of reasons but among the most important were:
 
-Portland has a culture of platforms and enabling technologies
-
-We inherited the culture of the agency itself moreso than the cultures of the agency's clients.
-
-Our mentors had expertise in building platforms.
-
-Our startups happened to be focused on platforms.
-
-The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
-
-We started PIE just as both the SaaS and mobile markets were exploding
+- Portland has a long history of building platforms and enabling technologies, so there were more folks who had "been there and done that" with these types of businesses.
+- Our mentors had expertise in building platforms.
+- Our alums happened to be focused on platforms.
+- The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
+- As mentors and alums helped us recruit companies, they inevitably drew from a community of peers — many of whom were building platforms or enabling technology
+- Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — an company built on the premise of helping other companies.
+- We started PIE just as both the SaaS and mobile markets were exploding
 
 #### Know where you suck
 
