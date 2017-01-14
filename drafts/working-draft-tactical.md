@@ -1249,7 +1249,7 @@ But you know what? It resulted in a lot of good conversations. A lot. Like an ir
 
 It went from a negative to a teaching moment.
 
-Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. Why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
+Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. And discuss why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
 
 And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild. And now they would be better equipped to handle them when they occurred. 
 
