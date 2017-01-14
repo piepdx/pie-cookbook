@@ -1241,7 +1241,7 @@ There was no derailing it.
 
 So when it was over, the staff scurried to tie it off and hustle the speaker out the door.
 
-The PIE founders were, understandably, miffed. And any number of conversations were sparked by that experience. Some critical of the program for allowing it to happen. Some critical of the company and the former founder for sending that presenter. Some for the presenter not cluing into the environment. 
+The PIE founders were, understandably, miffed. And any number of conversations were sparked by that experience. Some were critical of the program for allowing it to happen. Some were critical of the company and the former founder for sending that presenter. And some were upset that the presenter did not clue into the environment. 
 
 It became a running gag for the remainder of the class.
 
@@ -1249,9 +1249,9 @@ But you know what? It resulted in a lot of good conversations. A lot. Like an ir
 
 It went from a negative to a teaching moment.
 
-Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. Why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
+Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. And discuss why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
 
-And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild. And now they would be better equipped to handle them when they occurred. 
+And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
 
@@ -1507,7 +1507,7 @@ Online presence
 Social
 Blog
 
-## Hors d'oeuvre (Hackathons, events, coworking)
+## Hors d'oeuvres (Hackathons, events, coworking)
 
 
 ## Main course (Accelerator)
@@ -1544,7 +1544,7 @@ Second, the community that happened to exist did not possess a complementary ris
 
 Third, we had not established adequate ties with investors in other regions. We had friends here and there, but we didn’t have a strong rolodex of investors whose theses matched our startup profiles.
 
-But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provide us with yet another measure by which to select the companies we chose.
+But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provided us with yet another measure by which to select the companies we chose.
  
 				78. Setting expectations
 				79. Communicating expectations
@@ -1590,7 +1590,7 @@ But you know what? Admitting we sucked at that — and being open with our appli
 
 ## Onboarding 
 
-With the growing prevalence of Accelerators and the popularity of programs like Y Combinator, Techstars, and 500 startups, it has become incredibly safe to assume that people are cognizant, if not deeply knowledgeable, about what Accelerators are designed to do, how they operate, and how to make the most of being a participant in one.
+With the growing prevalence of Accelerators and the popularity of programs like Y Combinator, Techstars, and 500 startups, it has become common to assume that people are cognizant, if not deeply knowledgeable, about Accelerators, what they are designed to do, how they operate, and how to make the most of being a participant in one.
 
 Nothing could be further from the truth. 
 
@@ -1665,9 +1665,9 @@ Here are a few tips for how to effectively run a family dinner – because it’
  
 For a program of 6-8 companies, dinner usually run for an hour and a half.  Any longer than that and folks will start tuning out, and trust us, it will go longer than that if you’re not in control.  To avoid dinners that drag on, help your founders either cut to the chase, by calling out specific issues you know they’re having and could use help on or know when to politely cut folks off and move to the next company.  You don’t want to discourage any dialog that happens, but you do want to be mindful of everyone’s times.  Suggest they continue the conversation post dinner.
  
-As a management team, it is your responsibility to know what buttons to push and what levers to pull, to get your founders to open up.  Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing.  Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
+As a management team, it is your responsibility to know what buttons to push and what levers to pull, to get your founders to open up. Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing. Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
  
-These dinners are always open to past class, and if you’re running your dinners right, your alumni will be regulars.
+These dinners are always open to founders who are alums of the PIE program, and if you’re running your dinners right, your alumni will be regulars.
  
 We recommend hosting your dinners on-site rather than at a restaurant, unless you can get a private room. Having the meal catered means it’s easier for folks to get up from their desk and join, rather than being tempted to go home and stay there before joining you at restaurant.
  
