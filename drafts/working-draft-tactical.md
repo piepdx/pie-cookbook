@@ -700,7 +700,7 @@ Let's start by outlining the general categories of Mentors, bearing in mind that
 
 Non-resident mentors are the most common mentors for an Accelerator. They engage with the Accelerator on an as-needed basis. They do not reside in the Accelerator space. Rather, they are invited by staff to present or meet with Founders. 
 
-Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, let's emphasize that it's **experience**, not **expertise**. Anyone has the potential to be a Mentor if applied properly.
+Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, PIE holds the firm belief that anyone can be an effective mentor. So we will continue to emphasize that it is **experience**, not **expertise** that helps qualify a Mentor. Anyone has the potential to be a Mentor if applied properly.
 
 Define role and expectations
 						27. Value to the organization
