@@ -1830,7 +1830,7 @@ If you can, take the opportunity to have the presenters practice in the venue. W
 
 ## Typical week in PIE
 
-We often get asked, "What's a typical week like in an accelerator?" And while the term "typical week" is an oxymoron for PIE, there are some things that occur with enough regularity — and provide enough structure for participants — that we can describe them.
+We often get asked, "What's a typical week like in your accelerator?" And while the term "typical week" is an oxymoron for PIE, there are some things that occur with enough regularity — and provide enough structure for participants — that we can describe them.
 
 So here's an imperfect look at a typical week at PIE:
 
