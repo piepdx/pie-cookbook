@@ -1251,7 +1251,7 @@ It went from a negative to a teaching moment.
 
 Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. And discuss why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
 
-And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild. And now they would be better equipped to handle them when they occurred. 
+And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
 
