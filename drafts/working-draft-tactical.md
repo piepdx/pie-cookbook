@@ -728,7 +728,7 @@ While the accelerator and startups are gaining value from the mentor, it is equa
 
 **Value to the startups**
 
-These mentors, by and large, are the reason that the startups joined your accelerator, whether they know it or not. It is the advice, criticism, and connections that these individuals provide that will enable these companies to succeed or determine that there is no chance of succeeding.
+These mentors, by and large, are the reason that the startups joined your accelerator, whether they know it or not. It is the advice, criticism, and connections that these individuals provide which will enable these companies to succeed — or help the startups determine that there is no chance of succeeding.
 
 
 
