@@ -1475,44 +1475,7 @@ Partners
 		57. Pressure/heat (Startups + Staff + Patron)
 		58. Good cop/bad cop
 
-# Recipes
-
-## Beverages (community engagement)
-
-A lot of folks dive into this whole accelerator thing thinking they can just start with the accelerator.
-
-"Hey! Hey you! We’ve got an accelerator. Come get accelerated and stuff!"
-
-It doesn’t work that way. Any more than starting your fancy dinner party with a big ol’ main course gets the conversation going. 
-
-You need to do some work before hand. Not only in how you plan and invite participants, but in how you kick things off. You can't just dive right in.
-
-That’s why you need to do some work warming up the crowd. And getting people to know one another before you try to create a more intimate setting like an accelerator. Because that's what an accelerator is. It's a environment of trust where founders feel comfortable. Where they are comfortable opening up. And being honest. Where they can feel vulnerable. 
-
-That's actually what a good accelerator is. It's a support group. 
-
-Trying to create this environment of trust — or some other permutation of what you believe an accelerator to be — without doing the pre-work will likely just end up being a bunch of people sitting around quietly chewing their food. Uncomfortably. And you’ll feel like a complete failure. 
-
-Worst of all, so will the companies you're trying to help. 
-
-So how do you break the ice? The secret is community. Behind every good accelerator is a good community. Behind every failed accelerator is… well, no one. Because they didn't have any community. 
-
-So how do you work with the community to build the accelerator you want to build? Here are some recipes based on our experience at PIE that helped us get the conversation going before we dove into the accelerator.
-
-It's like the cocktail hour before the main course. 
-
-
-Attending events
-Online presence
-Social
-Blog
-
-## Hors d'oeuvres (Hackathons, events, coworking)
-
-
-## Main course (Accelerator)
-### Culture/brand of the accelerator
-#### Have a thesis
+# Recipe for an Accelerator
 
 You don't have to be married to it forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof.
 
