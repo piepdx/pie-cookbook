@@ -698,7 +698,7 @@ Let's start by outlining the general categories of Mentors, bearing in mind that
  
 #### Non-resident Mentors
 
-Non-resident mentors are those mentors that typically assist an Accelerator. They are not present in the space on a regular basis. Rather, they are invited by staff to speak or meet with Founders. 
+Non-resident mentors are the most common mentors for an Accelerator. They engage with the Accelerator on an as-needed basis. They do not reside in the Accelerator space. Rather, they are invited by staff to present or meet with Founders. 
 
 Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, let's emphasize that it's **experience**, not **expertise**. Anyone has the potential to be a Mentor if applied properly.
 
