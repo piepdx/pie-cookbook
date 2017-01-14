@@ -1722,11 +1722,11 @@ But it wasn't without its flaws. Some folks begin commanding more airtime than o
 
 # Creating a cadence
 
-One of the most critical roles for the accelerator staff is managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
+One of the most critical efforts for the accelerator staff is that of managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
 
-There is no prescribed timing here. You add more pressure when it's needed. And you try to break the tension when it's needed. You just have to play it by ear.
+There is no prescribed timing here. You add more pressure when it is needed. And you try to break the tension when needed. There is no schedule here. You just have to play it by ear. And act with your best instincts.
 
-That said, there are some clear guardrails to help guide this effort.
+That said, there are some clear guardrails to help guide your efforts.
 
 # Three months
 
