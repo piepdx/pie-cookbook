@@ -1590,7 +1590,7 @@ But you know what? Admitting we sucked at that — and being open with our appli
 
 ## Onboarding 
 
-With the growing prevalence of Accelerators and the popularity of programs like Y Combinator, Techstars, and 500 startups, it has become incredibly safe to assume that people are cognizant, if not deeply knowledgeable, about what Accelerators are designed to do, how they operate, and how to make the most of being a participant in one.
+With the growing prevalence of Accelerators and the popularity of programs like Y Combinator, Techstars, and 500 startups, it has become common to assume that people are cognizant, if not deeply knowledgeable, about Accelerators, what they are designed to do, how they operate, and how to make the most of being a participant in one.
 
 Nothing could be further from the truth. 
 
