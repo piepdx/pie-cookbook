@@ -1544,7 +1544,7 @@ Second, the community that happened to exist did not possess a complementary ris
 
 Third, we had not established adequate ties with investors in other regions. We had friends here and there, but we didn’t have a strong rolodex of investors whose theses matched our startup profiles.
 
-But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provide us with yet another measure by which to select the companies we chose.
+But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provided us with yet another measure by which to select the companies we chose.
  
 				78. Setting expectations
 				79. Communicating expectations
