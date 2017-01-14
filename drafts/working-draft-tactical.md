@@ -202,6 +202,8 @@ Where you start is where you start. It might not be where you want to end up. Bu
 
 # Before you begin
 
+It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say "We're an accelerator. That's not always positive. We have the potential to accelerate your success but we can just as easily accelerate your company into the ground."
+
 At PIE, we dove headlong into the effort with a bunch of assumptions. Among those assumptions was the ideas that when one of us used a particular word, we all had a similar concept for what that word meant. We were wrong. And it caused confusion and stress. 
 
 So we learned that it was important to diffuse those assumptions by taking some time to establish context and vocabulary for what you're trying to accomplish. Below, you'll find an example of the definitions we used to explain the different elements of the PIE community.
@@ -415,27 +417,6 @@ As the rounds progress, there are more and more investors involved, either early
 
 As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant follow-on capital at your disposal for defending your position in the company.
 
-### Startup
-
-How, exactly, does one define a startup? Well, honestly, we could write a-whole-nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
-
-At a macro level, we tend to define a "startup" as any company that: 
-
-1. Has the potential for exponential growth
-2. Lacks the resources — be it product, staff, capital, experience, market knowledge, business acumen, or otherwise — to fuel that exponential growth
-2. Has yet to experience a significant liquidity event
-
-For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
-
-# tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
-
-### Founder/Cofounder
-
-Founders — often referred to a Cofounders when part of a founding team — create Startups. So Founders are the folks with whom you will be working. They're the person or people who were motivated to solve a problem and start a company. Often, Founders come in teams, but there are solo Founders, as well.  
-
-Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
-
-> NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they create an environment of trust for Founders in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
  
 ### Resident
 
