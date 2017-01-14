@@ -1665,7 +1665,7 @@ Here are a few tips for how to effectively run a family dinner – because it’
  
 For a program of 6-8 companies, dinner usually run for an hour and a half.  Any longer than that and folks will start tuning out, and trust us, it will go longer than that if you’re not in control.  To avoid dinners that drag on, help your founders either cut to the chase, by calling out specific issues you know they’re having and could use help on or know when to politely cut folks off and move to the next company.  You don’t want to discourage any dialog that happens, but you do want to be mindful of everyone’s times.  Suggest they continue the conversation post dinner.
  
-As a management team, it is your responsibility to know what buttons to push and what levers to pull, to get your founders to open up.  Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing.  Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
+As a management team, it is your responsibility to know what buttons to push and what levers to pull, to get your founders to open up. Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing. Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
  
 These dinners are always open to past class, and if you’re running your dinners right, your alumni will be regulars.
  
