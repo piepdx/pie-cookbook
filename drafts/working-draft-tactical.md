@@ -732,7 +732,12 @@ While the accelerator and startups are gaining value from the mentor, it is equa
 - Connections with other mentors
 - Dealflow and due diligence for potential Angel investments
 
-						29. Value to the startups
+**Value to the startups**
+
+These mentors, by and large, are the reason that the startups joined your accelerator, whether they know it or not. It is the advice, criticism, and connections that these individuals provide that will enable these companies to succeed or determine that there is no chance of succeeding.
+
+
+
 						29. Typical percentage of the mentor pool
 					23. Lead
 						24. Define role and expectations
