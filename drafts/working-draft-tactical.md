@@ -704,7 +704,7 @@ Non-resident mentors run the gamut of experience from founders to subject matter
 
 **Role and expectations**
 
-Non-resident mentors will do the bulk of the mentoring within your Accelerator. After all, they comprise the "network" to which your startups are seeking access. And they are the asset your organization will put to work, most often. 
+Non-resident mentors will do the bulk of the mentoring within your Accelerator. After all, they comprise the bulk of the "network" to which your startups are seeking access. And they are the asset your organization will put to work, most often. 
 
 That said, your Accelerator should have very low expectations for the amount of time that these mentors will be able to contribute to the organization. They should be used for efforts that can be completed in under an hour. And those efforts should be fairly remedial from the mentor's perspective. 
 
