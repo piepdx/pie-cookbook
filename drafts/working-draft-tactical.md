@@ -702,8 +702,15 @@ Non-resident mentors are the most common mentors for an Accelerator. They engage
 
 Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, PIE holds the firm belief that anyone can be an effective mentor. So we will continue to emphasize that it is **experience**, not **expertise** that helps qualify a Mentor. Anyone has the potential to be a Mentor if applied properly.
 
-Define role and expectations
-						27. Value to the organization
+**Role and expectations**
+
+Non-resident mentors will do the bulk of the mentoring within your Accelerator. After all, they comprise the "network" to which your startups are seeking access. And they are the asset your organization will put to work, most often. 
+
+That said, your Accelerator should have very low expectations for the amount of time that these mentors will be able to contribute to the organization. They should be used for efforts that can be completed in under an hour. And those efforts should be fairly remedial from the mentor's perspective. 
+
+You should expect that these mentors can answer questions off the cuff from the startups. They should not be engaged on issues which may take additional effort or meetings with this type of mentor. 
+ 
+Value to the organization
 						28. Value to the mentor
 						29. Value to the startups
 						29. Typical percentage of the mentor pool
