@@ -194,6 +194,7 @@ Long story short, we feel we’ve gotten exponentially more value out of giving 
 	- https://github.com/piepdx/pie-cookbook/issues/3
 	- Home away from home
 	- Day-to-day
+	- How it differs from accelerator
 
 ## Hosting events
 
