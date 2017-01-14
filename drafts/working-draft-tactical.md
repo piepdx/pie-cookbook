@@ -194,28 +194,15 @@ Long story short, we feel we’ve gotten exponentially more value out of giving 
 	- https://github.com/piepdx/pie-cookbook/issues/3
 	- Home away from home
 	- Day-to-day
-
-## Hosting events
-
-Part of the appeal of hosting events is providing an opportunity for random, serendipitous collisions to occur by getting day-to-day coworking participants in the same room as members of the community whom they may not regularly encounter. 
-
-For this reason, you should try to program the majority of the events with content that is tangentially or orthogonally related to the day-to-day pursuits of the coworking space. Members of the coworking space get to chat with one another on a regular basis. And that can create a bit of an echo chamber. 
-
-These events should be striving to introduce speakers, topics, and communities that get the coworking companies thinking differently or, at the very least, more broadly. 
-
-At PIE, we provided programming around the following topics
-
-- Startup including legal and accounting
-- Creative which featured talks like "Design for Developers" and "PR 101"
-- Technical issues like specific technologies that were of interest to participants
-- Hybrid events that combined several topics, like "How to manage developers" or "How to successfully engage with open source projects"
-- Hackathons
+	- How it differs from accelerator
 
 # Kitchen Prep
 
 Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
 
 # Before you begin
+
+It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say "We're an accelerator. That's not always positive. We have the potential to accelerate your success but we can just as easily accelerate your company into the ground."
 
 At PIE, we dove headlong into the effort with a bunch of assumptions. Among those assumptions was the ideas that when one of us used a particular word, we all had a similar concept for what that word meant. We were wrong. And it caused confusion and stress. 
 
@@ -236,20 +223,8 @@ Community can refer to any group of individuals who hold common goals and are mo
 
 A community simply has to have a focus. It can revolve around concepts, ideals, goals, brands, or any combination thereof. We see community, at its essence, as a group of people with a shared, collaborative vision.
 
-### Incubator
-An incubator is a protected work environment designed to shelter founders and ideas as they work to realize concepts and prototypes in an effort to bring a functional product to market. 
-
-In our definition of an incubator, there is no "business" yet. There are simply ideas and potential. 
-
-Incubators are designed to help early stage ideas survive longer than they would in the wild, without the shelter, care, and feeding of an incubator. As such, an incubator does not strive to accurately reflect the stressors and turmoil of the real world. Instead, it seeks to shield founders from reality by providing resources that best ensure its likelihood of finding commercial applications of its concept(s). This is by design.
-
-> e.g., University tech transfer programs tend to be a good example of incubators
-
-Incubators are unsuccessful when they fail to provide adequate support for the founders engaged in their programs. Failing concepts are not a "failure" for the incubator. They are simply a recognition of the fallacy of the pursuit.
-
-NOTE: Although PIE has "incubator" in its name, that's a misnomer. We started as an incubator and transitioned into an accelerator. We chose not to rebrand the effort. Or maybe we simply couldn't come up with an acronym that worked. Except PAELLA.
-
 ### Accelerator
+
 An accelerator is a semi-protective environment that behaves as a microcosm of the real world, at a highly increased rate of speed. It is designed to help founders better understand how to deal with trends, personalities, and adversity in the real world. It is also designed to support founders in rapidly addressing issues impacting their businesses.  
 
 > Accelerators are not designed to protect founders from the elements of the startup world. They are designed to expose founders to those elements, time and time again in rapid succession. 
@@ -257,6 +232,46 @@ An accelerator is a semi-protective environment that behaves as a microcosm of t
 To quote Techstars, accelerators, by their very nature, are designed to help companies "do more, faster." They are designed to make founders uncomfortable. And to push founder to do and achieve more — or fail — more rapidly than they would be capable of on their own.
 
 Accelerators are unsuccessful when they allow unproven founders or products to survive longer than they reasonably should. Failed companies are not a "failure" of an accelerator. In fact, accelerating a company toward failure, sooner rather than later, is one of the most important functions of an accelerator. It saves founders time, money, and emotional stress by helping them recognize that the timing simply isn't right for their pursuit.
+
+### Incubator
+
+An incubator is a protected work environment designed to shelter founders and ideas as they work to realize concepts and prototypes in an effort to bring a functional product to market. 
+
+In our definition of an incubator, there is no "business" yet. There are simply ideas and potential.  
+
+Incubators are designed to help early stage ideas survive longer than they would in the wild, without the shelter, care, and feeding of an incubator. As such, an incubator does not strive to accurately reflect the stressors and turmoil of the real world. Instead, it seeks to shield founders from reality by providing resources that best ensure its likelihood of finding commercial applications of its concept(s). This is by design.
+
+> e.g., University tech transfer programs tend to be a good example of incubators
+
+Incubators are unsuccessful when they fail to provide adequate support for the founders engaged in their programs. Failing concepts are not a "failure" for the incubator. They are simply a recognition of the fallacy of the pursuit.
+
+While the terms "incubator" and "accelerator" are used interchangeably, we see them as very different and distinct pursuits. 
+
+Throughout this document, we will only be focusing on the Accelerator model but Incubators may find some of the content helpful for their day-to-day operations, as well.
+
+NOTE: Although PIE has "incubator" in its name, that's a misnomer. We started as an incubator and transitioned into an accelerator. We chose not to rebrand the effort. Or maybe we simply couldn't come up with an acronym that worked. Except PAELLA.
+
+### Startup
+
+How, exactly, does one define a startup? Well, honestly, we could write a-whole-nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
+
+At a macro level, we tend to define a "startup" as any company that: 
+
+1. Has the potential for exponential growth
+2. Lacks the resources — be it product, staff, capital, experience, market knowledge, business acumen, or otherwise — to fuel that exponential growth
+2. Has yet to experience a significant liquidity event
+
+For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
+
+# tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
+
+### Founder/Cofounder
+
+Founders — often referred to a Cofounders when part of a founding team — create Startups. So Founders are the folks with whom you will be working. They're the person or people who were motivated to solve a problem and start a company. Often, Founders come in teams, but there are solo Founders, as well.  
+
+Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
+
+> NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they create an environment of trust for Founders in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
 
 ### Mentor
 
@@ -430,27 +445,6 @@ As the rounds progress, there are more and more investors involved, either early
 
 As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant follow-on capital at your disposal for defending your position in the company.
 
-### Startup
-
-How, exactly, does one define a startup? Well, honestly, we could write a-whole-nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
-
-At a macro level, we tend to define a "startup" as any company that: 
-
-1. Has the potential for exponential growth
-2. Lacks the resources — be it product, staff, capital, experience, market knowledge, business acumen, or otherwise — to fuel that exponential growth
-2. Has yet to experience a significant liquidity event
-
-For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
-
-# tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
-
-### Founder/Cofounder
-
-Founders — often referred to a Cofounders when part of a founding team — create Startups. So Founders are the folks with whom you will be working. They're the person or people who were motivated to solve a problem and start a company. Often, Founders come in teams, but there are solo Founders, as well.  
-
-Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
-
-> NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they create an environment of trust for Founders in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
  
 ### Resident
 
@@ -690,20 +684,54 @@ Like any recipe, there are main ingredients and the ingredients which add flavor
 
 ### Mentors
 
-The most critical of these "additional ingredients" will be your mentors. 
+The most critical of these "additional ingredients" will be your mentors. These are the assets that will actually make your Accelerator work — or fail. So we'll spend a great deal of time on this topic. 
 
-While we've provided a generic definition of a mentor above, it is important to understand that there are different types of mentors, different ways to apply those mentors, and different motivations for the mentors to participate in the program. 
+It is important to understand that there are different types of mentors, different ways to apply each mentor, and different motivations for the mentors to participate in the program. It's also important that you understand the best ways to recruit, manage, and reward your mentors for their participation in your program.
+
+Let's start by outlining the general categories of Mentors, bearing in mind that Mentors can often fall into multiple categories. 
  
 #### Non-resident Mentors
 
-Non-resident mentors are those mentors that typically assist an Accelerator. They are not present in the space on a regular basis. Rather, they are invited by staff to speak or meet with Founders. 
+Non-resident mentors are the most common mentors for an Accelerator. They engage with the Accelerator on an as-needed basis. They do not reside in the Accelerator space. Rather, they are invited by staff to present or meet with Founders. 
 
-Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, let's emphasize that it's **experience**, not **expertise**. Anyone has the potential to be a Mentor if applied properly.
+Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, PIE holds the firm belief that anyone can be an effective mentor. So we will continue to emphasize that it is **experience**, not **expertise** that helps qualify a Mentor. Anyone has the potential to be a Mentor if applied properly.
 
-Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
+**Role and expectations**
+
+Non-resident mentors will do the bulk of the mentoring within your Accelerator. After all, they comprise the bulk of the "network" to which your startups are seeking access. And they are the asset your organization will put to work, most often. 
+
+That said, your Accelerator should have very low expectations for the amount of time that these mentors will be able to contribute to the organization. They should be used for efforts that can be completed in under an hour. And those efforts should be fairly remedial from the mentor's perspective. 
+
+You should expect that these mentors can answer questions off the cuff from the startups. They should not be engaged on issues which may take additional effort or meetings with this type of mentor. 
+ 
+**Value to the accelerator**
+
+These mentors provide any number of benefits to the Accelerator, but among the most prominent are:
+
+- Providing guidance and feedback to the Startups within the Accelerator
+- Helping to promote the Accelerator and its offerings
+- Helping to recruit Startups for each program
+- Helping to recruit additional Mentors for the Accelerator
+- Assisting in the selection process
+- Providing objective feedback to the Accelerator about both the startups and the accelerator, itself
+
+**Value to the mentor**
+
+While the accelerator and startups are gaining value from the mentor, it is equally important that you understand the value the mentor derives from participating. 
+
+- Strong connection to startup community
+- A feeling of giving back to the community
+- Recognition as an important asset to the community
+- Reaffirms experience and expertise
+- Connections with other mentors
+- Dealflow and due diligence for potential Angel investments
+
+**Value to the startups**
+
+These mentors, by and large, are the reason that the startups joined your accelerator, whether they know it or not. It is the advice, criticism, and connections that these individuals provide that will enable these companies to succeed or determine that there is no chance of succeeding.
+
+
+
 						29. Typical percentage of the mentor pool
 					23. Lead
 						24. Define role and expectations
@@ -1477,21 +1505,27 @@ Partners
 
 # Recipe for an Accelerator
 
-You don't have to be married to it forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof.
+## Before you begin, establish a thesis
 
-At PIE, we hit upon the fact that we were really good at accelerating platforms and enabling technology. Why did we get good at this? There were any number of reasons.
+Even if you're not planning to invest capital in your Startups, you should still do one thing like an investor: have a thesis. 
 
-Portland has a culture of platforms and enabling technologies
+What's a thesis? It's something that guides the types of companies with whom you want to work and often — more importantly — a guideline that prevents you from working with companies that aren't the right fit for your Accelerator.
 
-We inherited the culture of the agency itself moreso than the cultures of the agency's clients.
+A thesis is especially important for a first-time program. Otherwise, you'll try to take all comers, which will set you up for failure on any number of fronts.
 
-Our mentors had expertise in building platforms.
+# tl;dr A thesis will help guide all of your Accelerator activities
 
-Our startups happened to be focused on platforms.
+You don't have to be married to your thesis forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof. It just needs to be defined. And you need to stick to it.
 
-The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
+At PIE, we hit upon the fact that we were really good at accelerating technology platforms and enabling technology. Or to put it another way, we did really well with developers building tools for other developers. Why did we get good at this? There were any number of reasons but among the most important were:
 
-We started PIE just as both the SaaS and mobile markets were exploding
+- Portland has a long history of building platforms and enabling technologies, so there were more folks who had "been there and done that" with these types of businesses.
+- Our mentors had expertise in building platforms.
+- Our alums happened to be focused on platforms.
+- The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
+- As mentors and alums helped us recruit companies, they inevitably drew from a community of peers — many of whom were building platforms or enabling technology
+- Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — a company built on the premise of helping other companies.
+- We started PIE just as both the SaaS and mobile markets were exploding
 
 #### Know where you suck
 
