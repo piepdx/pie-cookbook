@@ -1507,7 +1507,7 @@ Online presence
 Social
 Blog
 
-## Hors d'oeuvre (Hackathons, events, coworking)
+## Hors d'oeuvres (Hackathons, events, coworking)
 
 
 ## Main course (Accelerator)
