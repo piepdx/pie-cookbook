@@ -183,13 +183,15 @@ Whatever you choose to do—start a long journey or jump into the deep end of th
 
 ## Coworking and Community Development are not complementary
 
-When we started PIE, we were working under the assumption that coworking and community were synonymous. They are not. So even if you've got a thriving coworking business, don't assume you have a community. In fact, if your coworking business is thriving, that way be an indicator that you don't have a community.
+When we started PIE, we were working under the assumption that "coworking" — the concept of a variety of companies and individual contributors sharing a common workspace — and "community" were synonymous. Get a bunch of people sitting and working in the same space and viola! Community. 
+
+Nope. Coworking and Community are not synonymous. In fact, at times, they may even be at odds with one another. So even if you've got a thriving coworking business, don't assume you have a community. If your coworking business is thriving, that actually may be an indicator that you don't have a community. Conversely, if your coworking space is struggling to make ends meet, that may also be an indicator that you're doing okay with community development. 
 
 You see, sometimes communities need to embrace people who cannot afford the cost of a desk. And sometimes communities have to turn away individuals who can afford to pay.
 
 It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
 
-Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.
+Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream. And whatever the case, don't assume the health — or lack thereof — of a business pursuit like coworking is a direct or even relevant indicator of the health of your community. We've seen many a healthy community without the financial health to sustain a coworking space.
 
 - Curation of coworking participants
 	- https://github.com/piepdx/pie-cookbook/issues/3
