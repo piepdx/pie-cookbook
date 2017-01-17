@@ -193,11 +193,6 @@ It seems counterintuitive but we’ve learned that giving startups desks for fre
 
 Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream. And whatever the case, don't assume the health — or lack thereof — of a business pursuit like coworking is a direct or even relevant indicator of the health of your community. We've seen many a healthy community without the financial health to sustain a coworking space.
 
-- Curation of coworking participants
-	- https://github.com/piepdx/pie-cookbook/issues/3
-	- Home away from home
-	- Day-to-day
-	- How it differs from accelerator
 
 # Kitchen Prep
 
