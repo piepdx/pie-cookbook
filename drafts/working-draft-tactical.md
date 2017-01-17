@@ -1,7 +1,9 @@
 # RECIPES
 # Before you begin
 
-As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you have a relevant role in that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. 
+As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you have a relevant role in that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. Perhaps, you've already experimented with coworking or shared workspaces. Maybe you're already hosting events.
+
+Whatever the case, we're assuming you have a community. You may not yet completely understand the community. Or the finer points of its composition. But you know you have one. 
 
 With those assumptions in mind, we may lightly touch on community development from time to time. But we will not describe, in depth, how communities are defined, built, and maintained. That topic is another book — or library of books — in an of itself.
 
