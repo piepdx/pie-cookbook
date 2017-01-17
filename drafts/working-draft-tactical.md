@@ -187,10 +187,6 @@ When we started PIE, we were working under the assumption that coworking and com
 
 You see, sometimes communities need to embrace people who cannot afford the cost of a desk. And sometimes communities have to turn away individuals who can afford to pay.
 
-We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
-
-Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
-
 It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
 
 Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream.
@@ -771,14 +767,21 @@ We have found that it is difficult to pick or establish lead mentors at the outs
 							31. Getting investors to take off the investor hat and mentor
 							32. This isn’t due diligence. It’s mentorship.
 							33. Preparing the startups for when an investor switches from mentoring to investing
-				30. Resident
+#### Resident
 					24. Peer
 						25. Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
 						29. Value to the startups
 						29. Special challenges of peer mentors
-					25. Mentors in residence
+#### Mentors in residence
+
+We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, as an accelerator, has been the concept of free desks for “mentors in residence.” 
+
+This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
+
+Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
+
 						26. Define role and expectations
 							27. At PIE, these were companies PIE alums who had been through the PIE process
 						27. Value to the organization
