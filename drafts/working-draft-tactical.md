@@ -1315,8 +1315,7 @@ https://github.com/piepdx/pie-cookbook/issues/2
 				35. Always make mentors aware that things change
 				36. Be prepared for pop-ins — and always take advantage of them
 			32. Unused mentors
-			33. Bad actors
-			34. Mentor value beyond the accelerator
+			33. Mentor value beyond the accelerator
 			35. Mentors referencing the accelerator
 				36. Online profiles
 				37. Spokespeople
