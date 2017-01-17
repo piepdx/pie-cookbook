@@ -1,9 +1,11 @@
 # RECIPES
 # Before you begin
 
-As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you have a relevant role in that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. 
+As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you have a relevant role in that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. Perhaps, you've already experimented with coworking or shared workspaces. Maybe you're already hosting events.
 
-With those assumptions in mind, we may lightly touch on community development from time to time. But we will not describe, in depth, how communities are defined, built, and maintained. That topic is another book — or library of books — in an of itself.
+Whatever the case, we're assuming you have a community. You may not yet completely understand the community. Or the finer points of its composition. But you know you have one. 
+
+With those assumptions in mind, we will lightly touch on community development from time to time. But we will try to avoid describing, in depth, how communities are defined, built, and maintained. That topic is another book — or library of books — in an of itself. And with this book, we want to focus on the Accelerator that serves that community.
 
 ## Want to start an accelerator? Don't start an accelerator
 
@@ -179,12 +181,11 @@ Again, this isn't the right way to do anything. This just happens to be how PIE 
 
 Whatever you choose to do—start a long journey or jump into the deep end of the pool—just remember that, in the long run, you're not building an accelerator. You're building a community.
 
-
 ## Coworking and Community Development are not complementary
 
-We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
+When we started PIE, we were working under the assumption that coworking and community were synonymous. They are not. So even if you've got a thriving coworking business, don't assume you have a community. In fact, if your coworking business is thriving, that way be an indicator that you don't have a community.
 
-Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
+You see, sometimes communities need to embrace people who cannot afford the cost of a desk. And sometimes communities have to turn away individuals who can afford to pay.
 
 It seems counterintuitive but we’ve learned that giving startups desks for free often creates a tighter bond and stronger commitment than asking them to pay. That is, they perceive more value in the offering than office space to be more valuable than simply cash out of pocket. They feel like a valued part of the community. And since a very important part of our role is strengthening community, we feel this emotional tie has far more value that the rent check.
 
@@ -766,14 +767,21 @@ We have found that it is difficult to pick or establish lead mentors at the outs
 							31. Getting investors to take off the investor hat and mentor
 							32. This isn’t due diligence. It’s mentorship.
 							33. Preparing the startups for when an investor switches from mentoring to investing
-				30. Resident
+#### Resident
 					24. Peer
 						25. Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
 						29. Value to the startups
 						29. Special challenges of peer mentors
-					25. Mentors in residence
+#### Mentors in residence
+
+We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, as an accelerator, has been the concept of free desks for “mentors in residence.” 
+
+This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
+
+Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
+
 						26. Define role and expectations
 							27. At PIE, these were companies PIE alums who had been through the PIE process
 						27. Value to the organization
