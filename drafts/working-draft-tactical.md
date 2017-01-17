@@ -803,6 +803,16 @@ We have found that it is difficult to pick or establish lead mentors at the outs
 			25. Mentoring the mentors
 				26. Setting the tone
 
+# Recruiting mentors
+
+Test driving mentors
+			27. Assessing skill fit
+			28. Assessing personality fit
+			29. Actively engaged pool
+			30. Passively engaged pool
+			30. Overlap
+
+
 # Mentoring the mentors
 
 Around the time [PIE](http://piepdx.com/ "PIE") was starting the accelerator phase of this ongoing experiment, [David Cohen](http://twitter.com/davidcohen), cofounder of [TechStars](http://techstars.com/ "TechStars"), shared the [TechStars Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/ "TechStars Mentor Manifesto"). And it served as an inspiration for me. [A post by Micah Baldwin](http://learntoduck.com/techstars/good-mentor/ "8 Rules To Being A Good Techstars Mentor"), a former TechStars mentor , provided a similar nudge for me.
@@ -1302,13 +1312,7 @@ https://github.com/piepdx/pie-cookbook/issues/2
 
 				26. How to mentor
 				27. Common mistakes
-			26. Test driving mentors
-			27. Assessing skill fit
-			28. Assessing personality fit
-			29. Actively engaged pool
-			30. Passively engaged pool
-			30. Overlap
-			31. Integrity
+			26. 			31. Integrity
 				32. https://github.com/piepdx/pie-cookbook/issues/2
 			33. Managing mentors
 				34. Scheduling should occur at the mentor’s convenience, not yours
