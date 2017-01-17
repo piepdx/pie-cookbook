@@ -181,8 +181,11 @@ Again, this isn't the right way to do anything. This just happens to be how PIE 
 
 Whatever you choose to do—start a long journey or jump into the deep end of the pool—just remember that, in the long run, you're not building an accelerator. You're building a community.
 
-
 ## Coworking and Community Development are not complementary
+
+When we started PIE, we were working under the assumption that coworking and community were synonymous. They are not. So even if you've got a thriving coworking business, don't assume you have a community. In fact, if your coworking business is thriving, that way be an indicator that you don't have a community.
+
+You see, sometimes communities need to embrace people who cannot afford the cost of a desk. And sometimes communities have to turn away individuals who can afford to pay.
 
 We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
 
