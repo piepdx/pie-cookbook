@@ -1,5 +1,4 @@
 # RECIPES
-# Before you begin
 
 As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you have a relevant role in that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. Perhaps, you've already experimented with coworking or shared workspaces. Maybe you're already hosting events.
 
@@ -196,11 +195,11 @@ Long story short, we feel we’ve gotten exponentially more value out of giving 
 
 # Kitchen Prep
 
-Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
+Where you start is where you start. Don't let the current state of things or the amount of effort required prevent you from taking action. Start small. Start today. It might not be where you want to start. But you've got to start somewhere.
 
 # Before you begin
 
-It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say "We're an accelerator. That's not always positive. We have the potential to accelerate your success but we can just as easily accelerate your company into the ground."
+It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say, "We're an accelerator. That's not always a positive thing. We have the potential to help accelerate your success, but we can just as easily accelerate your company into the ground."
 
 At PIE, we dove headlong into the effort with a bunch of assumptions. Among those assumptions was the ideas that when one of us used a particular word, we all had a similar concept for what that word meant. We were wrong. And it caused confusion and stress. 
 
