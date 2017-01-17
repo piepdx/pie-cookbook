@@ -734,7 +734,12 @@ These mentors, by and large, are the reason that the startups joined your accele
 
 Non-resident mentors should comprise the vast majority of your Mentor pool. Likewise, this category of mentor should serve as the initial means of "test driving" mentors for other types of mentor roles.
 
-					23. Lead
+#### Lead mentors
+
+Lead mentors are individuals who take a particular interest in one of the companies in the cohort. That level of interest motivates the mentor to meet with companies on a regular basis and suggest other mentors who could provide valuable feedback to the startups.
+
+We have found that it is difficult to pick or establish lead mentors at the outset of the program. Rather, Accelerators have to monitor the potential for lead mentors and when appropriate, suggest to both the startup and the mentor that both would benefit from more regular meetings.
+
 						24. Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
@@ -797,6 +802,16 @@ Non-resident mentors should comprise the vast majority of your Mentor pool. Like
 			24. Time commitment
 			25. Mentoring the mentors
 				26. Setting the tone
+
+# Recruiting mentors
+
+Test driving mentors
+			27. Assessing skill fit
+			28. Assessing personality fit
+			29. Actively engaged pool
+			30. Passively engaged pool
+			30. Overlap
+
 
 # Mentoring the mentors
 
@@ -1297,21 +1312,14 @@ https://github.com/piepdx/pie-cookbook/issues/2
 
 				26. How to mentor
 				27. Common mistakes
-			26. Test driving mentors
-			27. Assessing skill fit
-			28. Assessing personality fit
-			29. Actively engaged pool
-			30. Passively engaged pool
-			30. Overlap
-			31. Integrity
+			26. 			31. Integrity
 				32. https://github.com/piepdx/pie-cookbook/issues/2
 			33. Managing mentors
 				34. Scheduling should occur at the mentor’s convenience, not yours
 				35. Always make mentors aware that things change
 				36. Be prepared for pop-ins — and always take advantage of them
 			32. Unused mentors
-			33. Bad actors
-			34. Mentor value beyond the accelerator
+			33. Mentor value beyond the accelerator
 			35. Mentors referencing the accelerator
 				36. Online profiles
 				37. Spokespeople
