@@ -1,10 +1,22 @@
 # Recipes
 
+## What this is not
+
+Before we get into what the PIE Cookbook *is* it might be helpful to explain what the PIE Cookbook is not.
+
+### This is not about creating or managing community
+
 As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you have a relevant role in that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. Perhaps, you've already experimented with coworking or shared workspaces. Maybe you're already hosting events.
 
 Whatever the case, we're assuming you have a community. You may not yet completely understand the community. Or the finer points of its composition. But you know you have one. 
 
 With those assumptions in mind, we will lightly touch on community development from time to time. But we will try to avoid describing, in depth, how communities are defined, built, and maintained. That topic is another book — or library of books — in an of itself. And with this book, we want to focus on the Accelerator that serves that community.
+
+### This is not about recreating PIE
+
+And before we get into the details, let us be clear: In sharing the PIE Cookbook, we are by no means intent on inspiring the creation of a bunch of generic startup accelerators. Trust us.
+
+
 
 ## Want to start an accelerator? Don't start an accelerator
 
