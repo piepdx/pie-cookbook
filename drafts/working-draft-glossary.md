@@ -8,3 +8,4 @@ This glossary is designed to help define regularly used terms that have a fairly
 - follow-on capital
 - partners (VC)
 - pro rata
+- tl;dr
