@@ -2273,9 +2273,4 @@ Don’t believe us? Try telling your next class earlier and see what happens.
 				123. Startup recruitment
 				124. Events
 				125. Hackathons
-126. Other flavors of PIE
-	127. Oregon Story Board
-	128. Daimler SPIN
-	129. Startup PDX Challenge
-	130. Newberg Innovation Accelerator
 
