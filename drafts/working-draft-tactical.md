@@ -2258,9 +2258,9 @@ Don’t believe us? Try telling your next class earlier and see what happens.
 
 One of the primary motivations for writing the PIE Cookbook was the firm belief that this programmatic model for assisting founders and companies could inform the development of additional accelerator models. Or entirely new ways of managing this sort of mentorship.
 
-For that reason, we want you to take this guidance as inspiration, rather than fact.
+For that reason, we want you to take this guide as inspiration, rather than fact. Our motivation to share the PIE Cookbook isn’t to convince you to recreate PIE. It’s to inspire you to create something new — and better.
 
-
+Why? Perhaps most importantly, the thought of starting some also-ran tech startup accelerator isn’t terribly interesting to most people these days.
 
 			119. Quarterly surveys
 			119. Metrics for success
