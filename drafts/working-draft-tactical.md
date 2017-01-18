@@ -2254,7 +2254,14 @@ Rest easy. Had you told them any earlier, they wouldn’t have heard you. They w
 Don’t believe us? Try telling your next class earlier and see what happens.
 
 
-			118. Tweaking the model
+# Tweaking the model
+
+One of the primary motivations for writing the PIE Cookbook was the firm belief that this programmatic model for assisting founders and companies could inform the development of additional accelerator models. Or entirely new ways of managing this sort of mentorship.
+
+For that reason, we want you to take this guidance as inspiration, rather than fact.
+
+
+
 			119. Quarterly surveys
 			119. Metrics for success
 				120. Qualitative versus Quantitative 
