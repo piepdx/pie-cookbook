@@ -2292,7 +2292,7 @@ One of the primary motivations for writing the PIE Cookbook was the firm belief 
 
 For that reason, we want you to take this guide as inspiration, rather than fact. Our motivation to share the PIE Cookbook isn’t to convince you to recreate PIE. It’s to inspire you to create something new — and better.
 
-Why? Perhaps most importantly, the thought of starting some also-ran tech startup accelerator isn’t terribly interesting to most people these days.
+Because, let's be honest, no matter how much you love tech and innovation and all of the hype, the thought of starting some also-ran tech startup accelerator isn’t terribly interesting, these days.
 
 # tl;dr It’s your job to improve upon the PIE recipe
 
