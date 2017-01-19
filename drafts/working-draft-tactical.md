@@ -14,9 +14,11 @@ With those assumptions in mind, we will lightly touch on community development f
 
 ### This is not about recreating PIE
 
-And before we get into the details, let us be clear: In sharing the PIE Cookbook, we are by no means intent on inspiring the creation of a bunch of generic startup accelerators. Trust us.
+Let's make one thing clear. We're sharing the PIE Cookbook not as a roadmap, but as a starting point. The last thing we want is to inspire the creation of a bunch of generic technology startup accelerators. The world has enough of those. Trust us.
 
+What the world needs more of are the creative applications of the accelerator process. Of individuals activating the latent value of their respective communities. Of subject matter experts sharing their wealth of knowledge — and wealth of mistakes — with new founders. Of more people making more new mistakes. 
 
+We called this the PIE Cookbook for a reason. We'll give you the base ingredients. But we expect you to make each recipe your own.
 
 ## Want to start an accelerator? Don't start an accelerator
 
