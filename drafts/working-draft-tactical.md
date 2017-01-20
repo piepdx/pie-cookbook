@@ -1866,10 +1866,10 @@ This will be the most rewarding month for your startups. Not only will they make
 ![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
 
 1. "After talking to folks, I'm not sure our company is viable."
-2. "We get to pitch. We totally get pitching."
+2. "We get to pitch! We totally get pitching."
 3. "No one got our pitch. We're not even going to make it to the stage."
 4. "Wait a second. This is working."
-5. "This is the best day of my life."
+5. Demo Day: "This is the best day of my life."
 
 
 # Creating a cadence
