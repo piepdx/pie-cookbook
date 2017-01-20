@@ -1816,7 +1816,7 @@ Now, granted, this is a sweeping generalization that may not apply to every foun
 
 So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator.
 
-![Startup Emotional Roller Coaster](/source/image/pieAcceleratorEmotionalRollerCoaster.001.png)
+![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
 
 # Creating a cadence
 
