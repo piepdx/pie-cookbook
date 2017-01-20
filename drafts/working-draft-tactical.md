@@ -1923,7 +1923,7 @@ At PIE, we've spent time analyzing the behavior of founders in both our accelera
 
 Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, mentors, and the accelerator staff. 
 
-So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and received venture capital, for what it's worth.)
+So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, for what it's worth.)
 
 ![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
 
