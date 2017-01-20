@@ -1804,73 +1804,6 @@ But it wasn't without its flaws. Some folks begin commanding more airtime than o
 					99. If you can help, help
 			96. Day-to-day
 			
-## The emotional ebb and flow of a stressful startup accelerator 
-
-We've all heard it. "Going through an accelerator is an emotional roller coaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
-
-But what, exactly, does that roller coaster look like?
-
-At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
-
-Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, mentors, and the accelerator staff. 
-
-So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and received venture capital, for what it's worth.)
-
-![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
-
-Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
-
-### Pre-Accelerator
-
-It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
-
-We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
-
-![Startup pre-Accelerator Detail](/source/images/pieAcceleratorEmotionalRollerCoasterPreAccelerator-Detail.png)
-
-1. False Ceiling of Euphoria
-2. False Floor of Despair
-3. "I found the perfect Accelerator for us!"
-4. "It's been 30 seconds and they haven't responded. They hate us."
-5. "We made it through the entire process and they accepted us!"
-6. "Maybe we've made a mistake. Is this the right move for us?"
-
-### Month 1 (Product)
-
-Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions.
-
-![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
-
-1. "Acceptance! We've made it!"
-2. "We are killing it!" aka Breaking through the false ceiling of euphoria
-3. "We're doing it wrong." aka Crashing through the false floor of despair
-4. "Everybody else seems to be struggling with the same issues."
-5. "We're still the worst company in here."
-6. "Product demo went okay. And folks here seem to get what we do."
-
-### Month 2 (Projections)
-
-This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. 
-
-![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
-
-1. **Below the line.** Prepare for your companies to spend the entire month below the midline. 
-2. "I thought we were getting it, but we're not."
-3. "We can do this."
-4. "We don't seem any worse off than anyone else."
-
-### Month 3 (Pitch)
-
-This will be the most rewarding month for your startups. Not only will they make significant progress, they will make tangible progress that will directly impact the future of their companies. 
-
-![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
-
-1. "After talking to folks, I'm not sure our company is viable."
-2. "We get to pitch! We totally get pitching."
-3. "No one got our pitch. We're not even going to make it to the stage."
-4. "Wait a second. This is working."
-5. Demo Day: "This is the best day of my life."
-
 
 # Creating a cadence
 
@@ -1979,6 +1912,75 @@ Another piece of feedback we've received from the startups?
 The last week is pretty much nonstop practice, where we not only continue to finesse the story and the deck, but we start getting the presenter to give the pitch in the uniform that they plan to wear on stage. We've learned that the more we gradually attempt to mimic the environment and conditions they will experience on Demo Day — even if it can't be done perfectly — the better the presentations are.
 
 If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
+
+## The emotional ebb and flow of a stressful startup accelerator 
+
+We've all heard it. "Going through an accelerator is an emotional roller coaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
+
+But what, exactly, does that roller coaster look like?
+
+At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
+
+Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, mentors, and the accelerator staff. 
+
+So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and received venture capital, for what it's worth.)
+
+![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
+
+Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
+
+### Pre-Accelerator
+
+It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
+
+We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
+
+![Startup pre-Accelerator Detail](/source/images/pieAcceleratorEmotionalRollerCoasterPreAccelerator-Detail.png)
+
+1. **False Ceiling of Euphoria**
+2. **False Floor of Despair**
+3. **"I found the perfect Accelerator for us!"**
+4. **"It's been 30 seconds and they haven't responded. They hate us."**
+5. **"We made it through the entire process and they accepted us!"**
+6. **"Maybe we've made a mistake. Is this the right move for us?"**
+
+### Month 1 (Product)
+
+Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions.
+
+![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
+
+1. **"Acceptance! We've made it! The sky is the limit."**
+2. **"We are killing it!" aka Breaking through the false ceiling of euphoria**
+3. **"We're doing it wrong." aka Crashing through the false floor of despair**
+4. **"Everybody else seems to be struggling with the same issues."**
+5. **"We're still the worst company in here."**
+6. **"Product demo went okay. And folks here seem to get what we do."**
+
+### Month 2 (Projections)
+
+This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. 
+
+![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
+
+1. **Below the line.** Prepare for your companies to spend the entire month below the midline. 
+2. **"I thought we were getting it, but we're not."**
+3. **"We can do this."**
+4. **"We don't seem any worse off than anyone else."**
+
+### Month 3 (Pitch)
+
+This will be the most rewarding month for your startups. Not only will they make significant progress, they will make tangible progress that will directly impact the future of their companies. 
+
+![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
+
+1. **"After talking to folks, I'm not sure our company is viable."**
+2. **"We get to pitch! We totally get pitching."**
+3. **"No one got our pitch. We're not even going to make it to the stage."**
+4. **"Wait a second. This is working."**
+5. **Demo Day: "This is the best day of my life."**
+
+
 
 ## Typical week in PIE
 
