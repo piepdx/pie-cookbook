@@ -145,6 +145,7 @@ Without—and this is critical—expecting anything in return. At all.
 Don't think that you have to acquire space before this happens. You can partner with existing spaces. Or pay to rent spaces that you make accessible to others. Or this can occur in a shared space or a known resource.
 
 You don't have to own the space, but you must do what it takes to make space available to the community.
+
 With PIE, we were lucky enough to own space. Which had been generously donated by our patron, W+K, as part of the experiment. So we hosted community gatherings that we didn't manage. We invited people into the space. We had them hold their events in our space. We let people crash out overnight for crazy caffeine fueled coding sessions. Heck, we even hosted the first ever 30 hour nonstop livestreamed Web telethon in the space to help the community raise money for charity during the holiday season.
 
 We made the PIE space a resource by the community, for the community.
@@ -1426,6 +1427,12 @@ The Program Manager works to ensure that the current class of PIE startups has t
 - Advise on strategic planning and goal setting
 - Communicate with PIE management and W+K 
 
+- - - 
+(sidebar)
+#### Good Cop, Bad Cop
+
+- - -
+
 # Optional roles
 
 ## Brand Manager 
@@ -1502,7 +1509,61 @@ Partners
 		53. Budget
 			54. Considerations
 			54. Pro forma
-		55. Space and requirements
+# Space
+
+
+## Create a Minimally Valuable Space
+
+We've noticed a tendency in the industry to deck out your coworking or shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs.
+
+Yes, people ooh and ah when they see the space. Yes, it makes it easy to defend the prices you're charging them for space. And yes, it provides a certain sense of pride for the folks running the space. 
+
+But, to be honest, more often than not, those are false positives. They don't really make for a great community space. 
+
+Don't feel guilty. PIE fell for this trap too. It happens. But this is about you making new mistakes, remember? Not repeating ours. 
+
+Our initial build out was the equivalent of set design for the quintessential startup workspace. Complete with closet door and sawhorse desks. 
+
+It didn't work.
+
+What we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
+
+# tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
+
+It's not that we didn't have the ability to make the space more comfortable. It's simply that it *shouldn't* be comfortable. That is not the purpose of the space. The space, like building a startup, should be difficult. And awkward. It should always cause friction. And discomfort.
+
+Your only requirements are a solid wifi connection, access to power, a surface for a laptop, and a chair. That's it. Beyond that, you provide less than is needed. 
+
+Think less office space, more coffeeshop or bar.
+
+You should have too many people in the space. It should be noisy. You should have too few conference rooms. People should be eavesdropping whether they want to or not. You should have passible coffee and, if it fits your culture, beer. And most of all, everyone should be in one another's way.
+
+![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
+
+Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Shield them from the outside world. Create a utopian existence for them. That's what an incubator should do.
+
+Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up and out. Your job is to create a microcosm. A biome of startup life. They same way it exists in the real world. But with a few safety nets strewn here and there.
+
+And then you need to poke the startups so that, from time to time, they tumble into those safety nets.
+
+If you provide a space that is too comfortable and too accommodating then the startups will stay there. Forever. And that isn't what you want. You want churn. You want growth. You want backfill. And activity. And hustle.
+
+Yes, they're often amazing people to be around. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
+
+> We are inviting you into our space because we want you to leave.  
+
+Like being embarrassed to bring your friends over to your parents house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — their parents' basement. And it should be just as awkward as that arrangement.
+
+There are also fringe benefits to this sort of interior design. You, as an accelerator staff remain scrappy. You feel less comfortable. You don't have it easy, either. And that's just how it should be.
+
+![PIE's kitchen "table"](/source/images/pie-kitchen-table.jpg)
+
+Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire the thought that "We need to get you out of here."  
+
+## IKEA is your friend
+
+Don't make furnishings a major line item
+
 			56. Infrastructure
 				57. Power
 				59. Internet
@@ -1528,11 +1589,11 @@ Partners
 					64. How this enabled more effective mentors in residence and portfolio management
 		56. Catalysts (Entrepreneur + Patron)
 		57. Pressure/heat (Startups + Staff + Patron)
-		58. Good cop/bad cop
+		
 
 # Recipe for an Accelerator
 
-## Before you begin, establish a thesis
+## Establish a thesis
 
 Even if you're not planning to invest capital in your Startups, you should still do one thing like an investor: have a thesis. 
 
