@@ -1427,6 +1427,12 @@ The Program Manager works to ensure that the current class of PIE startups has t
 - Advise on strategic planning and goal setting
 - Communicate with PIE management and W+K 
 
+- - - 
+(sidebar)
+#### Good Cop, Bad Cop
+
+- - -
+
 # Optional roles
 
 ## Brand Manager 
