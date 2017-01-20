@@ -1848,6 +1848,17 @@ Now that the company has been accepted to the program and is starting the accele
 5. "We're still the worst company in here."
 6. "Product demo went okay. And folks here seem to get what we do."
 
+### Month 2 (Projections)
+
+![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
+
+1. **Below the line.** Prepare for your companies to spend the entire month below the midline. 
+2. "I thought we were getting it, but we're not."
+3. "We can do this."
+4. "We don't seem any worse off than anyone else."
+
+
+
 # Creating a cadence
 
 One of the most critical efforts for the accelerator staff is that of managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
