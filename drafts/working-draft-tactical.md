@@ -1822,8 +1822,6 @@ Right? That's a lot to take in. Let's break it into sections so that we can deal
 
 ### Pre-Accelerator
 
-![Startup pre-Accelerator](/source/images/pieAcceleratorEmotionalRollerCoasterPreAccelerator.png)
-
 It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
 
 We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
