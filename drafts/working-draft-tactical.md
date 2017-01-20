@@ -1939,7 +1939,7 @@ We're not going to claim that we can predict every up and down, but let's take a
 
 1. **False Ceiling of Euphoria** We've learned that the Accelerator environment accelerates, among other things, emotions. As such, we've learned that the highs are far higher than they have seemed to the founders in the past. For that reason, we categorize the pinnacle of euphoria for founders prior to the accelerator as a "false ceiling." Accelerator staff and mentors need to be prepared to help accentuate the good times — and to help regulate euphoric misconceptions.
 2. **False Floor of Despair** If the "highs are higher," then guess what? That's right. The lows are way lower. Within the accelerator environment, we often find founders struggling with depression and negativity that surmounts anything with which they had to deal prior to entering the accelerator program. Accelerator staff and mentors need to be prepared for how paralyzingly acute these lows can be.
-3. **"I found the perfect Accelerator for us!"**
+3. **"I found the perfect Accelerator for us!"** When startups are looking for support, finding an Accelerator that best matches their needs can be a high point for them. It's important that Accelerator staff understand and appreciate this moment of euphoria and do their best to cultivate a relationship with each and every Founder who has an interest in their Accelerator.
 4. **"It's been 30 seconds and they haven't responded. They hate us."**
 5. **"We made it through the entire process and they accepted us!"**
 6. **"Maybe we've made a mistake. Is this the right move for us?"**
