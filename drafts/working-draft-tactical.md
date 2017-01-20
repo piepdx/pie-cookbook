@@ -1803,7 +1803,37 @@ But it wasn't without its flaws. Some folks begin commanding more airtime than o
 					98. Everyone has to talk
 					99. If you can help, help
 			96. Day-to-day
+			
 ## The emotional ebb and flow of a stressful startup accelerator 
+
+We've all heard it. "Going through an accelerator is an emotional roller coaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
+
+But what, exactly, does that roller coaster look like?
+
+At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
+
+Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, mentors, and the accelerator staff. 
+
+So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator.
+
+![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
+
+Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
+
+### Pre-Accelerator
+
+It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
+
+We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
+
+![Startup pre-Accelerator Detail](/source/images/pieAcceleratorEmotionalRollerCoasterPreAccelerator-Detail.png)
+
+1. False Ceiling of Euphoria
+2. False Floor of Despair
+3. "I found the perfect Accelerator for us!"
+4. "It's been 30 seconds and they haven't responded. They hate us."
+5. "We made it through the entire process and they accepted us!"
+6. "Maybe we've made a mistake. Is this the right move for us?"
 
 # Creating a cadence
 
