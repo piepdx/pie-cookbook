@@ -1850,6 +1850,8 @@ Now that the company has been accepted to the program and is starting the accele
 
 ### Month 2 (Projections)
 
+This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. 
+
 ![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
 
 1. **Below the line.** Prepare for your companies to spend the entire month below the midline. 
