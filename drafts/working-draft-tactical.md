@@ -1535,7 +1535,7 @@ Partners
 					64. How this enabled more effective mentors in residence and portfolio management
 		56. Catalysts (Entrepreneur + Patron)
 		57. Pressure/heat (Startups + Staff + Patron)
-		58. Good cop/bad cop
+		
 
 # Recipe for an Accelerator
 
