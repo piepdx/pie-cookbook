@@ -1852,13 +1852,24 @@ Now that the company has been accepted to the program and is starting the accele
 
 This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. 
 
-![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
+![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
 
 1. **Below the line.** Prepare for your companies to spend the entire month below the midline. 
 2. "I thought we were getting it, but we're not."
 3. "We can do this."
 4. "We don't seem any worse off than anyone else."
 
+### Month 3 (Pitch)
+
+This will be the most rewarding month for your startups. Not only will they make significant progress, they will make tangible progress that will directly impact the future of their companies. 
+
+![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
+
+1. "After talking to folks, I'm not sure our company is viable."
+2. "We get to pitch. We totally get pitching."
+3. "No one got our pitch. We're not even going to make it to the stage."
+4. "Wait a second. This is working."
+5. "This is the best day of my life."
 
 
 # Creating a cadence
