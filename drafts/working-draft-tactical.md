@@ -1812,7 +1812,7 @@ But what, exactly, does that roller coaster look like?
 
 At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
 
-Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, mentors, and the accelerator staff.
+Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, mentors, and the accelerator staff. 
 
 So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator.
 
