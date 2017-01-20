@@ -1816,6 +1816,8 @@ Now, granted, this is a sweeping generalization that may not apply to every foun
 
 So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator.
 
+![Startup Emotional Roller Coaster](/source/image/pieAcceleratorEmotionalRollerCoaster.001.png)
+
 # Creating a cadence
 
 One of the most critical efforts for the accelerator staff is that of managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
