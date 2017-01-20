@@ -145,6 +145,7 @@ Without—and this is critical—expecting anything in return. At all.
 Don't think that you have to acquire space before this happens. You can partner with existing spaces. Or pay to rent spaces that you make accessible to others. Or this can occur in a shared space or a known resource.
 
 You don't have to own the space, but you must do what it takes to make space available to the community.
+
 With PIE, we were lucky enough to own space. Which had been generously donated by our patron, W+K, as part of the experiment. So we hosted community gatherings that we didn't manage. We invited people into the space. We had them hold their events in our space. We let people crash out overnight for crazy caffeine fueled coding sessions. Heck, we even hosted the first ever 30 hour nonstop livestreamed Web telethon in the space to help the community raise money for charity during the holiday season.
 
 We made the PIE space a resource by the community, for the community.
