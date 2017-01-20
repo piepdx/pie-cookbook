@@ -1539,7 +1539,7 @@ Partners
 
 # Recipe for an Accelerator
 
-## Before you begin, establish a thesis
+## Establish a thesis
 
 Even if you're not planning to invest capital in your Startups, you should still do one thing like an investor: have a thesis. 
 
