@@ -1937,8 +1937,8 @@ We're not going to claim that we can predict every up and down, but let's take a
 
 ![Startup pre-Accelerator Detail](/source/images/pieAcceleratorEmotionalRollerCoasterPreAccelerator-Detail.png)
 
-1. **False Ceiling of Euphoria**
-2. **False Floor of Despair**
+1. **False Ceiling of Euphoria** We've learned that the Accelerator environment accelerates, among other things, emotions. As such, we've learned that the highs are far higher than they have seemed to the founders in the past. For that reason, we categorize the pinnacle of euphoria for founders prior to the accelerator as a "false ceiling." Accelerator staff and mentors need to be prepared to help accentuate the good times — and to help regulate euphoric misconceptions.
+2. **False Floor of Despair** If the "highs are higher," then guess what? That's right. The lows are way lower. Within the accelerator environment, we often find founders struggling with depression and negativity that surmounts anything with which they had to deal prior to entering the accelerator program. Accelerator staff and mentors need to be prepared for how paralyzingly acute these lows can be.
 3. **"I found the perfect Accelerator for us!"**
 4. **"It's been 30 seconds and they haven't responded. They hate us."**
 5. **"We made it through the entire process and they accepted us!"**
