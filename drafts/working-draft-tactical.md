@@ -1814,7 +1814,7 @@ At PIE, we've spent time analyzing the behavior of founders in both our accelera
 
 Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, mentors, and the accelerator staff. 
 
-So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator.
+So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. 
 
 ![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
 
@@ -1834,6 +1834,19 @@ We're not going to claim that we can predict every up and down, but let's take a
 4. "It's been 30 seconds and they haven't responded. They hate us."
 5. "We made it through the entire process and they accepted us!"
 6. "Maybe we've made a mistake. Is this the right move for us?"
+
+### Month 1 (Product)
+
+Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions.
+
+![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
+
+1. "Acceptance! We've made it!"
+2. "We are killing it!" aka Breaking through the false ceiling of euphoria
+3. "We're doing it wrong." aka Crashing through the false floor of despair
+4. "Everybody else seems to be struggling with the same issues."
+5. "We're still the worst company in here."
+6. "Product demo went okay. And folks here seem to get what we do."
 
 # Creating a cadence
 
