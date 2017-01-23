@@ -1941,8 +1941,8 @@ We're not going to claim that we can predict every up and down, but let's take a
 2. **False Floor of Despair** If the "highs are higher," then guess what? That's right. The lows are way lower. Within the accelerator environment, we often find founders struggling with depression and negativity that surmounts anything with which they had to deal prior to entering the accelerator program. Accelerator staff and mentors need to be prepared for how paralyzingly acute these lows can be.
 3. **"I found the perfect Accelerator for us!"** When startups are looking for support, finding an Accelerator that best matches their needs can be a high point for them. It's important that Accelerator staff understand and appreciate this moment of euphoria and do their best to cultivate a relationship with each and every Founder who has an interest in their Accelerator.
 4. **"It's been 30 seconds and they haven't responded. They hate us."** Just as quickly as Founders get excited about your Accelerator, they'll get equally despondent if you don't respond to them immediately. Make sure that you're adequately staffed to deal with the influx of questions and inquiries. Automate as much as you can to ensure that Founders always get a response to every request. For example, make sure that there is some indication that a submitted application has been received and is being reviewed. Otherwise, you'll get multiple questions from each and every Founder.
-5. **"We made it through the entire process and they accepted us!"**
-6. **"Maybe we've made a mistake. Is this the right move for us?"**
+5. **"We made it through the entire process and they accepted us!"** Once accepted to a program, Founders often experience a sense of euphoria coupled with relief. To many Founders, the recognition and acceptance create a false sense of accomplishment. When in reality, it is actually the starting line for a much more difficult — and emotionally taxing — phase for their company.
+6. **"Maybe we've made a mistake. Is this the right move for us?"** While the period of euphoria may last for some, most Founders will experience a return to a more calm outlook prior to their beginning the program. This may also manifest itself as having second thoughts or cold feet about joining the Accelerator program at all. Be prepared for questions and Founders seeking reassurance.
 
 ### Month 1 (Product)
 
@@ -1950,7 +1950,7 @@ Now that the company has been accepted to the program and is starting the accele
 
 ![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
 
-1. **"Acceptance! We've made it! The sky is the limit."**
+1. **"Acceptance! We've made it! The sky is the limit."** Once the Founders accept that the Accelerator is the right thing for their startup and cofounders, there is a palpable upswing in emotion. But it is important to note that there will be first date jitters and nerves. Each Founder deals with it differently, but it tends to be an incredibly positive and reassuring time for most companies. The nerves are perceived as excitement rather than dread. And the notion that someone not only believes in the Founders and their idea but is willing to help them succeed is an incredibly heady feeling for most.
 2. **"We are killing it!" aka Breaking through the false ceiling of euphoria**
 3. **"We're doing it wrong." aka Crashing through the false floor of despair**
 4. **"Everybody else seems to be struggling with the same issues."**
