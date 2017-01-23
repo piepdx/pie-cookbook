@@ -1950,7 +1950,7 @@ Now that the company has been accepted to the program and is starting the accele
 
 ![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
 
-1. **"Acceptance! We've made it! The sky is the limit."**
+1. **"Acceptance! We've made it! The sky is the limit."** Once the Founders make the decision to participate in the Accelerator program, there is a palpable upswing in emotion. Like any "first day" each Founder deals with it differently, but it tends to be an incredibly positive and reassuring time for most companies. 
 2. **"We are killing it!" aka Breaking through the false ceiling of euphoria**
 3. **"We're doing it wrong." aka Crashing through the false floor of despair**
 4. **"Everybody else seems to be struggling with the same issues."**
