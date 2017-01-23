@@ -1951,7 +1951,7 @@ Now that the company has been accepted to the program and is starting the accele
 ![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
 
 1. **"Acceptance! We've made it! The sky is the limit."** Once the Founders accept that the Accelerator is the right thing for their startup and cofounders, there is a palpable upswing in emotion. But it is important to note that there will be first date jitters and nerves. Each Founder deals with it differently, but it tends to be an incredibly positive and reassuring time for most companies. The nerves are perceived as excitement rather than dread. And the notion that someone not only believes in the Founders and their idea but is willing to help them succeed is an incredibly heady feeling for most.
-2. **"We are killing it!" aka Breaking through the false ceiling of euphoria**
+2. **"We are killing it!" aka Breaking through the false ceiling of euphoria** What happens when you get a bunch of euphoric and excited Founders together? That's right: mass hysteria. As Founders' emotions play off of one another, individual Founders find that heady feeling growing at an exponential rate. What previously seemed like the height of happiness — the False Ceiling of Euphoria — pales in comparison to the feeling of giddiness most of the Founders begin to experience. But as the Founders begin to realize their new existence in the Accelerator program, this feeling of euphoria begins to ebb. 
 3. **"We're doing it wrong." aka Crashing through the false floor of despair**
 4. **"Everybody else seems to be struggling with the same issues."**
 5. **"We're still the worst company in here."**
