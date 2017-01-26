@@ -1122,7 +1122,7 @@ There is no set day or timeframe. Staff introduces the startup and mentor and le
 
 ## So which is it? Both.
 
-Unfortunately, there is no easy answer. It's a balance of both types of engagement.
+Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
 
 Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
 
