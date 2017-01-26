@@ -1037,7 +1037,7 @@ Just as importantly, we used other well know Mentors as examples of time commitm
 
 At PIE, our lowest time commitment — our low bar — was "Be willing to grab coffee with one of our startups. Roughly 20-30 minutes. One time." That was it. Thirty minutes of commitment per year. And you're a PIE mentor.
 
-At the upper end of the scale were things like "Work out of the space on a regular basis and be open to interruption, as if you were one of the startups." or "Be willing to take one of the companies under your wing and meet with the Founders consistently over the course of the class."
+At the upper end of the scale were things like, "Work out of the space on a regular basis and be open to interruption, as if you were one of the startups," or, "Be willing to take one of the companies under your wing and meet with the Founders consistently over the course of the class."
 
 In every case, we began the conversation with "What are you hoping to get out of mentoring?" And "How much time do you feel you have to volunteer?"
 
