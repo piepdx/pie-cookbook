@@ -472,7 +472,7 @@ With PIE, we were very careful with the language we used to describe our primary
 
 We always referred to W+K as a "patron" rather than a "sponsor." Our reasoning? We meant it as a compliment, in the same vein as those benefactors who saw the value of providing financial support for artists to pursue their work — without any guarantee that that expenditure would result in anything more than creative exploration.
 
-W+K is the Patron for PIE. And anything we've accomplished is only due to that generosity.
+# tl;dr W+K is the Patron for PIE. And anything we've accomplished is only due to that generosity.
 
 ### Sponsor
 
