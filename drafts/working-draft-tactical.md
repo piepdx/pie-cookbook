@@ -472,7 +472,7 @@ With PIE, we were very careful with the language we used to describe our primary
 
 We always referred to W+K as a "patron" rather than a "sponsor." Our reasoning? We meant it as a compliment, in the same vein as those benefactors who saw the value of providing financial support for artists to pursue their work — without any guarantee that that expenditure would result in anything more than creative exploration.
 
-W+K is the Patron for PIE. And anything we've accomplished is only due to that generosity.
+# tl;dr W+K is the Patron for PIE. And anything we've accomplished is only due to that generosity.
 
 ### Sponsor
 
@@ -1037,7 +1037,7 @@ Just as importantly, we used other well know Mentors as examples of time commitm
 
 At PIE, our lowest time commitment — our low bar — was "Be willing to grab coffee with one of our startups. Roughly 20-30 minutes. One time." That was it. Thirty minutes of commitment per year. And you're a PIE mentor.
 
-At the upper end of the scale were things like "Work out of the space on a regular basis and be open to interruption, as if you were one of the startups." or "Be willing to take one of the companies under your wing and meet with the Founders consistently over the course of the class."
+At the upper end of the scale were things like, "Work out of the space on a regular basis and be open to interruption, as if you were one of the startups," or, "Be willing to take one of the companies under your wing and meet with the Founders consistently over the course of the class."
 
 In every case, we began the conversation with "What are you hoping to get out of mentoring?" And "How much time do you feel you have to volunteer?"
 
@@ -1122,7 +1122,7 @@ There is no set day or timeframe. Staff introduces the startup and mentor and le
 
 ## So which is it? Both.
 
-Unfortunately, there is no easy answer. It's a balance of both types of engagement.
+Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
 
 Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
 
