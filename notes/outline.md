@@ -4,9 +4,11 @@
 ## PIE Cookbook
 
 2. About 
+	3. Preface (https://github.com/piepdx/pie-cookbook/blob/master/notes/context/preface.md)
 	3. Context
-		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of capitalizing on the momentum of an existing community, enabling community leaders, supporters, and contributors to focus their efforts in conjunction with that momentum for the greatest benefit — and highest likelihood of success — for that community.
-		5. While PIE will speak from its vantage point on its experience as coworking space, a community hub, and an early stage tech startup accelerator, the PIE Cookbook is not meant to be tech specific. Nor is it meant to be a guide that only applies to startups. 
+		4. https://github.com/piepdx/pie-cookbook/blob/master/notes/context/building-startup-accelerator.md
+		4. Building an accelerator is not a means of creating a community from scratch. Building an accelerator is a means of recognizing, embracing, and capitalizing on the momentum of an existing community, enabling community leaders, supporters, and contributors to focus their efforts in conjunction with that momentum for the greatest benefit — and highest likelihood of success — for that community. (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-i-context-a-building-an-accelerator)
+		5. While PIE speaks from its vantage point on its experience as coworking space, a community hub, and an early stage tech startup accelerator, the PIE Cookbook is not meant to be tech specific. Nor is it meant to be a guide that only applies to startups. 
 		6. We believe that the accelerator model is a powerful and efficient educational construct to can be applied to a variety of markets, businesses, and communities. 
 		7. We believe that no one has perfected it yet. So you should feel free to adapt and revise it as you see fit. 
 		7. We believe that the accelerator market is currently like the search engine market pre-Google. There are lots of well meaning people sort of doing things right but no one has really hit upon a repeatable and successful formula for doing this.
@@ -15,14 +17,15 @@
 			9. As far as accelerators go, we have our Ivy Leagues and our Stanford, but we have barely begun to scratch the surface for this educational model. Where is the Georgia Tech of accelerators? Where is the RISD? Where is the Reed or Whitman? Better yet, where is the state school or community college or junior college? Where is the vocational school of accelerators? There’s still plenty of room to explore this educational model. We have a long way to go before we’ve even leveraged the existing model, let alone begun to inflate the bubble. https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.qjyagrd3p
 		6. This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most every case, it may not be wise — or downright foolhardy — to start where PIE ended. You should start where PIE started. And try to end where you want to end. 
 		7. There is inherent value in the journey, itself.
-		8. Risks
-			9. Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
-			10. You can go too far.
+		8. Risks (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-i-context-h-risks)
+			9. Too Early. Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
+			10. Too rigid. You can go too far.
 				11. In structure
 				12. In goals
 				13. In trying to over architect the experience
 				14. In over planning and under participating
-			11. Once you start, you cannot stop. Ever.
+			11. Too exclusive. Stepford wives versus Berkley. 'nuf said.
+			12. Too short. Once you start, you cannot stop. Ever.
 	4. Format
 		5. How to use this book
 			6. By way of analogy, the PIE Cookbook should serve as a map for your road trip. 
@@ -55,11 +58,16 @@
 					13. Sometimes you’ll need to start later in the book and work your way backwards.
 					14. Start with what you have. Go from there.
 		10. Definitions
+			11. https://github.com/piepdx/pie-cookbook/blob/master/notes/context/context-definitions.md
 			11. We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
-			11. Community
+			11. Community (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-ii-format-e-definitions-b-community)
 			12. Incubator
 			12. Accelerator
 			12. Mentor
+				Technical
+				Marketing
+				Sales
+				Operations
 			13. Advisor
 			14. Investor
 				15. Angel
@@ -72,7 +80,10 @@
 			14. Patron
 			15. Sponsor
 			15. Partner
+			16.Cheerleader
+			16. Leader
 	8. Before you begin
+		9. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#1-about-iii-before-you-begin-b-pre-requisite-reading-a-required-a-startup-communities
 		9. Establishing context and your own vocabulary
 		10. Prerequisite reading
 			11. Required
@@ -198,10 +209,11 @@
 					13. Day-long speed dating
 					14. Pitching from the beginning of the program
 15. Kitchen Prep
+	16. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#3-kitchen-prep
 	16. Where you start is where you start. It might not be where you want to end up. But you've got to start somewhere.
 	16. Environmental scan
 		18. Assess what's what before you begin
-		18. Start with reality
+		18. Start with reality	
 		18. What assets/resources does your community have?
 			19. How mature are they?
 			20. Are they currently accessible?
@@ -217,11 +229,13 @@
 		16. You're helping founders understand how to survive in the real world
 	15. Base ingredients
 		16. Community
+			17. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#4-cooking-ii-base-ingredients-a-community
 			17. How do you define your community?
 			17. What are the objectives?
 				18. Shared
 				19. Conflicting
 			20. What is the expertise (if any)?
+				(via @tlucich) "Not every community will start with the depth of talent or experience to launch into the celebrated 'tech incubator' paradigm. The same principles used at PIE are every bit as pertinent for fledgling concepts and companies - from window coverings, to consulting services, to widget makers. (I'd personally love to see the local grange hall doing sometihng like this with a new generation of farmers. It was easier when kids grew up to do what our parents did, living in the same familiar and networked community. The PIE concept helps us rediscover what this kind of intimate and engaged community used to do.) The rules around crowdsourcing open up a new world for more traditional businesses to secure startup capital, but they equally need a thoughtful ecosystem of engaged parties to guide them and help shape their success. Anyone can start to redefine their community: working from where they are, with what they have."
 			21. What are the weaknesses?
 			17. What are the silos?
 			18. What are the issues?
@@ -365,10 +379,10 @@
 		45. Staff
 			46. Hiring
 			47. Required roles
-				46. Managing Director (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-staff-roles-responsibiliies.md)
-				47. Program Manager (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-staff-roles-responsibiliies.md)
+				46. Managing Director (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-staff-roles-responsibilities.md)
+				47. Program Manager (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-staff-roles-responsibilities.md)
 			48. Optional roles
-				49. Entrepreneur in Residence (EiR) (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-staff-roles-responsibiliies.md)
+				49. Entrepreneur in Residence (EiR) (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-staff-roles-responsibilities.md)
 				49. Intern
 				50. Associate
 				51. Technical assistance
@@ -414,12 +428,14 @@
 		58. Good cop/bad cop
 	59. Recipes
 		60. Beverages (community engagement)
+			61. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#4-cooking-v-recipes-a-beverages-community-engagement
 			61. Attending events
 			62. Online presence
 			63. Social
 			64. Blog
 		65. Hors d'oeuvre (Hackathons, events, coworking)
-			66. Don’t start with an accelerator
+			66. https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#4vb-hors-doeuvre-hackathons-events-coworking
+			66. Don’t start with an accelerator (https://github.com/piepdx/pie-cookbook/blob/master/drafts/community/community.md#want-to-start-an-accelerator-dont-start-an-accelerator)
 			66. Coworking and Community Development are not complementary
 				67. We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, to date, has been the concept of free desks for “mentors in residence.” This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
 				68. Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
@@ -468,10 +484,16 @@
 					86. Partners
 					87. Patrons
 					88. Sponsors
+					89. Evangelists & Cheerleaders
 				84. Events
 				82. Tchotchkes
 			82. Applications
-				83. Example application
+				83. Example application (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
+				84. Communications
+					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
+					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
+					87. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
+					88. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
 				84. Fringe benefits of applications: Market research
 					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
 					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
@@ -490,12 +512,20 @@
 			90. Prep
 				91. Background checks
 				92. Paperwork
-			91. Onboarding
+			91. Onboarding 
+				92. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-startups.md
+				93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding.md
 				92. Setting expectations
+					93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
+					94. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-to-expect.md
+					95. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-youre-getting-in-to.md
 				93. Touring the space
+					94. Think Skunkworks, not Architectural Digest
+					95. The space sets the tone - is this my 3rd place?
+					
 				94. Introducing startups to one another
 			91. First day
-			92. Family Dinner
+			92. Family Dinner (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-family-dinner.md)
 				93. Origin
 					94. Borrowed from YC
 					95. Originally didn’t involve any dinner
@@ -512,7 +542,8 @@
 					98. Everyone has to talk
 					99. If you can help, help
 			96. Day-to-day
-				97. The emotional ebb and flow of a stressful startup accelerator
+				97. The emotional ebb and flow of a stressful startup accelerator (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/cadence-timing.md)
+				98. Typical week (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-typical-week.md)
 				98. Curriculum
 					105. More independent study than classroom
 						106. Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
@@ -547,29 +578,32 @@
 					104. Weekly 1:1
 					105. Office hours
 				99.  Working with mentors
-					99. Mentor engagement
-						100. Formal
-							101. Presentation with Q&A
-								102. As we mention above, founders only care about the problem they’re experiencing today, right now. To further the disconnect, even if a mentor provides step-by-step instructions with excruciating details, the founder will never be able to recreate the steps, moments in time, or luck that founder had. 
-								103. For this reason, we suggest that mentor presentations primarily be used as an anecdotal learning experience. Not a teaching one.
-								104. Your primary objective with this format is to convince your founders that they, like the mentor, are capable of succeeding. 
-								104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
-								105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
-							100. Workshops
-							101. Gauntlet/speed dating
-							102. 1:1
-							103. Office hours
-						103. Informal
-							103. Happy hours
-							104. After hours
-							104. Social gatherings
-							105. Pitch practice
-							106. Drop ins
-							107. On the fly/visiting mentors
+					100.  https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/guide-mentors-meeting-with.md
+				99. Mentor engagement
+					100. Formal
+						101. Presentation with Q&A
+							102. As we mention above, founders only care about the problem they’re experiencing today, right now. To further the disconnect, even if a mentor provides step-by-step instructions with excruciating details, the founder will never be able to recreate the steps, moments in time, or luck that founder had. 
+							103. For this reason, we suggest that mentor presentations primarily be used as an anecdotal learning experience. Not a teaching one.
+							104. Your primary objective with this format is to convince your founders that they, like the mentor, are capable of succeeding. 
+							104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
+							105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
+						100. Workshops
+						101. Lunch and Learns (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-lunch-and-learns.md)
+						101. Gauntlet/speed dating
+						102. 1:1
+						103. Office hours
+					103. Informal
+						103. Happy hours
+						104. After hours
+						104. Social gatherings
+						105. Pitch practice
+						106. Drop ins
+						107. On the fly/visiting mentors
 				108. Peer mentoring
 					109. Creating the culture of peer mentoring
 					110. Enabling random collisions through the selection process
 					111. Reinforcing collaboration and trust
+					112. Encouraging bonding among peers (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-enforced-socializing-with-peers.md)
 					112. Using shared experiences
 						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
 						114. Family Dinner
@@ -598,7 +632,7 @@
 			112. Startup sprints
 				113. 404
 				114. Bring the pain
-			115. Demo Day
+			115. Demo Day (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-demo-day.md)
 				116. To Demo Day or not to Demo Day?
 				116. Objectives
 				117. Audience
@@ -614,13 +648,20 @@
 				124. Additional content
 				118. Venue
 				119. Promotion
+					120. Communications
+						121. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-invite.md
+						122. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-logistics.md
+						123. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-livestream-reminder.md
+						124. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-follow-up.md
 				120. Logistics
 					120. Run of show
 					120. Pre-show
 					121. During show
 					122. Post show
+					123. Archive
+						124. https://www.youtube.com/channel/UCMEbih2k3WBsODB68WqwT6g/videos?sort=dd&shelf_id=0&view=0
 		115. Dessert 
-			116. Post mortems
+			116. Post mortems (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/logistics-post-mortem.md)
 			118. Tweaking the model
 			119. Quarterly surveys
 			119. Metrics for success
