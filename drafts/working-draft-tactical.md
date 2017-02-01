@@ -1554,6 +1554,9 @@ Why? Well, what we've learned over the years is that the space must be viable an
 
 It's not that we didn't have the ability to make the space more comfortable. It's simply that it *shouldn't* be comfortable. That is not the purpose of the space. The space, like building a startup, should be difficult. And awkward. It should always cause friction. And discomfort.
 
+> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+> Antoine de Saint-Exupery. 
+
 Your only requirements are a solid wifi connection, access to power, a surface for a laptop, and a chair. That's it. Beyond that, you provide less than is needed. 
 
 Think less office space, more coffeeshop or bar.
@@ -2043,6 +2046,9 @@ Workspace is about half full with the founders who prefer the late shift. Staff 
 
 **8:00AM** 
 Staff arrives. Continues making mentor connections for startups based on issues raised during family dinner. *Note: It may take as many as two or three mentors with subject matter expertise to help each startup resolve each issue. Your job, from a staff perspective, is to help make this process as efficient as possible.*  
+
+> Make things as simple as possible but no simpler.
+> Albert Einstein
 
 **10:00AM** 
 Workspace is full.
