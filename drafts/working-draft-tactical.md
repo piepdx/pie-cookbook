@@ -1534,7 +1534,7 @@ Honestly, we could go on and on.
 
 Yes, people ooh and ah when they see the space. And yes, if you're running a coworking space, the aesthetic makes it easier to defend the prices you're charging them for space. And yes, it can provide a certain sense of pride for the folks running the space. 
 
-There is a certain je ne se quais to a cohesive interior design aesthetic. 
+There is a certain je ne sais quoi to a cohesive interior design aesthetic. 
 
 It's an aesthetic that's required for coworking. Because you need people — people who could otherwise roll out of bed and start working — to feel the motivation to commute into an office space. You need people to feel that there is intrinsic value in the space you're providing. And you need people to be comfortable with the prices they are paying in return for that investment. 
 
