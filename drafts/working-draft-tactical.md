@@ -1514,6 +1514,14 @@ Partners
 
 ## Create a Minimally Valuable Space
 
+At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
+
+We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community a community. That same cohesive tissue that, over time, becomes the muscle that supports a thriving ecosystem. We think the random collisions that occur among disparate companies and diverse individuals are worth the "loss of productivity." And we think that being human in a workspace with other humans has intrinsic value. Full stop.
+
+That's said, you're not building a coworking space. You're building an accelerator space. Out of which, people will, yes, cowork. But this is an important distinction, so let's unpack that a bit.
+
+# tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
+
 We've noticed a tendency in the industry to deck out your coworking or shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs.
 
 Yes, people ooh and ah when they see the space. Yes, it makes it easy to defend the prices you're charging them for space. And yes, it provides a certain sense of pride for the folks running the space. 
@@ -1527,8 +1535,6 @@ Our initial build out was the equivalent of set design for the quintessential st
 It didn't work.
 
 What we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
-
-# tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
 
 It's not that we didn't have the ability to make the space more comfortable. It's simply that it *shouldn't* be comfortable. That is not the purpose of the space. The space, like building a startup, should be difficult. And awkward. It should always cause friction. And discomfort.
 
