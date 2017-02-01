@@ -1615,7 +1615,7 @@ At PIE, we hit upon the fact that we were really good at accelerating technology
 - Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — a company built on the premise of helping other companies.
 - We started PIE just as both the SaaS and mobile markets were exploding
 
-#### Know where you suck
+## Know where you suck
 
 Know — don’t assume; know — what you are truly good at doing.
 
