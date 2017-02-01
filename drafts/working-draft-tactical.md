@@ -1516,7 +1516,7 @@ Partners
 
 At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
 
-We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community a community. That same cohesive tissue that, over time, becomes the muscle that supports a thriving ecosystem. We think the random collisions that occur among disparate companies and diverse individuals are worth the "loss of productivity." And we think that being human in a workspace with other humans has intrinsic value. Full stop.
+We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. We think the random collisions that occur among disparate companies and diverse individuals are worth the "loss of productivity." And we think that being human in a workspace with other humans has intrinsic value. Full stop.
 
 That's said, you're not building a coworking space. You're building an accelerator space. Out of which, people will, yes, cowork. But this is an important distinction, so let's unpack that a bit.
 
