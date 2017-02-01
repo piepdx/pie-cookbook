@@ -2319,6 +2319,11 @@ We believe it’s important to put just as much effort and energy into the event
 - Partners
 - Sponsors
 
+## Creativity
+
+Demo Day is designed to showcase your companies, not just on stage, but in real world use. For that reason, we encourage you to consider creative ways to incorporate the presenting startups' products into the  Demo Day, itself. 
+
+For example, we provided [PIE Demo Day 2014 content via Read The Docs](http://pie.readthedocs.io/) on the their Demo Day to showcase how useful and compelling their solution was. 
 
 ## Logistics
 
