@@ -1522,23 +1522,35 @@ It might not work for a single company, with people treating the entire office l
 
 Just to be clear, we are not advocating for a virtual accelerator. We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
 
-That's said, you're not building a coworking space. You're building an accelerator space. Out of which, people will, yes, cowork. But this is an important distinction, so let's unpack that a bit.
+# tl;dr You're not building a coworking space. You're building an accelerator space.
 
-# tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
+Yes, people will cowork out of your accelerator space. But your accelerator space is not a coworking space. This is an important distinction, so let's unpack that a bit.
 
-We've noticed a tendency in the industry to deck out your shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs.
+### Coworking is comfortable
 
-Yes, people ooh and ah when they see the space. Yes, it makes it easy to defend the prices you're charging them for space. And yes, it provides a certain sense of pride for the folks running the space. 
+We've noticed a tendency in the accelerator industry to deck out your shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs. Bean bags. Ping pong tables. Catered kitchens…
 
-But, to be honest, more often than not, those are false positives. They don't really make for a great community space. 
+Honestly, we could go on and on.
+
+Yes, people ooh and ah when they see the space. And yes, if you're running a coworking space, the aesthetic makes it easier to defend the prices you're charging them for space. And yes, it can provide a certain sense of pride for the folks running the space. 
+
+There is a certain je ne se quais to a cohesive interior design aesthetic. 
+
+It's an aesthetic that's required for coworking. Because you need people — people who could otherwise roll out of bed and start working — to feel the motivation to commute into an office space. You need people to feel that there is intrinsic value in the space you're providing. And you need people to be comfortable with the prices they are paying in return for that investment. 
+
+But, to be honest, more often than not, those are false positives. They don't really make for a great community space. Or accelerator space. That design element makes for a great coworking space. 
+
+Over designing is a mistake.  
 
 Don't feel guilty. PIE fell for this trap too. It happens. But this is about you making new mistakes, remember? Not repeating ours. 
 
-Our initial build out was the equivalent of set design for the quintessential startup workspace. Complete with closet door and sawhorse desks. 
+At the PIE space, our initial build out was the equivalent of set design for the quintessential startup workspace. Complete with painted and distressed closet doors as desktops supported by heavily welded — and rustically beautiful — sawhorses.  
 
-It didn't work.
+But for as compelling as the design was, it simply didn't work.
 
-What we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
+Why? Well, what we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
+
+# tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
 
 It's not that we didn't have the ability to make the space more comfortable. It's simply that it *shouldn't* be comfortable. That is not the purpose of the space. The space, like building a startup, should be difficult. And awkward. It should always cause friction. And discomfort.
 
