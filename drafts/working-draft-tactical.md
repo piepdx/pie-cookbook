@@ -2042,7 +2042,7 @@ Workspace is about half full with the founders who prefer the late shift. Staff 
 ## Tuesday
 
 **8:00AM** 
-Staff arrives. Continues making mentor connections for startups based on issues raised during family dinner. Typically two or three mentors per startup per issue. 
+Staff arrives. Continues making mentor connections for startups based on issues raised during family dinner. Note: It may take as many as two or three mentors with subject matter expertise to help each startup resolve each issue. Your job, from a staff perspective, is to help make this process as efficient as possible.  
 
 **10:00AM** 
 Workspace is full.
