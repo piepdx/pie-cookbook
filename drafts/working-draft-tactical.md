@@ -1615,7 +1615,7 @@ At PIE, we hit upon the fact that we were really good at accelerating technology
 - Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — a company built on the premise of helping other companies.
 - We started PIE just as both the SaaS and mobile markets were exploding
 
-#### Know where you suck
+## Know where you suck
 
 Know — don’t assume; know — what you are truly good at doing.
 
@@ -1631,9 +1631,13 @@ Third, we had not established adequate ties with investors in other regions. We 
 
 But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provided us with yet another measure by which to select the companies we chose.
 
-#### But also know what your strengths are
+## But also know what your strengths are
 
-PIE mentor and Techstars Managing Director, Chris DeVore, provides a [compelling list of the things that Seattle is good at doing](http://crashdev.com/2017/01/what-is-seattle-best-at/).
+PIE mentor and Techstars Seattle Managing Director, Chris DeVore, provides a [compelling list of the things that Seattle is good at doing](http://crashdev.com/2017/01/what-is-seattle-best-at/). 
+
+While your list might not be as long as Chris' — Seattle has been at this for a while — it's important that you take the time to assess what strengths your staff, mentors, startups, and regional expertise bring to the mix. 
+
+If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
  
 				78. Setting expectations
 				79. Communicating expectations
