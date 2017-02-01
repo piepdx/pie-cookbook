@@ -1954,7 +1954,11 @@ We're not going to claim that we can predict every up and down, but let's take a
 
 ### Month 1 (Product)
 
-Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions.
+Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions. 
+
+As we mentioned above, PIE generally worked with founders who were confident with building product. Your founders may be similar. Or you may attract founders with different points of confidence. 
+
+Whatever the case, it is important that you begin the accelerator program focusing on the area or topic where your founders boast the most confidence. The accelerator environment can be exceedingly stressful and emotionally taxing. By starting your founders in an area of strength, you give them the best chance of surviving the emotional onslaught of their new reality.
 
 ![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
 
