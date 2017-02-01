@@ -1952,9 +1952,13 @@ We're not going to claim that we can predict every up and down, but let's take a
 5. **"We made it through the entire process and they accepted us!"** Once accepted to a program, Founders often experience a sense of euphoria coupled with relief. To many Founders, the recognition and acceptance create a false sense of accomplishment. When in reality, it is actually the starting line for a much more difficult — and emotionally taxing — phase for their company.
 6. **"Maybe we've made a mistake. Is this the right move for us?"** While the period of euphoria may last for some, most Founders will experience a return to a more calm outlook prior to their beginning the program. This may also manifest itself as having second thoughts or cold feet about joining the Accelerator program at all. Be prepared for questions and Founders seeking reassurance.
 
-### Month 1 (Product)
+### Month 1 
 
-Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions.
+Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions. 
+
+As we mentioned above, PIE generally worked with founders who were confident with building product. Your founders may be similar. Or you may attract founders with different points of confidence. 
+
+Whatever the case, it is important that you begin the accelerator program focusing on the area or topic where your founders boast the most confidence. The accelerator environment can be exceedingly stressful and emotionally taxing. By starting your founders in an area of strength, you give them the best chance of surviving the emotional onslaught of their new reality.
 
 ![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
 
@@ -1965,9 +1969,9 @@ Now that the company has been accepted to the program and is starting the accele
 5. **"We're still the worst company in here."** But that upswing is short lived as founders rapidly return to self criticism. This is usually based on their misperception that every other founder in the program is handling the stress and scheduling more effective. Or is making better use of the resources at his/her disposal. While this viewpoint is often ill founded — no one is actually doing terribly well at this point — it can still cause a dip founders' emotional states. It's especially important to note that this mindset can be reinforced by other founders celebrating wins. So it's important to keep both the positive and negative stuff in check. 
 6. **"Product demo went okay. And folks here seem to get what we do."** With the first month being wholly focused on product — and the bulk of PIE founders being product-centric founders — the opportunity to demo is an uplifting one. While founders rarely have a cohesive story about their product at this point, other founders can intuit motivations and functions, giving the companies a sense of belonging. This reinforces the feeling that the product has merit. And it helps reinforce the founders' feeling of belonging in the accelerator program. 
 
-### Month 2 (Projections)
+### Month 2 
 
-This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. 
+This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
 
 ![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
 
@@ -1976,7 +1980,7 @@ This is by far the worst month for most startups in an Accelerator program. The 
 3. **"We can do this."**
 4. **"We don't seem any worse off than anyone else."**
 
-### Month 3 (Pitch)
+### Month 3 
 
 This will be the most rewarding month for your startups. Not only will they make significant progress, they will make tangible progress that will directly impact the future of their companies. 
 
