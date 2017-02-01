@@ -1516,13 +1516,17 @@ Partners
 
 At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
 
-We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. We think the random collisions that occur among disparate companies and diverse individuals are worth the "loss of productivity." And we think that being human in a workspace with other humans has intrinsic value. Full stop.
+We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
+
+It might not work for a single company, with people treating the entire office like a water cooler. But in our experience, it tends to work really well with small teams cohabitating in a larger space. We've found that the random collisions that occur among disparate companies and diverse individuals are worth the "loss of productivity." And we think that being human in a workspace with other humans has intrinsic value. Full stop.
+
+Just to be clear, we are not advocating for a virtual accelerator. We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
 
 That's said, you're not building a coworking space. You're building an accelerator space. Out of which, people will, yes, cowork. But this is an important distinction, so let's unpack that a bit.
 
 # tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
 
-We've noticed a tendency in the industry to deck out your coworking or shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs.
+We've noticed a tendency in the industry to deck out your shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs.
 
 Yes, people ooh and ah when they see the space. Yes, it makes it easy to defend the prices you're charging them for space. And yes, it provides a certain sense of pride for the folks running the space. 
 
