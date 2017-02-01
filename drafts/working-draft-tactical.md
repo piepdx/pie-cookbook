@@ -2048,7 +2048,7 @@ Staff arrives. Continues making mentor connections for startups based on issues 
 Workspace is full.
 
 **12:00PM** 
-Catered lunch in the workspace. Some startups sit together and chat. Others simply eat at their desks. (Their is no required socializing. Just a request that the founders take time to eat.)
+Catered lunch in the workspace. Some startups sit together and chat. Others simply eat at their desks. (There is no required socializing. Just a request that the founders take time to eat.)
 
 **1:00PM** 
 Anecdotal founder story from a PIE mentor, followed by Q&A.
