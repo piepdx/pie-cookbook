@@ -1633,7 +1633,11 @@ But you know what? Admitting we sucked at that — and being open with our appli
 
 ## But also know what your strengths are
 
-PIE mentor and Techstars Managing Director, Chris DeVore, provides a [compelling list of the things that Seattle is good at doing](http://crashdev.com/2017/01/what-is-seattle-best-at/).
+PIE mentor and Techstars Seattle Managing Director, Chris DeVore, provides a [compelling list of the things that Seattle is good at doing](http://crashdev.com/2017/01/what-is-seattle-best-at/). 
+
+While your list might not be as long as Chris' — Seattle has been at this for a while — it's important that you take the time to assess what strengths your staff, mentors, startups, and regional expertise bring to the mix. 
+
+If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
  
 				78. Setting expectations
 				79. Communicating expectations
