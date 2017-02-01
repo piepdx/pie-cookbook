@@ -1971,7 +1971,7 @@ Whatever the case, it is important that you begin the accelerator program focusi
 
 ### Month 2 (Projections)
 
-This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. 
+This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
 
 ![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
 
