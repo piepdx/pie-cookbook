@@ -273,7 +273,7 @@ At a macro level, we tend to define a "startup" as any company that:
 2. Lacks the resources — be it product, staff, capital, experience, market knowledge, business acumen, or otherwise — to fuel that exponential growth
 2. Has yet to experience a significant liquidity event
 
-For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
+For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations" or "brands."
 
 # tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
 
