@@ -2000,9 +2000,10 @@ Whatever the case, it is important that you begin the accelerator program focusi
 
 This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
 
+And there's really no way to fix this or prevent this. If you've done your job correctly as an accelerator, you've put your founders under so much pressure in the first month — and so much has changed about their business 
+
 ![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
 
-1. **Below the line.** Prepare for your companies to spend the entire month below the midline. 
 2. **"I thought we were getting it, but we're not."**
 3. **"We can do this."**
 4. **"We don't seem any worse off than anyone else."**
