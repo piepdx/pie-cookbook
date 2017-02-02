@@ -2004,9 +2004,9 @@ And there's really no way to fix this or prevent this. If you've done your job c
 
 ![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
 
-2. **"I thought we were getting it, but we're not."**
-3. **"We can do this."**
-4. **"We don't seem any worse off than anyone else."**
+1. **"I thought we were getting it, but we're not."**
+2. **"We can do this."**
+3. **"We don't seem any worse off than anyone else."**
 
 ### Month 3 
 
