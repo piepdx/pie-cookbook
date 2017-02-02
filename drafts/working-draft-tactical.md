@@ -1958,7 +1958,7 @@ Now, granted, this is a sweeping generalization that may not apply to every foun
 
 # tl;dr Understanding the emotional roller coaster tells you when it's reasonable to increase the stress — and when you'd be wise to pull the pressure valve. 
 
-So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, for what it's worth.)
+So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, as well, for what it's worth.)
 
 ![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
 
