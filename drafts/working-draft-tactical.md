@@ -1593,7 +1593,9 @@ Potential investors walking into the space shouldn't see opulence. They should s
 
 ## IKEA is your friend
 
-Don't make furnishings a major line item
+Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. (Provide product details)
+
+Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. 
 
 			56. Infrastructure
 				57. Power
