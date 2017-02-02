@@ -291,6 +291,8 @@ Sometimes, Startups have already hired Staff. While this does not necessarily pr
 
 Obviously, as an early stage startup accelerator, we spend far more time with mentors than advisors. In our world, we define a Mentor as an individual who volunteers his or her time to provide a startup with opinions, criticism, and feedback on problems, opportunities, or quandaries.
 
+# tl;dr Mentors are volunteers who provide opinions to Founders
+
 Mentors tend to provide feedback in the form of “If I were in your shoes…”, “Here’s what I’d suggest…”, or “I remember being in a similar situation. Here’s how we handled it….”
 
 Therefore, mentors should…
