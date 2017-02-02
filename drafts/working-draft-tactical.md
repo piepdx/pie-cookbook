@@ -273,7 +273,7 @@ At a macro level, we tend to define a "startup" as any company that:
 2. Lacks the resources — be it product, staff, capital, experience, market knowledge, business acumen, or otherwise — to fuel that exponential growth
 2. Has yet to experience a significant liquidity event
 
-For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations."
+For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations" or "brands."
 
 # tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
 
@@ -281,13 +281,17 @@ For the sake of this book, a "startup" will be any company with whom your Accele
 
 Founders — often referred to a Cofounders when part of a founding team — create Startups. So Founders are the folks with whom you will be working. They're the person or people who were motivated to solve a problem and start a company. Often, Founders come in teams, but there are solo Founders, as well.  
 
+# tl;dr Founders are the individuals on whom you will be focusing your Accelerator efforts.
+
 Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
 
-> NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that they create an environment of trust for Founders in the Accelerator environment. Managing this exclusivity can be critical to an open and collaborative cohort.
+> NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that those activities provide a protective environment of trust for Founders in the Accelerator. Managing this exclusivity will be critical to an open and collaborative cohort.
 
 ### Mentor
 
 Obviously, as an early stage startup accelerator, we spend far more time with mentors than advisors. In our world, we define a Mentor as an individual who volunteers his or her time to provide a startup with opinions, criticism, and feedback on problems, opportunities, or quandaries.
+
+# tl;dr Mentors are volunteers who provide opinions to Founders.
 
 Mentors tend to provide feedback in the form of “If I were in your shoes…”, “Here’s what I’d suggest…”, or “I remember being in a similar situation. Here’s how we handled it….”
 
@@ -305,6 +309,8 @@ Therefore, mentors should…
 ### Advisors
 
 Conversely, we define an Advisor as an individual who is compensated —either in the form of equity or cash — by a startup in exchange for effort on solving a specific issue with the company or who is charged with assisting the founding team with a variety of issues.
+
+# tl;dr Advisors are compensated to do work for Startups.
 
 Therefore, advisors should…
 
