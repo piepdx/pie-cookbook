@@ -2000,13 +2000,15 @@ Whatever the case, it is important that you begin the accelerator program focusi
 
 This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
 
-And there's really no way to fix this or prevent this. If you've done your job correctly as an accelerator, you've put your founders under so much pressure in the first month — and so much has changed about their business 
+And there's really no way to fix this or prevent this. If you've done your job correctly as an accelerator, you've put your founders under so much pressure in the first month — and so much has changed about their business — that your founders will be feeling pretty beat up. And they'll feel like they're bumping along the bottom of the tank of despair. The false floor of despair is long forgotten. 
+
+Some of your founders will have higher amplitude in their spikes and troughs. Others will simply bump along throughout the month. 
 
 ![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
 
-1. **"I thought we were getting it, but we're not."**
-2. **"We can do this."**
-3. **"We don't seem any worse off than anyone else."**
+1. **"I thought we were getting it, but we're not."** Coming off the product demo, founders may be able to retain some semblance of euphoria. But it's far more likely that this "accomplishment" will quickly erode into stress about all of the other thing that the startup has to accomplish during the accelerator. This is the classic point where founders feel completely overwhelmed. Emotions and egos are extremely fragile at this point in time. And burn out is a significant risk. 
+2. **"We can do this."** If anything, founders are resilient. And stubborn. And they'll figure out ways to rebound. Even in short bursts. No matter what you throw at them. This difficult time is often the most rewarding and reinforcing of the accelerator. Confidence is built. Egos are rebuilt. And founders start to feel like they're actually starting to get a handle on this new existence. They're not overly confident. But their confidence is building. As is their understanding of how to manage themselves, their companies, and their peer relationships, both within the company and within the cohort. That's what make this the perfect point to teach — and challenge — the founders on their greatest weaknesses. Because they've developed the resilience to handle it. 
+3. **"We don't seem any worse off than anyone else."** Not only does confidence build, but Month 2 is the month where founders gain the most empathy for their cofounders and peers. They start to recognize that everyone is struggling. And that even the most confident and capable founders in the cohort have their weaknesses. So when you introduce subject matter with which everyone struggles — and everyone recognizes that one another is struggling — you enforce a tendency toward collaboration, support, and peer mentorship. Which, in turn, fortifies the connections and feeling of community among the participants. 
 
 ### Month 3 
 
