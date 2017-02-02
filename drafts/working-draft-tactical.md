@@ -2006,7 +2006,7 @@ Some of your founders will have higher amplitude in their spikes and troughs. Ot
 
 ![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
 
-1. **"I thought we were getting it, but we're not."**
+1. **"I thought we were getting it, but we're not."** Coming off the product demo, founders may be able to retain some semblance of euphoria. But it's far more likely that this "accomplishment" will quickly erode into stress about all of the other thing that the startup has to accomplish during the accelerator. This is the classic point where founders feel completely overwhelmed. Emotions and egos are extremely fragile at this point in time. And burn out is a significant risk. 
 2. **"We can do this."**
 3. **"We don't seem any worse off than anyone else."**
 
