@@ -545,6 +545,26 @@ Accelerators are about reality.
 
 Therefore, the environment you build should be a representation of the outside world, not a utopian existence. Why? Because your objective is helping founders understand how to survive and prosper in the real world. Or, tangentially, to understand the harsh environment of reality is not the right environment for them to be pursuing their company.
 
+## Order of progression
+
+When you're first starting, the progression should look something like this: 
+
+- Founders, which leads to securing 
+- Funding, which enables you to afford
+- Space and 
+- Staff, which allows you to recruit 
+- Mentors, which become the primary means of attracting 
+- Startups. 
+
+In terms of the amount of time you'll spend on each of these phases, the rank order looks more like this:
+
+1. Mentors
+2. Startups
+3. Funding
+4. Staff
+5. Space
+6. Founders 
+
 # Base ingredients
 
 In our experience, there are three critical components to supporting and maintaining a sustainable Accelerator: community, funding, and promotion. 
