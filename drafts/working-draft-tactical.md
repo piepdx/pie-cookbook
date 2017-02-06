@@ -2044,13 +2044,11 @@ This will be the most rewarding month for your startups. Not only will they make
 
 ![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
 
-1. **"After talking to folks, I'm not sure our company is viable."**
-2. **"We get to pitch! We totally get pitching."**
-3. **"No one got our pitch. We're not even going to make it to the stage."**
-4. **"Wait a second. This is working."**
-5. **Demo Day: "This is the best day of my life."**
-
-
+1. **"After talking to folks, I'm not sure our company is viable."** The beginning of month three is often a low point for folks. They've just come out of one of the most challenging learning experiences in month 2. They have grown used to the constant mentor meetings and the speed at which things are going. So much so, that they have a difficult time recognizing how much they're accomplishing. They have, to put it colloquially, established a new normal. And that can make them feel like they're not progressing or succeeding.
+2. **"We get to pitch! We totally get pitching."** Whatever the reason — be it their acceptance into your Accelerator, the bevy of pitch contests to which a startup is exposed these days, or simply having family and friends providing less than critical feedback — most Founder tend to exist under the delusion that they already know how to pitch their company. Unfortunately for them, nothing could be further from the truth. But at this point, they'll come into pitching with more confidence than they've had in weeks — potentially months. 
+3. **"No one got our pitch. We're not even going to make it to the stage."** Companies start to pitch. And that illusion of "We totally get pitching" begins to crumble. And as more truly critical feedback comes rolling in — from staff, from mentors, and perhaps worst of all from their peers — Founders come to realize that their pitch needs a ton of work. In fact, in most cases, what they thought was their pitch has to be totally scrapped. This realization has the potential to crush confidence and further demotivate even the most confident Founders. 
+4. **"Wait a second. This is working."** Slowly but surely, the feedback starts to think in. And the pitch starts to improve. The Founders regain their confidence. And the pitch actually starts to improve. From everyone's perspectives. And with practice, the pitches become more and more compelling. And with finessing, the Founders grow more and more confident in their ability to tell the story of the company they are building. And as the opportunity to get on stage — and get out of relentless pitch practice — draws nearer and nearer both mood and nerves are ever on the increase. 
+5. **Demo Day: "This is the best day of my life."** If everything goes as planned, Demo Day will be the most rewarding experience of any Founder's life. In fact, we often tell them that, backstage. "This will be the most fun you ever have with your startup." Again, part of that might be the knowledge that they will soon be free of the constant haranguing of the Accelerator environment. But the majority of this feeling comes from a sense of accomplishment. And confidence. And the recognizable ability to tell a compelling story — and then to celebrate the telling of that story in the gathering that happens after everyone leaves the stage.
 
 ## Typical week in PIE
 
