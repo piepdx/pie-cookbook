@@ -1224,8 +1224,6 @@ Even the most seasoned CEO with a completely polished pitch can become a babblin
 
 ### Encourage mentors to tell stories of failure and mistakes. 
 
-Why? Simple. You can’t recreate the same success. But you can avoid the same mistakes.
-
 Any founder could tell you the entire journey of his or her successful company — step by step in intricate detail. You could take scrupulous notes, ask for clarification and additional color, and document each and every step of the journey with complete precision. 
 
 Then you could carefully, methodically follow that guideline, note for note. Without falter. Down to the most seemingly insignificant detail.
@@ -1237,6 +1235,8 @@ Because for all the control and precision — for all the efforts and decisions 
 It could have been the market. It could have been the timing. It could have been, well, luck.
 
 No matter how much you know about what led to success, you can never recreate it. And while those stories are great and inspirational and all that. Sometimes, they’re simply not helpful.
+
+# tl;dr You can’t recreate the same success. But you can avoid the same mistakes.
 
 Now what if, instead, you explored things that failed? Would you fail in the exact same way? Probably.
 
@@ -1332,15 +1332,17 @@ There was no derailing it.
 
 So when it was over, the staff scurried to tie it off and hustle the speaker out the door.
 
-The PIE founders were, understandably, miffed. And any number of conversations were sparked by that experience. Some were critical of the program for allowing it to happen. Some were critical of the company and the former founder for sending that presenter. And some were upset that the presenter did not clue into the environment. 
+The Founders were, understandably, miffed. And any number of conversations were sparked by that experience. Some were critical of the program for allowing it to happen. Some were critical of the company and the former founder for sending that presenter. And some were upset that the presenter did not clue into the environment. 
 
 It became a running gag for the remainder of the class.
 
 But you know what? It resulted in a lot of good conversations. A lot. Like an irritant creating a pearl, the poorly placed and unintentional bad actor had not only created a context for interesting discussion, the salesperson had unintentionally become a common enemy against which every one of the founders in that class could rail. 
 
-It went from a negative to a teaching moment.
+It went from a negative moment to a teaching moment.
 
 Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. And discuss why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
+
+# tl;dr Every moment of an Accelerator has the potential to be a teaching moment. Act accordingly.
 
 And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
 
@@ -1544,17 +1546,19 @@ Partners
 
 At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
 
-We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
+We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community, well, a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
 
-It might not work for a single company, with people treating the entire office like a water cooler. But in our experience, it tends to work really well with small teams cohabitating in a larger space. We've found that the random collisions that occur among disparate companies and diverse individuals are worth the "loss of productivity." And we think that being human in a workspace with other humans has intrinsic value. Full stop.
+While coworking might not be the best solution for a solitary company in a vast sea of other disconnected companies, with people treating the entire office space like a water cooler. But in our experience, it tends to work really well with a bunch of small teams — and this is critical: who share something in common — cohabitating in a larger space. We've found that the random collisions that occur among these peers are worth the "loss of productivity." And we think that being human and collaborative in a workspace with other humans has an intrinsic value. Full stop.
 
-Just to be clear, we are not advocating for a virtual accelerator. We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
+We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
 
-# tl;dr You're not building a coworking space. You're building an accelerator space.
+### Build an accelerator space
+
+But you're not building a coworking space for your accelerator participants. You're building a accelerator space for that has some facets of traditional coworking, like shared resources and an open floor plan. 
 
 Yes, people will cowork out of your accelerator space. But your accelerator space is not a coworking space. This is an important distinction, so let's unpack that a bit.
 
-### Coworking is comfortable
+### Coworking space is comfortable
 
 We've noticed a tendency in the accelerator industry to deck out your shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs. Bean bags. Ping pong tables. Catered kitchens…
 
@@ -1572,9 +1576,11 @@ Over designing is a mistake.
 
 Don't feel guilty. PIE fell for this trap too. It happens. But this is about you making new mistakes, remember? Not repeating ours. 
 
-At the PIE space, our initial build out was the equivalent of set design for the quintessential startup workspace. Complete with painted and distressed closet doors as desktops supported by heavily welded — and rustically beautiful — sawhorses.  
+At the PIE space, our initial build out was the equivalent of Hollywood set design for the quintessential startup workspace. Complete with painted and distressed closet doors as desktops supported by heavily welded — and rustically beautiful — sawhorses.  
 
-But for as compelling as the design was, it simply didn't work.
+But for as compelling as the aesthetic was, it simply didn't work.
+
+### Accelerator space is awkward
 
 Why? Well, what we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
 
@@ -1589,44 +1595,69 @@ Your only requirements are a solid wifi connection, access to power, a surface f
 
 Think less office space, more coffeeshop or bar.
 
-You should have too many people in the space. It should be noisy. You should have too few conference rooms. People should be eavesdropping whether they want to or not. You should have passible coffee and, if it fits your culture, beer. And most of all, everyone should be in one another's way.
+You should have too many people in the space. It should be noisy. You should have too few conference rooms. People should be eavesdropping on conversations whether they want to or not. You should have passible coffee and, if it fits your culture, beer. And most of all, everyone should be in one another's way.
 
 ![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
 
 Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Shield them from the outside world. Create a utopian existence for them. That's what an incubator should do.
 
-Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up and out. Your job is to create a microcosm. A biome of startup life. They same way it exists in the real world. But with a few safety nets strewn here and there.
+Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up — and, ideally, out. Your job is to create a microcosm of the real world. A biome of startup life. They same way it exists outside of your doors. But with a few safety nets strewn here and there.
 
 And then you need to poke the startups so that, from time to time, they tumble into those safety nets.
 
 If you provide a space that is too comfortable and too accommodating then the startups will stay there. Forever. And that isn't what you want. You want churn. You want growth. You want backfill. And activity. And hustle.
 
-Yes, they're often amazing people to be around. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
+Yes, your Founders are amazing people to be around. And there is no end to their creativity and drive. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
 
-> We are inviting you into our space because we want you to leave.  
+# tl;dr We are inviting you into our space because we want you to leave.  
 
-Like being embarrassed to bring your friends over to your parents house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — their parents' basement. And it should be just as awkward as that arrangement.
+Like being embarrassed to bring your friends over to your parents' house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — your Founders' parents' basement. And it should be just as awkward as that arrangement.
 
-There are also fringe benefits to this sort of interior design. You, as an accelerator staff remain scrappy. You feel less comfortable. You don't have it easy, either. And that's just how it should be.
+There are also fringe benefits to this sort of interior design. You, as an accelerator staff, remain scrappy. You feel less comfortable. You don't get to have it easy, either. You're dealing with the same awkwardness that your Founders are experiencing. And that's just how it should be.
 
 ![PIE's kitchen "table"](/source/images/pie-kitchen-table.jpg)
 
-Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire the thought that "We need to get you out of here."  
+Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire one prevailing thought: "We need to get you out of here."  
 
-## IKEA is your friend
+## The best space is the space you have
 
-Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. (Provide product details)
+The best Accelerators tend to be the ones that make do with the space they have. It's not the space you want; it's the space you've got. So use it. Don't get hung up on it. Just get started.
 
-Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. 
+Conversely, many Accelerator projects stumble when trying to source "the perfect space" for their home. "It's not the right size," "It's not the right location," "It's not configured well." 
+
+It doesn't matter. Have you found a space? Is it available? Can you afford it? Good. Make it work. 
+
+### Physical dimensions
+
+For the actual physical dimensions of the space, you can approach the problem one of two ways:
+
+1. If you already have a space, figure out how many people you can wedge into that space.
+2. If you're searching for a space, figure out how many founders/companies you'd like to have in a cohort.
+
+Adjust accordingly. 
+
+At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
+
+So we went after 10 companies for our first Accelerator class. 
+
+ 
 
 			56. Infrastructure
 				57. Power
 				59. Internet
 				60. Wifi
 				61. Printing/copying
-			57. Furniture
-				58. "Amazon"-esque/garage days
-				59. Ikea desk days
+			
+## IKEA is your friend
+
+Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
+
+Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
+
+You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
+
+Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
+			
 			60. Kitchen
 				61. Coffee
 				62. Refrigerator(s)
