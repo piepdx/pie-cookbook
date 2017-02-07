@@ -1623,9 +1623,22 @@ Potential investors walking into the space shouldn't see opulence. They should s
 
 The best Accelerators tend to be the ones that make do with the space they have. It's not the space you want; it's the space you've got. So use it. Don't get hung up on it. Just get started.
 
-Conversely, many Accelerator projects stumble when trying to source "the perfect space" for their Accelerator's home. It's not the right size. It's not the right location. It's not configured well. 
+Conversely, many Accelerator projects stumble when trying to source "the perfect space" for their home. "It's not the right size," "It's not the right location," "It's not configured well." 
 
-It doesn't matter. Find a space. Any space. And make it work.
+It doesn't matter. Have you found a space? Is it available? Can you afford it? Good. Make it work. 
+
+### Physical dimensions
+
+For the actual physical dimensions of the space, you can approach the problem one of two ways:
+
+1. If you already have a space, figure out how many people you can wedge into that space.
+2. If you're searching for a space, figure out how many founders/companies you'd like to have in a cohort.
+
+Adjust accordingly. 
+
+At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
+
+So we went after 10 companies for our first Accelerator class. 
 
  
 
