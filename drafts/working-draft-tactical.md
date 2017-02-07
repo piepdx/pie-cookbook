@@ -1332,7 +1332,7 @@ There was no derailing it.
 
 So when it was over, the staff scurried to tie it off and hustle the speaker out the door.
 
-The PIE founders were, understandably, miffed. And any number of conversations were sparked by that experience. Some were critical of the program for allowing it to happen. Some were critical of the company and the former founder for sending that presenter. And some were upset that the presenter did not clue into the environment. 
+The Founders were, understandably, miffed. And any number of conversations were sparked by that experience. Some were critical of the program for allowing it to happen. Some were critical of the company and the former founder for sending that presenter. And some were upset that the presenter did not clue into the environment. 
 
 It became a running gag for the remainder of the class.
 
