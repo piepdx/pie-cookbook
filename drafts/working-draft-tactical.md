@@ -1224,8 +1224,6 @@ Even the most seasoned CEO with a completely polished pitch can become a babblin
 
 ### Encourage mentors to tell stories of failure and mistakes. 
 
-Why? Simple. You can’t recreate the same success. But you can avoid the same mistakes.
-
 Any founder could tell you the entire journey of his or her successful company — step by step in intricate detail. You could take scrupulous notes, ask for clarification and additional color, and document each and every step of the journey with complete precision. 
 
 Then you could carefully, methodically follow that guideline, note for note. Without falter. Down to the most seemingly insignificant detail.
@@ -1237,6 +1235,8 @@ Because for all the control and precision — for all the efforts and decisions 
 It could have been the market. It could have been the timing. It could have been, well, luck.
 
 No matter how much you know about what led to success, you can never recreate it. And while those stories are great and inspirational and all that. Sometimes, they’re simply not helpful.
+
+# tl;dr You can’t recreate the same success. But you can avoid the same mistakes.
 
 Now what if, instead, you explored things that failed? Would you fail in the exact same way? Probably.
 
