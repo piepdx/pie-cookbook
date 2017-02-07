@@ -1621,9 +1621,13 @@ Potential investors walking into the space shouldn't see opulence. They should s
 
 ## IKEA is your friend
 
-Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. (Provide product details)
+Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
 
-Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. 
+You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
+
+Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
+
+
 
 			56. Infrastructure
 				57. Power
