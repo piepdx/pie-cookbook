@@ -1338,9 +1338,11 @@ It became a running gag for the remainder of the class.
 
 But you know what? It resulted in a lot of good conversations. A lot. Like an irritant creating a pearl, the poorly placed and unintentional bad actor had not only created a context for interesting discussion, the salesperson had unintentionally become a common enemy against which every one of the founders in that class could rail. 
 
-It went from a negative to a teaching moment.
+It went from a negative moment to a teaching moment.
 
 Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. And discuss why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
+
+# tl;dr Every moment of an Accelerator has the potential to be a teaching moment. Act accordingly.
 
 And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
 
