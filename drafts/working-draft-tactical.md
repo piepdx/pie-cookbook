@@ -1627,7 +1627,15 @@ You're welcome to choose whatever you want, but at this price point, we're ever 
 
 Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
 
+## The best space is the space you have
 
+The best Accelerators tend to be the ones that make do with the space they have. It's not the space you want; it's the space you've got. So use it. Don't get hung up on it. Just get started.
+
+Conversely, many Accelerator projects stumble when trying to source "the perfect space" for their Accelerator's home. It's not the right size. It's not the right location. It's not configured well. 
+
+It doesn't matter. Find a space. Any space. And make it work.
+
+ 
 
 			56. Infrastructure
 				57. Power
