@@ -6,11 +6,13 @@ Before we get into what the PIE Cookbook *is* it might be helpful to explain wha
 
 ### This is not about creating or managing community
 
-As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you have a relevant role in that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. Perhaps, you've already experimented with coworking or shared workspaces. Maybe you're already hosting events.
+As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you, gentle reader, have a relevant role within that community — or are collaborating with folks who hold relevant roles within that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. 
 
-Whatever the case, we're assuming you have a community. You may not yet completely understand the community. Or the finer points of its composition. But you know you have one. 
+Perhaps, you've already experimented with coworking or shared workspaces. Maybe you're already hosting events. Maybe you've been writing about the space. Or helping to make connections and strengthening the bonds within the community. Maybe you've been doing all of this.
 
-With those assumptions in mind, we will lightly touch on community development from time to time. But we will try to avoid describing, in depth, how communities are defined, built, and maintained. That topic is another book — or library of books — in an of itself. And with this book, we want to focus on the Accelerator that serves that community.
+Whatever the case, we're assuming you have a community. You may not yet completely understand the community. Or the finer points of its composition. But you know you have one. And you know it has potential.
+
+With those assumptions in mind, it makes sense that we forego providing lengthy guidance on community development and community management in favor of focusing on the Accelerator, itself. Granted, we will lightly touch on community development from time to time. But we will try to avoid describing, in depth, how communities are defined, built, and maintained. That topic is another book — or library of books — in an of itself. And with this book, we would much rather focus on the Accelerator that serves that community.
 
 ### This is not about recreating PIE
 
