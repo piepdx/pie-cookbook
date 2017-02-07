@@ -1558,7 +1558,7 @@ But you're not building a coworking space for your accelerator participants. You
 
 Yes, people will cowork out of your accelerator space. But your accelerator space is not a coworking space. This is an important distinction, so let's unpack that a bit.
 
-### Coworking is comfortable
+### Coworking space is comfortable
 
 We've noticed a tendency in the accelerator industry to deck out your shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs. Bean bags. Ping pong tables. Catered kitchens…
 
@@ -1576,9 +1576,11 @@ Over designing is a mistake.
 
 Don't feel guilty. PIE fell for this trap too. It happens. But this is about you making new mistakes, remember? Not repeating ours. 
 
-At the PIE space, our initial build out was the equivalent of set design for the quintessential startup workspace. Complete with painted and distressed closet doors as desktops supported by heavily welded — and rustically beautiful — sawhorses.  
+At the PIE space, our initial build out was the equivalent of Hollywood set design for the quintessential startup workspace. Complete with painted and distressed closet doors as desktops supported by heavily welded — and rustically beautiful — sawhorses.  
 
-But for as compelling as the design was, it simply didn't work.
+But for as compelling as the aesthetic was, it simply didn't work.
+
+### Accelerator space is awkward
 
 Why? Well, what we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
 
@@ -1593,29 +1595,29 @@ Your only requirements are a solid wifi connection, access to power, a surface f
 
 Think less office space, more coffeeshop or bar.
 
-You should have too many people in the space. It should be noisy. You should have too few conference rooms. People should be eavesdropping whether they want to or not. You should have passible coffee and, if it fits your culture, beer. And most of all, everyone should be in one another's way.
+You should have too many people in the space. It should be noisy. You should have too few conference rooms. People should be eavesdropping on conversations whether they want to or not. You should have passible coffee and, if it fits your culture, beer. And most of all, everyone should be in one another's way.
 
 ![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
 
 Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Shield them from the outside world. Create a utopian existence for them. That's what an incubator should do.
 
-Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up and out. Your job is to create a microcosm. A biome of startup life. They same way it exists in the real world. But with a few safety nets strewn here and there.
+Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up — and, ideally, out. Your job is to create a microcosm of the real world. A biome of startup life. They same way it exists outside of your doors. But with a few safety nets strewn here and there.
 
 And then you need to poke the startups so that, from time to time, they tumble into those safety nets.
 
 If you provide a space that is too comfortable and too accommodating then the startups will stay there. Forever. And that isn't what you want. You want churn. You want growth. You want backfill. And activity. And hustle.
 
-Yes, they're often amazing people to be around. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
+Yes, your Founders are amazing people to be around. And there is no end to their creativity and drive. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
 
-> We are inviting you into our space because we want you to leave.  
+# tl;dr We are inviting you into our space because we want you to leave.  
 
-Like being embarrassed to bring your friends over to your parents house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — their parents' basement. And it should be just as awkward as that arrangement.
+Like being embarrassed to bring your friends over to your parents' house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — your Founders' parents' basement. And it should be just as awkward as that arrangement.
 
-There are also fringe benefits to this sort of interior design. You, as an accelerator staff remain scrappy. You feel less comfortable. You don't have it easy, either. And that's just how it should be.
+There are also fringe benefits to this sort of interior design. You, as an accelerator staff, remain scrappy. You feel less comfortable. You don't get to have it easy, either. You're dealing with the same awkwardness that your Founders are experiencing. And that's just how it should be.
 
 ![PIE's kitchen "table"](/source/images/pie-kitchen-table.jpg)
 
-Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire the thought that "We need to get you out of here."  
+Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire one prevailing thought: "We need to get you out of here."  
 
 ## IKEA is your friend
 
