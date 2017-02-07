@@ -1546,13 +1546,15 @@ Partners
 
 At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
 
-We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
+We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community, well, a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
 
-It might not work for a single company, with people treating the entire office like a water cooler. But in our experience, it tends to work really well with small teams cohabitating in a larger space. We've found that the random collisions that occur among disparate companies and diverse individuals are worth the "loss of productivity." And we think that being human in a workspace with other humans has intrinsic value. Full stop.
+While coworking might not be the best solution for a solitary company in a vast sea of other disconnected companies, with people treating the entire office space like a water cooler. But in our experience, it tends to work really well with a bunch of small teams — and this is critical: who share something in common — cohabitating in a larger space. We've found that the random collisions that occur among these peers are worth the "loss of productivity." And we think that being human and collaborative in a workspace with other humans has an intrinsic value. Full stop.
 
-Just to be clear, we are not advocating for a virtual accelerator. We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
+We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
 
-# tl;dr You're not building a coworking space. You're building an accelerator space.
+### Build an accelerator space
+
+But you're not building a coworking space for your accelerator participants. You're building a accelerator space for that has some facets of traditional coworking, like shared resources and an open floor plan. 
 
 Yes, people will cowork out of your accelerator space. But your accelerator space is not a coworking space. This is an important distinction, so let's unpack that a bit.
 
