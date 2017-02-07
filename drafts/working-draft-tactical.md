@@ -1619,14 +1619,6 @@ There are also fringe benefits to this sort of interior design. You, as an accel
 
 Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire one prevailing thought: "We need to get you out of here."  
 
-## IKEA is your friend
-
-Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
-
-You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
-
-Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
-
 ## The best space is the space you have
 
 The best Accelerators tend to be the ones that make do with the space they have. It's not the space you want; it's the space you've got. So use it. Don't get hung up on it. Just get started.
@@ -1642,9 +1634,17 @@ It doesn't matter. Find a space. Any space. And make it work.
 				59. Internet
 				60. Wifi
 				61. Printing/copying
-			57. Furniture
-				58. "Amazon"-esque/garage days
-				59. Ikea desk days
+			
+## IKEA is your friend
+
+Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
+
+Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
+
+You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
+
+Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
+			
 			60. Kitchen
 				61. Coffee
 				62. Refrigerator(s)
