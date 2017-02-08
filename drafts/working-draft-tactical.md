@@ -216,7 +216,7 @@ Where you start is where you start. Don't let the current state of things or the
 
 # Before you begin
 
-It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say, "We're an accelerator. That's not always a positive thing. We have the potential to help accelerate your success, but we can just as easily accelerate your company into the ground."
+It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say, "We're an accelerator. That's not always a positive thing. We have the potential to help accelerate your success, but we can just as easily accelerate your company right into the ground."
 
 At PIE, we dove headlong into the effort with a bunch of assumptions. Among those assumptions was the ideas that when one of us used a particular word, we all had a similar concept for what that word meant. We were wrong. And it caused confusion and stress. 
 
@@ -1638,7 +1638,7 @@ Adjust accordingly.
 
 At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
 
-So we went after 10 companies for our first Accelerator class. 
+So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively.)
 
  
 
