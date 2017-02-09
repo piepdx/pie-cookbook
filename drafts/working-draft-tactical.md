@@ -1234,6 +1234,124 @@ Test driving mentors
 			30. Overlap
 
 
+
+# Applying Mentors
+
+In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
+
+For example, if you want a mentor to assist as a subject matter expert, make sure they are given the appropriate platform for conveying that knowledge. Don't make them present if a workshop is a more appropriate format. Don't make them take 1:1 meetings if their knowledge is relevant to every company — and will result in them repeating the same advice to 10 different companies. 
+
+# tl;dr Be thoughtful and respectful of how you use Mentor's time. 
+
+# Time commitment
+
+Once you’ve chosen to work with a mentor, your most important job is to understand that mentor’s level of time commitment. Some mentors will want to help but have absolutely no time. Other mentors will be willing to show up for office hours several times a week. It runs the gamut. Your challenge is making the best use of the time they are willing to commit so that they are deriving value from their participation.
+
+## Sliding scale
+
+At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowbar. 
+
+Just as importantly, we used other well know Mentors as examples of time commitment bands — "Mentor X generally presents onetime per class; Mentor Y holds regular office hours at PIE every week" — which provided even more context for their potential engagement. Plus, when a Mentor hears that one of their peers or someone they recognize — "[Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors" — they are given more context for how others are volunteering to do.
+
+# tl;dr You must be this tall to ride. Set your mentor time commitment as a low bar, not a high bar.  
+
+At PIE, our lowest time commitment — our low bar — was "Be willing to grab coffee with one of our startups. Roughly 20-30 minutes. One time." That was it. Thirty minutes of commitment per year. And you're a PIE mentor.
+
+At the upper end of the scale were things like, "Work out of the space on a regular basis and be open to interruption, as if you were one of the startups," or, "Be willing to take one of the companies under your wing and meet with the Founders consistently over the course of the class."
+
+In every case, we began the conversation with "What are you hoping to get out of mentoring?" And "How much time do you feel you have to volunteer?"
+
+In many cases, we were lucky and humbled to have Mentors consistently increase the amount of time they spent with our Founders — even if they originally thought they could only spare 30 minutes a year. 
+
+# tl;dr Mentoring is addictive. Mentors will often find they enjoy it more than they thought.  
+
+## Mutual respect
+
+And if you do it right? You’ll find they’ll be a lot more willing to commit more time to the program in future class. Culture of trust and all that. 
+
+Respect mentors’ time and they will repay that respect with more time.
+
+
+# Speed dating vs Matchmaking
+
+When it comes to mentor engagement, no topic is more ripe for discussion — and more likely to rile opinions — than the pros and cons of speed dating and matchmaking. But before we get into that, let's explain what we mean by the terms.
+
+## Speed dating
+
+With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
+
+There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
+
+The process is designed to make efficient use of time for both mentors and startups, giving each party the chance to briefly meet the other. And to give mentors a general lay of the land for the cohort as a whole. It also avails the opportunity for each party to identify folks with whom they would like to be working.
+
+From the Mentor's perspective, progress goes something like this:
+
+- Mentor 1 meets with Startup 1
+- Mentor 1 meets with Startup 2
+- Mentor 1 meets with Startup 3…
+
+From the Startup's perspective, progress looks more like this:
+
+- Startup 1 meets with Mentor 1
+- Startup 1 meets with Mentor 2
+- Startup 1 meets with Mentor 3
+
+So as you can see, the best number of mentors to schedule for a speed dating session is less than or, ideally, equal to the number of Startups in your Accelerator. Too many, one way or the other, and someone's time is being wasted. Too few, and its value is questioned.
+
+But what if you have three times as many mentors wanting to participate as you have startups? That's right. You schedule separate sessions. In this case, you schedule three separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best. 
+
+# tl;dr Speed dating works best when the Mentor to Startup ratio is 1:1
+
+Don't try to have multiple mentors sit down with each Startup. That can be awkward for both the Startups and the Mentors. Unless… they already know one another well.
+
+We've experimented with groups of mentors meeting with Startups in this round robin fashion. It's another way to handle a large number of mentors meeting with the Startups, in an efficient fashion. But we've found that these Mentors need to know one another on a collegial or friendly level before this works. Otherwise, comfort levels tend to compromise the value of this model. 
+
+Where we have found this permutation effective is with Angel groups and Venture Capital partners and/or associates. You can group three Investors from an Angel group or VC, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
+
+# tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.
+
+In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
+
+### The dark side of speed dating
+
+While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
+
+These drawbacks, which we'll cover in more detail, include but are not limited to:
+
+- Mentor and Startup fatigue
+- Perceived lack of meaningful connections
+- Perceived lack of tangible results
+- A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
+
+## Matchmaking 
+
+While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
+
+In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
+
+With matchmaking, the connections between mentors and startups are less serendipitous and more intentional, based on a series of factors, such as:
+
+- Current problems plaguing the founders
+- Stage of the product or company
+- Skill set and expertise of the mentor
+- Personality of the founders
+- Personality of mentor
+- Likelihood of availability
+
+There is no set day or timeframe. Staff introduces the startup and mentor and leaves it the startup to schedule the meeting. Staff then follows up with both mentor and startup to understand the outcomes of the meeting and to help decide next steps. 
+
+## So which is it? Both.
+
+Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
+
+Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
+
+# How to activate mentors
+
+At PIE, we used four different means of activating mentors by getting them engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
+
+We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
+
 # Mentoring the mentors
 
 Around the time [PIE](http://piepdx.com/ "PIE") was starting the accelerator phase of this ongoing experiment, [David Cohen](http://twitter.com/davidcohen), cofounder of [TechStars](http://techstars.com/ "TechStars"), shared the [TechStars Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/ "TechStars Mentor Manifesto"). And it served as an inspiration for me. [A post by Micah Baldwin](http://learntoduck.com/techstars/good-mentor/ "8 Rules To Being A Good Techstars Mentor"), a former TechStars mentor , provided a similar nudge for me.
@@ -1417,122 +1535,6 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 ### Learn Openly (via @eighteyes)
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
-# Applying Mentors
-
-In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
-
-For example, if you want a mentor to assist as a subject matter expert, make sure they are given the appropriate platform for conveying that knowledge. Don't make them present if a workshop is a more appropriate format. Don't make them take 1:1 meetings if their knowledge is relevant to every company — and will result in them repeating the same advice to 10 different companies. 
-
-# tl;dr Be thoughtful and respectful of how you use Mentor's time. 
-
-# Time commitment
-
-Once you’ve chosen to work with a mentor, your most important job is to understand that mentor’s level of time commitment. Some mentors will want to help but have absolutely no time. Other mentors will be willing to show up for office hours several times a week. It runs the gamut. Your challenge is making the best use of the time they are willing to commit so that they are deriving value from their participation.
-
-## Sliding scale
-
-At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowbar. 
-
-Just as importantly, we used other well know Mentors as examples of time commitment bands — "Mentor X generally presents onetime per class; Mentor Y holds regular office hours at PIE every week" — which provided even more context for their potential engagement. Plus, when a Mentor hears that one of their peers or someone they recognize — "[Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors" — they are given more context for how others are volunteering to do.
-
-# tl;dr You must be this tall to ride. Set your mentor time commitment as a low bar, not a high bar.  
-
-At PIE, our lowest time commitment — our low bar — was "Be willing to grab coffee with one of our startups. Roughly 20-30 minutes. One time." That was it. Thirty minutes of commitment per year. And you're a PIE mentor.
-
-At the upper end of the scale were things like, "Work out of the space on a regular basis and be open to interruption, as if you were one of the startups," or, "Be willing to take one of the companies under your wing and meet with the Founders consistently over the course of the class."
-
-In every case, we began the conversation with "What are you hoping to get out of mentoring?" And "How much time do you feel you have to volunteer?"
-
-In many cases, we were lucky and humbled to have Mentors consistently increase the amount of time they spent with our Founders — even if they originally thought they could only spare 30 minutes a year. 
-
-# tl;dr Mentoring is addictive. Mentors will often find they enjoy it more than they thought.  
-
-## Mutual respect
-
-And if you do it right? You’ll find they’ll be a lot more willing to commit more time to the program in future class. Culture of trust and all that. 
-
-Respect mentors’ time and they will repay that respect with more time.
-
-
-# Speed dating vs Matchmaking
-
-When it comes to mentor engagement, no topic is more ripe for discussion — and more likely to rile opinions — than the pros and cons of speed dating and matchmaking. But before we get into that, let's explain what we mean by the terms.
-
-## Speed dating
-
-With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
-
-There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
-
-The process is designed to make efficient use of time for both mentors and startups, giving each party the chance to briefly meet the other. And to give mentors a general lay of the land for the cohort as a whole. It also avails the opportunity for each party to identify folks with whom they would like to be working.
-
-From the Mentor's perspective, progress goes something like this:
-
-- Mentor 1 meets with Startup 1
-- Mentor 1 meets with Startup 2
-- Mentor 1 meets with Startup 3…
-
-From the Startup's perspective, progress looks more like this:
-
-- Startup 1 meets with Mentor 1
-- Startup 1 meets with Mentor 2
-- Startup 1 meets with Mentor 3
-
-So as you can see, the best number of mentors to schedule for a speed dating session is less than or, ideally, equal to the number of Startups in your Accelerator. Too many, one way or the other, and someone's time is being wasted. Too few, and its value is questioned.
-
-But what if you have three times as many mentors wanting to participate as you have startups? That's right. You schedule separate sessions. In this case, you schedule three separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best. 
-
-# tl;dr Speed dating works best when the Mentor to Startup ratio is 1:1
-
-Don't try to have multiple mentors sit down with each Startup. That can be awkward for both the Startups and the Mentors. Unless… they already know one another well.
-
-We've experimented with groups of mentors meeting with Startups in this round robin fashion. It's another way to handle a large number of mentors meeting with the Startups, in an efficient fashion. But we've found that these Mentors need to know one another on a collegial or friendly level before this works. Otherwise, comfort levels tend to compromise the value of this model. 
-
-Where we have found this permutation effective is with Angel groups and Venture Capital partners and/or associates. You can group three Investors from an Angel group or VC, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
-
-# tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.
-
-In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
-
-### The dark side of speed dating
-
-While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
-
-These drawbacks, which we'll cover in more detail, include but are not limited to:
-
-- Mentor and Startup fatigue
-- Perceived lack of meaningful connections
-- Perceived lack of tangible results
-- A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
-
-## Matchmaking 
-
-While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
-
-In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
-
-With matchmaking, the connections between mentors and startups are less serendipitous and more intentional, based on a series of factors, such as:
-
-- Current problems plaguing the founders
-- Stage of the product or company
-- Skill set and expertise of the mentor
-- Personality of the founders
-- Personality of mentor
-- Likelihood of availability
-
-There is no set day or timeframe. Staff introduces the startup and mentor and leaves it the startup to schedule the meeting. Staff then follows up with both mentor and startup to understand the outcomes of the meeting and to help decide next steps. 
-
-## So which is it? Both.
-
-Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
-
-Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
-
-# How to activate mentors
-
-At PIE, we used four different means of activating mentors by getting them engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
-
-We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
 
 # Preparing mentors to speak to a class
 
