@@ -1578,6 +1578,8 @@ Startups are in your program to explore opportunities, question assumptions, and
 
 ### You need a formal setting for presentations
 
+We've pretty much covered this in the space design. But to hit it one more time… 
+
 We talk to a lot of folks who dodge the whole speaker thing with, "Well, we don't have anywhere to do it."
 
 Bullshit.
