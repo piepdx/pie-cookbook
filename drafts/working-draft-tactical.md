@@ -848,6 +848,382 @@ Why do we believe this is an effective model for PIE and other accelerators? At 
 			24. Onboarding
 			24. Time commitment
 
+
+# Staff
+
+## Managing Director (or General Manager)
+
+### Role
+The General Manager works to ensure that current startups, mentors, alumni, investors, brand sponsors, and PIE staff have a mutually rewarding experience that improves the perception and quality of entrepreneurial ventures associated with PIE.
+
+### Primary responsibilities
+- Serve as primary contact point for mentors and alumni
+- Coordinate mentor and startup relations
+- Recommend strategies and tactics that improve the program for all participants
+- Recommend strategies and tactics that promote PIE, startups, alumni, and mentors
+- Manage strategic planning and goal setting
+- Manage relations with PIE mentors, investors, and alumni
+- Work to ensure PIE participates in the larger startup and accelerator community
+- Manage online presence, including but not limited to:
+	- Web content
+	- Blog
+	- Social
+- Participate in weekly checkpoints, including but not limited to:
+	- Monday morning kick off meetings
+	- Family Dinner meeting
+	- Weekly check-ins with each company
+- Provide a weekly status report on PIE progress
+- Document the PIE experience from all perspectives
+- Manage facilities, including but not limited to:
+	- Physical space
+	- Furniture
+	- Keg, coffee, water
+	- Kitchen
+	- IT
+- Propose and manage tools that enable and facilitate communications and management
+
+### Secondary responsibilities
+- Assist with schedule for curriculum and mentor visits
+- Assist with major events like Demo Day
+- Assist with weekly checkpoints
+- Assist with weekly progress reports for startups
+- Work with W+K communications to promote PIE within the advertising industry
+
+
+
+## Program Manager
+
+### Role
+The Program Manager works to ensure that the current class of PIE startups has the most rewarding and beneficial experience while in the space. This role also serves as the primary startup liaison and ombudsman.
+
+### Primary responsibilities
+- Serve as primary contact point for startups, from application through graduation
+- Recommend strategies and tactics that improve the program for startups
+- Manage day-to-day relations with PIE class members
+- Monitor and moderate stress within the environment through creative use of meals, parties, perks, contests, and the like
+- Manage weekly checkpoints, including but not limited to:
+	- Monday morning kick off meetings
+	- Family Dinner meeting
+	- Weekly check-ins with each company
+- Provide a weekly status report for each company
+- Manage the schedule for curriculum and mentor visits
+- Manage major events like Demo Day
+- Manage startup relations with W+K internal teams
+- Manage the application process, from initial forms through final selection
+
+### Secondary responsibilities
+- Advise on strategic planning and goal setting
+- Communicate with PIE management and W+K 
+
+- - - 
+(sidebar)
+#### Good Cop, Bad Cop
+
+- - -
+
+# Optional roles
+
+## Brand Manager 
+
+### Role
+The Brand Manager works to ensure that brand sponsors and Wieden+Kennedy derive demonstrable value from their engagement with PIE. This role serves as the primary liaison and ombudsman for PIE’s brand mentors.
+
+### Primary responsibilities
+- Serve as primary contact point for brand representatives and mentors
+- Coordinate brand relations and communications
+- Recommend strategies and tactics that improve the program for brand participation
+- Recommend strategies and tactics that facilitate brand activations
+- Manage sponsor involvement from a financial and contractual standpoint
+- Manage sponsor visits and schedules
+- Manage interaction between W+K brand account teams and startups
+- Serve as a conduit for brand and startup collaboration
+- Formalize process for brand mentor engagement from role definition through engagement
+- Advise startups and mentors on brand engagement
+- Participate in weekly checkpoints, including but not limited to:
+	- Monday morning kick off meetings
+	- Family Dinner meeting
+	- Weekly check-ins with each company
+- Provide a weekly status report to sponsoring brands on PIE progress
+
+### Secondary responsibilities
+- Assist with schedule for curriculum and mentor visits
+- Assist with major events like Demo Day
+- Assist with weekly checkpoints
+- Assist with weekly progress reports for startups
+- Work with W+K communications to promote brand sponsors within the advertising industry
+
+
+## Entrepreneur in Residence (EiR)
+
+### Role
+The entrepreneur in residence role is designed to serve two critical functions. First, they are designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with PIE management. Second, the EiR is charged with assessing and highlighting opportunities within PIE that may result in efficiencies or revenue generation.
+
+### Primary responsibilities
+- Work to formalize and codify PIE processes and programs
+- Document the PIE experience from a startup perspective
+- Serve as confidante for startups, both current and alums
+- Manage relationship with W+K technical mentors
+- Recommend strategies and tactics that improve the program for startups
+- Lead build vs. buy decisions for PIE management tools
+- Work to ensure PIE participates in the larger startup and accelerator community
+
+### Secondary responsibilities
+- Assist with schedule for curriculum and mentor visits
+- Assist with major events like Demo Day
+- Assist with weekly checkpoints
+- Assist with weekly progress reports for startups
+- Assist with online presence, including but not limited to:
+	- Web content
+	- Blog
+	- Social
+
+### Intern
+### Associate
+### Technical assistance
+
+## How to hire
+
+
+Partners
+			52. Objectives
+			53. Outcomes
+		54. Media
+		55. Culture
+			56. Hospitality
+				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
+				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
+			57. Diversity and Inclusion
+	52. Oven
+		53. Budget
+			54. Considerations
+			54. Pro forma
+# Space
+
+
+## Create a Minimally Valuable Space
+
+At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
+
+We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community, well, a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
+
+While coworking might not be the best solution for a solitary company in a vast sea of other disconnected companies, with people treating the entire office space like a water cooler. But in our experience, it tends to work really well with a bunch of small teams — and this is critical: who share something in common — cohabitating in a larger space. We've found that the random collisions that occur among these peers are worth the "loss of productivity." And we think that being human and collaborative in a workspace with other humans has an intrinsic value. Full stop.
+
+We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
+
+### Build an accelerator space
+
+But you're not building a coworking space for your accelerator participants. You're building a accelerator space for that has some facets of traditional coworking, like shared resources and an open floor plan. 
+
+Yes, people will cowork out of your accelerator space. But your accelerator space is not a coworking space. This is an important distinction, so let's unpack that a bit.
+
+### Coworking space is comfortable
+
+We've noticed a tendency in the accelerator industry to deck out your shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs. Bean bags. Ping pong tables. Catered kitchens…
+
+Honestly, we could go on and on.
+
+Yes, people ooh and ah when they see the space. And yes, if you're running a coworking space, the aesthetic makes it easier to defend the prices you're charging them for space. And yes, it can provide a certain sense of pride for the folks running the space. 
+
+There is a certain je ne sais quoi to a cohesive interior design aesthetic. 
+
+It's an aesthetic that's required for coworking. Because you need people — people who could otherwise roll out of bed and start working — to feel the motivation to commute into an office space. You need people to feel that there is intrinsic value in the space you're providing. And you need people to be comfortable with the prices they are paying in return for that investment. 
+
+But, to be honest, more often than not, those are false positives. They don't really make for a great community space. Or accelerator space. That design element makes for a great coworking space. 
+
+Over designing is a mistake.  
+
+Don't feel guilty. PIE fell for this trap too. It happens. But this is about you making new mistakes, remember? Not repeating ours. 
+
+At the PIE space, our initial build out was the equivalent of Hollywood set design for the quintessential startup workspace. Complete with painted and distressed closet doors as desktops supported by heavily welded — and rustically beautiful — sawhorses.  
+
+But for as compelling as the aesthetic was, it simply didn't work.
+
+### Accelerator space is awkward
+
+Why? Well, what we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
+
+# tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
+
+It's not that we didn't have the ability to make the space more comfortable. It's simply that it *shouldn't* be comfortable. That is not the purpose of the space. The space, like building a startup, should be difficult. And awkward. It should always cause friction. And discomfort.
+
+> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+> Antoine de Saint-Exupery. 
+
+Your only requirements are a solid wifi connection, access to power, a surface for a laptop, and a chair. That's it. Beyond that, you provide less than is needed. 
+
+Think less office space, more coffeeshop or bar.
+
+You should have too many people in the space. It should be noisy. You should have too few conference rooms. People should be eavesdropping on conversations whether they want to or not. You should have passible coffee and, if it fits your culture, beer. And most of all, everyone should be in one another's way.
+
+![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
+
+Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Shield them from the outside world. Create a utopian existence for them. That's what an incubator should do.
+
+Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up — and, ideally, out. Your job is to create a microcosm of the real world. A biome of startup life. They same way it exists outside of your doors. But with a few safety nets strewn here and there.
+
+And then you need to poke the startups so that, from time to time, they tumble into those safety nets.
+
+If you provide a space that is too comfortable and too accommodating then the startups will stay there. Forever. And that isn't what you want. You want churn. You want growth. You want backfill. And activity. And hustle.
+
+Yes, your Founders are amazing people to be around. And there is no end to their creativity and drive. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
+
+# tl;dr We are inviting you into our space because we want you to leave.  
+
+Like being embarrassed to bring your friends over to your parents' house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — your Founders' parents' basement. And it should be just as awkward as that arrangement.
+
+There are also fringe benefits to this sort of interior design. You, as an accelerator staff, remain scrappy. You feel less comfortable. You don't get to have it easy, either. You're dealing with the same awkwardness that your Founders are experiencing. And that's just how it should be.
+
+![PIE's kitchen "table"](/source/images/pie-kitchen-table.jpg)
+
+Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire one prevailing thought: "We need to get you out of here."  
+
+## The best space is the space you have
+
+The best Accelerators tend to be the ones that make do with the space they have. It's not the space you want; it's the space you've got. So use it. Don't get hung up on it. Just get started.
+
+Conversely, many Accelerator projects stumble when trying to source "the perfect space" for their home. "It's not the right size," "It's not the right location," "It's not configured well." 
+
+It doesn't matter. Have you found a space? Is it available? Can you afford it? Good. Make it work. 
+
+### Physical dimensions
+
+For the actual physical dimensions of the space, you can approach the problem one of two ways:
+
+1. If you already have a space, figure out how many people you can wedge into that space.
+2. If you're searching for a space, figure out how many founders/companies you'd like to have in a cohort.
+
+Adjust accordingly. 
+
+At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
+
+So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively.)
+
+ 
+
+			56. Infrastructure
+				57. Power
+				59. Internet
+				60. Wifi
+				61. Printing/copying
+			
+## IKEA is your friend
+
+Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
+
+Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
+
+You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
+
+Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
+			
+			60. Kitchen
+				61. Coffee
+				62. Refrigerator(s)
+				63. Dishwasher
+				61. To kegerator or not to kegerator
+			61. Bathrooms	
+			62. Mail
+				63. You will be receiving mail for your startups for the rest of your life	
+			58. Office arrangement
+			59. Ongoing build out
+				60. Conference room
+				61. Meeting areas
+				62. Phone booths
+				63. Fishbowl
+					64. How this enabled more effective mentors in residence and portfolio management
+		56. Catalysts (Entrepreneur + Patron)
+		57. Pressure/heat (Startups + Staff + Patron)
+		
+
+# Recipe for an Accelerator
+
+## Establish a thesis
+
+Even if you're not planning to invest capital in your Startups, you should still do one thing like an investor: have a thesis. 
+
+What's a thesis? It's something that guides the types of companies with whom you want to work and often — more importantly — a guideline that prevents you from working with companies that aren't the right fit for your Accelerator.
+
+A thesis is especially important for a first-time program. Otherwise, you'll try to take all comers, which will set you up for failure on any number of fronts.
+
+# tl;dr A thesis will help guide all of your Accelerator activities
+
+You don't have to be married to your thesis forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof. It just needs to be defined. And you need to stick to it.
+
+At PIE, we hit upon the fact that we were really good at accelerating technology platforms and enabling technology. Or to put it another way, we did really well with developers building tools for other developers. Why did we get good at this? There were any number of reasons but among the most important were:
+
+- Portland has a long history of building platforms and enabling technologies, so there were more folks who had "been there and done that" with these types of businesses.
+- Our mentors had expertise in building platforms.
+- Our alums happened to be focused on platforms.
+- The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
+- As mentors and alums helped us recruit companies, they inevitably drew from a community of peers — many of whom were building platforms or enabling technology
+- Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — a company built on the premise of helping other companies.
+- We started PIE just as both the SaaS and mobile markets were exploding
+
+## Know where you suck
+
+Know — don’t assume; know — what you are truly good at doing.
+
+And even more importantly? Be willing to admit where you suck.
+
+At PIE, it quickly became obvious that we sucked at helping startups with fundraising. We were hamstrung by several things.
+
+First, there was a nascent investment community in Portland. 
+
+Second, the community that happened to exist did not possess a complementary risk profile for the companies with whom we were working. Because of that, the local investors had little appetite for the types of companies as investments. 
+
+Third, we had not established adequate ties with investors in other regions. We had friends here and there, but we didn’t have a strong rolodex of investors whose theses matched our startup profiles.
+
+But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provided us with yet another measure by which to select the companies we chose.
+
+## But also know what your strengths are
+
+PIE mentor and Techstars Seattle Managing Director, Chris DeVore, provides a [compelling list of the things that Seattle is good at doing](http://crashdev.com/2017/01/what-is-seattle-best-at/). 
+
+While your list might not be as long as Chris' — Seattle has been at this for a while — it's important that you take the time to assess what strengths your staff, mentors, startups, and regional expertise bring to the mix. 
+
+If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
+ 
+				78. Setting expectations
+				79. Communicating expectations
+			78. Time period
+			79. Number of classes per year
+			80. Number of companies per class
+			81. Continued coworking or not?
+			81. Promotions
+				82. Media
+				83. Community
+					84. Mentors
+					85. Alums
+					86. Partners
+					87. Patrons
+					88. Sponsors
+				84. Events
+				82. Tchotchkes
+			82. Applications
+				83. Example application (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
+				84. Communications
+					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
+					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
+					87. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
+					88. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
+				84. Fringe benefits of applications: Market research
+					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
+					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
+			83. Selection
+				84. What we’re solving for: good founders
+				85. Grading criteria
+					86. People
+					87. Idea
+					88. Ecosystem
+				85. Written responses
+				86. Follow up questions
+				87. Face to face Interviews
+					88. Travel
+					88. Objective
+					89. Tells
+			90. Prep
+				91. Background checks
+				92. Paperwork
 # Recruiting mentors
 
 Test driving mentors
@@ -1388,382 +1764,6 @@ https://github.com/piepdx/pie-cookbook/issues/2
 			43. Objectives
 			44. Outcomes
 		
-
-# Staff
-
-## Managing Director (or General Manager)
-
-### Role
-The General Manager works to ensure that current startups, mentors, alumni, investors, brand sponsors, and PIE staff have a mutually rewarding experience that improves the perception and quality of entrepreneurial ventures associated with PIE.
-
-### Primary responsibilities
-- Serve as primary contact point for mentors and alumni
-- Coordinate mentor and startup relations
-- Recommend strategies and tactics that improve the program for all participants
-- Recommend strategies and tactics that promote PIE, startups, alumni, and mentors
-- Manage strategic planning and goal setting
-- Manage relations with PIE mentors, investors, and alumni
-- Work to ensure PIE participates in the larger startup and accelerator community
-- Manage online presence, including but not limited to:
-	- Web content
-	- Blog
-	- Social
-- Participate in weekly checkpoints, including but not limited to:
-	- Monday morning kick off meetings
-	- Family Dinner meeting
-	- Weekly check-ins with each company
-- Provide a weekly status report on PIE progress
-- Document the PIE experience from all perspectives
-- Manage facilities, including but not limited to:
-	- Physical space
-	- Furniture
-	- Keg, coffee, water
-	- Kitchen
-	- IT
-- Propose and manage tools that enable and facilitate communications and management
-
-### Secondary responsibilities
-- Assist with schedule for curriculum and mentor visits
-- Assist with major events like Demo Day
-- Assist with weekly checkpoints
-- Assist with weekly progress reports for startups
-- Work with W+K communications to promote PIE within the advertising industry
-
-
-
-## Program Manager
-
-### Role
-The Program Manager works to ensure that the current class of PIE startups has the most rewarding and beneficial experience while in the space. This role also serves as the primary startup liaison and ombudsman.
-
-### Primary responsibilities
-- Serve as primary contact point for startups, from application through graduation
-- Recommend strategies and tactics that improve the program for startups
-- Manage day-to-day relations with PIE class members
-- Monitor and moderate stress within the environment through creative use of meals, parties, perks, contests, and the like
-- Manage weekly checkpoints, including but not limited to:
-	- Monday morning kick off meetings
-	- Family Dinner meeting
-	- Weekly check-ins with each company
-- Provide a weekly status report for each company
-- Manage the schedule for curriculum and mentor visits
-- Manage major events like Demo Day
-- Manage startup relations with W+K internal teams
-- Manage the application process, from initial forms through final selection
-
-### Secondary responsibilities
-- Advise on strategic planning and goal setting
-- Communicate with PIE management and W+K 
-
-- - - 
-(sidebar)
-#### Good Cop, Bad Cop
-
-- - -
-
-# Optional roles
-
-## Brand Manager 
-
-### Role
-The Brand Manager works to ensure that brand sponsors and Wieden+Kennedy derive demonstrable value from their engagement with PIE. This role serves as the primary liaison and ombudsman for PIE’s brand mentors.
-
-### Primary responsibilities
-- Serve as primary contact point for brand representatives and mentors
-- Coordinate brand relations and communications
-- Recommend strategies and tactics that improve the program for brand participation
-- Recommend strategies and tactics that facilitate brand activations
-- Manage sponsor involvement from a financial and contractual standpoint
-- Manage sponsor visits and schedules
-- Manage interaction between W+K brand account teams and startups
-- Serve as a conduit for brand and startup collaboration
-- Formalize process for brand mentor engagement from role definition through engagement
-- Advise startups and mentors on brand engagement
-- Participate in weekly checkpoints, including but not limited to:
-	- Monday morning kick off meetings
-	- Family Dinner meeting
-	- Weekly check-ins with each company
-- Provide a weekly status report to sponsoring brands on PIE progress
-
-### Secondary responsibilities
-- Assist with schedule for curriculum and mentor visits
-- Assist with major events like Demo Day
-- Assist with weekly checkpoints
-- Assist with weekly progress reports for startups
-- Work with W+K communications to promote brand sponsors within the advertising industry
-
-
-## Entrepreneur in Residence (EiR)
-
-### Role
-The entrepreneur in residence role is designed to serve two critical functions. First, they are designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with PIE management. Second, the EiR is charged with assessing and highlighting opportunities within PIE that may result in efficiencies or revenue generation.
-
-### Primary responsibilities
-- Work to formalize and codify PIE processes and programs
-- Document the PIE experience from a startup perspective
-- Serve as confidante for startups, both current and alums
-- Manage relationship with W+K technical mentors
-- Recommend strategies and tactics that improve the program for startups
-- Lead build vs. buy decisions for PIE management tools
-- Work to ensure PIE participates in the larger startup and accelerator community
-
-### Secondary responsibilities
-- Assist with schedule for curriculum and mentor visits
-- Assist with major events like Demo Day
-- Assist with weekly checkpoints
-- Assist with weekly progress reports for startups
-- Assist with online presence, including but not limited to:
-	- Web content
-	- Blog
-	- Social
-
-### Intern
-### Associate
-### Technical assistance
-
-## How to hire
-
-
-Partners
-			52. Objectives
-			53. Outcomes
-		54. Media
-		55. Culture
-			56. Hospitality
-				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
-				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
-			57. Diversity and Inclusion
-	52. Oven
-		53. Budget
-			54. Considerations
-			54. Pro forma
-# Space
-
-
-## Create a Minimally Valuable Space
-
-At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
-
-We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community, well, a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
-
-While coworking might not be the best solution for a solitary company in a vast sea of other disconnected companies, with people treating the entire office space like a water cooler. But in our experience, it tends to work really well with a bunch of small teams — and this is critical: who share something in common — cohabitating in a larger space. We've found that the random collisions that occur among these peers are worth the "loss of productivity." And we think that being human and collaborative in a workspace with other humans has an intrinsic value. Full stop.
-
-We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
-
-### Build an accelerator space
-
-But you're not building a coworking space for your accelerator participants. You're building a accelerator space for that has some facets of traditional coworking, like shared resources and an open floor plan. 
-
-Yes, people will cowork out of your accelerator space. But your accelerator space is not a coworking space. This is an important distinction, so let's unpack that a bit.
-
-### Coworking space is comfortable
-
-We've noticed a tendency in the accelerator industry to deck out your shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs. Bean bags. Ping pong tables. Catered kitchens…
-
-Honestly, we could go on and on.
-
-Yes, people ooh and ah when they see the space. And yes, if you're running a coworking space, the aesthetic makes it easier to defend the prices you're charging them for space. And yes, it can provide a certain sense of pride for the folks running the space. 
-
-There is a certain je ne sais quoi to a cohesive interior design aesthetic. 
-
-It's an aesthetic that's required for coworking. Because you need people — people who could otherwise roll out of bed and start working — to feel the motivation to commute into an office space. You need people to feel that there is intrinsic value in the space you're providing. And you need people to be comfortable with the prices they are paying in return for that investment. 
-
-But, to be honest, more often than not, those are false positives. They don't really make for a great community space. Or accelerator space. That design element makes for a great coworking space. 
-
-Over designing is a mistake.  
-
-Don't feel guilty. PIE fell for this trap too. It happens. But this is about you making new mistakes, remember? Not repeating ours. 
-
-At the PIE space, our initial build out was the equivalent of Hollywood set design for the quintessential startup workspace. Complete with painted and distressed closet doors as desktops supported by heavily welded — and rustically beautiful — sawhorses.  
-
-But for as compelling as the aesthetic was, it simply didn't work.
-
-### Accelerator space is awkward
-
-Why? Well, what we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
-
-# tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
-
-It's not that we didn't have the ability to make the space more comfortable. It's simply that it *shouldn't* be comfortable. That is not the purpose of the space. The space, like building a startup, should be difficult. And awkward. It should always cause friction. And discomfort.
-
-> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-> Antoine de Saint-Exupery. 
-
-Your only requirements are a solid wifi connection, access to power, a surface for a laptop, and a chair. That's it. Beyond that, you provide less than is needed. 
-
-Think less office space, more coffeeshop or bar.
-
-You should have too many people in the space. It should be noisy. You should have too few conference rooms. People should be eavesdropping on conversations whether they want to or not. You should have passible coffee and, if it fits your culture, beer. And most of all, everyone should be in one another's way.
-
-![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
-
-Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Shield them from the outside world. Create a utopian existence for them. That's what an incubator should do.
-
-Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up — and, ideally, out. Your job is to create a microcosm of the real world. A biome of startup life. They same way it exists outside of your doors. But with a few safety nets strewn here and there.
-
-And then you need to poke the startups so that, from time to time, they tumble into those safety nets.
-
-If you provide a space that is too comfortable and too accommodating then the startups will stay there. Forever. And that isn't what you want. You want churn. You want growth. You want backfill. And activity. And hustle.
-
-Yes, your Founders are amazing people to be around. And there is no end to their creativity and drive. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
-
-# tl;dr We are inviting you into our space because we want you to leave.  
-
-Like being embarrassed to bring your friends over to your parents' house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — your Founders' parents' basement. And it should be just as awkward as that arrangement.
-
-There are also fringe benefits to this sort of interior design. You, as an accelerator staff, remain scrappy. You feel less comfortable. You don't get to have it easy, either. You're dealing with the same awkwardness that your Founders are experiencing. And that's just how it should be.
-
-![PIE's kitchen "table"](/source/images/pie-kitchen-table.jpg)
-
-Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire one prevailing thought: "We need to get you out of here."  
-
-## The best space is the space you have
-
-The best Accelerators tend to be the ones that make do with the space they have. It's not the space you want; it's the space you've got. So use it. Don't get hung up on it. Just get started.
-
-Conversely, many Accelerator projects stumble when trying to source "the perfect space" for their home. "It's not the right size," "It's not the right location," "It's not configured well." 
-
-It doesn't matter. Have you found a space? Is it available? Can you afford it? Good. Make it work. 
-
-### Physical dimensions
-
-For the actual physical dimensions of the space, you can approach the problem one of two ways:
-
-1. If you already have a space, figure out how many people you can wedge into that space.
-2. If you're searching for a space, figure out how many founders/companies you'd like to have in a cohort.
-
-Adjust accordingly. 
-
-At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
-
-So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively.)
-
- 
-
-			56. Infrastructure
-				57. Power
-				59. Internet
-				60. Wifi
-				61. Printing/copying
-			
-## IKEA is your friend
-
-Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
-
-Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
-
-You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
-
-Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
-			
-			60. Kitchen
-				61. Coffee
-				62. Refrigerator(s)
-				63. Dishwasher
-				61. To kegerator or not to kegerator
-			61. Bathrooms	
-			62. Mail
-				63. You will be receiving mail for your startups for the rest of your life	
-			58. Office arrangement
-			59. Ongoing build out
-				60. Conference room
-				61. Meeting areas
-				62. Phone booths
-				63. Fishbowl
-					64. How this enabled more effective mentors in residence and portfolio management
-		56. Catalysts (Entrepreneur + Patron)
-		57. Pressure/heat (Startups + Staff + Patron)
-		
-
-# Recipe for an Accelerator
-
-## Establish a thesis
-
-Even if you're not planning to invest capital in your Startups, you should still do one thing like an investor: have a thesis. 
-
-What's a thesis? It's something that guides the types of companies with whom you want to work and often — more importantly — a guideline that prevents you from working with companies that aren't the right fit for your Accelerator.
-
-A thesis is especially important for a first-time program. Otherwise, you'll try to take all comers, which will set you up for failure on any number of fronts.
-
-# tl;dr A thesis will help guide all of your Accelerator activities
-
-You don't have to be married to your thesis forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof. It just needs to be defined. And you need to stick to it.
-
-At PIE, we hit upon the fact that we were really good at accelerating technology platforms and enabling technology. Or to put it another way, we did really well with developers building tools for other developers. Why did we get good at this? There were any number of reasons but among the most important were:
-
-- Portland has a long history of building platforms and enabling technologies, so there were more folks who had "been there and done that" with these types of businesses.
-- Our mentors had expertise in building platforms.
-- Our alums happened to be focused on platforms.
-- The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
-- As mentors and alums helped us recruit companies, they inevitably drew from a community of peers — many of whom were building platforms or enabling technology
-- Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — a company built on the premise of helping other companies.
-- We started PIE just as both the SaaS and mobile markets were exploding
-
-## Know where you suck
-
-Know — don’t assume; know — what you are truly good at doing.
-
-And even more importantly? Be willing to admit where you suck.
-
-At PIE, it quickly became obvious that we sucked at helping startups with fundraising. We were hamstrung by several things.
-
-First, there was a nascent investment community in Portland. 
-
-Second, the community that happened to exist did not possess a complementary risk profile for the companies with whom we were working. Because of that, the local investors had little appetite for the types of companies as investments. 
-
-Third, we had not established adequate ties with investors in other regions. We had friends here and there, but we didn’t have a strong rolodex of investors whose theses matched our startup profiles.
-
-But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provided us with yet another measure by which to select the companies we chose.
-
-## But also know what your strengths are
-
-PIE mentor and Techstars Seattle Managing Director, Chris DeVore, provides a [compelling list of the things that Seattle is good at doing](http://crashdev.com/2017/01/what-is-seattle-best-at/). 
-
-While your list might not be as long as Chris' — Seattle has been at this for a while — it's important that you take the time to assess what strengths your staff, mentors, startups, and regional expertise bring to the mix. 
-
-If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
- 
-				78. Setting expectations
-				79. Communicating expectations
-			78. Time period
-			79. Number of classes per year
-			80. Number of companies per class
-			81. Continued coworking or not?
-			81. Promotions
-				82. Media
-				83. Community
-					84. Mentors
-					85. Alums
-					86. Partners
-					87. Patrons
-					88. Sponsors
-				84. Events
-				82. Tchotchkes
-			82. Applications
-				83. Example application (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
-				84. Communications
-					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
-					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
-					87. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
-					88. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
-				84. Fringe benefits of applications: Market research
-					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
-					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
-			83. Selection
-				84. What we’re solving for: good founders
-				85. Grading criteria
-					86. People
-					87. Idea
-					88. Ecosystem
-				85. Written responses
-				86. Follow up questions
-				87. Face to face Interviews
-					88. Travel
-					88. Objective
-					89. Tells
-			90. Prep
-				91. Background checks
-				92. Paperwork
 
 ## Onboarding 
 
