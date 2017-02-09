@@ -847,8 +847,6 @@ Why do we believe this is an effective model for PIE and other accelerators? At 
 			24. Alums as mentors
 			24. Onboarding
 			24. Time commitment
-			25. Mentoring the mentors
-				26. Setting the tone
 
 # Recruiting mentors
 
