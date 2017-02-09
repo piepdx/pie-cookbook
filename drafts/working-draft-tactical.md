@@ -551,7 +551,7 @@ Therefore, the environment you build should be a representation of the outside w
 
 When you're first starting, the progression should look something like this: 
 
-- Founders, which leads to securing 
+- Accelerator Founders — or cofounders — which leads to securing 
 - Funding, which enables you to afford
 - Space and 
 - Staff, which allows you to recruit 
