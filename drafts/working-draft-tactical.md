@@ -1235,6 +1235,7 @@ If you've been part of your startup community for a significant amount of time, 
 					88. Travel
 					88. Objective
 					89. Tells
+				90. [Expect founders to be dubious](https://hackernoon.com/i-used-to-be-a-skeptic-but-the-first-two-weeks-of-techstars-boulder-have-blown-my-mind-d05c6fc55c91#.y40yakq93) 
 			90. Prep
 				91. Background checks
 				92. Paperwork
