@@ -1228,7 +1228,11 @@ If you've been part of your startup community for a significant amount of time, 
 
 Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
 
-It only makes sense. Because it's honestly the most challenging part of this whole process. And, to the outside world, it's the metric on which the "success" of your Accelerator will be judged. Other programs want to make sure that they're picking the best candidates. And candidates want to be sure they're providing the details that make it more likely for them to get picked.
+It only makes sense. Because it's honestly the most challenging part of this whole process. 
+
+What's more, to the outside world, it's the metric on which the "success" of your Accelerator will be judged. 
+
+And everyone is interested in this topic. Other programs want to make sure that they're picking the best candidates. And candidates want to be sure they're providing the details that make it more likely for them to get picked.
 
 
 				84. What we’re solving for: good founders
