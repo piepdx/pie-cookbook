@@ -1241,6 +1241,19 @@ Over the course of the programs PIE ran, we came up with a way of grading startu
 
 Our grading system for PIE is PIE. But in this case, PIE stands for People, Idea, and Excitement. Let's go into detail on each of those things.
 
+### People
+
+People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
+
+# tl;dr The only thing that matters is picking good Founders
+
+That's why we spend so much of the application process dealing with people issues rather than business issues. This is more of a psychology evaluation than a business plan competition. 
+
+It's a lifeboat quandary. A stuck overnight in an airport test. A who's got who's back. And who can be reliable and effective. 
+
+So we recommend doing whatever you have to do to get the Founders to reveal those sorts of traits. To figure out how they interact. To figure out where the flaws and cracks and stress points are. To discover what is going to motivate them. Or send them spiraling. 
+
+And to use all of that information to pick the best people for your program. Not Cofounders. Not business people. Not rockstars or ninjas or wizards. Just people. Pick good people. 
 
 					87. Idea
 					88. Ecosystem
