@@ -1235,9 +1235,13 @@ What's more, to the outside world, it's the metric on which the "success" of you
 And everyone is interested in this topic. Other programs want to make sure that they're picking the best candidates. And candidates want to be sure they're providing the details that make it more likely for them to get picked.
 
 
-				84. What we’re solving for: good founders
-				85. Grading criteria
-					86. People
+## Grading criteria
+
+Over the course of the programs PIE ran, we came up with a way of grading startups on a series of weighted factors. And we know this will come as a shock, but we made those factors into an acronym. 
+
+Our grading system for PIE is PIE. But in this case, PIE stands for People, Idea, and Excitement. Let's go into detail on each of those things.
+
+
 					87. Idea
 					88. Ecosystem
 				85. Written responses
