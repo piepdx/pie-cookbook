@@ -1223,7 +1223,14 @@ If you've been part of your startup community for a significant amount of time, 
 				84. Fringe benefits of applications: Market research
 					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
 					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
-			83. Selection
+
+# Selection
+
+Without fail, one of the questions we receive most consistently — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
+
+It only makes sense. Because it's honestly the most challenging part of this whole process. And, to the outside world, it's the metric on which the "success" of your Accelerator will be judged. 
+
+
 				84. What we’re solving for: good founders
 				85. Grading criteria
 					86. People
