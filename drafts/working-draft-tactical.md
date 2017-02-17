@@ -1239,7 +1239,7 @@ And everyone is interested in this topic. Other programs want to make sure that 
 
 Over the course of the programs PIE ran, we came up with a way of grading startups on a series of weighted factors. And we know this will come as a shock, but we made those factors into an acronym. 
 
-Our grading system for PIE is PIE. But in this case, PIE stands for People, Idea, and Excitement. Let's go into detail on each of those things.
+Our grading system for PIE is PIE. But in this case, PIE stands for People, Idea, and Enchantment. Let's go into detail on each of those things.
 
 ### People
 
@@ -1278,7 +1278,23 @@ So we ask questions like:
 - What will it take to engage that market?
 - Is there significant competition? (Not a a disqualifier, at all.)
 
-					88. Ecosystem
+### Enchantment
+
+This is kind of our catch all category. It can serve as a tiebreaker. Or as a multiplier. Or simply as a way to reaffirm what we believe the other two categories have told us. 
+
+Okay. To be honest, we actually call this category "Serendipity." But we didn't like that acronym. So we changed it to "Enchantment." Because it's a little bit magic. And gut. And luck.
+
+To qualify Enchantment, we ask questions like:
+
+- Are we illogically enchanted with this idea?
+- Are there other Founders in this class who would benefit and collaborate with these Founders? 
+- Are there adjacencies or complementary products or business opportunities with other Startups in this Class?
+- Are there adjacencies or complementary products or business opportunities with other PIE alums?
+- Do we have Mentors who would be particularly adept at helping this Startup?
+- Do they present an interesting collaborative opportunity or creative challenge for our Patrons or Sponsors?
+- Do they have a product that matches the thesis of our closest investors?
+- Is this just interesting for some odd reason?
+
 				85. Written responses
 				86. Follow up questions
 				87. Face to face Interviews
