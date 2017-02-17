@@ -498,6 +498,12 @@ Partner agreements are neither equity nor capital based. Instead, they are often
 
 A good example of a Partner is a hosting service that provides a limited number of "credits" for free hosting on its platform with the intent that Startups will remain on the platform and become paying customers once the credits are exhausted. 
 
+- - -
+**Need more definitions?**
+
+Check out the [Startup Fundraising Dictionary](https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e#.dhxa6l911), an open guide that helps define the terminology used in the industry.
+- - - 
+
 ## So why did we force you to work through all of that?
 
 Why all of the definition setting at the outset? Because the more context you have going into the situation — the more clarity and the more consensus — the better you'll communicate. And the fewer misunderstandings you'll have. And the more likelihood you'll have of success.
