@@ -1239,7 +1239,7 @@ And everyone is interested in this topic. Other programs want to make sure that 
 
 Over the course of the programs PIE ran, we came up with a way of grading startups on a series of weighted factors. And we know this will come as a shock, but we made those factors into an acronym. 
 
-Our grading system for PIE is PIE. But in this case, PIE stands for People, Idea, and Enchantment. Let's go into detail on each of those things.
+We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
 
 ### People
 
