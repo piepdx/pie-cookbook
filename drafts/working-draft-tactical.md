@@ -1255,7 +1255,18 @@ So we recommend doing whatever you have to do to get the Founders to reveal thos
 
 And to use all of that information to pick the best people for your program. Not Cofounders. Not business people. Not rockstars or ninjas or wizards. Just people. Pick good people. 
 
-					87. Idea
+### Idea
+
+After People, the next grading criteria is the Idea. Not the product, mind you, because that will change over the course of the Accelerator. It's the Idea. 
+
+So we ask questions like:
+
+- Does the idea have potential? 
+- Does the idea have a target market? 
+- Is that market attainable? 
+- What will it take to engage that market?
+- Is there significant competition? (Not a a disqualifier, at all.)
+
 					88. Ecosystem
 				85. Written responses
 				86. Follow up questions
