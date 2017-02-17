@@ -1255,6 +1255,17 @@ So we recommend doing whatever you have to do to get the Founders to reveal thos
 
 And to use all of that information to pick the best people for your program. Not Cofounders. Not business people. Not rockstars or ninjas or wizards. Just people. Pick good people. 
 
+So we ask questions like:
+
+- Is this Founder coachable?
+- How does this Founder interact with his/her Cofounders? 
+- Do we trust him/her? 
+- Will this Founder be a good peer mentor?
+- Can this Founder be collaborative and cooperative in a shared workspace?
+- What would happen if you were stuck in an airport overnight with this Founder?
+- Will this Founder be a good Mentor for future PIE companies? 
+
+
 ### Idea
 
 After People, the next grading criteria is the Idea. Not the product, mind you, because that will change over the course of the Accelerator. It's the Idea. 
