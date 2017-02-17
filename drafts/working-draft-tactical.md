@@ -1223,12 +1223,78 @@ If you've been part of your startup community for a significant amount of time, 
 				84. Fringe benefits of applications: Market research
 					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
 					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
-			83. Selection
-				84. What we’re solving for: good founders
-				85. Grading criteria
-					86. People
-					87. Idea
-					88. Ecosystem
+
+# Selection
+
+Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
+
+It only makes sense. Because it's honestly the most challenging part of this whole process. 
+
+What's more, to the outside world, it's the metric on which the "success" of your Accelerator will be judged. 
+
+And everyone is interested in this topic. Other programs want to make sure that they're picking the best candidates. And candidates want to be sure they're providing the details that make it more likely for them to get picked.
+
+
+## Grading criteria
+
+Over the course of the programs PIE ran, we came up with a way of grading startups on a series of weighted factors. And we know this will come as a shock, but we made those factors into an acronym. 
+
+We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
+
+### People
+
+People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
+
+# tl;dr The only thing that matters is picking good Founders
+
+That's why we spend so much of the application process dealing with people issues rather than business issues. This is more of a psychology evaluation than a business plan competition. 
+
+It's a lifeboat quandary. A stuck overnight in an airport test. A who's got who's back. And who can be reliable and effective. 
+
+So we recommend doing whatever you have to do to get the Founders to reveal those sorts of traits. To figure out how they interact. To figure out where the flaws and cracks and stress points are. To discover what is going to motivate them. Or send them spiraling. 
+
+And to use all of that information to pick the best people for your program. Not Cofounders. Not business people. Not rockstars or ninjas or wizards. Just people. Pick good people. 
+
+So we ask questions like:
+
+- Is this Founder coachable?
+- How does this Founder interact with his/her Cofounders? 
+- Do we trust him/her? 
+- Will this Founder be a good peer mentor?
+- Can this Founder be collaborative and cooperative in a shared workspace?
+- What would happen if you were stuck in an airport overnight with this Founder?
+- Will this Founder be a good Mentor for future PIE companies? 
+
+
+### Idea
+
+After People, the next grading criteria is the Idea. Not the product, mind you, because that will change over the course of the Accelerator. It's the Idea. 
+
+So we ask questions like:
+
+- Does the idea have potential? 
+- Does the idea have a target market? 
+- Is that market attainable? 
+- What will it take to engage that market?
+- Is there significant competition? (Not a a disqualifier, at all.)
+
+### Enchantment
+
+This is kind of our catch all category. It can serve as a tiebreaker. Or as a multiplier. Or simply as a way to reaffirm what we believe the other two categories have told us. 
+
+Okay. To be honest, we actually call this category "Serendipity." But we didn't like that acronym. So we changed it to "Enchantment." Because it's a little bit magic. And gut. And luck.
+
+To qualify Enchantment, we ask questions like:
+
+- Are we illogically enchanted with this idea?
+- Are there other Founders in this class who would benefit and collaborate with these Founders? 
+- Are there adjacencies or complementary products or business opportunities with other Startups in this Class?
+- Are there adjacencies or complementary products or business opportunities with other PIE alums?
+- Do we have Mentors who would be particularly adept at helping this Startup?
+- Do they present an interesting collaborative opportunity or creative challenge for our Patrons or Sponsors?
+- Do they have a product that matches the thesis of our closest investors?
+- Is this just interesting for some odd reason?
+
 				85. Written responses
 				86. Follow up questions
 				87. Face to face Interviews
