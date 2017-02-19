@@ -557,6 +557,12 @@ Therefore, the environment you build should be a representation of the outside w
 
 Your mission as an accelerator is create a safe but stressful environment where cofounders can experience — and more effectively resolve — the [conflicts they'll experience in the real world](https://techcrunch.com/2017/02/18/co-founder-conflict/). Your job is to harden successful teams for the rigors of the real world and to expose the fissures that will rip failing teams apart. And this has to be done quickly, because if it isn't, you risk long term — potentially irreparable — emotional pain for your founders, wasting capital from your investors, and wasted time for everyone. A company that doesn't have a realistic chance of surviving in the real world should not survive your accelerator. If it does, you're doing something wrong.
 
+- - -
+### Mistakes were made
+
+Dodging conflict is the primary mistake we made with the first class of PIE. We didn't attempt to raise issues. We attempted to mitigate them. We didn't push the founders to expose the flaws in their businesses. We sought to highlight only the positive aspects of their pursuits. As such, we did our founders, our mentors, and our community a disservice. 
+- - - 
+
 ## Order of progression
 
 When you're first starting, the progression should look something like this: 
