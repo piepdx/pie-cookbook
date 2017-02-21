@@ -150,7 +150,7 @@ You don't have to own the space, but you must do what it takes to make space ava
 
 With PIE, we were lucky enough to own space. Which had been generously donated by our patron, W+K, as part of the experiment. So we hosted community gatherings that we didn't manage. We invited people into the space. We had them hold their events in our space. We let people crash out overnight for crazy caffeine fueled coding sessions. Heck, we even hosted the first ever 30 hour nonstop livestreamed Web telethon in the space to help the community raise money for charity during the holiday season.
 
-We made the PIE space a resource by the community, for the community.
+We made the PIE space a resource by the community, for the community. It became a platform on which other members of the community could build their events and programs. And, eventually, companies.
 
 ### Step 5: Create a common space.
 
