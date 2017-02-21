@@ -60,7 +60,7 @@ But if you're not there yet, please do not skip ahead. Do not pass go. There is 
 
 # tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
 
-Caveat: Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
+# Caveat: Please do not take this document as a step-by-step roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
 
 ### Step 1: Found your own company. Or at least work at a startup.
 
