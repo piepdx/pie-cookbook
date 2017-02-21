@@ -142,7 +142,7 @@ Note: This step is ongoing. You don't get to stop talking about the community. E
 
 Now that your community is gaining definition. Now that it is starting to solidify and formalize. Now that you are taking an active role within that community. Only now can you start to host events. Shine a spotlight on talented community members. And invite people who would benefit from hearing those community members. Renny did this by having W+K serve as the inaugural host of Ignite Portland. And hosting events like Portland Lunch 2.0, among others.
 
-Without—and this is critical—expecting anything in return. At all.
+Without — and this is critical — expecting anything in return. At all.
 
 Don't think that you have to acquire space before this happens. You can partner with existing spaces. Or pay to rent spaces that you make accessible to others. Or this can occur in a shared space or a known resource.
 
