@@ -60,7 +60,7 @@ But if you're not there yet, please do not skip ahead. Do not pass go. There is 
 
 # tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
 
-Caveat: Please don't take this as a roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
+# Caveat: Please do not take this document as a step-by-step roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
 
 ### Step 1: Found your own company. Or at least work at a startup.
 
@@ -142,7 +142,7 @@ Note: This step is ongoing. You don't get to stop talking about the community. E
 
 Now that your community is gaining definition. Now that it is starting to solidify and formalize. Now that you are taking an active role within that community. Only now can you start to host events. Shine a spotlight on talented community members. And invite people who would benefit from hearing those community members. Renny did this by having W+K serve as the inaugural host of Ignite Portland. And hosting events like Portland Lunch 2.0, among others.
 
-Without—and this is critical—expecting anything in return. At all.
+Without — and this is critical — expecting anything in return. At all.
 
 Don't think that you have to acquire space before this happens. You can partner with existing spaces. Or pay to rent spaces that you make accessible to others. Or this can occur in a shared space or a known resource.
 
@@ -150,7 +150,7 @@ You don't have to own the space, but you must do what it takes to make space ava
 
 With PIE, we were lucky enough to own space. Which had been generously donated by our patron, W+K, as part of the experiment. So we hosted community gatherings that we didn't manage. We invited people into the space. We had them hold their events in our space. We let people crash out overnight for crazy caffeine fueled coding sessions. Heck, we even hosted the first ever 30 hour nonstop livestreamed Web telethon in the space to help the community raise money for charity during the holiday season.
 
-We made the PIE space a resource by the community, for the community.
+We made the PIE space a resource by the community, for the community. It became a platform on which other members of the community could build their events and programs. And, eventually, companies.
 
 ### Step 5: Create a common space.
 
@@ -161,12 +161,13 @@ For PIE, forming a coworking space was the way to go. In part because Wieden had
 Maybe your community needs the same thing. Or maybe it simply needs an event space that it uses throughout the day. Or maybe it needs a coffeeshop or a brewpub. Who knows? Maybe it needs a multistory complex that houses everything from startups through established businesses.
 
 We don't know what your community needs. It's your community. There is no right answer. Or, perhaps more appropriately, there is no one answer that is right for every community.
+
 Your task is to find the answer that solves an actual need within your community. And to find the partners and patrons who are going to help you get there. You need to create the space that your community needs to continue to thrive. And to continue the momentum you, as a community, have created.
 
-For us, the space in the Wieden+Kennedy building afforded us opportunities for coworking and hosting events—which in turn provided all kinds of value for the community. In retrospect, there are three things we found to be most important about having a physical space:
+For us, the space in the Wieden+Kennedy building afforded us opportunities for coworking and hosting events — which in turn provided all kinds of value for the community. In retrospect, there are three things we found to be most important about having a physical space:
 
 1. As different groups in the community took advantage of the space, it created an opportunity for random collisions to occur and serendipity to thrive—from W+K and giant global brands to nascent startups. We found that those collisions created real and sustainable connections.
-2. It provided a vantage point for us—the startup community and our patron—to better understand the dynamics of the community, where the momentum was, and where the gaps were. At times, it also provided us with an opportunity to simply observe, as an objective third party.
+2. It provided a vantage point for us — the startup community and our patron — to better understand the dynamics of the community, where the momentum was, and where the gaps were. At times, it also provided us with an opportunity to simply observe, as an objective third party.
 3. It served as a physical representation of the community, as a whole. So when folks were visiting town or were new to town, they had a place to land. And that space enabled others to discover and engage with the community more readily.
 
 ### Step 6: Keep doing all of that stuff. But do more of it. Faster.
@@ -195,7 +196,7 @@ But if you discover that — after all of your hard work — an accelerator is n
 
 Again, this isn't the right way to do anything. This just happens to be how PIE came into being.
 
-Whatever you choose to do—start a long journey or jump into the deep end of the pool—just remember that, in the long run, you're not building an accelerator. You're building a community.
+Whatever you choose to do — start a long journey or jump into the deep end of the pool — just remember that, in the long run, you're not building an accelerator. You're building a community.
 
 ## Coworking and Community Development are not complementary
 
@@ -213,6 +214,8 @@ Long story short, we feel we’ve gotten exponentially more value out of giving 
 # Kitchen Prep
 
 Where you start is where you start. Don't let the current state of things or the amount of effort required prevent you from taking action. Start small. Start today. It might not be where you want to start. But you've got to start somewhere.
+
+Just start.
 
 # Before you begin
 
@@ -770,7 +773,8 @@ These mentors provide any number of benefits to the Accelerator, but among the m
 - Helping to recruit Startups for each program
 - Helping to recruit additional Mentors for the Accelerator
 - Assisting in the selection process
-- Providing objective feedback to the Accelerator about both the startups and the accelerator, itself
+- Bringing an outside perspective to the Founders
+- Providing objective feedback to the Accelerator about both the startups and the Accelerator, itself
 
 **Value to the mentor**
 
@@ -1113,7 +1117,7 @@ Adjust accordingly.
 
 At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
 
-So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively.)
+So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively. So remember, it's not just what the space can handle but what staff and mentors can handle.)
 
 ### There is no caste system here
 
