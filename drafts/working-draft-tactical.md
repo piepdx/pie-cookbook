@@ -773,7 +773,8 @@ These mentors provide any number of benefits to the Accelerator, but among the m
 - Helping to recruit Startups for each program
 - Helping to recruit additional Mentors for the Accelerator
 - Assisting in the selection process
-- Providing objective feedback to the Accelerator about both the startups and the accelerator, itself
+- Bringing an outside perspective to the Founders
+- Providing objective feedback to the Accelerator about both the startups and the Accelerator, itself
 
 **Value to the mentor**
 
