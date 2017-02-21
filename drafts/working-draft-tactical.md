@@ -164,7 +164,7 @@ We don't know what your community needs. It's your community. There is no right 
 
 Your task is to find the answer that solves an actual need within your community. And to find the partners and patrons who are going to help you get there. You need to create the space that your community needs to continue to thrive. And to continue the momentum you, as a community, have created.
 
-For us, the space in the Wieden+Kennedy building afforded us opportunities for coworking and hosting events—which in turn provided all kinds of value for the community. In retrospect, there are three things we found to be most important about having a physical space:
+For us, the space in the Wieden+Kennedy building afforded us opportunities for coworking and hosting events — which in turn provided all kinds of value for the community. In retrospect, there are three things we found to be most important about having a physical space:
 
 1. As different groups in the community took advantage of the space, it created an opportunity for random collisions to occur and serendipity to thrive—from W+K and giant global brands to nascent startups. We found that those collisions created real and sustainable connections.
 2. It provided a vantage point for us—the startup community and our patron—to better understand the dynamics of the community, where the momentum was, and where the gaps were. At times, it also provided us with an opportunity to simply observe, as an objective third party.
