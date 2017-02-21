@@ -167,7 +167,7 @@ Your task is to find the answer that solves an actual need within your community
 For us, the space in the Wieden+Kennedy building afforded us opportunities for coworking and hosting events — which in turn provided all kinds of value for the community. In retrospect, there are three things we found to be most important about having a physical space:
 
 1. As different groups in the community took advantage of the space, it created an opportunity for random collisions to occur and serendipity to thrive—from W+K and giant global brands to nascent startups. We found that those collisions created real and sustainable connections.
-2. It provided a vantage point for us—the startup community and our patron—to better understand the dynamics of the community, where the momentum was, and where the gaps were. At times, it also provided us with an opportunity to simply observe, as an objective third party.
+2. It provided a vantage point for us — the startup community and our patron — to better understand the dynamics of the community, where the momentum was, and where the gaps were. At times, it also provided us with an opportunity to simply observe, as an objective third party.
 3. It served as a physical representation of the community, as a whole. So when folks were visiting town or were new to town, they had a place to land. And that space enabled others to discover and engage with the community more readily.
 
 ### Step 6: Keep doing all of that stuff. But do more of it. Faster.
@@ -196,7 +196,7 @@ But if you discover that — after all of your hard work — an accelerator is n
 
 Again, this isn't the right way to do anything. This just happens to be how PIE came into being.
 
-Whatever you choose to do—start a long journey or jump into the deep end of the pool—just remember that, in the long run, you're not building an accelerator. You're building a community.
+Whatever you choose to do — start a long journey or jump into the deep end of the pool — just remember that, in the long run, you're not building an accelerator. You're building a community.
 
 ## Coworking and Community Development are not complementary
 
