@@ -161,6 +161,7 @@ For PIE, forming a coworking space was the way to go. In part because Wieden had
 Maybe your community needs the same thing. Or maybe it simply needs an event space that it uses throughout the day. Or maybe it needs a coffeeshop or a brewpub. Who knows? Maybe it needs a multistory complex that houses everything from startups through established businesses.
 
 We don't know what your community needs. It's your community. There is no right answer. Or, perhaps more appropriately, there is no one answer that is right for every community.
+
 Your task is to find the answer that solves an actual need within your community. And to find the partners and patrons who are going to help you get there. You need to create the space that your community needs to continue to thrive. And to continue the momentum you, as a community, have created.
 
 For us, the space in the Wieden+Kennedy building afforded us opportunities for coworking and hosting events—which in turn provided all kinds of value for the community. In retrospect, there are three things we found to be most important about having a physical space:
