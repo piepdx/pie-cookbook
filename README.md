@@ -25,6 +25,7 @@ Our goal is to complete the working draft by April 1, 2017.
 We are looking forward to building this content with you. That's why we're doing this development on Github. (The actual book will reside somewhere that's more approachable.) 
 
 There are three primary ways to provide feedback:
+
 1. Join the [PIE Cookbook Slack](https://docs.google.com/forms/d/e/1FAIpQLSf7JnbN4beYeFMRo_dV4KH2TWMiWkD1KfAajJ0mT5m_w32Tfw/viewform). 
 2. Use the [PIE Cookbook Issues on Github](https://github.com/piepdx/pie-cookbook/issues) to comment on the content under development and track the ongoing development. 
 3. [Fork the repository](https://github.com/piepdx/pie-cookbook/blob/master/docs/howto-github.md), make edits, and submit pull requests.
