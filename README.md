@@ -12,7 +12,22 @@ By joining this project, you’ll gain access to everything we’ve learned from
 
 ## Getting started
 
-New to Github? @MugofPaul has created [a guide to help you get your bearings and learn how to contribute to the project](https://github.com/piepdx/pie-cookbook/blob/b209a967a93d85910435b3a9b36e0c3a46957fc0/docs/howto-github.md).
+New to Github? @MugofPaul has created [a guide to help you get your bearings and learn how to contribute to the project](https://github.com/piepdx/pie-cookbook/blob/master/docs/howto-github.md).
+
+## Current focus (Updated February 23, 2017)
+
+**We are currently working to incorporate all of the notes on Accelerator operations and management into the [tactical working draft.](https://github.com/piepdx/pie-cookbook/blob/master/drafts/working-draft-tactical.md)** Once we complete that draft, we will return to the contextual working draft, a document that captures more of the motivations and context for an Accelerator. 
+
+Our goal is to complete the working draft by April 1, 2017.
+
+## Feedback
+
+We are looking forward to building this content with you. That's why we're doing this development on Github. (The actual book will reside somewhere that's more approachable.) 
+
+There are three primary ways to provide feedback:
+1. Join the [PIE Cookbook Slack](https://docs.google.com/forms/d/e/1FAIpQLSf7JnbN4beYeFMRo_dV4KH2TWMiWkD1KfAajJ0mT5m_w32Tfw/viewform). 
+2. Use the [PIE Cookbook Issues on Github](https://github.com/piepdx/pie-cookbook/issues) to comment on the content under development and track the ongoing development. 
+3. [Fork the repository](https://github.com/piepdx/pie-cookbook/blob/master/docs/howto-github.md), make edits, and submit pull requests.
 
 ## Structure
 
@@ -21,13 +36,9 @@ A high-level working [outline of the PIE Cookbook](https://github.com/piepdx/pie
 The PIE Cookbook repository is divided into the following directories:
 
 - [/docs](https://github.com/piepdx/pie-cookbook/tree/master/docs) — Home of the master PIE Cookbook document, which feeds Read the Docs
-- [/drafts](https://github.com/piepdx/pie-cookbook/tree/master/drafts/) — Written content that has not yet been added to the master PIE Cookbook document
+- [/drafts](https://github.com/piepdx/pie-cookbook/tree/master/drafts/) — Written content that has not yet been added to the master PIE Cookbook document **We are here**
 - [/notes](https://github.com/piepdx/pie-cookbook/tree/master/notes/) — Notes about the project, topics to be written, feedback from participants, distillation of source materials, and parking lot items. Also, home of the [outline](https://github.com/piepdx/pie-cookbook/blob/master/notes/outline.md) governing the topics for this project.
 - [/source](https://github.com/piepdx/pie-cookbook/tree/master/source/) — Relevant URLs, documents, and source materials that inform the content of the PIE Cookbook
-
-## Feedback
-
-We are looking forward to building this content with you. To participate, we recommend using the [PIE Cookbook Issues](https://github.com/piepdx/pie-cookbook/issues) to comment on the content under development and track the ongoing development. 
 
 ## Kickstarter
 
