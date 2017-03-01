@@ -1141,8 +1141,7 @@ At the very least, you should plan on having one outlet and one surge protecting
 
 # tl;dr At a minimum, provide one outlet and one power strip per person
 
-It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
-
+Note: PIE did not do this well. This was one of our mistakes. We didn't have enough power outlets for each person to have an outlet. And, at times, it caused more stress than we care to admit. Later, we managed to get more power added, especially when startups needed the additional power to function. 
 
 				59. Internet
 				60. Wifi
@@ -1161,6 +1160,9 @@ Don't make furnishings a major line item. We used low cost dining room tables fr
 You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
 
 Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
+
+Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
+
 			
 			60. Kitchen
 				61. Coffee
