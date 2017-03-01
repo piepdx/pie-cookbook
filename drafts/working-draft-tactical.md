@@ -1115,18 +1115,41 @@ For the actual physical dimensions of the space, you can approach the problem on
 
 Adjust accordingly. 
 
-At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
+At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. And it was oddly shaped. But it had its own entrance. And it's own kitchen area.  
+
+![Sketch of the PIE space from initial walkthrough](https://github.com/piepdx/pie-cookbook/blob/master/source/images/PIE-sketch-2009.jpg)
+
+After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
 
 So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively. So remember, it's not just what the space can handle but what staff and mentors can handle.)
 
 More on how we arranged those startups will follow.
 
+## Infrastructure
 
-			56. Infrastructure
-				57. Power
+More often than not, Accelerator spaces are a "work with the space that you have" sort of proposition. And there doesn't tend to be a lot of capital for tenant improvements or build out. That said, there are certain aspects of the space that you simply have to make work. Even if that means spending a little money to make it feasible.
+
+PIE focused on early stage tech startups who were usually pursuing Web based or mobile based products that were hosted in the cloud. For that reason, the vast majority of our companies were people banging on laptops. 
+
+But even that sort of setup requires some infrastructure.
+
+Here are some of those "must haves" for an Accelerator to even function as a workspace.
+
+### Power
+
+At the very least, you should plan on having one outlet and one surge protecting power strip per person. This may require you to spend money on additional power drops in your space. Or you may be able to make due with extension cords and trip guards, within the realms of fire code. But no matter what, it will definitely require you to purchase a lot of power strips — or have someone donate them to your cause. 
+
+# tl;dr At a minimum, provide one outlet and one power strip per person
+
+Note: PIE did not do this well. This was one of our mistakes. We didn't have enough power outlets for each person to have an outlet. And, at times, it caused more stress than we care to admit. Later, we managed to get more power added, especially when startups needed the additional power to function. 
+
 				59. Internet
 				60. Wifi
 				61. Printing/copying
+				Outliers:
+				- Appthwack
+				- Vendscreen
+				- Smart Mocha
 			
 ## IKEA is your friend
 
@@ -1137,6 +1160,9 @@ Don't make furnishings a major line item. We used low cost dining room tables fr
 You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
 
 Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
+
+Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
+
 			
 			60. Kitchen
 				61. Coffee
