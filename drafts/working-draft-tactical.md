@@ -1143,7 +1143,9 @@ At the very least, you should plan on having one outlet and one surge protecting
 
 Note: PIE did not do this well. This was one of our mistakes. We didn't have enough power outlets for each person to have an outlet. And, at times, it caused more stress than we care to admit. Later, we managed to get more power added, especially when startups needed the additional power to function. 
 
-				59. Internet
+### Internet
+
+Regardless of the types of businesses with whom you're working, high speed internet connectivity is a must. 
 				60. Wifi
 				61. Printing/copying
 				Outliers:
