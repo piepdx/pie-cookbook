@@ -1137,6 +1137,9 @@ Here are some of those "must haves" for an Accelerator to even function as a wor
 
 ### Power
 
+At the very least, you should plan on one outlet and one surge protecting power strip per person. This may require you to spend money on additional power drops in your space. It will definitely require you to purchase a lot of power strips. 
+
+It's fine to put the onus of machines, monitors, and the like on the founders. Don't make them hunt down power strips or extension cords. That's your job.
 
 
 				59. Internet
