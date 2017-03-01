@@ -1119,20 +1119,6 @@ At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square f
 
 So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively. So remember, it's not just what the space can handle but what staff and mentors can handle.)
 
-### There is no caste system here
-
-At PIE, one of the most important things we discovered — through trial and error — was that staff and startups had to be perceived as equals in terms of workspace. 
-
-We made some mistakes with this at first.
-
-[MISTAKES WERE MADE: STAFF SEPARATED FROM STARTUPS]
-
-What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the founders going through the Accelerator. 
-
-Anything less, and you're compromising the opportunity to bond with your companies.
-
-Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
- 
 
 			56. Infrastructure
 				57. Power
@@ -1168,6 +1154,20 @@ Want a standing desk? Combine that kitchen table with a coffee table to make a f
 		56. Catalysts (Entrepreneur + Patron)
 		57. Pressure/heat (Startups + Staff + Patron)
 		
+### There is no caste system here
+
+At PIE, one of the most important things we discovered — through trial and error — was that staff and startups had to be perceived as equals in terms of workspace. 
+
+We made some mistakes with this at first.
+
+[MISTAKES WERE MADE: STAFF SEPARATED FROM STARTUPS]
+
+What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the founders going through the Accelerator. 
+
+Anything less, and you're compromising the opportunity to bond with your companies.
+
+Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
+ 
 
 # Recipe for an Accelerator
 
