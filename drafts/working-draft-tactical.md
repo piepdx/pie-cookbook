@@ -1117,6 +1117,8 @@ Adjust accordingly.
 
 At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
 
+![Sketch of the PIE space from initial walkthrough](https://github.com/piepdx/pie-cookbook/blob/master/source/images/PIE-sketch-2009.jpg)
+
 So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively. So remember, it's not just what the space can handle but what staff and mentors can handle.)
 
 More on how we arranged those startups will follow.
