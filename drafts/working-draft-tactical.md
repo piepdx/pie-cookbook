@@ -1119,6 +1119,8 @@ At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square f
 
 So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively. So remember, it's not just what the space can handle but what staff and mentors can handle.)
 
+More on how we arranged those startups will follow.
+
 
 			56. Infrastructure
 				57. Power
@@ -1153,6 +1155,10 @@ Want a standing desk? Combine that kitchen table with a coffee table to make a f
 					64. How this enabled more effective mentors in residence and portfolio management
 		56. Catalysts (Entrepreneur + Patron)
 		57. Pressure/heat (Startups + Staff + Patron)
+
+## Layout
+
+Where to put people and how to organize the space.
 		
 ### There is no caste system here
 
