@@ -1129,10 +1129,23 @@ More on how we arranged those startups will follow.
 
 More often than not, Accelerator spaces are a "work with the space that you have" sort of proposition. And there doesn't tend to be a lot of capital for tenant improvements or build out. That said, there are certain aspects of the space that you simply have to make work. Even if that means spending a little money to make it feasible.
 
-				57. Power
+PIE focused on early stage tech startups who were usually pursuing Web based or mobile based products that were hosted in the cloud. For that reason, the vast majority of our companies were people banging on laptops. 
+
+But even that sort of setup requires some infrastructure.
+
+Here are some of those "must haves" for an Accelerator to even function as a workspace.
+
+### Power
+
+
+
 				59. Internet
 				60. Wifi
 				61. Printing/copying
+				Outliers:
+				- Appthwack
+				- Vendscreen
+				- Smart Mocha
 			
 ## IKEA is your friend
 
