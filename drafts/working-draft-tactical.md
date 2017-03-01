@@ -1125,8 +1125,10 @@ So we went after 10 companies for our first Accelerator class. (NOTE: This was t
 
 More on how we arranged those startups will follow.
 
+## Infrastructure
 
-			56. Infrastructure
+More often than not, Accelerator spaces are a "work with the space that you have" sort of proposition. And there doesn't tend to be a lot of capital for tenant improvements or build out. That said, there are certain aspects of the space that you simply have to make work. Even if that means spending a little money to make it feasible.
+
 				57. Power
 				59. Internet
 				60. Wifi
