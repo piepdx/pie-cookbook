@@ -1145,8 +1145,22 @@ Note: PIE did not do this well. This was one of our mistakes. We didn't have eno
 
 ### Internet
 
-Regardless of the types of businesses with whom you're working, high speed internet connectivity is a must. 
-				60. Wifi
+Regardless of the types of businesses with whom you're working, high speed internet connectivity is a must. So figure out a way to pay for it or get it donated. 
+
+At PIE, we went for an enterprise grade cable connection. If you can get fiber, get fiber. It's worth it. And again, worth mitigating the stress of dropped connections or large file transfers. 
+
+### Wifi
+
+While some of your company may require physical internet drops, wifi will likely suffice for most of your participants. 
+
+PIE was hilariously bad at selecting wifi routers early in its existence. And this plagued us for about a year. Until we tore out the system we had set up and rebuilt it from scratch.
+
+Spend the time and money to get the wifi done right. 
+
+And be extremely liberal with the number of simultaneous connections your router can support. Especially if you're hosting events in your space. But it helps day-to-day, as well. 
+
+Rest assured, you'll be surprised how much good wifi connectivity can result in a positive impression of the space and your events. Because it's hard for people to tell others about your Accelerator if they can't get online to talk about it.
+
 				61. Printing/copying
 				Outliers:
 				- Appthwack
