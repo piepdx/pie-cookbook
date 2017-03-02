@@ -1161,7 +1161,18 @@ And be extremely liberal with the number of simultaneous connections your router
 
 Rest assured, you'll be surprised how much good wifi connectivity can result in a positive impression of the space and your events. Because it's hard for people to tell others about your Accelerator if they can't get online to talk about it.
 
-				61. Printing/copying
+### Printing/copying
+
+It sounds ridiculous in this day and age, but you need a printer and copier. Inevitably there will be a contract or term sheets or employee documentation that requires this. It's a cost of doing business.
+
+At least these days it's possible to find a single multipurpose device to handle your needs. And try to make it as efficient as possible. Because no one wants to be sweating a 30 page document completing a print run before a deadline. 
+
+Also prepare to take on the cost of supplies and maintenance for this unit. Because it will break. Usually at the most inconvenient times. 
+
+If you want to be really nice, make sure that this device is networked. PIE never managed to accomplish this. It's still a dream that we will, one day.
+
+Finally, don't be tempted to charge per copy or anything silly like that. Just eat the cost as a cost of doing business. 
+
 				Outliers:
 				- Appthwack
 				- Vendscreen
