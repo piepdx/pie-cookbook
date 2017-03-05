@@ -1220,7 +1220,7 @@ Founders will often bring in their own meals — or need a way of storing doggy 
 
 Plus, if you're feeding them as often as we will encourage you to do, you'll need somewhere to store those leftovers, as well.
 
-At PIE, we were lucky enough to have two full-size fridges. We labeled one public and one private. 
+At PIE, we were lucky enough to have two full-size fridges. And if you can afford the same setup, we highly recommend it. We labeled one public and one private. 
 
 In the public fridge, anything was fair game. This is where we would store things like condiments, leftovers from PIE group meals, and other food that founders deemed fair game for the rest of the group. Sometimes, you're lucky enough to get founders who enjoy cooking for everyone. And when you do, you want somewhere to put that. 
 
