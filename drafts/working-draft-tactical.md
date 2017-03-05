@@ -1211,6 +1211,7 @@ Make sure to have a wide selection of teas, caffeinated, caffeine free, herbal, 
 
 				62. Refrigerator(s)
 				63. Dishwasher
+				Water Cooler
 				61. To kegerator or not to kegerator
 			61. Bathrooms	
 			62. Mail
