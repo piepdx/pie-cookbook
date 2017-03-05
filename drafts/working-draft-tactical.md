@@ -1227,6 +1227,8 @@ In the public fridge, anything was fair game. This is where we would store thing
 In the private fridge, we required folks to label all food. This was specifically hands off sort of stuff. Like sack lunches. Or that extra special cream that someone wanted for his coffee. 
 
 Like the kitchen, itself, cleaning the fridge(s) will become a chore and a bone of contention. Plan ahead for that. 
+
+				Cupboards
 				63. Dishwasher
 				Water Cooler
 				61. To kegerator or not to kegerator
