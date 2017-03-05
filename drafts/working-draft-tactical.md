@@ -1186,16 +1186,58 @@ Don't make furnishings a major line item. We used low cost dining room tables fr
 
 You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
 
+![Building IKEA desks](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2011-08-25%2009.55.10.jpg)
+
 Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
 
 Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
 
-			
-			60. Kitchen
-				61. Coffee
-				62. Refrigerator(s)
+## Kitchen
+
+Given how much time the founders will be spending in the space, a kitchen is a critical component of the Accelerator setup. Please note that it also becomes a completely hassle in terms of custodial upkeep. In our experience, it's like one kitchen in a living space with 40 roommates. 
+
+That said, it's still critically important that you have it. And that you plan appropriately for its ongoing maintenance — and communicate those responsibilities and — potentially — chores to the residents of the space. 
+
+Our kitchen became so important to the space — serendipitous collisions and compelling conversations started in there all of the time — that we used the term "Kitchen" to describe the general chat room on our chat environment. 
+
+Here's how ours was outfitted for the class. 
+
+### Coffee/Tea
+
+Probably the most critical component of the kitchen for founders: the convenient conveyance of caffeine. 
+
+If possible, invest in a coffee maker that with piped in water. Not only is it more efficient when people are making pot after pot of coffee, it ensures that there is one less possibility of making a mess in the kitchen area. 
+
+Also invest in the highest quality coffee and tea available. It's of minimal additional cost but it goes a long way in helping the startups feel at home. 
+
+Make sure to have a wide selection of teas, caffeinated, caffeine free, herbal, and green. 
+
+### Refrigerator(s)
+
+Have at least one full size refrigerator for the kitchen. Just like you would have at home. 
+
+Founders will often bring in their own meals — or need a way of storing doggy bags from lunch and dinner meetings. Help them stretch their budgets as far as they can. 
+
+Plus, if you're feeding them as often as we will encourage you to do, you'll need somewhere to store those leftovers, as well.
+
+At PIE, we were lucky enough to have two full-size fridges. And if you can afford the same setup, we highly recommend it. We labeled one public and one private. 
+
+In the public fridge, anything was fair game. This is where we would store things like condiments, leftovers from PIE group meals, and other food that founders deemed fair game for the rest of the group. Sometimes, you're lucky enough to get founders who enjoy cooking for everyone. And when you do, you want somewhere to put that. 
+
+In the private fridge, we required folks to label all food. This was specifically hands off sort of stuff. Like sack lunches. Or that extra special cream that someone wanted for his coffee. 
+
+Like the kitchen, itself, cleaning the fridge(s) will become a chore and a bone of contention. Plan ahead for that. 
+
+				Cupboards
 				63. Dishwasher
+				Water Cooler
 				61. To kegerator or not to kegerator
+				
+### Additional items
+
+[Write about the Switchboard Sodastream]
+
+
 			61. Bathrooms	
 			62. Mail
 				63. You will be receiving mail for your startups for the rest of your life	
