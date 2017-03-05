@@ -1198,6 +1198,8 @@ Given how much time the founders will be spending in the space, a kitchen is a c
 
 That said, it's still critically important that you have it. And that you plan appropriately for its ongoing maintenance — and communicate those responsibilities and — potentially — chores to the residents of the space. 
 
+Our kitchen became so important to the space — serendipitous collisions and compelling conversations started in there all of the time — that we used the term "Kitchen" to describe the general chat room on our chat environment. 
+
 Here's how ours was outfitted for the class. 
 
 ### Coffee/Tea
