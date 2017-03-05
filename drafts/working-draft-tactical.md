@@ -1198,7 +1198,17 @@ Given how much time the founders will be spending in the space, a kitchen is a c
 
 That said, it's still critically important that you have it. Here's how ours was outfitted for the class. 
 
-				61. Coffee
+### Coffee/Tea
+
+Probably the most critical component of the kitchen for founders: the convenient conveyance of caffeine. 
+
+If possible, invest in a coffee maker that with piped in water. Not only is it more efficient when people are making pot after pot of coffee, it ensures that there is one less possibility of making a mess in the kitchen area. 
+
+Also invest in the highest quality coffee and tea available. It's of minimal additional cost but it goes a long way in helping the startups feel at home. 
+
+Make sure to have a wide selection of teas, caffeinated, caffeine free, herbal, and green. 
+
+
 				62. Refrigerator(s)
 				63. Dishwasher
 				61. To kegerator or not to kegerator
