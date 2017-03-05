@@ -1213,6 +1213,12 @@ Make sure to have a wide selection of teas, caffeinated, caffeine free, herbal, 
 				63. Dishwasher
 				Water Cooler
 				61. To kegerator or not to kegerator
+				
+### Additional items
+
+[Write about the Switchboard Sodastream]
+
+
 			61. Bathrooms	
 			62. Mail
 				63. You will be receiving mail for your startups for the rest of your life	
