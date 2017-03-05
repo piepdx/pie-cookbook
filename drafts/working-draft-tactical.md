@@ -1208,8 +1208,21 @@ Also invest in the highest quality coffee and tea available. It's of minimal add
 
 Make sure to have a wide selection of teas, caffeinated, caffeine free, herbal, and green. 
 
+### Refrigerator(s)
 
-				62. Refrigerator(s)
+Have at least one full size refrigerator for the kitchen. Just like you would have at home. 
+
+Founders will often bring in their own meals — or need a way of storing doggy bags from lunch and dinner meetings. Help them stretch their budgets as far as they can. 
+
+Plus, if you're feeding them as often as we will encourage you to do, you'll need somewhere to store those leftovers, as well.
+
+At PIE, we were lucky enough to have two full-size fridges. We labeled one public and one private. 
+
+In the public fridge, anything was fair game. This is where we would store things like condiments, leftovers from PIE group meals, and other food that founders deemed fair game for the rest of the group. Sometimes, you're lucky enough to get founders who enjoy cooking for everyone. And when you do, you want somewhere to put that. 
+
+In the private fridge, we required folks to label all food. This was specifically hands off sort of stuff. Like sack lunches. Or that extra special cream that someone wanted for his coffee. 
+
+Like the kitchen, itself, cleaning the fridge(s) will become a chore and a bone of contention. Plan ahead for that. 
 				63. Dishwasher
 				Water Cooler
 				61. To kegerator or not to kegerator
