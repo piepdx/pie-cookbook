@@ -1196,7 +1196,9 @@ Long story short, take care of the basics. Like power. And internet. And desks a
 
 Given how much time the founders will be spending in the space, a kitchen is a critical component of the Accelerator setup. Please note that it also becomes a completely hassle in terms of custodial upkeep. In our experience, it's like one kitchen in a living space with 40 roommates. 
 
-That said, it's still critically important that you have it. Here's how ours was outfitted for the class. 
+That said, it's still critically important that you have it. And that you plan appropriately for its ongoing maintenance — and communicate those responsibilities and — potentially — chores to the residents of the space. 
+
+Here's how ours was outfitted for the class. 
 
 ### Coffee/Tea
 
