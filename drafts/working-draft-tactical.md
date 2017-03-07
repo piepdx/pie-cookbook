@@ -1234,7 +1234,10 @@ You're going to need somewhere to put all of the coffee and tea and cups and pla
 
 Like everything else in the kitchen, get ready for these to become messy and disorganized. And set aside time or assign chores accordingly. 
 
-Sink(s)
+### Sink(s)
+
+At least one sink is necessary. Multiple sinks are preferable. Otherwise you get a line up of people whenever you've had a meal. 
+
 				63. Dishwasher
 				Water Cooler
 				61. To kegerator or not to kegerator
