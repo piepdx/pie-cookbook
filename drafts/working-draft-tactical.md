@@ -1241,7 +1241,11 @@ Like everything else in the kitchen, get ready for these to become messy and dis
 
 ### Sink(s)
 
-At least one sink is necessary. Multiple sinks are preferable. Otherwise you get a line up of people whenever you've had a meal. 
+At least one sink is necessary. Multiple sinks are preferable. Otherwise you get a line up of people whenever you've had a meal. Try to make it as efficient as possible. Or as efficient as your space will allow. 
+
+More so than any other area, the sink will become your nightmare. No matter how many times you remind folks, no matter how many signs you post, no matter who is assigned clean up, the sink will pile up with dishes. Always. 
+
+Plan accordingly.
 
 				63. Dishwasher
 				Water Cooler
