@@ -1229,6 +1229,7 @@ In the private fridge, we required folks to label all food. This was specificall
 Like the kitchen, itself, cleaning the fridge(s) will become a chore and a bone of contention. Plan ahead for that. 
 
 				Cupboards
+				Sink(s)
 				63. Dishwasher
 				Water Cooler
 				61. To kegerator or not to kegerator
