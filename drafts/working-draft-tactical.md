@@ -1228,9 +1228,27 @@ In the private fridge, we required folks to label all food. This was specificall
 
 Like the kitchen, itself, cleaning the fridge(s) will become a chore and a bone of contention. Plan ahead for that. 
 
-				Cupboards
-				Sink(s)
+### Cupboards/storage
+
+You're going to need somewhere to put all of the coffee and tea and cups and plates and whatnot. And you'll need drawers for silverware and stuff.
+Make sure these are well stocked with plates, bowls, mugs, glasses, silverware, and serving wear. As an added bonus, consider storage containers for leftover food. 
+
+You'll also need room to store snacks. And soups. And other dry storage sorts of things that folks will bring into the space. It's like any kitchen. And folks are living out of the space for the most part. So treat it accordingly. 
+
+Again, it is the responsibility of the accelerator to stock commonly used items like coffee and tea, spices, hot sauce, condiments, and the like.  
+
+Like everything else in the kitchen, get ready for these to become messy and disorganized. And set aside time or assign chores accordingly. 
+
+### Sink(s)
+
+At least one sink is necessary. Multiple sinks are preferable. Otherwise you get a line up of people whenever you've had a meal. Try to make it as efficient as possible. Or as efficient as your space will allow. 
+
+More so than any other area, the sink will become your nightmare. No matter how many times you remind folks, no matter how many signs you post, no matter who is assigned clean up, the sink will pile up with dishes. Always. 
+
+Plan accordingly.
+
 				63. Dishwasher
+				Garbage and Recycling
 				Water Cooler
 				61. To kegerator or not to kegerator
 				
