@@ -1228,8 +1228,13 @@ In the private fridge, we required folks to label all food. This was specificall
 
 Like the kitchen, itself, cleaning the fridge(s) will become a chore and a bone of contention. Plan ahead for that. 
 
-				Cupboards
-				Sink(s)
+### Cupboards/storage
+
+You're going to need somewhere to put all of the coffee and tea and cups and plates and whatnot. You'll also need to store snacks. And you'll need drawers for silverware and stuff.
+
+Like everything else in the kitchen, get ready for these to become messy and disorganized. And set aside time or assign chores accordingly. 
+
+Sink(s)
 				63. Dishwasher
 				Water Cooler
 				61. To kegerator or not to kegerator
