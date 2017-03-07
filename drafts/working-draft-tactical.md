@@ -1230,7 +1230,12 @@ Like the kitchen, itself, cleaning the fridge(s) will become a chore and a bone 
 
 ### Cupboards/storage
 
-You're going to need somewhere to put all of the coffee and tea and cups and plates and whatnot. You'll also need to store snacks. And you'll need drawers for silverware and stuff.
+You're going to need somewhere to put all of the coffee and tea and cups and plates and whatnot. And you'll need drawers for silverware and stuff.
+Make sure these are well stocked with plates, bowls, mugs, glasses, silverware, and serving wear. As an added bonus, consider storage containers for leftover food. 
+
+You'll also need room to store snacks. And soups. And other dry storage sorts of things that folks will bring into the space. It's like any kitchen. And folks are living out of the space for the most part. So treat it accordingly. 
+
+Again, it is the responsibility of the accelerator to stock commonly used items like coffee and tea, spices, hot sauce, condiments, and the like.  
 
 Like everything else in the kitchen, get ready for these to become messy and disorganized. And set aside time or assign chores accordingly. 
 
