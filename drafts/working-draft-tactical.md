@@ -1248,6 +1248,7 @@ More so than any other area, the sink will become your nightmare. No matter how 
 Plan accordingly.
 
 				63. Dishwasher
+				Garbage and Recycling
 				Water Cooler
 				61. To kegerator or not to kegerator
 				
