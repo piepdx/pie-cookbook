@@ -1253,6 +1253,8 @@ Arguably, this falls into the "nice to have" category. But if you have the optio
 
 Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. The  sign is a must have.
 
+Like the fridge and the sink, it's probably a good idea to assign chores to make sure that this is taken care of.
+
 And if you can't afford a dishwasher or the space will not allow for one, make sure to purchase a drying rack. Because someone is going to have to clean those dishes in the sink eventually.
 
 ### Garbage and Recycling
