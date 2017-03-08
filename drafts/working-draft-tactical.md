@@ -1194,6 +1194,11 @@ Long story short, take care of the basics. Like power. And internet. And desks a
 
 ## Restrooms/Locker rooms
 
+This is obvious but we don't want to ignore the obvious. You're going to need restrooms for your Accelerator residents. Preferably multiple facilities. 
+
+But while restrooms are definitely a necessity, it's not a requirement that they be part of the main space itself. They just need to be accessible. 
+
+For the first few years of PIE, we used a shared restroom for several retail locations in our building. Then we got a slight upgrade when W+K provided access to their locker rooms, which allowed our startups to access to showers and lockers, as well. 
 
 ## Kitchen
 
