@@ -1255,7 +1255,14 @@ Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make 
 
 And if you can't afford a dishwasher or the space will not allow for one, make sure to purchase a drying rack. Because someone is going to have to clean those dishes in the sink eventually.
 
-				Garbage and Recycling
+### Garbage and Recycling
+
+Even if your space is occupied exclusively by folks typing on keyboards, you will still accumulate refuse. So it's a good idea to have places to put it.
+
+Being from Portland, we had an extensive complement of containers for correctly disposing of rubbish. 
+
+
+
 				Water Cooler
 				61. To kegerator or not to kegerator
 				
