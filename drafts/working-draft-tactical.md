@@ -1192,6 +1192,9 @@ Want a standing desk? Combine that kitchen table with a coffee table to make a f
 
 Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
 
+## Restrooms/Locker rooms
+
+
 ## Kitchen
 
 Given how much time the founders will be spending in the space, a kitchen is a critical component of the Accelerator setup. Please note that it also becomes a completely hassle in terms of custodial upkeep. In our experience, it's like one kitchen in a living space with 40 roommates. 
