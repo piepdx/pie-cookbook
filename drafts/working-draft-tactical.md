@@ -1271,8 +1271,12 @@ Like the fridge and the sink, it's probably a good idea to assign chores to make
 
 And if you can't afford a dishwasher or the space will not allow for one, make sure to purchase a drying rack. Because someone is going to have to clean those dishes in the sink eventually.
 
+#### Water Cooler
 
-				Water Cooler
+Startups cannot live by caffeinated beverages alone. And it's important that you try to keep folks as healthy as possible. So hydration is imperative. 
+
+That's why we were happy to have a water cooler in our office. Sort of by accident. (It was a residual benefit of the aforementioned livestreaming telethon.)
+
 				61. To kegerator or not to kegerator
 				
 ### Additional items
