@@ -1239,24 +1239,6 @@ Again, it is the responsibility of the accelerator to stock commonly used items 
 
 Like everything else in the kitchen, get ready for these to become messy and disorganized. And set aside time or assign chores accordingly. 
 
-### Sink(s)
-
-At least one sink is necessary. Multiple sinks are preferable. Otherwise you get a line up of people whenever you've had a meal. Try to make it as efficient as possible. Or as efficient as your space will allow. 
-
-More so than any other area, the sink will become your nightmare. No matter how many times you remind folks, no matter how many signs you post, no matter who is assigned clean up, the sink will pile up with dishes. Always. 
-
-Plan accordingly.
-
-### Dishwasher
-
-Arguably, this falls into the "nice to have" category. But if you have the option to have a dishwasher, we highly recommend it. (See the note about the sink, above.)
-
-Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. The  sign is a must have.
-
-Like the fridge and the sink, it's probably a good idea to assign chores to make sure that this is taken care of.
-
-And if you can't afford a dishwasher or the space will not allow for one, make sure to purchase a drying rack. Because someone is going to have to clean those dishes in the sink eventually.
-
 ### Garbage and Recycling
 
 Even if your space is occupied exclusively by folks typing on keyboards, you will still accumulate refuse. So it's a good idea to have places to put it.
@@ -1267,6 +1249,27 @@ Being from Portland, we had ![an extensive complement of containers](https://www
 - Compost (food waste, compostable containers, coffee grounds)
 - Garbage (stuff that can't be used in a different way)
 
+### Sink(s)
+
+At least one sink is necessary. Multiple sinks are preferable. Otherwise you get a line up of people whenever you've had a meal. Try to make it as efficient as possible. Or as efficient as your space will allow. 
+
+More so than any other area, the sink will become your nightmare. No matter how many times you remind folks, no matter how many signs you post, no matter who is assigned clean up, the sink will pile up with dishes. Always. 
+
+Plan accordingly.
+
+### Nice to haves
+
+At PIE, we were lucky to have a few things that made life in an accelerator easier. You can get by without these things, but if you can afford them, we highly recommend them.
+
+#### Dishwasher
+
+Arguably, this falls into the "nice to have" category. But if you have the option to have a dishwasher, we highly recommend it. (See the note about the sink, above.)
+
+Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. The  sign is a must have.
+
+Like the fridge and the sink, it's probably a good idea to assign chores to make sure that this is taken care of.
+
+And if you can't afford a dishwasher or the space will not allow for one, make sure to purchase a drying rack. Because someone is going to have to clean those dishes in the sink eventually.
 
 
 				Water Cooler
