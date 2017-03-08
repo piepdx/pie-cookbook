@@ -1261,7 +1261,11 @@ And if you can't afford a dishwasher or the space will not allow for one, make s
 
 Even if your space is occupied exclusively by folks typing on keyboards, you will still accumulate refuse. So it's a good idea to have places to put it.
 
-Being from Portland, we had an extensive complement of containers for correctly disposing of rubbish. 
+Being from Portland, we had ![an extensive complement of containers](https://www.hulu.com/watch/335493) for correctly disposing of rubbish. But at the very least, we recommend the following:
+
+- Recycling (glass, cans, plastic, paper, cardboard, as sorted by your sanitation services)
+- Compost (food waste, compostable containers, coffee grounds)
+- Garbage (stuff that can't be used in a different way)
 
 
 
