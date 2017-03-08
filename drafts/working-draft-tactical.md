@@ -1192,6 +1192,14 @@ Want a standing desk? Combine that kitchen table with a coffee table to make a f
 
 Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
 
+## Restrooms/Locker rooms
+
+This is obvious but we don't want to ignore the obvious. You're going to need restrooms for your Accelerator residents. Preferably multiple facilities. 
+
+But while restrooms are definitely a necessity, it's not a requirement that they be part of the main space itself. They just need to be accessible. 
+
+For the first few years of PIE, we used a shared restroom for several retail locations in our building. Then we got a slight upgrade when W+K provided access to their locker rooms, which allowed our startups to access to showers and lockers, as well. 
+
 ## Kitchen
 
 Given how much time the founders will be spending in the space, a kitchen is a critical component of the Accelerator setup. Please note that it also becomes a completely hassle in terms of custodial upkeep. In our experience, it's like one kitchen in a living space with 40 roommates. 
@@ -1239,6 +1247,16 @@ Again, it is the responsibility of the accelerator to stock commonly used items 
 
 Like everything else in the kitchen, get ready for these to become messy and disorganized. And set aside time or assign chores accordingly. 
 
+### Garbage and Recycling
+
+Even if your space is occupied exclusively by folks typing on keyboards, you will still accumulate refuse. So it's a good idea to have places to put it.
+
+Being from Portland, we had ![an extensive complement of containers](https://www.hulu.com/watch/335493) for correctly disposing of rubbish. But at the very least, we recommend the following:
+
+- Recycling (glass, cans, plastic, paper, cardboard, as sorted by your sanitation services)
+- Compost (food waste, compostable containers, coffee grounds)
+- Garbage (stuff that can't be used in a different way)
+
 ### Sink(s)
 
 At least one sink is necessary. Multiple sinks are preferable. Otherwise you get a line up of people whenever you've had a meal. Try to make it as efficient as possible. Or as efficient as your space will allow. 
@@ -1247,9 +1265,26 @@ More so than any other area, the sink will become your nightmare. No matter how 
 
 Plan accordingly.
 
-				63. Dishwasher
-				Garbage and Recycling
-				Water Cooler
+### Nice to haves
+
+At PIE, we were lucky to have a few things that made life in an accelerator easier. You can get by without these things, but if you can afford them, we highly recommend them.
+
+#### Dishwasher
+
+Arguably, this falls into the "nice to have" category. But if you have the option to have a dishwasher, we highly recommend it. (See the note about the sink, above.)
+
+Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. The  sign is a must have.
+
+Like the fridge and the sink, it's probably a good idea to assign chores to make sure that this is taken care of.
+
+And if you can't afford a dishwasher or the space will not allow for one, make sure to purchase a drying rack. Because someone is going to have to clean those dishes in the sink eventually.
+
+#### Water Cooler
+
+Startups cannot live by caffeinated beverages alone. And it's important that you try to keep folks as healthy as possible. So hydration is imperative. 
+
+That's why we were happy to have a water cooler in our office. Sort of by accident. (It was a residual benefit of the aforementioned livestreaming telethon.)
+
 				61. To kegerator or not to kegerator
 				
 ### Additional items
