@@ -1265,9 +1265,13 @@ More so than any other area, the sink will become your nightmare. No matter how 
 
 Plan accordingly.
 
-### Nice to haves
+### Kitchen nice to haves
 
 At PIE, we were lucky to have a few things that made life in an accelerator easier. You can get by without these things, but if you can afford them, we highly recommend them.
+
+#### Microwave
+
+If you have a bunch of leftovers, someone at some point is going to want to reheat some leftovers. Or pop some popcorn. So maybe consider having a microwave on hand to handle some of that. 
 
 #### Dishwasher
 
@@ -1285,14 +1289,30 @@ Startups cannot live by caffeinated beverages alone. And it's important that you
 
 That's why we were happy to have a water cooler in our office. Sort of by accident. (It was a residual benefit of the aforementioned livestreaming telethon.)
 
-				61. To kegerator or not to kegerator
+#### To kegerator or not to kegerator
+
+In Portland, it's a common occurrence to have a kegerator — a fridge with a tap that allows you to store a keg of liquid, keep it cold, and easily dispense it — in startup spaces. That kegerator could have beer or or wine or cider or kombucha. Some even just serve sparkling water. 
+
+It's something that speaks to an underlying culture of craft distilling and brewing in Portland. And Portland has a rich history in many types of alcohol production. In fact, we often reference how the growth of the startup community directly emulates the culture and community of the wine and beer industries in our region. But it's not for everyone. 
+
+We chose to have a kegerator in the space because nearly everyone in the the space drank beer. And there were times when retiring to the kitchen and sharing a beer with a peer resulted in some really interesting conversations. 
+
+But it's a choice. Not a requirement. So do as you see fit.
 				
 ### Additional items
 
-[Write about the Switchboard Sodastream]
+Part of the magic of the kitchen is allowing your startups to customize the space to their own particular needs… and then gratuitously appropriating their good ideas. 
+
+Some of those good ideas include:
+
+- **Toaster**: Folks like toast. And toasted bagels. This might work for you.
+- **Toaster oven**: Reheating leftovers or for melting cheese on bagels.
+- **Sodastream**: Despite the awkward sounds emanating from the kitchen, the Switchboard team really seemed to love their Sodastream. 
+- **Blender**: We may or may not have had a representative of a certain margarita maker in the space for a time. But that said, smoothies and veggie blends are something your startups may want.
+
+Note: We have blown the circuit breaker on a regular basis. Especially when we had the toaster and microwave going when the fridge kicked on.
 
 
-			61. Bathrooms	
 			62. Mail
 				63. You will be receiving mail for your startups for the rest of your life	
 			58. Office arrangement
