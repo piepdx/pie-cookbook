@@ -1310,6 +1310,8 @@ Some of those good ideas include:
 - **Sodastream**: Despite the awkward sounds emanating from the kitchen, the Switchboard team really seemed to love their Sodastream. 
 - **Blender**: We may or may not have had a representative of a certain margarita maker in the space for a time. But that said, smoothies and veggie blends are something your startups may want.
 
+Note: We have blown the circuit breaker on a regular basis. Especially when we had the toaster and microwave going when the fridge kicked on.
+
 
 			62. Mail
 				63. You will be receiving mail for your startups for the rest of your life	
