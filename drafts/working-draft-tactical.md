@@ -1332,6 +1332,17 @@ First, we didn't have enough staff to make effective use of the space. Which mea
 With staff and a single team in that space
 
 - - -
+		
+### There is no caste system here
+
+At PIE, one of the most important things we discovered — through trial and error — was that staff and startups had to be perceived as equals in terms of workspace. 
+
+What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the founders going through the Accelerator. 
+
+Anything less, and you're compromising the opportunity to bond with your companies.
+
+Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
+
 
 ### IKEA is your friend
 
@@ -1358,23 +1369,6 @@ Long story short, take care of the basics. Like power. And internet. And desks a
 		56. Catalysts (Entrepreneur + Patron)
 		57. Pressure/heat (Startups + Staff + Patron)
 
-## Layout
-
-Where to put people and how to organize the space.
-		
-### There is no caste system here
-
-At PIE, one of the most important things we discovered — through trial and error — was that staff and startups had to be perceived as equals in terms of workspace. 
-
-We made some mistakes with this at first.
-
-[MISTAKES WERE MADE: STAFF SEPARATED FROM STARTUPS]
-
-What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the founders going through the Accelerator. 
-
-Anything less, and you're compromising the opportunity to bond with your companies.
-
-Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
  
 
 # Recipe for an Accelerator
