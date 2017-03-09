@@ -1322,7 +1322,17 @@ Be advised that the mail thing goes two ways. Not only will you be dealing with 
 
 The downside of all of this? Most of your startups will only share the space with you briefly, but you will be receiving mail for every single one of your startups for the rest of your life.
 	
-			58. Office arrangement
+## Arranging the desks in the office space 
+
+Some Accelerator programs use long tables along which a number of startups will sit. Others use individual desks. 
+
+We chose individual desks which we would arrange in "pods" by company. Sometimes, smaller companies would share a single pod. Sometimes, founders would separate their desk from their company pod. 
+
+You never know how founders will want to work with their cofounders. So we allowed founders to arrange the desks however they wanted. Some founders would choose to sit side by side, so they could easily engage pair programming or look at one another's screens. Some founders liked sitting across from one another, so that they could more easily converse — or know when the cofounder was in Do Not Disturb mode. Still others had a hub and spoke set up. Or some other combination.
+
+We wanted our founders to be as effective and efficient as they could be. So we let them adapt the space to their needs, no matter what that did to the overall aesthetic of the space. 
+
+
 			59. Ongoing build out
 				60. Conference room
 				61. Meeting areas
