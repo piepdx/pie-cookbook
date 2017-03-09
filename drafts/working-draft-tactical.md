@@ -1297,7 +1297,14 @@ But it's a choice. Not a requirement. So do as you see fit.
 				
 ### Additional items
 
-[Write about the Switchboard Sodastream]
+Part of the magic of the kitchen is allowing your startups to customize the space to their own particular needs… and then gratuitously appropriating their good ideas. 
+
+Some of those good ideas include:
+
+- **Toaster**: Folks like toast. And toasted bagels. This might work for you.
+- **Toaster oven**: Reheating leftovers or for melting cheese on bagels.
+- **Sodastream**: Despite the awkward sounds emanating from the kitchen, the Switchboard team really seemed to love their Sodastream. 
+- **Blender**: We may or may not have had a representative of a certain margarita maker in the space for a time. But that said, smoothies and veggie blends are something your startups may want.
 
 
 			62. Mail
