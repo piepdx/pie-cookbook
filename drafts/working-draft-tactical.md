@@ -1319,7 +1319,7 @@ You never know how founders will want to work with their cofounders. So we allow
 
 We wanted our founders to be as effective and efficient as they could be. So we let them adapt the space to their needs, no matter what that did to the overall aesthetic of the space. 
 
-## IKEA is your friend
+### IKEA is your friend
 
 Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
 
