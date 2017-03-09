@@ -1310,7 +1310,7 @@ Some of those good ideas include:
 - **Sodastream**: Despite the awkward sounds emanating from the kitchen, the Switchboard team really seemed to love their Sodastream. 
 - **Blender**: We may or may not have had a representative of a certain margarita maker in the space for a time. But that said, smoothies and veggie blends are something your startups may want.
 
-Note: We have blown the circuit breaker on a regular basis. Especially when we had the toaster and microwave going when the fridge kicked on.
+Note: We have blown the circuit breaker on a regular basis. Especially when we had the toaster and microwave going when the fridge kicked on. We were lucky that the kitchen was on a separate circuit. Well, on a circuit with our conference room. Long  story short, be aware of your power consumption and the load on the circuits as you appoint your kitchen.
 
 
 			62. Mail
