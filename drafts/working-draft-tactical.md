@@ -1178,19 +1178,6 @@ Finally, don't be tempted to charge per copy or anything silly like that. Just e
 				- Vendscreen
 				- Smart Mocha
 			
-## IKEA is your friend
-
-Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
-
-Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
-
-You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
-
-![Building IKEA desks](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2011-08-25%2009.55.10.jpg)
-
-Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
-
-Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
 
 ## Restrooms/Locker rooms
 
@@ -1331,6 +1318,21 @@ We chose individual desks which we would arrange in "pods" by company. Sometimes
 You never know how founders will want to work with their cofounders. So we allowed founders to arrange the desks however they wanted. Some founders would choose to sit side by side, so they could easily engage pair programming or look at one another's screens. Some founders liked sitting across from one another, so that they could more easily converse — or know when the cofounder was in Do Not Disturb mode. Still others had a hub and spoke set up. Or some other combination.
 
 We wanted our founders to be as effective and efficient as they could be. So we let them adapt the space to their needs, no matter what that did to the overall aesthetic of the space. 
+
+## IKEA is your friend
+
+Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
+
+Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
+
+You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
+
+![Building IKEA desks](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2011-08-25%2009.55.10.jpg)
+
+Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
+
+Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
+
 
 
 			59. Ongoing build out
