@@ -1269,6 +1269,10 @@ Plan accordingly.
 
 At PIE, we were lucky to have a few things that made life in an accelerator easier. You can get by without these things, but if you can afford them, we highly recommend them.
 
+#### Microwave
+
+If you have a bunch of leftovers, someone at some point is going to want to reheat some leftovers. Or pop some popcorn. So maybe consider having a microwave on hand to handle some of that. 
+
 #### Dishwasher
 
 Arguably, this falls into the "nice to have" category. But if you have the option to have a dishwasher, we highly recommend it. (See the note about the sink, above.)
