@@ -1300,7 +1300,6 @@ But it's a choice. Not a requirement. So do as you see fit.
 [Write about the Switchboard Sodastream]
 
 
-			61. Bathrooms	
 			62. Mail
 				63. You will be receiving mail for your startups for the rest of your life	
 			58. Office arrangement
