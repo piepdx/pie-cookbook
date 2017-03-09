@@ -1178,19 +1178,6 @@ Finally, don't be tempted to charge per copy or anything silly like that. Just e
 				- Vendscreen
 				- Smart Mocha
 			
-## IKEA is your friend
-
-Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
-
-Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
-
-You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
-
-![Building IKEA desks](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2011-08-25%2009.55.10.jpg)
-
-Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
-
-Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
 
 ## Restrooms/Locker rooms
 
@@ -1312,10 +1299,42 @@ Some of those good ideas include:
 
 Note: We have blown the circuit breaker on a regular basis. Especially when we had the toaster and microwave going when the fridge kicked on. We were lucky that the kitchen was on a separate circuit. Well, on a circuit with our conference room. Long  story short, be aware of your power consumption and the load on the circuits as you appoint your kitchen.
 
+## Mail
 
-			62. Mail
-				63. You will be receiving mail for your startups for the rest of your life	
-			58. Office arrangement
+One of the fringe benefits of sitting in an office space is getting an official business address. For many of our startups, this was the first actual address that the company had had. A number of them even incorporated while they were in PIE. 
+
+We chose to use a single physical address for all of the startups. Since we were all sitting in the same space. In the early days, this was manageable through a single inbox. As the number of PIE alums grew, we found it more effective to create mailboxes for current residents. As such, it became the responsibility of the staff to sort the mail and alert alums when mail had arrived for them.
+
+Be advised that the mail thing goes two ways. Not only will you be dealing with inbound mail, your startups will want outbound services and shipping as well. Make sure you have adequate envelopes, boxes, tape, and postage at your location. 
+
+The downside of all of this? Most of your startups will only share the space with you briefly, but you will be receiving mail for every single one of your startups for the rest of your life.
+	
+## Arranging the desks in the office space 
+
+Some Accelerator programs use long tables along which a number of startups will sit. Others use individual desks. 
+
+We chose individual desks which we would arrange in "pods" by company. Sometimes, smaller companies would share a single pod. Sometimes, founders would separate their desk from their company pod. 
+
+You never know how founders will want to work with their cofounders. So we allowed founders to arrange the desks however they wanted. Some founders would choose to sit side by side, so they could easily engage pair programming or look at one another's screens. Some founders liked sitting across from one another, so that they could more easily converse — or know when the cofounder was in Do Not Disturb mode. Still others had a hub and spoke set up. Or some other combination.
+
+We wanted our founders to be as effective and efficient as they could be. So we let them adapt the space to their needs, no matter what that did to the overall aesthetic of the space. 
+
+## IKEA is your friend
+
+Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
+
+Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
+
+You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
+
+![Building IKEA desks](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2011-08-25%2009.55.10.jpg)
+
+Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
+
+Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
+
+
+
 			59. Ongoing build out
 				60. Conference room
 				61. Meeting areas
