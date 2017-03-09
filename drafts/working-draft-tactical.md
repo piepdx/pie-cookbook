@@ -1265,7 +1265,7 @@ More so than any other area, the sink will become your nightmare. No matter how 
 
 Plan accordingly.
 
-### Nice to haves
+### Kitchen nice to haves
 
 At PIE, we were lucky to have a few things that made life in an accelerator easier. You can get by without these things, but if you can afford them, we highly recommend them.
 
@@ -1285,7 +1285,15 @@ Startups cannot live by caffeinated beverages alone. And it's important that you
 
 That's why we were happy to have a water cooler in our office. Sort of by accident. (It was a residual benefit of the aforementioned livestreaming telethon.)
 
-				61. To kegerator or not to kegerator
+#### To kegerator or not to kegerator
+
+In Portland, it's a common occurrence to have a kegerator — a fridge with a tap that allows you to store a keg of liquid, keep it cold, and easily dispense it — in startup spaces. That kegerator could have beer or or wine or cider or kombucha. Some even just serve sparkling water. 
+
+It's something that speaks to an underlying culture of craft distilling and brewing in Portland. And Portland has a rich history in many types of alcohol production. In fact, we often reference how the growth of the startup community directly emulates the culture and community of the wine and beer industries in our region. But it's not for everyone. 
+
+We chose to have a kegerator in the space because nearly everyone in the the space drank beer. And there were times when retiring to the kitchen and sharing a beer with a peer resulted in some really interesting conversations. 
+
+But it's a choice. Not a requirement. So do as you see fit.
 				
 ### Additional items
 
