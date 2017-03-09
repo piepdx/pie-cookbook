@@ -1312,9 +1312,16 @@ Some of those good ideas include:
 
 Note: We have blown the circuit breaker on a regular basis. Especially when we had the toaster and microwave going when the fridge kicked on. We were lucky that the kitchen was on a separate circuit. Well, on a circuit with our conference room. Long  story short, be aware of your power consumption and the load on the circuits as you appoint your kitchen.
 
+## Mail
 
-			62. Mail
-				63. You will be receiving mail for your startups for the rest of your life	
+One of the fringe benefits of sitting in an office space is getting an official business address. For many of our startups, this was the first actual address that the company had had. A number of them even incorporated while they were in PIE. 
+
+We chose to use a single physical address for all of the startups. Since we were all sitting in the same space. In the early days, this was manageable through a single inbox. As the number of PIE alums grew, we found it more effective to create mailboxes for current residents. As such, it became the responsibility of the staff to sort the mail and alert alums when mail had arrived for them.
+
+Be advised that the mail thing goes two ways. Not only will you be dealing with inbound mail, your startups will want outbound services and shipping as well. Make sure you have adequate envelopes, boxes, tape, and postage at your location. 
+
+The downside of all of this? Most of your startups will only share the space with you briefly, but you will be receiving mail for every single one of your startups for the rest of your life.
+	
 			58. Office arrangement
 			59. Ongoing build out
 				60. Conference room
