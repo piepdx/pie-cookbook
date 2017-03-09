@@ -1319,6 +1319,20 @@ You never know how founders will want to work with their cofounders. So we allow
 
 We wanted our founders to be as effective and efficient as they could be. So we let them adapt the space to their needs, no matter what that did to the overall aesthetic of the space. 
 
+- - -
+**Mistakes were made: Where the staff sits**
+When we started the accelerator, we made the assumption that the founders would do a better job of acclimating and engaging with one another if we gave them the run of the main space. We located the PIE cofounders and staff in the far corner of the space, out of the way. 
+
+![Where PIE management sat for the first Accelerator class](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2009-07-01%2014.20.34.jpg)
+
+We made two mistakes with this arrangement. 
+
+First, we didn't have enough staff to make effective use of the space. Which meant we had empty desks in our corner. In an effort to alleviate this issue, we brought one of the teams into our corner. While the corner wasn't completely shielded from the floor of the Accelerator, it was protected enough to make it feel like a separate space. 
+
+With staff and a single team in that space
+
+- - -
+
 ### IKEA is your friend
 
 Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
