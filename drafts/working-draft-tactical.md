@@ -1364,9 +1364,15 @@ Want a standing desk? Combine that kitchen table with a coffee table to make a f
 
 Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
 
+## Ongoing build out
+
+The space you start with doesn't have to be perfect. It's like building any product. Start with what you have. Figure out what's working. Figure out what's needed. And improve from there. 
+
+When we started PIE, there were no conference rooms. Or phone booths. So people took calls in the space. Or out on the stoop. Or while walking laps around the block.
+
+We had a pseudo conference room that allowed a small group of people to gather. But it allowed for little privacy. 
 
 
-			59. Ongoing build out
 				60. Conference room
 				61. Meeting areas
 				62. Phone booths
