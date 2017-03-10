@@ -1329,7 +1329,11 @@ We made two mistakes with this arrangement.
 
 First, we didn't have enough staff to make effective use of the space. Which meant we had empty desks in our corner. In an effort to alleviate this issue, we brought one of the teams into our corner. While the corner wasn't completely shielded from the floor of the Accelerator, it was protected enough to make it feel like a separate space. 
 
-With staff and a single team in that space
+This negatively impacted the team that sat with us. They didn't bond with the other startups as effectively. And they managed to keep themselves excluded — by choice — when they should have been forced to be included.
+
+Second, the staff suffered by being separated from the startups. We didn't have our finger on the pulse. We couldn't feel the vibe of the room. 
+
+It wasn't that the staff was inaccessible. We weren't. And the founders felt totally comfortable coming into our corner and chatting with us. But we missed out on the times when people weren't seeking us out. And the nonverbal clues. And the gut checks you get when you're embedded within the active space.
 
 - - -
 		
@@ -1337,9 +1341,11 @@ With staff and a single team in that space
 
 At PIE, one of the most important things we discovered — through trial and error — was that staff and startups had to be perceived as equals in terms of workspace. 
 
-What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the founders going through the Accelerator. 
+What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't get private offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the Founders going through the Accelerator. 
 
-Anything less, and you're compromising the opportunity to bond with your companies.
+# tl;dr Don't play favorites. Embed the staff in the trenches.
+
+Anything less, and you're compromising the opportunity to bond with your companies. And bonding with your companies is what this is all about. Because you're in this for the long haul.
 
 Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
 
@@ -1358,9 +1364,15 @@ Want a standing desk? Combine that kitchen table with a coffee table to make a f
 
 Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
 
+## Ongoing build out
+
+The space you start with doesn't have to be perfect. It's like building any product. Start with what you have. Figure out what's working. Figure out what's needed. And improve from there. 
+
+When we started PIE, there were no conference rooms. Or phone booths. So people took calls in the space. Or out on the stoop. Or while walking laps around the block.
+
+We had a pseudo conference room that allowed a small group of people to gather. But it allowed for little privacy. 
 
 
-			59. Ongoing build out
 				60. Conference room
 				61. Meeting areas
 				62. Phone booths
