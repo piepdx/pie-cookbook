@@ -1341,9 +1341,11 @@ It wasn't that the staff was inaccessible. We weren't. And the founders felt tot
 
 At PIE, one of the most important things we discovered — through trial and error — was that staff and startups had to be perceived as equals in terms of workspace. 
 
-What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the founders going through the Accelerator. 
+What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't get private offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the Founders going through the Accelerator. 
 
-Anything less, and you're compromising the opportunity to bond with your companies.
+# tl;dr Don't play favorites. Embed the staff in the trenches.
+
+Anything less, and you're compromising the opportunity to bond with your companies. And bonding with your companies is what this is all about. Because you're in this for the long haul.
 
 Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
 
