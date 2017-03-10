@@ -1372,8 +1372,16 @@ When we started PIE, there were no conference rooms. Or phone booths. So people 
 
 We had a pseudo conference room that allowed a small group of people to gather. But it allowed for little privacy. 
 
+![PIE's original conference room chairs](https://github.com/turoczy/pie-cookbook/blob/master/source/images/2011-03-08%2009.30.51.jpg)
 
-				60. Conference room
+It was just a circle of high back leather chairs around an old Starbucks sign coffee table. But it provided enough of a conference room effect to be useful. In the short term.
+ 
+### Conference room
+
+As time went on, we identified the need for an actual conference room. So we took another corner of the office space and walled in a conference room space. 
+
+It was overly warm and stuffy. The chairs were uncomfortable. The electricity rarely worked. The whiteboard was difficult to erase. But it had a door. And it served its purpose. 
+
 				61. Meeting areas
 				62. Phone booths
 				63. Fishbowl
