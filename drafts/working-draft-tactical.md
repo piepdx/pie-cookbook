@@ -1329,7 +1329,11 @@ We made two mistakes with this arrangement.
 
 First, we didn't have enough staff to make effective use of the space. Which meant we had empty desks in our corner. In an effort to alleviate this issue, we brought one of the teams into our corner. While the corner wasn't completely shielded from the floor of the Accelerator, it was protected enough to make it feel like a separate space. 
 
-With staff and a single team in that space
+This negatively impacted the team that sat with us. They didn't bond with the other startups as effectively. And they managed to keep themselves excluded — by choice — when they should have been forced to be included.
+
+Second, the staff suffered by being separated from the startups. We didn't have our finger on the pulse. We couldn't feel the vibe of the room. 
+
+It wasn't that the staff was inaccessible. We weren't. And the founders felt totally comfortable coming into our corner and chatting with us. But we missed out on the times when people weren't seeking us out. And the nonverbal clues. And the gut checks you get when you're embedded within the active space.
 
 - - -
 		
