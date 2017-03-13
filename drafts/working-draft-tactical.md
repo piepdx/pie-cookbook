@@ -1378,16 +1378,31 @@ It was just a circle of high back leather chairs around an old Starbucks sign co
  
 ### Conference room
 
-As time went on, we identified the need for an actual conference room. So we took another corner of the office space and walled in a conference room space. 
+As time went on, we identified the need for an actual conference room. So we took another corner of the office space and walled it off to create a conference room space. 
 
 It was overly warm and stuffy. The chairs were uncomfortable. The electricity rarely worked. The whiteboard was difficult to erase. But it had a door. And it served its purpose. 
 
-				61. Meeting areas
+It is important to note that we did not start with a conference room. We started with what we had and, through use, identified that a conference room was needed. Only then did we incur the expense to create the conference room. And this was after we'd inhabited the space for quite some time. 
+
+While it's fairly safe to assume you'll need a conference room, you might want to see how people make use of your existing space before you act on that assumption. Or see how they compensate for the lack of conference room. There might be some interesting learning there. 
+
+### Meeting areas
+
+Whether you have a conference room in the space or not, you're going to wast to establish some meeting areas in your space. These can be as simple as a couch. Or they can have more structure to them.
+
+When we say "meeting areas," we mean open areas within the coworking area or nearby. These should be places where people can be overheard. And where privacy or confidentiality are secondary. 
+
+Why? Because this sort of arrangement serves three very important functions:
+
+1. Encouraging people to have meetings within earshot of their peers helps establish a level of comfort and trust with the entire cohort. As folks become more and more comfortable with one another — as that trust builds — you'll see fewer and fewer meetings occurring with closed doors and secrecy. 
+2. People will overhear what is going on. They'll realize that other founders are struggling similar issues. They'll empathize and, eventually, sympathize with the other founders in their cohort. And if all goes well, they'll start to help one another more effectively. "I couldn't help by overhear… I have some ideas for you." 
+3. Last but not least, it helps create a sense of activity in the space. You want a dull roar. You want people collaborating. You want it being a little noisy. Don't try to eliminate that. This isn't a library in the 50s.
+
+
 				62. Phone booths
 				63. Fishbowl
 					64. How this enabled more effective mentors in residence and portfolio management
-		56. Catalysts (Entrepreneur + Patron)
-		57. Pressure/heat (Startups + Staff + Patron)
+	
 
  
 
@@ -2336,6 +2351,16 @@ From the time the first day of PIE starts until we bring the house lights down a
 
 But no matter how motivated the founder, no matter how real the opportunity, no matter how passionate the team, it's a challenge to keep the momentum going. It's nearly impossible, over that length of time, to keep a sustained sprint going. It's like running toward a goal somewhere off in the distance. Like trying to realize a strategy without any tactics. 
 
+### At times, the staff has to create friction
+
+Catalysts (Entrepreneur + Patron)
+
+Pressure/heat (Startups + Staff + Patron)
+
+### At times the staff has to alleviate friction
+
+### The Three Ps
+
 So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
 
 By class three (Coconut Creme), we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
@@ -2344,7 +2369,7 @@ Throughout the course of these stages and gates, we tailor the mentor talks to m
 
 Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
 
-### Product (Month 1)
+#### Product (Month 1)
 
 Because PIE classes generally consisted of groups of developers who understood how to build products, we started in a place of strength and confidence: product development. 
 
@@ -2362,7 +2387,7 @@ So month one, get the product momentum going. And reward those who are making pr
 
 It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
 
-### Projections (Month 2)
+#### Projections (Month 2)
 
 Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
 
@@ -2386,7 +2411,7 @@ A second month of stress induced collaboration has heightened the trust among pe
 
 But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
 
-### Pitch (Month 3)
+#### Pitch (Month 3)
 
 Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
 
