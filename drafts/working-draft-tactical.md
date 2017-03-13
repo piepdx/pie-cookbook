@@ -1378,9 +1378,13 @@ It was just a circle of high back leather chairs around an old Starbucks sign co
  
 ### Conference room
 
-As time went on, we identified the need for an actual conference room. So we took another corner of the office space and walled in a conference room space. 
+As time went on, we identified the need for an actual conference room. So we took another corner of the office space and walled it off to create a conference room space. 
 
 It was overly warm and stuffy. The chairs were uncomfortable. The electricity rarely worked. The whiteboard was difficult to erase. But it had a door. And it served its purpose. 
+
+It is important to note that we did not start with a conference room. We started with what we had and, through use, identified that a conference room was needed. Only then did we incur the expense to create the conference room. And this was after we'd inhabited the space for quite some time. 
+
+While it's fairly safe to assume you'll need a conference room, you might want to see how people make use of your existing space before you act on that assumption. Or see how they compensate for the lack of conference room. There might be some interesting learning there. 
 
 				61. Meeting areas
 				62. Phone booths
