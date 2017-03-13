@@ -1402,8 +1402,7 @@ Why? Because this sort of arrangement serves three very important functions:
 				62. Phone booths
 				63. Fishbowl
 					64. How this enabled more effective mentors in residence and portfolio management
-		56. Catalysts (Entrepreneur + Patron)
-		57. Pressure/heat (Startups + Staff + Patron)
+	
 
  
 
@@ -2352,6 +2351,16 @@ From the time the first day of PIE starts until we bring the house lights down a
 
 But no matter how motivated the founder, no matter how real the opportunity, no matter how passionate the team, it's a challenge to keep the momentum going. It's nearly impossible, over that length of time, to keep a sustained sprint going. It's like running toward a goal somewhere off in the distance. Like trying to realize a strategy without any tactics. 
 
+### At times, the staff has to create friction
+
+Catalysts (Entrepreneur + Patron)
+
+Pressure/heat (Startups + Staff + Patron)
+
+### At times the staff has to alleviate friction
+
+### The Three Ps
+
 So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
 
 By class three (Coconut Creme), we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
@@ -2360,7 +2369,7 @@ Throughout the course of these stages and gates, we tailor the mentor talks to m
 
 Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
 
-### Product (Month 1)
+#### Product (Month 1)
 
 Because PIE classes generally consisted of groups of developers who understood how to build products, we started in a place of strength and confidence: product development. 
 
@@ -2378,7 +2387,7 @@ So month one, get the product momentum going. And reward those who are making pr
 
 It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
 
-### Projections (Month 2)
+#### Projections (Month 2)
 
 Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
 
@@ -2402,7 +2411,7 @@ A second month of stress induced collaboration has heightened the trust among pe
 
 But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
 
-### Pitch (Month 3)
+#### Pitch (Month 3)
 
 Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
 
