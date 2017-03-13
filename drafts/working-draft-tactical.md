@@ -1386,7 +1386,19 @@ It is important to note that we did not start with a conference room. We started
 
 While it's fairly safe to assume you'll need a conference room, you might want to see how people make use of your existing space before you act on that assumption. Or see how they compensate for the lack of conference room. There might be some interesting learning there. 
 
-				61. Meeting areas
+### Meeting areas
+
+Whether you have a conference room in the space or not, you're going to wast to establish some meeting areas in your space. These can be as simple as a couch. Or they can have more structure to them.
+
+When we say "meeting areas," we mean open areas within the coworking area or nearby. These should be places where people can be overheard. And where privacy or confidentiality are secondary. 
+
+Why? Because this sort of arrangement serves three very important functions:
+
+1. Encouraging people to have meetings within earshot of their peers helps establish a level of comfort and trust with the entire cohort. As folks become more and more comfortable with one another — as that trust builds — you'll see fewer and fewer meetings occurring with closed doors and secrecy. 
+2. People will overhear what is going on. They'll realize that other founders are struggling similar issues. They'll empathize and, eventually, sympathize with the other founders in their cohort. And if all goes well, they'll start to help one another more effectively. "I couldn't help by overhear… I have some ideas for you." 
+3. Last but not least, it helps create a sense of activity in the space. You want a dull roar. You want people collaborating. You want it being a little noisy. Don't try to eliminate that. This isn't a library in the 50s.
+
+
 				62. Phone booths
 				63. Fishbowl
 					64. How this enabled more effective mentors in residence and portfolio management
