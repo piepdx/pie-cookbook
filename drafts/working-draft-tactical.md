@@ -1282,7 +1282,7 @@ In Portland, it's a common occurrence to have a kegerator — a fridge with a ta
 
 It's something that speaks to an underlying culture of craft distilling and brewing in Portland. And Portland has a rich history in many types of alcohol production. In fact, we often reference how the growth of the startup community directly emulates the culture and community of the wine and beer industries in our region. But it's not for everyone. 
 
-We chose to have a kegerator in the space because nearly everyone in the the space drank beer. And there were times when retiring to the kitchen and sharing a beer with a peer resulted in some really interesting conversations. 
+We chose to have a kegerator in the space because nearly everyone in the space drank beer. And there were times when retiring to the kitchen and sharing a beer with a peer resulted in some really interesting conversations. 
 
 But it's a choice. Not a requirement. So do as you see fit.
 				
