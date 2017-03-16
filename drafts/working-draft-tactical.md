@@ -1362,7 +1362,7 @@ You're welcome to choose whatever you want, but at this price point, we're ever 
 
 Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
 
-Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
+Long story short, take care of the basics. Like power. And internet. And desks and comfortable office chairs. (Your Founders are going to be sitting in them for hours upon hours.) It's fine to put the onus of purchasing laptops, monitors, phones, accoutrement, and the like on the founders. But don't make them hunt down things like power strips or extension cords or dry erase markers. That's base infrastructure. That's your job.
 
 ## Ongoing build out
 
