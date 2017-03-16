@@ -1264,7 +1264,7 @@ If you have a bunch of leftovers, someone at some point is going to want to rehe
 
 Arguably, this falls into the "nice to have" category. But if you have the option to have a dishwasher, we highly recommend it. (See the note about the sink, above.)
 
-Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. The  sign is a must have.
+Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. If you have a dishwasher, the  sign is a must have.
 
 Like the fridge and the sink, it's probably a good idea to assign chores to make sure that this is taken care of.
 
