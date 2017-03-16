@@ -1398,8 +1398,18 @@ Why? Because this sort of arrangement serves three very important functions:
 2. People will overhear what is going on. They'll realize that other founders are struggling similar issues. They'll empathize and, eventually, sympathize with the other founders in their cohort. And if all goes well, they'll start to help one another more effectively. "I couldn't help by overhear… I have some ideas for you." 
 3. Last but not least, it helps create a sense of activity in the space. You want a dull roar. You want people collaborating. You want it being a little noisy. Don't try to eliminate that. This isn't a library in the 50s.
 
+### Phone booths
 
-				62. Phone booths
+When we started PIE, one of the most obvious — and noisy — things about it was the lack of privacy. There was absolutely nowhere in the space where a person could take a phone call or have a private conversation without everyone hearing. 
+
+For this reason, most people started talking calls outside on the stoop. Or started taking walks around the block for private meetings.
+ 
+![Taking calls, PIE style](https://github.com/turoczy/pie-cookbook/blob/master/source/images/2012-12-15%2009.34.28.jpg) 
+
+That worked fine when the weather was good. But that didn't work so well in the winter. Or during the rainy season. 
+
+So we were motivated to find a better solution. 
+
 				63. Fishbowl
 					64. How this enabled more effective mentors in residence and portfolio management
 	
