@@ -1278,7 +1278,7 @@ That's why we were happy to have a water cooler in our office. Sort of by accide
 
 #### To kegerator or not to kegerator
 
-In Portland, it's a common occurrence to have a kegerator — a fridge with a tap that allows you to store a keg of liquid, keep it cold, and easily dispense it — in startup spaces. That kegerator could have beer or or wine or cider or kombucha. Some even just serve sparkling water. 
+In Portland, it's a common occurrence to have a kegerator — a fridge with a tap that allows you to store a keg of liquid, keep it cold, and easily dispense it — in startup spaces. That kegerator could have beer or wine or cider or kombucha. Some even just serve sparkling water. 
 
 It's something that speaks to an underlying culture of craft distilling and brewing in Portland. And Portland has a rich history in many types of alcohol production. In fact, we often reference how the growth of the startup community directly emulates the culture and community of the wine and beer industries in our region. But it's not for everyone. 
 
