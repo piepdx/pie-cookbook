@@ -1264,7 +1264,7 @@ If you have a bunch of leftovers, someone at some point is going to want to rehe
 
 Arguably, this falls into the "nice to have" category. But if you have the option to have a dishwasher, we highly recommend it. (See the note about the sink, above.)
 
-Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. The  sign is a must have.
+Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. If you have a dishwasher, the  sign is a must have.
 
 Like the fridge and the sink, it's probably a good idea to assign chores to make sure that this is taken care of.
 
@@ -1278,11 +1278,11 @@ That's why we were happy to have a water cooler in our office. Sort of by accide
 
 #### To kegerator or not to kegerator
 
-In Portland, it's a common occurrence to have a kegerator — a fridge with a tap that allows you to store a keg of liquid, keep it cold, and easily dispense it — in startup spaces. That kegerator could have beer or or wine or cider or kombucha. Some even just serve sparkling water. 
+In Portland, it's a common occurrence to have a kegerator — a fridge with a tap that allows you to store a keg of liquid, keep it cold, and easily dispense it — in startup spaces. That kegerator could have beer or wine or cider or kombucha. Some even just serve sparkling water. 
 
 It's something that speaks to an underlying culture of craft distilling and brewing in Portland. And Portland has a rich history in many types of alcohol production. In fact, we often reference how the growth of the startup community directly emulates the culture and community of the wine and beer industries in our region. But it's not for everyone. 
 
-We chose to have a kegerator in the space because nearly everyone in the the space drank beer. And there were times when retiring to the kitchen and sharing a beer with a peer resulted in some really interesting conversations. 
+We chose to have a kegerator in the space because nearly everyone in the space drank beer. And there were times when retiring to the kitchen and sharing a beer with a peer resulted in some really interesting conversations. 
 
 But it's a choice. Not a requirement. So do as you see fit.
 				
@@ -1362,7 +1362,7 @@ You're welcome to choose whatever you want, but at this price point, we're ever 
 
 Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
 
-Long story short, take care of the basics. Like power. And internet. And desks and chairs. It's fine to put the onus of machines, monitors, phones, and the like on the founders. Don't make them hunt down things like power strips or extension cords. That's base infrastructure. That's your job.
+Long story short, take care of the basics. Like power. And internet. And desks and comfortable office chairs. (Your Founders are going to be sitting in them for hours upon hours.) It's fine to put the onus of purchasing laptops, monitors, phones, accoutrement, and the like on the founders. But don't make them hunt down things like power strips or extension cords or dry erase markers. That's base infrastructure. That's your job.
 
 ## Ongoing build out
 
@@ -1398,8 +1398,18 @@ Why? Because this sort of arrangement serves three very important functions:
 2. People will overhear what is going on. They'll realize that other founders are struggling similar issues. They'll empathize and, eventually, sympathize with the other founders in their cohort. And if all goes well, they'll start to help one another more effectively. "I couldn't help by overhear… I have some ideas for you." 
 3. Last but not least, it helps create a sense of activity in the space. You want a dull roar. You want people collaborating. You want it being a little noisy. Don't try to eliminate that. This isn't a library in the 50s.
 
+### Phone booths
 
-				62. Phone booths
+When we started PIE, one of the most obvious — and noisy — things about it was the lack of privacy. There was absolutely nowhere in the space where a person could take a phone call or have a private conversation without everyone hearing. 
+
+For this reason, most people started talking calls outside on the stoop. Or started taking walks around the block for private meetings.
+ 
+![Taking calls, PIE style](https://github.com/turoczy/pie-cookbook/blob/master/source/images/2012-12-15%2009.34.28.jpg) 
+
+That worked fine when the weather was good. But that didn't work so well in the winter. Or during the rainy season. 
+
+So we were motivated to find a better solution. 
+
 				63. Fishbowl
 					64. How this enabled more effective mentors in residence and portfolio management
 	
