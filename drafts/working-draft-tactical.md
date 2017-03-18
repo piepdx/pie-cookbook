@@ -214,6 +214,10 @@ Long story short, we feel we’ve gotten exponentially more value out of giving 
 
 Finally and most importantly, before you do anything, put yourself in the Founders' shoes. Empathize with them. And continue to return to that viewpoint. Founders are your customers. Treat them accordingly.
 
+This is why we encourage you to immerse yourself in the community before you try  to do anything else. And why we encourage you to start your own companies. So you know what it's like. 
+
+Ideally, you'll sympathize with your Founders. At the very least, you must empathize with them. And treat them with the compassion that empathy fuels.
+
 If you need help getting your head in the right place, read "[Why Y Combinator made all the difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)."
 
 
