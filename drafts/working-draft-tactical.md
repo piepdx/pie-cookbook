@@ -210,6 +210,12 @@ It seems counterintuitive but we’ve learned that giving startups desks for fre
 
 Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream. And whatever the case, don't assume the health — or lack thereof — of a business pursuit like coworking is a direct or even relevant indicator of the health of your community. We've seen many a healthy community without the financial health to sustain a coworking space.
 
+## Empathize with Founders
+
+Finally and most importantly, before you do anything, put yourself in the Founders' shoes. Empathize with them. And continue to return to that viewpoint. Founders are your customers. Treat them accordingly.
+
+If you need help getting your head in the right place, read "[Why Y Combinator made all the difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)."
+
 
 # Kitchen Prep
 
