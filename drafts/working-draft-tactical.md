@@ -816,34 +816,7 @@ We have found that it is difficult to pick or establish lead mentors at the outs
 						28. Value to the mentor
 						29. Value to the startups
 						29. Typical percentage of the mentor pool
-					30. Corporate mentors
-						24. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
-						30. Special challenges of corporate mentors
-							31. Making mentorship a requirement
-							32. Including mentorship in review process and roles & responsibilities
-							33. Getting corporate mentors to take off the “brand hat” and speak from personal experience
-								34. “You’ve achieved a level of success as [executive at company x]. What’s your personal opinion?”
-					35. Investor mentors
-						36. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
-						30. Special challenges of investor mentors
-							31. Getting investors to take off the investor hat and mentor
-							32. This isn’t due diligence. It’s mentorship.
-							33. Preparing the startups for when an investor switches from mentoring to investing
-#### Resident
-					24. Peer
-						25. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Special challenges of peer mentors
+
 #### Mentors in residence
 
 We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, as an accelerator, has been the concept of free desks for “mentors in residence.” 
@@ -860,18 +833,10 @@ Why do we believe this is an effective model for PIE and other accelerators? At 
 							30. Can provide valuable insights into working with PIE and mentors
 							31. Can provide tips and tricks for getting the most out of the program
 							32. Can help startups work the system
-					26. Entrepreneurs in Residence
-						27. Define role and expectations
-						29. Value to the organization
-						30. Value to the entrepreneur
-					31. Staff
-						32. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Special challenges of staff as mentors
 			21. Anyone can (and should) be a mentor
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities
+#### Recruiting mentors
 			22. Identifying potential mentors
 			23. Recruiting potential mentors
 			23. Qualifying potential mentors
@@ -1182,11 +1147,6 @@ Also prepare to take on the cost of supplies and maintenance for this unit. Beca
 If you want to be really nice, make sure that this device is networked. PIE never managed to accomplish this. It's still a dream that we will, one day.
 
 Finally, don't be tempted to charge per copy or anything silly like that. Just eat the cost as a cost of doing business. 
-
-				Outliers:
-				- Appthwack
-				- Vendscreen
-				- Smart Mocha
 			
 
 ## Restrooms/Locker rooms
