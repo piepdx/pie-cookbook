@@ -836,6 +836,7 @@ Why do we believe this is an effective model for PIE and other accelerators? At 
 			21. Anyone can (and should) be a mentor
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities
+#### Recruiting mentors
 			22. Identifying potential mentors
 			23. Recruiting potential mentors
 			23. Qualifying potential mentors
