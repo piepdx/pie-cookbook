@@ -1147,11 +1147,6 @@ Also prepare to take on the cost of supplies and maintenance for this unit. Beca
 If you want to be really nice, make sure that this device is networked. PIE never managed to accomplish this. It's still a dream that we will, one day.
 
 Finally, don't be tempted to charge per copy or anything silly like that. Just eat the cost as a cost of doing business. 
-
-				Outliers:
-				- Appthwack
-				- Vendscreen
-				- Smart Mocha
 			
 
 ## Restrooms/Locker rooms

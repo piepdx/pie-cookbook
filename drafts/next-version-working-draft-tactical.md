@@ -40,4 +40,11 @@
 						28. Value to the mentor
 						29. Special challenges of staff as mentors
 
+## People who use the space differently
+
+				Outliers:
+				- Appthwack
+				- Vendscreen
+				- Smart Mocha
+
 
