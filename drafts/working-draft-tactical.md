@@ -816,34 +816,7 @@ We have found that it is difficult to pick or establish lead mentors at the outs
 						28. Value to the mentor
 						29. Value to the startups
 						29. Typical percentage of the mentor pool
-					30. Corporate mentors
-						24. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
-						30. Special challenges of corporate mentors
-							31. Making mentorship a requirement
-							32. Including mentorship in review process and roles & responsibilities
-							33. Getting corporate mentors to take off the “brand hat” and speak from personal experience
-								34. “You’ve achieved a level of success as [executive at company x]. What’s your personal opinion?”
-					35. Investor mentors
-						36. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
-						30. Special challenges of investor mentors
-							31. Getting investors to take off the investor hat and mentor
-							32. This isn’t due diligence. It’s mentorship.
-							33. Preparing the startups for when an investor switches from mentoring to investing
-#### Resident
-					24. Peer
-						25. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Special challenges of peer mentors
+
 #### Mentors in residence
 
 We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, as an accelerator, has been the concept of free desks for “mentors in residence.” 
