@@ -833,15 +833,6 @@ Why do we believe this is an effective model for PIE and other accelerators? At 
 							30. Can provide valuable insights into working with PIE and mentors
 							31. Can provide tips and tricks for getting the most out of the program
 							32. Can help startups work the system
-					26. Entrepreneurs in Residence
-						27. Define role and expectations
-						29. Value to the organization
-						30. Value to the entrepreneur
-					31. Staff
-						32. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Special challenges of staff as mentors
 			21. Anyone can (and should) be a mentor
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities

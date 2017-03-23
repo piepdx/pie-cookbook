@@ -30,3 +30,14 @@
 						29. Value to the startups
 						29. Special challenges of peer mentors
 
+					26. Entrepreneurs in Residence
+						27. Define role and expectations
+						29. Value to the organization
+						30. Value to the entrepreneur
+					31. Staff
+						32. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Special challenges of staff as mentors
+
+
