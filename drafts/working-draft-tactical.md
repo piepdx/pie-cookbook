@@ -1478,6 +1478,16 @@ Over the course of the programs PIE ran, we came up with a way of grading startu
 
 We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
 
+(Additional content on selection to be incorporated)
+
+**Participant selection**
+PIE has a proven and refined methodology for selecting participants in its programs. At a macro level, this methodology includes a weighted average of the following elements:
+
+- **Team** (5.0x): We analyze the entrepreneurs to determine their level of coachability, the extent of their experience in business and/or the market they are pursuing, their existing knowledge and learning to be had, their ability to work in a collaborative space, and their willingness to participate in the program as a mentor to other members of their cohort (peer mentoring), as well as their potential to assist future members of the program (ongoing mentoring).
+- **Idea** (2.0x): Staff, partners, and mentors are asked to analyze the potential of the business idea, the market(s) to which the idea may be attractive, the feasibility of developing a product for that market(s), and whether the product is appropriately timed for the intended market(s).
+- **Serendipity** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
+
+
 ### People
 
 People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
