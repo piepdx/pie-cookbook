@@ -2527,14 +2527,20 @@ Founders who clicked with the investor meet up to continue the conversation
 
 Staff and startups in space sporadically. No scheduled events.
 
+# Curriculum
+## More independent study than classroom
 
+Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
 
+As a program, PIE has worked to continually refine its highly intensive mentorship model — through both traditional mentors as well as peer mentorship — that can be customized on a company-by-company basis. The model even supports PIE’s ability to focus on the concerns and issues of a single individual, as needed. 
 
-				98. Curriculum
-					105. More independent study than classroom
-						106. Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
-						107. However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
-						108. Some examples of these struggles that impact all founders simultaneously are learning how to meet, roughing out financial projections, pricing their product, and pitching.
+We equate it to an “independent study” model in a learning environment. Every entrepreneur in the cohort shares a collective experience with one another, but their individual learnings are tailored to each of their specific needs, on a case-by-case basis.
+
+This high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
+
+However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
+
+Some examples of these struggles that impact all founders simultaneously are learning how to meet, roughing out financial projections, pricing their product, and pitching.
 					109. Structure was ad hoc for first two classes
 					110. Formalized for Coconut Creme and Derby
 						105. Product
