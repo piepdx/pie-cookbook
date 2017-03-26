@@ -2541,6 +2541,17 @@ This high-touch, intensive, and collaborative approach has been proven to be a f
 However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
 
 Some examples of these struggles that impact all founders simultaneously are learning how to meet, roughing out financial projections, pricing their product, and pitching.
+
+## Common issues 
+
+Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. That said, every entrepreneur and company will struggle with the following issues:
+
+1. **Working with cofounders**: For most entrepreneurs, this experience will be their first time working with a cofounder — or pursuing a business on their own. The stress of going through the program tends to exacerbate and accelerate these issues. We spend a significant amount of time mitigating these conflicts. 
+2. **Working with mentors**: When exposed to advice, which is often contradictory, from successful entrepreneurs, every entrepreneur experiences “mentor whiplash.” This can be debilitating and confusing. As such, PIE staff spends time working with our entrepreneurs to learn how to manage and act upon this feedback.
+3. **Product market fit**: Every entrepreneur believes that their product concept has value. Successful entrepreneurs understand that they need customers to validate that belief. PIE works with entrepreneurs to ensure that they gain an understanding of what product offering will be the most successful.
+4. **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
+5. **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
+
 					109. Structure was ad hoc for first two classes
 					110. Formalized for Coconut Creme and Derby
 						105. Product
