@@ -1478,6 +1478,16 @@ Over the course of the programs PIE ran, we came up with a way of grading startu
 
 We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
 
+(Additional content on selection to be incorporated)
+
+**Participant selection**
+PIE has a proven and refined methodology for selecting participants in its programs. At a macro level, this methodology includes a weighted average of the following elements:
+
+- **Team** (5.0x): We analyze the entrepreneurs to determine their level of coachability, the extent of their experience in business and/or the market they are pursuing, their existing knowledge and learning to be had, their ability to work in a collaborative space, and their willingness to participate in the program as a mentor to other members of their cohort (peer mentoring), as well as their potential to assist future members of the program (ongoing mentoring).
+- **Idea** (2.0x): Staff, partners, and mentors are asked to analyze the potential of the business idea, the market(s) to which the idea may be attractive, the feasibility of developing a product for that market(s), and whether the product is appropriately timed for the intended market(s).
+- **Serendipity** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
+
+
 ### People
 
 People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
@@ -2527,14 +2537,31 @@ Founders who clicked with the investor meet up to continue the conversation
 
 Staff and startups in space sporadically. No scheduled events.
 
+# Curriculum
+## More independent study than classroom
 
+Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
 
+As a program, PIE has worked to continually refine its highly intensive mentorship model — through both traditional mentors as well as peer mentorship — that can be customized on a company-by-company basis. The model even supports PIE’s ability to focus on the concerns and issues of a single individual, as needed. 
 
-				98. Curriculum
-					105. More independent study than classroom
-						106. Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
-						107. However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
-						108. Some examples of these struggles that impact all founders simultaneously are learning how to meet, roughing out financial projections, pricing their product, and pitching.
+We equate it to an “independent study” model in a learning environment. Every entrepreneur in the cohort shares a collective experience with one another, but their individual learnings are tailored to each of their specific needs, on a case-by-case basis.
+
+This high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
+
+However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
+
+Some examples of these struggles that impact all founders simultaneously are learning how to meet, roughing out financial projections, pricing their product, and pitching.
+
+## Common issues 
+
+Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. That said, every entrepreneur and company will struggle with the following issues:
+
+1. **Working with cofounders**: For most entrepreneurs, this experience will be their first time working with a cofounder — or pursuing a business on their own. The stress of going through the program tends to exacerbate and accelerate these issues. We spend a significant amount of time mitigating these conflicts. 
+2. **Working with mentors**: When exposed to advice, which is often contradictory, from successful entrepreneurs, every entrepreneur experiences “mentor whiplash.” This can be debilitating and confusing. As such, PIE staff spends time working with our entrepreneurs to learn how to manage and act upon this feedback.
+3. **Product market fit**: Every entrepreneur believes that their product concept has value. Successful entrepreneurs understand that they need customers to validate that belief. PIE works with entrepreneurs to ensure that they gain an understanding of what product offering will be the most successful.
+4. **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
+5. **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
+
 					109. Structure was ad hoc for first two classes
 					110. Formalized for Coconut Creme and Derby
 						105. Product
