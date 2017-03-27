@@ -2239,94 +2239,6 @@ But it wasn't without its flaws. Some folks begin commanding more airtime than o
 			96. Day-to-day
 			
 
-# Creating a cadence
-
-One of the most critical efforts for the accelerator staff is that of managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
-
-There is no prescribed timing here. You add more pressure when it is needed. And you try to break the tension when needed. There is no schedule here. You just have to play it by ear. And act with your best instincts.
-
-That said, there are some clear guardrails to help guide your efforts.
-
-First off, it's very important to understand the emotional roller coaster of the accelerator. 
-
-## The emotional ebb and flow of a stressful startup accelerator 
-
-We've all heard it. "Going through an accelerator is an emotional roller coaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
-
-But what, exactly, does that roller coaster look like?
-
-At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
-
-Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, their partners, families, mentors, and the accelerator staff. 
-- - - 
-> **tl;dr Understanding the emotional roller coaster tells you when it's reasonable to increase the stress — and when you'd be wise to pull the pressure valve.** 
-- - - 
-So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, as well, for what it's worth.)
-
-![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
-
-Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
-
-### Pre-Accelerator
-
-It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number of leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
-
-We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
-
-![Startup pre-Accelerator Detail](/source/images/pieAcceleratorEmotionalRollerCoasterPreAccelerator-Detail.png)
-
-1. **False Ceiling of Euphoria** We've learned that the Accelerator environment accelerates, among other things, emotions. As such, we've learned that the highs are far higher than they have seemed to the founders in the past. For that reason, we categorize the pinnacle of euphoria for founders prior to the accelerator as a "false ceiling." Accelerator staff and mentors need to be prepared to help accentuate the good times — and to help regulate euphoric misconceptions.
-2. **False Floor of Despair** If the "highs are higher," then guess what? That's right. The lows are way lower. Within the accelerator environment, we often find founders struggling with depression and negativity that surmounts anything with which they had to deal prior to entering the accelerator program. Accelerator staff and mentors need to be prepared for how paralyzingly acute these lows can be.
-3. **"I found the perfect Accelerator for us!"** When startups are looking for support, finding an Accelerator that best matches their needs can be a high point for them. It's important that Accelerator staff understand and appreciate this moment of euphoria and do their best to cultivate a relationship with each and every Founder who has an interest in their Accelerator.
-4. **"It's been 30 seconds and they haven't responded. They hate us."** Just as quickly as Founders get excited about your Accelerator, they'll get equally despondent if you don't respond to them immediately. Make sure that you're adequately staffed to deal with the influx of questions and inquiries. Automate as much as you can to ensure that Founders always get a response to every request. For example, make sure that there is some indication that a submitted application has been received and is being reviewed. Otherwise, you'll get multiple questions from each and every Founder.
-5. **"We made it through the entire process and they accepted us!"** Once accepted to a program, Founders often experience a sense of euphoria coupled with relief. To many Founders, the recognition and acceptance create a false sense of accomplishment. When in reality, it is actually the starting line for a much more difficult — and emotionally taxing — phase for their company.
-6. **"Maybe we've made a mistake. Is this the right move for us?"** While the period of euphoria may last for some, most Founders will experience a return to a more calm outlook prior to their beginning the program. This may also manifest itself as having second thoughts or cold feet about joining the Accelerator program at all. Be prepared for questions and Founders seeking reassurance.
-
-### Month 1 
-
-Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions. 
-
-As we mentioned above, PIE generally worked with founders who were confident with building product. Your founders may be similar. Or you may attract founders with different points of confidence. 
-
-Whatever the case, it is important that you begin the accelerator program focusing on the area or topic where your founders boast the most confidence. The accelerator environment can be exceedingly stressful and emotionally taxing. By starting your founders in an area of strength, you give them the best chance of surviving the emotional onslaught of their new reality.
-
-![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
-
-1. **"Acceptance! We've made it! The sky is the limit."** Once the Founders accept that the Accelerator is the right thing for their startup and cofounders, there is a palpable upswing in emotion. But it is important to note that there will be first date jitters and nerves. Each Founder deals with it differently, but it tends to be an incredibly positive and reassuring time for most companies. The nerves are perceived as excitement rather than dread. And the notion that someone not only believes in the Founders and their idea but is willing to help them succeed is an incredibly heady feeling for most.
-2. **"We are killing it!" aka Breaking through the false ceiling of euphoria** What happens when you get a bunch of euphoric and excited Founders together? That's right: mass hysteria. As Founders' emotions play off of one another, individual Founders find that heady feeling growing at an exponential rate. What previously seemed like the height of happiness — the False Ceiling of Euphoria — pales in comparison to the feeling of giddiness most of the Founders begin to experience. But as the Founders begin to realize their new existence in the Accelerator program, this feeling of euphoria begins to ebb. *Note: This will likely be the last time Founders feel emotionally positive for months.*
-3. **"We're doing it wrong." aka Crashing through the false floor of despair**  The stress and strain of the new environment, the seemingly relentless strings of new tasks and expectations, Mentor whiplash, and a feeling of being unable to navigate — let alone manage — the Accelerator environment can be emotionally crushing. This would be bad enough, alone. But it's exacerbated by the fact that the Founders are coming down off of the highest peak of euphoria. We often see Founders barreling down from this crest at breakneck speed, culminating in a descent into the lowest of lows. Lower, in fact, than any of the worst days prior to entering the Accelerator program. It's a true bottoming out. Previous failures and bad days pale in comparison to the Founder's current emotional state. They feel like complete failures and become very inwardly focused, detaching from their peers and cofounders and grasping to find something that they feel capable of handling. 
-4. **"Everybody else seems to be struggling with the same issues."** Once the startups get settled, the founders get comfortable with one another, and folks begin to settle into a daily rhythm, participants will stop being so inwardly focused — and will begin refrain from continually beating themselves up. They'll start to notice the struggles of their peers. They'll begin conversations about how they're struggling. And they'll discover that they're not alone. This causes a slight improvement in attitude. Not stellar, but an upswing.   
-5. **"We're still the worst company in here."** But that upswing is short lived as founders rapidly return to self criticism. This is usually based on their misperception that every other founder in the program is handling the stress and scheduling more effective. Or is making better use of the resources at his/her disposal. While this viewpoint is often ill founded — no one is actually doing terribly well at this point — it can still cause a dip founders' emotional states. It's especially important to note that this mindset can be reinforced by other founders celebrating wins. So it's important to keep both the positive and negative stuff in check. 
-6. **"Product demo went okay. And folks here seem to get what we do."** With the first month being wholly focused on product — and the bulk of PIE founders being product-centric founders — the opportunity to demo is an uplifting one. While founders rarely have a cohesive story about their product at this point, other founders can intuit motivations and functions, giving the companies a sense of belonging. This reinforces the feeling that the product has merit. And it helps reinforce the founders' feeling of belonging in the accelerator program. 
-
-### Month 2 
-
-This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
-
-And there's really no way to fix this or prevent this. If you've done your job correctly as an accelerator, you've put your founders under so much pressure in the first month — and so much has changed about their business — that your founders will be feeling pretty beat up. And they'll feel like they're bumping along the bottom of the tank of despair. The false floor of despair is long forgotten. 
-
-Some of your founders will have higher amplitude in their spikes and troughs. Others will simply bump along throughout the month. 
-
-![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
-
-1. **"I thought we were getting it, but we're not."** Coming off the product demo, founders may be able to retain some semblance of euphoria. But it's far more likely that this "accomplishment" will quickly erode into stress about all of the other thing that the startup has to accomplish during the accelerator. This is the classic point where founders feel completely overwhelmed. Emotions and egos are extremely fragile at this point in time. And burn out is a significant risk. 
-2. **"We can do this."** If anything, founders are resilient. And stubborn. And they'll figure out ways to rebound. Even in short bursts. No matter what you throw at them. This difficult time is often the most rewarding and reinforcing of the accelerator. Confidence is built. Egos are rebuilt. And founders start to feel like they're actually starting to get a handle on this new existence. They're not overly confident. But their confidence is building. As is their understanding of how to manage themselves, their companies, and their peer relationships, both within the company and within the cohort. That's what make this the perfect point to teach — and challenge — the founders on their greatest weaknesses. Because they've developed the resilience to handle it. 
-3. **"We don't seem any worse off than anyone else."** Not only does confidence build, but Month 2 is the month where founders gain the most empathy for their cofounders and peers. They start to recognize that everyone is struggling. And that even the most confident and capable founders in the cohort have their weaknesses. So when you introduce subject matter with which everyone struggles — and everyone recognizes that one another is struggling — you enforce a tendency toward collaboration, support, and peer mentorship. Which, in turn, fortifies the connections and feeling of community among the participants. 
-
-### Month 3 
-
-This will be the most rewarding month for your startups. Not only will they make significant progress, they will make tangible progress that will directly impact the future of their companies. 
-
-![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
-
-1. **"After talking to folks, I'm not sure our company is viable."** The beginning of month three is often a low point for folks. They've just come out of one of the most challenging learning experiences in month 2. They have grown used to the constant mentor meetings and the speed at which things are going. So much so, that they have a difficult time recognizing how much they're accomplishing. They have, to put it colloquially, established a new normal. And that can make them feel like they're not progressing or succeeding.
-2. **"We get to pitch! We totally get pitching."** Whatever the reason — be it their acceptance into your Accelerator, the bevy of pitch contests to which a startup is exposed these days, or simply having family and friends providing less than critical feedback — most Founder tend to exist under the delusion that they already know how to pitch their company. Unfortunately for them, nothing could be further from the truth. But at this point, they'll come into pitching with more confidence than they've had in weeks — potentially months. 
-3. **"No one got our pitch. We're not even going to make it to the stage."** Companies start to pitch. And that illusion of "We totally get pitching" begins to crumble. And as more truly critical feedback comes rolling in — from staff, from mentors, and perhaps worst of all from their peers — Founders come to realize that their pitch needs a ton of work. In fact, in most cases, what they thought was their pitch has to be totally scrapped. This realization has the potential to crush confidence and further demotivate even the most confident Founders. 
-4. **"Wait a second. This is working."** Slowly but surely, the feedback starts to think in. And the pitch starts to improve. The Founders regain their confidence. And the pitch actually starts to improve. From everyone's perspectives. And with practice, the pitches become more and more compelling. And with finessing, the Founders grow more and more confident in their ability to tell the story of the company they are building. And as the opportunity to get on stage — and get out of relentless pitch practice — draws nearer and nearer both mood and nerves are ever on the increase. 
-5. **Demo Day: "This is the best day of my life."** If everything goes as planned, Demo Day will be the most rewarding experience of any Founder's life. In fact, we often tell them that, backstage. "This will be the most fun you ever have with your startup." Again, part of that might be the knowledge that they will soon be free of the constant haranguing of the Accelerator environment. But the majority of this feeling comes from a sense of accomplishment. And confidence. And the recognizable ability to tell a compelling story — and then to celebrate the telling of that story in the gathering that happens after everyone leaves the stage.
-
-Now that you have some generic context of the roller coaster, let's break down those three months in terms of the subjects PIE used to educated Founders of tech Startups.
-
 # Three months
 
 PIE chose to run our program for a three month intensive period. 
@@ -2350,92 +2262,6 @@ But fact of the matter is, when you're in the thick of it, three months is an in
 From the time the first day of PIE starts until we bring the house lights down and Demo Day begins is about 130,000 minutes. And each one is critical. 
 
 But no matter how motivated the founder, no matter how real the opportunity, no matter how passionate the team, it's a challenge to keep the momentum going. It's nearly impossible, over that length of time, to keep a sustained sprint going. It's like running toward a goal somewhere off in the distance. Like trying to realize a strategy without any tactics. 
-
-### At times, the staff has to create friction
-
-Catalysts (Entrepreneur + Patron)
-
-Pressure/heat (Startups + Staff + Patron)
-
-### At times the staff has to alleviate friction
-
-### The Three Ps
-
-So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
-
-By class three (Coconut Creme), we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
-
-Throughout the course of these stages and gates, we tailor the mentor talks to match the topic — or to queue up the obvious need for the startups to focus on these particular topics.
-
-Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
-
-#### Product (Month 1)
-
-Because PIE classes generally consisted of groups of developers who understood how to build products, we started in a place of strength and confidence: product development. 
-
-The challenge? Be ready to demo the current version of the company's product in front of the others startups in the class. The deadline was one month into the class. And it was a required activity. 
-
-For some, this was a relatively simple request and in line with their product development schedules. For others, it required a great deal of effort to meet the milestone.
-
-But that led to some interesting things, as well.
-
-Those who were further ahead on product often discovered that they lacked the language to effectively convey what they were building. Worse yet, they sometimes that the current version of the product was difficult, if not impossible, to demo to a diverse audience. 
-
-We get to question assumptions, clarify utility, and make suggestions, as a class — in a group environment. Companies get to respond directly to queries, jot down feature ideas, and generally scratch their head a great deal and ask "Why **did** we do it that way?"
-
-So month one, get the product momentum going. And reward those who are making progress. Because that's going to be the crux of everything going forward. 
-
-It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
-
-#### Projections (Month 2)
-
-Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
-
-Now that we've stressed out the developers, we put the stress on the business people. Who, more often than not, are developers learning how to business. 
-
-And in our experience, nothing makes a business person feel more businessy than creating a spreadsheet with lots of dollar values in it. So that's exactly what we focus on during month two, projections.
-
-We usually choose a 12 month window, because none of us know what's really going to happen in the future. But a year seems like a viable window to explore these numbers.
-
-With projections, we experience the polar opposite of product. No one feels confident in their numbers. Most companies don't even know where to begin. 
-
-To support, we offer templates, mentors, and office hours to help. But it usually doesn't. And it becomes a last minute scramble, rife with cries of "Do we really have to do this?"
-
-The answer is "Yes." It's a required element of the class.
-
-From this position of lacking confidence, the revealing of the projections to peers in the a group becomes a very different exercise. With the presenting founder often asking more questions than the audience.
-
-"How did you do this?", "Does this seem realistic?", "What's missing?"
-
-A second month of stress induced collaboration has heightened the trust among peers from a feeling of camaraderie to a dynamic of peer mentorship. And this is exactly what we're trying to engender. 
-
-But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
-
-#### Pitch (Month 3)
-
-Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
-
-It's important to note that many programs choose to pitch throughout the course of the entire class. We've found this to have diminishing returns if run for longer than a month. It's also a good chunk of time which we feel is better focused on things like product and projections.
-
-If the product demo is the area of the most confidence and projections are the area of least confidence, the pitch is somewhere in the middle. But it's often the most difficult to refine and finesse, so plan to spend a great deal of time doing it. 
-
-At PIE, we played it by ear, with no fewer than two full group pitch practices per week. With individual staff, mentor, and peer-to-peer pitch practices rounding out the month of activity. 
-
-We began with no slides, only story. Because it does no good to waste time building slides for a story that is going to change drastically anyway. We continue with no slides until we feel the stories are starting to solidify. Then we move to pitches with slides and story.
-
-Group pitch practices are attended by all startups and staff. Mentors are invited to attend when and if they can. Presenters receive feedback from staff, peers, and their team members. 
-
-But there is one distinct difference from the previous two milestones. The difference — and this is critically important — is that while previous presentations are a conversation among the presenter and the audience, this feedback loop is one way. The audience can critique the presentation, but the presenter cannot respond. 
-
-Why? Well, we learned from our speaking coach mentor that this is a critical step in getting people to actually implement changes and improve their talks. You see, if they respond to the feedback, they subconsciously assume that they've fixed the problem. So don't let them respond. And they go and actually fix the problem.
-
-Once the story and deck are starting to come together, start recording the presenters. Not only will it give them a valuable asset to review, it will present another stressor that breaks them out of their comfort zone.
-
-Another piece of feedback we've received from the startups? 
-
-The last week is pretty much nonstop practice, where we not only continue to finesse the story and the deck, but we start getting the presenter to give the pitch in the uniform that they plan to wear on stage. We've learned that the more we gradually attempt to mimic the environment and conditions they will experience on Demo Day — even if it can't be done perfectly — the better the presentations are.
-
-If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
 
 ## Typical week in PIE
 
@@ -2561,7 +2387,13 @@ Founders are extremely creative and driven, but they  are also intently focused 
 
 PIE's high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
 
-However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
+While curriculum can be valuable for Bootcamp programs, "101" type programs, and where participants have a significant amount of time to learn — or review — the content of that curriculum, it is not terribly effective in the Accelerator environment. This is one of the reasons we suggest that Accelerator programs avoid purchasing established curriculum programs for their use. (Another reason is that Accelerators often have very little capital at their disposal and there are better uses of that capital, at the outset.) 
+
+Likewise, we advise against spending a lengthy amount of time creating your own rigid curriculum for your program. 
+- - -
+> **tl;dr PIE took weeks developing a curriculum prior to our first Accelerator class. We threw it out a few days into the program.**
+- - -
+Rather, we suggest that Accelerator Staff and Mentors always be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
 
 Some examples of these struggles that impact all founders simultaneously, follow.
 
@@ -2590,6 +2422,175 @@ The most critical aspect of delivering shared curriculum is understanding when t
 The most relevant time for delivering a shared, class-wide learning experience is after the majority of Founders have had the opportunity to fail on their own.
 
 Over the years, we learned that you can use the Accelerator program format to artificially introduce factors that cause all Founders and Companies to experience the same problem at the same time. 
+
+Which is how we came upon the idea of "The three Ps" and creating a cadence.
+
+### The Three Ps
+
+So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
+
+By class three (Coconut Creme), we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
+
+Throughout the course of these stages and gates, we tailor the mentor talks to match the topic — or to queue up the obvious need for the startups to focus on these particular topics.
+
+Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
+
+#### Product (Month 1)
+
+Because PIE classes generally consisted of groups of developers who understood how to build products, we started in a place of strength and confidence: product development. 
+
+The challenge? Be ready to demo the current version of the company's product in front of the others startups in the class. The deadline was one month into the class. And it was a required activity. 
+
+For some, this was a relatively simple request and in line with their product development schedules. For others, it required a great deal of effort to meet the milestone.
+
+But that led to some interesting things, as well.
+
+Those who were further ahead on product often discovered that they lacked the language to effectively convey what they were building. Worse yet, they sometimes that the current version of the product was difficult, if not impossible, to demo to a diverse audience. 
+
+We get to question assumptions, clarify utility, and make suggestions, as a class — in a group environment. Companies get to respond directly to queries, jot down feature ideas, and generally scratch their head a great deal and ask "Why **did** we do it that way?"
+
+So month one, get the product momentum going. And reward those who are making progress. Because that's going to be the crux of everything going forward. 
+
+It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
+
+#### Projections (Month 2)
+
+Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
+
+Now that we've stressed out the developers, we put the stress on the business people. Who, more often than not, are developers learning how to business. 
+
+And in our experience, nothing makes a business person feel more businessy than creating a spreadsheet with lots of dollar values in it. So that's exactly what we focus on during month two, projections.
+
+We usually choose a 12 month window, because none of us know what's really going to happen in the future. But a year seems like a viable window to explore these numbers.
+
+With projections, we experience the polar opposite of product. No one feels confident in their numbers. Most companies don't even know where to begin. 
+
+To support, we offer templates, mentors, and office hours to help. But it usually doesn't. And it becomes a last minute scramble, rife with cries of "Do we really have to do this?"
+
+The answer is "Yes." It's a required element of the class.
+
+From this position of lacking confidence, the revealing of the projections to peers in the a group becomes a very different exercise. With the presenting founder often asking more questions than the audience.
+
+"How did you do this?", "Does this seem realistic?", "What's missing?"
+
+A second month of stress induced collaboration has heightened the trust among peers from a feeling of camaraderie to a dynamic of peer mentorship. And this is exactly what we're trying to engender. 
+
+But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
+
+#### Pitch (Month 3)
+
+Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
+
+It's important to note that many programs choose to pitch throughout the course of the entire class. We've found this to have diminishing returns if run for longer than a month. It's also a good chunk of time which we feel is better focused on things like product and projections.
+
+If the product demo is the area of the most confidence and projections are the area of least confidence, the pitch is somewhere in the middle. But it's often the most difficult to refine and finesse, so plan to spend a great deal of time doing it. 
+
+At PIE, we played it by ear, with no fewer than two full group pitch practices per week. With individual staff, mentor, and peer-to-peer pitch practices rounding out the month of activity. 
+
+We began with no slides, only story. Because it does no good to waste time building slides for a story that is going to change drastically anyway. We continue with no slides until we feel the stories are starting to solidify. Then we move to pitches with slides and story.
+
+Group pitch practices are attended by all startups and staff. Mentors are invited to attend when and if they can. Presenters receive feedback from staff, peers, and their team members. 
+
+But there is one distinct difference from the previous two milestones. The difference — and this is critically important — is that while previous presentations are a conversation among the presenter and the audience, this feedback loop is one way. The audience can critique the presentation, but the presenter cannot respond. 
+
+Why? Well, we learned from our speaking coach mentor that this is a critical step in getting people to actually implement changes and improve their talks. You see, if they respond to the feedback, they subconsciously assume that they've fixed the problem. So don't let them respond. And they go and actually fix the problem.
+
+Once the story and deck are starting to come together, start recording the presenters. Not only will it give them a valuable asset to review, it will present another stressor that breaks them out of their comfort zone.
+
+Another piece of feedback we've received from the startups? 
+
+The last week is pretty much nonstop practice, where we not only continue to finesse the story and the deck, but we start getting the presenter to give the pitch in the uniform that they plan to wear on stage. We've learned that the more we gradually attempt to mimic the environment and conditions they will experience on Demo Day — even if it can't be done perfectly — the better the presentations are.
+
+If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
+
+
+# Creating a cadence
+
+One of the most critical efforts for the accelerator staff is that of managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
+
+There is no prescribed timing here. You add more pressure when it is needed. And you try to break the tension when needed. There is no schedule here. You just have to play it by ear. And act with your best instincts.
+
+That said, there are some clear guardrails to help guide your efforts.
+
+First off, it's very important to understand the emotional roller coaster of the accelerator. 
+
+## The emotional ebb and flow of a stressful startup accelerator 
+
+We've all heard it. "Going through an accelerator is an emotional roller coaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
+
+But what, exactly, does that roller coaster look like?
+
+At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
+
+Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, their partners, families, mentors, and the accelerator staff. 
+- - - 
+> **tl;dr Understanding the emotional roller coaster tells you when it's reasonable to increase the stress — and when you'd be wise to pull the pressure valve.** 
+- - - 
+So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, as well, for what it's worth.)
+
+![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
+
+Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
+
+### Pre-Accelerator
+
+It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number of leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
+
+We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
+
+![Startup pre-Accelerator Detail](/source/images/pieAcceleratorEmotionalRollerCoasterPreAccelerator-Detail.png)
+
+1. **False Ceiling of Euphoria** We've learned that the Accelerator environment accelerates, among other things, emotions. As such, we've learned that the highs are far higher than they have seemed to the founders in the past. For that reason, we categorize the pinnacle of euphoria for founders prior to the accelerator as a "false ceiling." Accelerator staff and mentors need to be prepared to help accentuate the good times — and to help regulate euphoric misconceptions.
+2. **False Floor of Despair** If the "highs are higher," then guess what? That's right. The lows are way lower. Within the accelerator environment, we often find founders struggling with depression and negativity that surmounts anything with which they had to deal prior to entering the accelerator program. Accelerator staff and mentors need to be prepared for how paralyzingly acute these lows can be.
+3. **"I found the perfect Accelerator for us!"** When startups are looking for support, finding an Accelerator that best matches their needs can be a high point for them. It's important that Accelerator staff understand and appreciate this moment of euphoria and do their best to cultivate a relationship with each and every Founder who has an interest in their Accelerator.
+4. **"It's been 30 seconds and they haven't responded. They hate us."** Just as quickly as Founders get excited about your Accelerator, they'll get equally despondent if you don't respond to them immediately. Make sure that you're adequately staffed to deal with the influx of questions and inquiries. Automate as much as you can to ensure that Founders always get a response to every request. For example, make sure that there is some indication that a submitted application has been received and is being reviewed. Otherwise, you'll get multiple questions from each and every Founder.
+5. **"We made it through the entire process and they accepted us!"** Once accepted to a program, Founders often experience a sense of euphoria coupled with relief. To many Founders, the recognition and acceptance create a false sense of accomplishment. When in reality, it is actually the starting line for a much more difficult — and emotionally taxing — phase for their company.
+6. **"Maybe we've made a mistake. Is this the right move for us?"** While the period of euphoria may last for some, most Founders will experience a return to a more calm outlook prior to their beginning the program. This may also manifest itself as having second thoughts or cold feet about joining the Accelerator program at all. Be prepared for questions and Founders seeking reassurance.
+
+### Month 1 
+
+Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions. 
+
+As we mentioned above, PIE generally worked with founders who were confident with building product. Your founders may be similar. Or you may attract founders with different points of confidence. 
+
+Whatever the case, it is important that you begin the accelerator program focusing on the area or topic where your founders boast the most confidence. The accelerator environment can be exceedingly stressful and emotionally taxing. By starting your founders in an area of strength, you give them the best chance of surviving the emotional onslaught of their new reality.
+
+![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
+
+1. **"Acceptance! We've made it! The sky is the limit."** Once the Founders accept that the Accelerator is the right thing for their startup and cofounders, there is a palpable upswing in emotion. But it is important to note that there will be first date jitters and nerves. Each Founder deals with it differently, but it tends to be an incredibly positive and reassuring time for most companies. The nerves are perceived as excitement rather than dread. And the notion that someone not only believes in the Founders and their idea but is willing to help them succeed is an incredibly heady feeling for most.
+2. **"We are killing it!" aka Breaking through the false ceiling of euphoria** What happens when you get a bunch of euphoric and excited Founders together? That's right: mass hysteria. As Founders' emotions play off of one another, individual Founders find that heady feeling growing at an exponential rate. What previously seemed like the height of happiness — the False Ceiling of Euphoria — pales in comparison to the feeling of giddiness most of the Founders begin to experience. But as the Founders begin to realize their new existence in the Accelerator program, this feeling of euphoria begins to ebb. *Note: This will likely be the last time Founders feel emotionally positive for months.*
+3. **"We're doing it wrong." aka Crashing through the false floor of despair**  The stress and strain of the new environment, the seemingly relentless strings of new tasks and expectations, Mentor whiplash, and a feeling of being unable to navigate — let alone manage — the Accelerator environment can be emotionally crushing. This would be bad enough, alone. But it's exacerbated by the fact that the Founders are coming down off of the highest peak of euphoria. We often see Founders barreling down from this crest at breakneck speed, culminating in a descent into the lowest of lows. Lower, in fact, than any of the worst days prior to entering the Accelerator program. It's a true bottoming out. Previous failures and bad days pale in comparison to the Founder's current emotional state. They feel like complete failures and become very inwardly focused, detaching from their peers and cofounders and grasping to find something that they feel capable of handling. 
+4. **"Everybody else seems to be struggling with the same issues."** Once the startups get settled, the founders get comfortable with one another, and folks begin to settle into a daily rhythm, participants will stop being so inwardly focused — and will begin refrain from continually beating themselves up. They'll start to notice the struggles of their peers. They'll begin conversations about how they're struggling. And they'll discover that they're not alone. This causes a slight improvement in attitude. Not stellar, but an upswing.   
+5. **"We're still the worst company in here."** But that upswing is short lived as founders rapidly return to self criticism. This is usually based on their misperception that every other founder in the program is handling the stress and scheduling more effective. Or is making better use of the resources at his/her disposal. While this viewpoint is often ill founded — no one is actually doing terribly well at this point — it can still cause a dip founders' emotional states. It's especially important to note that this mindset can be reinforced by other founders celebrating wins. So it's important to keep both the positive and negative stuff in check. 
+6. **"Product demo went okay. And folks here seem to get what we do."** With the first month being wholly focused on product — and the bulk of PIE founders being product-centric founders — the opportunity to demo is an uplifting one. While founders rarely have a cohesive story about their product at this point, other founders can intuit motivations and functions, giving the companies a sense of belonging. This reinforces the feeling that the product has merit. And it helps reinforce the founders' feeling of belonging in the accelerator program. 
+
+### Month 2 
+
+This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
+
+And there's really no way to fix this or prevent this. If you've done your job correctly as an accelerator, you've put your founders under so much pressure in the first month — and so much has changed about their business — that your founders will be feeling pretty beat up. And they'll feel like they're bumping along the bottom of the tank of despair. The false floor of despair is long forgotten. 
+
+Some of your founders will have higher amplitude in their spikes and troughs. Others will simply bump along throughout the month. 
+
+![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
+
+1. **"I thought we were getting it, but we're not."** Coming off the product demo, founders may be able to retain some semblance of euphoria. But it's far more likely that this "accomplishment" will quickly erode into stress about all of the other thing that the startup has to accomplish during the accelerator. This is the classic point where founders feel completely overwhelmed. Emotions and egos are extremely fragile at this point in time. And burn out is a significant risk. 
+2. **"We can do this."** If anything, founders are resilient. And stubborn. And they'll figure out ways to rebound. Even in short bursts. No matter what you throw at them. This difficult time is often the most rewarding and reinforcing of the accelerator. Confidence is built. Egos are rebuilt. And founders start to feel like they're actually starting to get a handle on this new existence. They're not overly confident. But their confidence is building. As is their understanding of how to manage themselves, their companies, and their peer relationships, both within the company and within the cohort. That's what make this the perfect point to teach — and challenge — the founders on their greatest weaknesses. Because they've developed the resilience to handle it. 
+3. **"We don't seem any worse off than anyone else."** Not only does confidence build, but Month 2 is the month where founders gain the most empathy for their cofounders and peers. They start to recognize that everyone is struggling. And that even the most confident and capable founders in the cohort have their weaknesses. So when you introduce subject matter with which everyone struggles — and everyone recognizes that one another is struggling — you enforce a tendency toward collaboration, support, and peer mentorship. Which, in turn, fortifies the connections and feeling of community among the participants. 
+
+### Month 3 
+
+This will be the most rewarding month for your startups. Not only will they make significant progress, they will make tangible progress that will directly impact the future of their companies. 
+
+![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
+
+1. **"After talking to folks, I'm not sure our company is viable."** The beginning of month three is often a low point for folks. They've just come out of one of the most challenging learning experiences in month 2. They have grown used to the constant mentor meetings and the speed at which things are going. So much so, that they have a difficult time recognizing how much they're accomplishing. They have, to put it colloquially, established a new normal. And that can make them feel like they're not progressing or succeeding.
+2. **"We get to pitch! We totally get pitching."** Whatever the reason — be it their acceptance into your Accelerator, the bevy of pitch contests to which a startup is exposed these days, or simply having family and friends providing less than critical feedback — most Founder tend to exist under the delusion that they already know how to pitch their company. Unfortunately for them, nothing could be further from the truth. But at this point, they'll come into pitching with more confidence than they've had in weeks — potentially months. 
+3. **"No one got our pitch. We're not even going to make it to the stage."** Companies start to pitch. And that illusion of "We totally get pitching" begins to crumble. And as more truly critical feedback comes rolling in — from staff, from mentors, and perhaps worst of all from their peers — Founders come to realize that their pitch needs a ton of work. In fact, in most cases, what they thought was their pitch has to be totally scrapped. This realization has the potential to crush confidence and further demotivate even the most confident Founders. 
+4. **"Wait a second. This is working."** Slowly but surely, the feedback starts to think in. And the pitch starts to improve. The Founders regain their confidence. And the pitch actually starts to improve. From everyone's perspectives. And with practice, the pitches become more and more compelling. And with finessing, the Founders grow more and more confident in their ability to tell the story of the company they are building. And as the opportunity to get on stage — and get out of relentless pitch practice — draws nearer and nearer both mood and nerves are ever on the increase. 
+5. **Demo Day: "This is the best day of my life."** If everything goes as planned, Demo Day will be the most rewarding experience of any Founder's life. In fact, we often tell them that, backstage. "This will be the most fun you ever have with your startup." Again, part of that might be the knowledge that they will soon be free of the constant haranguing of the Accelerator environment. But the majority of this feeling comes from a sense of accomplishment. And confidence. And the recognizable ability to tell a compelling story — and then to celebrate the telling of that story in the gathering that happens after everyone leaves the stage.
+
+Now that you have some generic context of the roller coaster, let's break down those three months in terms of the subjects PIE used to educate Founders of tech Startups.
 
 					109. Structure was ad hoc for first two classes
 					110. Formalized for Coconut Creme and Derby
