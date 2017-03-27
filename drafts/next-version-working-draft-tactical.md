@@ -58,4 +58,24 @@ Pressure/heat (Startups + Staff + Patron)
 ### At times the staff has to alleviate friction
 
 
+## More definitive look at the history of shared topics at PIE
+
+					109. Learning structure was ad hoc for first two classes
+					110. Formalized for Coconut Creme and Derby
+						105. Product
+							106. Product demo checkpoint
+						106. Projections
+							107. Peer mentoring around pricing
+								108. AppThwack
+							107. Spreadsheet checkpoint
+						107. Pitch
+							108. Pitch practice
+							109. Peer feedback
+
+## Other roles
+
+### Intern
+### Associate
+### Technical assistance
+
 
