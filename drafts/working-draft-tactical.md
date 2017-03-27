@@ -2567,24 +2567,29 @@ Some examples of these struggles that impact all founders simultaneously, follow
 
 ## Common issues 
 
-Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. That said, every entrepreneur and company will struggle with the following issues:
+Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. 
+
+That said, every entrepreneur and company will struggle with the following issues:
 
 1. **Working with cofounders**: For most Founders, this experience will be their first time working with a cofounder — or pursuing a business on their own. The stress of going through the program tends to exacerbate and accelerate these issues. We spend a significant amount of time mitigating these conflicts. 
 2. **Working with mentors**: When exposed to advice, which is often contradictory, from successful Founders, every Founder experiences “mentor whiplash.” This can be debilitating and confusing. As such, PIE staff spends time working with our Founders to learn how to manage and act upon this feedback.
 3. **Learning how to meet**: While many of your Founders have participated in meetings, it is highly unlikely that they will have experience with the volume, tenor, and stress of the meetings they will encounter during the Accelerator program. Teaching Founders how to meet can be a critical component of insuring their success in your program.
 4. **Product market fit**: Every Founder believes that their product concept has value. Successful Founders understand that they need customers to validate that belief. PIE works with Founders to ensure that they gain an understanding of what product offering will be the most successful.
-5.  Financial projections
-6.  Pricing
-7.  Pitching
-
-4. **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
-5. **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
+5. **Financial projections**: Even if your teams are lucky enough to have a financially minded cofounder, it is highly unlikely that any of the cofounders have had to deal with financial projections from such an early stage. It is even more likely that this way of thinking about the company, its product, and its business model will be completely foreign to everyone in your cohort.
+6.  **Pricing**: Pricing will always be wrong because it's nearly impossible to get right. But your Founders have to start somewhere. Learning how to set pricing, test pricing models, and revise and optimize pricing will be critical knowledge for all of your Founders. 
+7.  **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
+8.  **Pitching**: Whether the Startups plan to pursue venture capital or not, being able to effectively tell the story of their company is a critical skill for every Founder. Even if you choose to forego the concept of a "Demo Day," your programs should still spend a significant amount of time working with Founders on crafting a pitch.
+9.  **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
 
 ## Timing
 
+Even though every Founder will likely need the education on the topics they all share in common, there is very little likelihood that they will all be experiencing these issues at the same time. 
+
 The most critical aspect of delivering shared curriculum is understanding when to time that content for your class. 
 
-This most relevant time for delivering that learning is after the majority of Founders have had the opportunity to fail on their own.
+The most relevant time for delivering a shared, class-wide learning experience is after the majority of Founders have had the opportunity to fail on their own.
+
+Over the years, we learned that you can use the Accelerator program format to artificially introduce factors that cause all Founders and Companies to experience the same problem at the same time. 
 
 					109. Structure was ad hoc for first two classes
 					110. Formalized for Coconut Creme and Derby
