@@ -2549,27 +2549,34 @@ Staff and startups in space sporadically. No scheduled events.
 
 # Curriculum
 
+As a program, PIE has worked to continually refine its highly intensive mentorship model — through both traditional mentors as well as peer mentorship —  in a way that can be customized on a company-by-company basis. We have continued to refine the model so that it even supports the program's ability to focus on the concerns and issues of single individuals, as needed. 
+
+We equate the curriculum of this program to an “independent study” model in a traditional learning environment. Every Founder in the class shares a collective experience with one another, but their individual learnings are tailored to each of their specific needs — be those needs be individualized by company or person — on a case-by-case basis.
+
+This high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
+
 ## More independent study than classroom
 
 Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
 
-As a program, PIE has worked to continually refine its highly intensive mentorship model — through both traditional mentors as well as peer mentorship — that can be customized on a company-by-company basis. The model even supports PIE’s ability to focus on the concerns and issues of a single individual, as needed. 
-
-We equate it to an “independent study” model in a learning environment. Every entrepreneur in the cohort shares a collective experience with one another, but their individual learnings are tailored to each of their specific needs, on a case-by-case basis.
-
-This high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
+PIE's high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
 
 However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
 
-Some examples of these struggles that impact all founders simultaneously are learning how to meet, roughing out financial projections, pricing their product, and pitching.
+Some examples of these struggles that impact all founders simultaneously, follow.
 
 ## Common issues 
 
 Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. That said, every entrepreneur and company will struggle with the following issues:
 
-1. **Working with cofounders**: For most entrepreneurs, this experience will be their first time working with a cofounder — or pursuing a business on their own. The stress of going through the program tends to exacerbate and accelerate these issues. We spend a significant amount of time mitigating these conflicts. 
-2. **Working with mentors**: When exposed to advice, which is often contradictory, from successful entrepreneurs, every entrepreneur experiences “mentor whiplash.” This can be debilitating and confusing. As such, PIE staff spends time working with our entrepreneurs to learn how to manage and act upon this feedback.
-3. **Product market fit**: Every entrepreneur believes that their product concept has value. Successful entrepreneurs understand that they need customers to validate that belief. PIE works with entrepreneurs to ensure that they gain an understanding of what product offering will be the most successful.
+1. **Working with cofounders**: For most Founders, this experience will be their first time working with a cofounder — or pursuing a business on their own. The stress of going through the program tends to exacerbate and accelerate these issues. We spend a significant amount of time mitigating these conflicts. 
+2. **Working with mentors**: When exposed to advice, which is often contradictory, from successful Founders, every Founder experiences “mentor whiplash.” This can be debilitating and confusing. As such, PIE staff spends time working with our Founders to learn how to manage and act upon this feedback.
+3. **Learning how to meet**: While many of your Founders have participated in meetings, it is highly unlikely that they will have experience with the volume, tenor, and stress of the meetings they will encounter during the Accelerator program. Teaching Founders how to meet can be a critical component of insuring their success in your program.
+4. **Product market fit**: Every Founder believes that their product concept has value. Successful Founders understand that they need customers to validate that belief. PIE works with Founders to ensure that they gain an understanding of what product offering will be the most successful.
+5.  Financial projections
+6.  Pricing
+7.  Pitching
+
 4. **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
 5. **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
 
