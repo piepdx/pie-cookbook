@@ -2325,7 +2325,7 @@ This will be the most rewarding month for your startups. Not only will they make
 4. **"Wait a second. This is working."** Slowly but surely, the feedback starts to think in. And the pitch starts to improve. The Founders regain their confidence. And the pitch actually starts to improve. From everyone's perspectives. And with practice, the pitches become more and more compelling. And with finessing, the Founders grow more and more confident in their ability to tell the story of the company they are building. And as the opportunity to get on stage — and get out of relentless pitch practice — draws nearer and nearer both mood and nerves are ever on the increase. 
 5. **Demo Day: "This is the best day of my life."** If everything goes as planned, Demo Day will be the most rewarding experience of any Founder's life. In fact, we often tell them that, backstage. "This will be the most fun you ever have with your startup." Again, part of that might be the knowledge that they will soon be free of the constant haranguing of the Accelerator environment. But the majority of this feeling comes from a sense of accomplishment. And confidence. And the recognizable ability to tell a compelling story — and then to celebrate the telling of that story in the gathering that happens after everyone leaves the stage.
 
-Now that you have some generic context of the roller coaster, let's break down those three months in terms of the subjects PIE used to educated Founders of tech Startups.
+Now that you have some generic context of the roller coaster, let's break down those three months in terms of the subjects PIE used to educate Founders of tech Startups.
 
 # Three months
 
