@@ -2415,11 +2415,15 @@ That said, every entrepreneur and company will struggle with the following issue
 
 ## Timing
 
-Even though every Founder will likely need the education on the topics they all share in common, there is very little likelihood that they will all be experiencing these issues at the same time. 
+In a perfect world, Accelerators would be able to schedule and deliver education on each of these topics in a very programmatic way. Unfortunately, the opportunities to do so are rare. 
 
-The most critical aspect of delivering shared curriculum is understanding when to time that content for your class. 
+Every Founder will require education on the topics they all share in common, but there is very little likelihood that every Founder will all be experiencing these issues at the same time. It is up to Staff and Mentors to monitor these opportunities for shared learning as they arise. It is up to the Staff to be prepared to take advantage of these opportunities whenever possible, as a means of making the most efficient use of time for both Founders and Mentors. 
 
-The most relevant time for delivering a shared, class-wide learning experience is after the majority of Founders have had the opportunity to fail on their own.
+The most critical aspect of delivering shared curriculum is understanding when to time that content for your class. It's not when you think it should be timed, it's a matter of determining when the Founders will be most receptive to engaging with the Mentor (or Mentors) who can best provide that education.
+- - -
+> **tl;dr There is no convenient programmatic path — no effective curriculum — for educating Founders. Accelerator Staff must be attuned to the ebb and flow of learning and take advantage of opportunities as they arise.** 
+- - -
+The time when founders will be most receptive to the delivery a shared, class-wide learning experience is when the majority of Founders have had the opportunity to struggle with the topic at their own pace. At times, you will need to allow the Founders to fail on their own, before they will be receptive to learning more about the topic.
 
 Over the years, we learned that you can use the Accelerator program format to artificially introduce factors that cause all Founders and Companies to experience the same problem at the same time. 
 
@@ -2442,11 +2446,11 @@ We've all heard it. "Going through an accelerator is an emotional roller coaster
 But what, exactly, does that roller coaster look like?
 
 At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
-
+- - - 
+> **tl;dr Recognizing and understanding the emotional roller coaster gives staff  insights as to when it is reasonable to increase the stress in the accelerator and when they would be wise to pull the pressure valve.** 
+- - - 
 Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, their partners, families, mentors, and the accelerator staff. 
-- - - 
-> **tl;dr Understanding the emotional roller coaster tells you when it's reasonable to increase the stress — and when you'd be wise to pull the pressure valve.** 
-- - - 
+
 So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, as well, for what it's worth.)
 
 ![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
