@@ -72,3 +72,10 @@ Pressure/heat (Startups + Staff + Patron)
 							108. Pitch practice
 							109. Peer feedback
 
+## Other roles
+
+### Intern
+### Associate
+### Technical assistance
+
+
