@@ -2599,17 +2599,6 @@ If you can, take the opportunity to have the presenters practice in the venue. W
 
 
 
-					109. Structure was ad hoc for first two classes
-					110. Formalized for Coconut Creme and Derby
-						105. Product
-							106. Product demo checkpoint
-						106. Projections
-							107. Peer mentoring around pricing
-								108. AppThwack
-							107. Spreadsheet checkpoint
-						107. Pitch
-							108. Pitch practice
-							109. Peer feedback
 				97. Work time
 				98. Social time
 					99. Coffee hour
