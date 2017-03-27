@@ -2580,6 +2580,12 @@ Entrepreneurs come into our program with a wide of variety of experiences, which
 4. **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
 5. **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
 
+## Timing
+
+The most critical aspect of delivering shared curriculum is understanding when to time that content for your class. 
+
+This most relevant time for delivering that learning is after the majority of Founders have had the opportunity to fail on their own.
+
 					109. Structure was ad hoc for first two classes
 					110. Formalized for Coconut Creme and Derby
 						105. Product
