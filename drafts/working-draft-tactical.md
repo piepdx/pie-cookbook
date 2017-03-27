@@ -2575,12 +2575,11 @@ That said, every entrepreneur and company will struggle with the following issue
 2. **Working with mentors**: When exposed to advice, which is often contradictory, from successful Founders, every Founder experiences “mentor whiplash.” This can be debilitating and confusing. As such, PIE staff spends time working with our Founders to learn how to manage and act upon this feedback.
 3. **Learning how to meet**: While many of your Founders have participated in meetings, it is highly unlikely that they will have experience with the volume, tenor, and stress of the meetings they will encounter during the Accelerator program. Teaching Founders how to meet can be a critical component of insuring their success in your program.
 4. **Product market fit**: Every Founder believes that their product concept has value. Successful Founders understand that they need customers to validate that belief. PIE works with Founders to ensure that they gain an understanding of what product offering will be the most successful.
-5.  Financial projections
-6.  Pricing
-7.  Pitching
-
-4. **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
-5. **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
+5. **Financial projections**: Even if your teams are lucky enough to have a financially minded cofounder, it is highly unlikely that any of the cofounders have had to deal with financial projections from such an early stage. It is even more likely that this way of thinking about the company, its product, and its business model will be completely foreign to everyone in your cohort.
+6.  **Pricing**: Pricing will always be wrong because it's nearly impossible to get right. But your Founders have to start somewhere. Learning how to set pricing, test pricing models, and revise and optimize pricing will be critical knowledge for all of your Founders. 
+7.  **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
+8.  **Pitching**: Whether the Startups plan to pursue venture capital or not, being able to effectively tell the story of their company is a critical skill for every Founder. Even if you choose to forego the concept of a "Demo Day," your programs should still spend a significant amount of time working with Founders on crafting a pitch.
+9.  **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
 
 ## Timing
 
