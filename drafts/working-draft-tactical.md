@@ -2558,7 +2558,9 @@ This high-touch, intensive, and collaborative approach has been proven to be a f
 ## More independent study than classroom
 
 Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
-
+- - -
+> **tl;dr PIE took weeks developing a curriculum prior to our first Accelerator class. We threw it out a few days into the program.**
+- - -
 PIE's high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
 
 However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
