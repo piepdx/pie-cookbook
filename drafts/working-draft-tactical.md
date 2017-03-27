@@ -57,9 +57,9 @@ Don't start patting yourself on the back yet. There's still a ton of hard work a
 But if you're not there yet, please do not skip ahead. Do not pass go. There is no shortcut. It takes time.
 
 ## Building a startup accelerator in seven easy steps
-
+- - -
 # tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
-
+- - -
 # Caveat: Please do not take this document as a step-by-step roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
 
 ### Step 1: Found your own company. Or at least work at a startup.
