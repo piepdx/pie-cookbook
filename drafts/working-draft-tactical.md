@@ -1,5 +1,15 @@
 # Recipes
 
+The PIE methodology has been tested, refined, and proven in Portland over an eight-year period. During that time, the program implementing that methodology has fostered the growth of [a number of companies](http://www.piepdx.com/#press-section), such as AppFog, AppThwack, Cloudability, Little Bird, Lytics, Outdoor Project, Simple, Supportland/Placemaker, Switchboard, Uncorked Studios, and Urban Airship, to name a few. 
+
+Our alumni have collectively attracted hundreds of millions of dollars in venture capital and created more than 1,000 well-paying employment opportunities. Just as important, the program has helped educate a new generation of entrepreneurs — whether the businesses those entrepreneurs were originally pursuing have succeeded or not.
+
+We firmly believe that the techniques and methods PIE has developed are a means of creating communities of trust and accelerating creative output in ways that are applicable to a vast spectrum of entrepreneurial communities. 
+
+We sincerely hope that our mistakes, happy accidents, and successes prove valuable to you and your communities as you work to build the support infrastructure that gives your entrepreneurs the best chance of success.
+
+Welcome to the PIE Cookbook.
+
 ## What this is not
 
 Before we get into what the PIE Cookbook *is* it might be helpful to explain what the PIE Cookbook is not.
@@ -520,12 +530,6 @@ Check out the [Startup Fundraising Dictionary](https://medium.com/startup-grind/
 ## So why did we force you to work through all of that?
 
 Why all of the definition setting at the outset? Because the more context you have going into the situation — the more clarity and the more consensus — the better you'll communicate. And the fewer misunderstandings you'll have. And the more likelihood you'll have of success.
-
-It's taken use quite a while to get here. 
-
-The PIE methodology has been tested, refined, and proven in Portland over an eight-year period. During that time, the program implementing that methodology has fostered the growth of [a number of companies](http://www.piepdx.com/#press-section), such as AppFog, AppThwack, Cloudability, Little Bird, Lytics, Outdoor Project, Simple, Supportland/Placemaker, Switchboard, Uncorked Studios, and Urban Airship, to name a few. Our alumni have collectively attracted hundreds of millions of dollars in venture capital and created more than 1,000 well-paying employment opportunities in Oregon. Just as important, the program has helped educate a new generation of entrepreneurs — whether the businesses those entrepreneurs were originally pursuing have succeeded or not.
-
-And we don't want you to have to spend eight years recreating the wheel.
 
 Now that we've defined the terms of the types of players in the ecosystem — or those completely absent from the ecosystem — it's important to describe and define the environment in which your accelerator will exist. Otherwise, how will you know what you've got at your disposal? Or what's missing?
 
