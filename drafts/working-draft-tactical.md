@@ -2558,12 +2558,16 @@ This high-touch, intensive, and collaborative approach has been proven to be a f
 ## More independent study than classroom
 
 Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
+
+PIE's high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
+
+While curriculum can be valuable for Bootcamp programs, "101" type programs, and where participants have a significant amount of time to learn — or review — the content of that curriculum, it is not terribly effective in the Accelerator environment. This is one of the reasons we suggest that Accelerator programs avoid purchasing established curriculum programs for their use. (Another reason is that Accelerators often have very little capital at their disposal and there are better uses of that capital, at the outset.) 
+
+Likewise, we advise against spending a lengthy amount of time creating your own rigid curriculum for your program. 
 - - -
 > **tl;dr PIE took weeks developing a curriculum prior to our first Accelerator class. We threw it out a few days into the program.**
 - - -
-PIE's high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
-
-However, do be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
+Rather, we suggest that Accelerator Staff and Mentors always be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
 
 Some examples of these struggles that impact all founders simultaneously, follow.
 
