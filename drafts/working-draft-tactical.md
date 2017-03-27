@@ -58,7 +58,7 @@ But if you're not there yet, please do not skip ahead. Do not pass go. There is 
 
 ## Building a startup accelerator in seven easy steps
 - - -
-# tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
+> tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.
 - - -
 # Caveat: Please do not take this document as a step-by-step roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.
 
@@ -289,15 +289,15 @@ At a macro level, we tend to define a "startup" as any company that:
 2. Has yet to experience a significant liquidity event
 
 For the sake of this book, a "startup" will be any company with whom your Accelerator engages in the activity of acceleration. Simple as that. It is important to note, however, that we will often use "company" and "startup" interchangeably throughout this book. When discussing more established companies such as sponsors and patrons, we will often refer to them as "corporations" or "brands."
-
-# tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
-
+- - - 
+> tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.
+- - - 
 ### Founder/Cofounder
 
 Founders — often referred to a Cofounders when part of a founding team — create Startups. So Founders are the folks with whom you will be working. They're the person or people who were motivated to solve a problem and start a company. Often, Founders come in teams, but there are solo Founders, as well.  
-
-# tl;dr Founders are the individuals on whom you will be focusing your Accelerator efforts.
-
+- - - 
+> tl;dr Founders are the individuals on whom you will be focusing your Accelerator efforts.
+- - - 
 Sometimes, Startups have already hired Staff. While this does not necessarily preclude them from participating in an Accelerator, we have found that the bulk of the Accelerator's effort is focused on assisting the Founders of the company, rather than the Staff. 
 
 > NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that those activities provide a protective environment of trust for Founders in the Accelerator. Managing this exclusivity will be critical to an open and collaborative cohort.
@@ -305,9 +305,9 @@ Sometimes, Startups have already hired Staff. While this does not necessarily pr
 ### Mentor
 
 Obviously, as an early stage startup accelerator, we spend far more time with mentors than advisors. In our world, we define a Mentor as an individual who volunteers his or her time to provide a startup with opinions, criticism, and feedback on problems, opportunities, or quandaries.
-
-# tl;dr Mentors are volunteers who provide opinions to Founders.
-
+- - - 
+> tl;dr Mentors are volunteers who provide opinions to Founders.
+- - - 
 Mentors tend to provide feedback in the form of “If I were in your shoes…”, “Here’s what I’d suggest…”, or “I remember being in a similar situation. Here’s how we handled it….”
 
 Therefore, mentors should…
@@ -324,9 +324,9 @@ Therefore, mentors should…
 ### Advisors
 
 Conversely, we define an Advisor as an individual who is compensated —either in the form of equity or cash — by a startup in exchange for effort on solving a specific issue with the company or who is charged with assisting the founding team with a variety of issues.
-
-# tl;dr Advisors are compensated to do work for Startups.
-
+- - - 
+> tl;dr Advisors are compensated to do work for Startups.
+- - - 
 Therefore, advisors should…
 
 - Always be compensated for their efforts
@@ -439,9 +439,9 @@ Most accelerators will only work with corporate venture folks in the role of  me
 Private Equity firms provide a means of creating a liquidity event without an initial public offering or acquisition by another company. 
 
 Most accelerators will only work with private equity folks in the role of mentors for their programs, given that private equity does not tend to invest in early stage companies. Again, it's always best to start these conversations sooner rather than later. 
-
-# tl;dr Traditional VC, Corporate Venture, and Private Equity can be good sources of Mentors for Accelerators because there is likely no immediate transactional opportunity for the participating startups.
-
+- - - 
+> tl;dr Traditional VC, Corporate Venture, and Private Equity can be good sources of Mentors for Accelerators because there is likely no immediate transactional opportunity for the participating startups.
+- - - 
 ### Investment rounds
 
 While it's a bit of a shifting target, it is important to distinguish each type of investment round and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions using the common lexicon of the stages of rounds of equity investment. 
@@ -492,9 +492,9 @@ At PIE, we introduced the concept of a Resident, that was different from the Sta
 With PIE, we were very careful with the language we used to describe our primary underwriter, Wieden+Kennedy. Because they, as an organization, were consistently more concerned with soft returns on their investment — education, on the job training, and serendipitous connections. It wasn't a financial, hard return for W+K. And so the language we chose was designed to reflect that. 
 
 We always referred to W+K as a "patron" rather than a "sponsor." Our reasoning? We meant it as a compliment, in the same vein as those benefactors who saw the value of providing financial support for artists to pursue their work — without any guarantee that that expenditure would result in anything more than creative exploration.
-
-# tl;dr W+K is the Patron for PIE. And anything we've accomplished is only due to that generosity.
-
+- - - 
+> tl;dr W+K is the Patron for PIE. And anything we've accomplished is only due to that generosity.
+- - - 
 ### Sponsor
 
 At PIE, we saw Sponsors as benefactors who provided capital for the operating costs of an Accelerator with the expectation of a measurable return for that capital. The money from Sponsors was not put to work by  making equity investments. Rather, it was used to pay for space, staff, services, and other costs associated with the day-to-day operations of the Accelerator. This helped Corporations participate in the Accelerator without the complexity of engaging as Investors.
@@ -1037,9 +1037,9 @@ But for as compelling as the aesthetic was, it simply didn't work.
 ### Accelerator space is awkward
 
 Why? Well, what we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
-
-# tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
-
+- - - 
+> tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.
+- - - 
 It's not that we didn't have the ability to make the space more comfortable. It's simply that it *shouldn't* be comfortable. That is not the purpose of the space. The space, like building a startup, should be difficult. And awkward. It should always cause friction. And discomfort.
 
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
@@ -1062,9 +1062,9 @@ And then you need to poke the startups so that, from time to time, they tumble i
 If you provide a space that is too comfortable and too accommodating then the startups will stay there. Forever. And that isn't what you want. You want churn. You want growth. You want backfill. And activity. And hustle.
 
 Yes, your Founders are amazing people to be around. And there is no end to their creativity and drive. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
-
-# tl;dr We are inviting you into our space because we want you to leave.  
-
+- - - 
+> tl;dr We are inviting you into our space because we want you to leave.  
+- - - 
 Like being embarrassed to bring your friends over to your parents' house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — your Founders' parents' basement. And it should be just as awkward as that arrangement.
 
 There are also fringe benefits to this sort of interior design. You, as an accelerator staff, remain scrappy. You feel less comfortable. You don't get to have it easy, either. You're dealing with the same awkwardness that your Founders are experiencing. And that's just how it should be.
@@ -1113,9 +1113,9 @@ Here are some of those "must haves" for an Accelerator to even function as a wor
 ### Power
 
 At the very least, you should plan on having one outlet and one surge protecting power strip per person. This may require you to spend money on additional power drops in your space. Or you may be able to make due with extension cords and trip guards, within the realms of fire code. But no matter what, it will definitely require you to purchase a lot of power strips — or have someone donate them to your cause. 
-
-# tl;dr At a minimum, provide one outlet and one power strip per person
-
+- - - 
+> tl;dr At a minimum, provide one outlet and one power strip per person
+- - - 
 Note: PIE did not do this well. This was one of our mistakes. We didn't have enough power outlets for each person to have an outlet. And, at times, it caused more stress than we care to admit. Later, we managed to get more power added, especially when startups needed the additional power to function. 
 
 ### Internet
@@ -1312,9 +1312,9 @@ It wasn't that the staff was inaccessible. We weren't. And the founders felt tot
 At PIE, one of the most important things we discovered — through trial and error — was that staff and startups had to be perceived as equals in terms of workspace. 
 
 What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't get private offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the Founders going through the Accelerator. 
-
-# tl;dr Don't play favorites. Embed the staff in the trenches.
-
+- - - 
+> tl;dr Don't play favorites. Embed the staff in the trenches.
+- - - 
 Anything less, and you're compromising the opportunity to bond with your companies. And bonding with your companies is what this is all about. Because you're in this for the long haul.
 
 Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
@@ -1395,9 +1395,9 @@ Even if you're not planning to invest capital in your Startups, you should still
 What's a thesis? It's something that guides the types of companies with whom you want to work and often — more importantly — a guideline that prevents you from working with companies that aren't the right fit for your Accelerator.
 
 A thesis is especially important for a first-time program. Otherwise, you'll try to take all comers, which will set you up for failure on any number of fronts.
-
-# tl;dr A thesis will help guide all of your Accelerator activities
-
+- - - 
+> tl;dr A thesis will help guide all of your Accelerator activities
+- - - 
 You don't have to be married to your thesis forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof. It just needs to be defined. And you need to stick to it.
 
 At PIE, we hit upon the fact that we were really good at accelerating technology platforms and enabling technology. Or to put it another way, we did really well with developers building tools for other developers. Why did we get good at this? There were any number of reasons but among the most important were:
@@ -1491,9 +1491,9 @@ PIE has a proven and refined methodology for selecting participants in its progr
 ### People
 
 People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
-
-# tl;dr The only thing that matters is picking good Founders
-
+- - - 
+> tl;dr The only thing that matters is picking good Founders
+- - - 
 That's why we spend so much of the application process dealing with people issues rather than business issues. This is more of a psychology evaluation than a business plan competition. 
 
 It's a lifeboat quandary. A stuck overnight in an airport test. A who's got who's back. And who can be reliable and effective. 
@@ -1568,9 +1568,9 @@ Test driving mentors
 In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
 
 For example, if you want a mentor to assist as a subject matter expert, make sure they are given the appropriate platform for conveying that knowledge. Don't make them present if a workshop is a more appropriate format. Don't make them take 1:1 meetings if their knowledge is relevant to every company — and will result in them repeating the same advice to 10 different companies. 
-
-# tl;dr Be thoughtful and respectful of how you use Mentor's time. 
-
+- - - 
+> tl;dr Be thoughtful and respectful of how you use Mentor's time. 
+- - - 
 # Time commitment
 
 Once you’ve chosen to work with a mentor, your most important job is to understand that mentor’s level of time commitment. Some mentors will want to help but have absolutely no time. Other mentors will be willing to show up for office hours several times a week. It runs the gamut. Your challenge is making the best use of the time they are willing to commit so that they are deriving value from their participation.
@@ -1580,9 +1580,9 @@ Once you’ve chosen to work with a mentor, your most important job is to unders
 At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowbar. 
 
 Just as importantly, we used other well know Mentors as examples of time commitment bands — "Mentor X generally presents onetime per class; Mentor Y holds regular office hours at PIE every week" — which provided even more context for their potential engagement. Plus, when a Mentor hears that one of their peers or someone they recognize — "[Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors" — they are given more context for how others are volunteering to do.
-
-# tl;dr You must be this tall to ride. Set your mentor time commitment as a low bar, not a high bar.  
-
+- - - 
+> tl;dr You must be this tall to ride. Set your mentor time commitment as a low bar, not a high bar.  
+- - - 
 At PIE, our lowest time commitment — our low bar — was "Be willing to grab coffee with one of our startups. Roughly 20-30 minutes. One time." That was it. Thirty minutes of commitment per year. And you're a PIE mentor.
 
 At the upper end of the scale were things like, "Work out of the space on a regular basis and be open to interruption, as if you were one of the startups," or, "Be willing to take one of the companies under your wing and meet with the Founders consistently over the course of the class."
@@ -1590,9 +1590,9 @@ At the upper end of the scale were things like, "Work out of the space on a regu
 In every case, we began the conversation with "What are you hoping to get out of mentoring?" And "How much time do you feel you have to volunteer?"
 
 In many cases, we were lucky and humbled to have Mentors consistently increase the amount of time they spent with our Founders — even if they originally thought they could only spare 30 minutes a year. 
-
-# tl;dr Mentoring is addictive. Mentors will often find they enjoy it more than they thought.  
-
+- - - 
+> tl;dr Mentoring is addictive. Mentors will often find they enjoy it more than they thought.  
+- - - 
 ## Mutual respect
 
 And if you do it right? You’ll find they’ll be a lot more willing to commit more time to the program in future class. Culture of trust and all that. 
@@ -1627,17 +1627,17 @@ From the Startup's perspective, progress looks more like this:
 So as you can see, the best number of mentors to schedule for a speed dating session is less than or, ideally, equal to the number of Startups in your Accelerator. Too many, one way or the other, and someone's time is being wasted. Too few, and its value is questioned.
 
 But what if you have three times as many mentors wanting to participate as you have startups? That's right. You schedule separate sessions. In this case, you schedule three separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best. 
-
-# tl;dr Speed dating works best when the Mentor to Startup ratio is 1:1
-
+- - - 
+> tl;dr Speed dating works best when the Mentor to Startup ratio is 1:1
+- - - 
 Don't try to have multiple mentors sit down with each Startup. That can be awkward for both the Startups and the Mentors. Unless… they already know one another well.
 
 We've experimented with groups of mentors meeting with Startups in this round robin fashion. It's another way to handle a large number of mentors meeting with the Startups, in an efficient fashion. But we've found that these Mentors need to know one another on a collegial or friendly level before this works. Otherwise, comfort levels tend to compromise the value of this model. 
 
 Where we have found this permutation effective is with Angel groups and Venture Capital partners and/or associates. You can group three Investors from an Angel group or VC, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
-
-# tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.
-
+- - - 
+> tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.
+- - - 
 In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
 
 ### The dark side of speed dating
@@ -1941,9 +1941,9 @@ Because for all the control and precision — for all the efforts and decisions 
 It could have been the market. It could have been the timing. It could have been, well, luck.
 
 No matter how much you know about what led to success, you can never recreate it. And while those stories are great and inspirational and all that. Sometimes, they’re simply not helpful.
-
-# tl;dr You can’t recreate the same success. But you can avoid the same mistakes.
-
+- - - 
+> tl;dr You can’t recreate the same success. But you can avoid the same mistakes.
+- - - 
 Now what if, instead, you explored things that failed? Would you fail in the exact same way? Probably.
 
 Because failure is a different story. Knowing the story of failure will enable your startups to better understand how things go wrong, how bad decisions come about, and how those things can be avoided. Or, at the very least, they’ll know that similar decisions have a high likelihood of failure. And they can go into the situation with their eyes open.
@@ -2047,9 +2047,9 @@ But you know what? It resulted in a lot of good conversations. A lot. Like an ir
 It went from a negative moment to a teaching moment.
 
 Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. And discuss why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
-
-# tl;dr Every moment of an Accelerator has the potential to be a teaching moment. Act accordingly.
-
+- - - 
+> tl;dr Every moment of an Accelerator has the potential to be a teaching moment. Act accordingly.
+- - - 
 And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
@@ -2248,9 +2248,9 @@ But what, exactly, does that roller coaster look like?
 At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
 
 Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, their partners, families, mentors, and the accelerator staff. 
-
-# tl;dr Understanding the emotional roller coaster tells you when it's reasonable to increase the stress — and when you'd be wise to pull the pressure valve. 
-
+- - - 
+> tl;dr Understanding the emotional roller coaster tells you when it's reasonable to increase the stress — and when you'd be wise to pull the pressure valve. 
+- - - 
 So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, as well, for what it's worth.)
 
 ![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
@@ -2895,9 +2895,9 @@ One of the primary motivations for writing the PIE Cookbook was the firm belief 
 For that reason, we want you to take this guide as inspiration, rather than fact. Our motivation to share the PIE Cookbook isn’t to convince you to recreate PIE. It’s to inspire you to create something new — and better.
 
 Because, let's be honest, no matter how much you love tech and innovation and all of the hype, the thought of starting some also-ran tech startup accelerator isn’t terribly interesting, these days.
-
-# tl;dr It’s your job to improve upon the PIE recipe
-
+- - - 
+> tl;dr It’s your job to improve upon the PIE recipe
+- - - 
 With that in mind, please don’t try to recreate PIE. In fact, we would hate for you to bake our flavor of PIE. This isn’t a sleeve of prepared cookie dough that you halfheartedly slice onto a cookie sheet. This is a “Bake your own” proposition. This is a recipe. And everyone has their own unique ingredients.
 This is about rolling up your sleeves and getting your hands in the mix. Making the recipe yours. Experimenting, manipulating, iterating, exploring, and improving.
 
