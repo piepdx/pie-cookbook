@@ -64,7 +64,7 @@ But if you're not there yet, please do not skip ahead. Do not pass go. There is 
 
 ### Step 1: Found your own company. Or at least work at a startup.
 
-Per Brad Feld's advice in Startup Communities, if you're going to truly succeed in building a vibrant startup community then "the leaders have to be entrepreneurs." Not politicians. Not corporations. Not agencies. Or economic development bodies. Entrepreneurs.
+Per [Brad Feld](http://feld.com/about)'s advice in [**Startup Communities**](https://www.amazon.com/dp/B008UV826U/), if you're going to truly succeed in building a vibrant startup community then "the leaders have to be entrepreneurs." Not politicians. Not corporations. Not agencies. Or economic development bodies. Entrepreneurs.
 
 With that in mind, we realize that PIE's journey started when the founders started working in startups. Sometimes as founders. Sometimes as employees of startups. But in startups. 
 
