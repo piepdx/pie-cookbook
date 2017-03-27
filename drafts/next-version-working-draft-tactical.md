@@ -47,4 +47,15 @@
 				- Vendscreen
 				- Smart Mocha
 
+## Friction
+
+### At times, the staff has to create friction
+
+Catalysts (Entrepreneur + Patron)
+
+Pressure/heat (Startups + Staff + Patron)
+
+### At times the staff has to alleviate friction
+
+
 
