@@ -521,6 +521,12 @@ Check out the [Startup Fundraising Dictionary](https://medium.com/startup-grind/
 
 Why all of the definition setting at the outset? Because the more context you have going into the situation — the more clarity and the more consensus — the better you'll communicate. And the fewer misunderstandings you'll have. And the more likelihood you'll have of success.
 
+It's taken use quite a while to get here. 
+
+The PIE methodology has been tested, refined, and proven in Portland over an eight-year period. During that time, the program implementing that methodology has fostered the growth of [a number of companies](http://www.piepdx.com/#press-section), such as AppFog, AppThwack, Cloudability, Little Bird, Lytics, Outdoor Project, Simple, Supportland/Placemaker, Switchboard, Uncorked Studios, and Urban Airship, to name a few. Our alumni have collectively attracted hundreds of millions of dollars in venture capital and created more than 1,000 well-paying employment opportunities in Oregon. Just as important, the program has helped educate a new generation of entrepreneurs — whether the businesses those entrepreneurs were originally pursuing have succeeded or not.
+
+And we don't want you to have to spend eight years recreating the wheel.
+
 Now that we've defined the terms of the types of players in the ecosystem — or those completely absent from the ecosystem — it's important to describe and define the environment in which your accelerator will exist. Otherwise, how will you know what you've got at your disposal? Or what's missing?
 
 ## Environmental scan
@@ -2538,6 +2544,7 @@ Founders who clicked with the investor meet up to continue the conversation
 Staff and startups in space sporadically. No scheduled events.
 
 # Curriculum
+
 ## More independent study than classroom
 
 Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
