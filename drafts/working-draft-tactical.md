@@ -130,7 +130,7 @@ You have to tell them. And then tell them again. And again.
 
 You have to cheerlead. You have to create a bully pulpit. And you have to use that megaphone to convince those outside of the community that the community is, in fact, real. And to encourage those who are starting to become self-aware of the community to connect more deeply with that community.
 
-You saw folks like Brad Feld, Mark Suster, and Fred Wilson doing — and continue to do — this with their personal blogs. You saw Silicon Alley and Silicon Prairie and GeekWire do this with more journalistic efforts. And if you were in the same communities we were, you saw Michael Arrington do this with TechCrunch. To ridiculous effect. 
+You saw folks like Brad Feld, [Mark Suster](https://twitter.com/msuster), and [Fred Wilson](http://avc.com/about/) doing — and continue to do — this with their personal blogs. You saw Silicon Alley and Silicon Prairie and GeekWire do this with more journalistic efforts. And if you were in the same communities we were, you saw Michael Arrington do this with TechCrunch. To ridiculous effect. 
 
 For us in Portland, those vehicles were things like Silicon Florist, our personal blogs, larger tech blogs outside of our region like TechCrunch, local publications, and the — then nascent — social media landscape. All served as the means of talking about the Portland startup community. And to spread the belief that it existed and had the potential to be much, much more.
 
