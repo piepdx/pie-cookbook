@@ -2567,7 +2567,9 @@ Some examples of these struggles that impact all founders simultaneously, follow
 
 ## Common issues 
 
-Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. That said, every entrepreneur and company will struggle with the following issues:
+Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. 
+
+That said, every entrepreneur and company will struggle with the following issues:
 
 1. **Working with cofounders**: For most Founders, this experience will be their first time working with a cofounder — or pursuing a business on their own. The stress of going through the program tends to exacerbate and accelerate these issues. We spend a significant amount of time mitigating these conflicts. 
 2. **Working with mentors**: When exposed to advice, which is often contradictory, from successful Founders, every Founder experiences “mentor whiplash.” This can be debilitating and confusing. As such, PIE staff spends time working with our Founders to learn how to manage and act upon this feedback.
@@ -2582,9 +2584,13 @@ Entrepreneurs come into our program with a wide of variety of experiences, which
 
 ## Timing
 
+Even though every Founder will likely need the education on the topics they all share in common, there is very little likelihood that they will all be experiencing these issues at the same time. 
+
 The most critical aspect of delivering shared curriculum is understanding when to time that content for your class. 
 
-This most relevant time for delivering that learning is after the majority of Founders have had the opportunity to fail on their own.
+The most relevant time for delivering a shared, class-wide learning experience is after the majority of Founders have had the opportunity to fail on their own.
+
+Over the years, we learned that you can use the Accelerator program format to artificially introduce factors that cause all Founders and Companies to experience the same problem at the same time. 
 
 					109. Structure was ad hoc for first two classes
 					110. Formalized for Coconut Creme and Derby
