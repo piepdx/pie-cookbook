@@ -1502,9 +1502,9 @@ We've created a mnemonic device for helping your remember the components of our 
 **Participant selection**
 PIE has a proven and refined methodology for selecting participants in its programs. At a macro level, this methodology includes a weighted average of the following elements:
 
-- **Team** (5.0x): We analyze the entrepreneurs to determine their level of coachability, the extent of their experience in business and/or the market they are pursuing, their existing knowledge and learning to be had, their ability to work in a collaborative space, and their willingness to participate in the program as a mentor to other members of their cohort (peer mentoring), as well as their potential to assist future members of the program (ongoing mentoring).
+- **People** (5.0x): We analyze the entrepreneurs to determine their level of coachability, the extent of their experience in business and/or the market they are pursuing, their existing knowledge and learning to be had, their ability to work in a collaborative space, and their willingness to participate in the program as a mentor to other members of their cohort (peer mentoring), as well as their potential to assist future members of the program (ongoing mentoring).
 - **Idea** (2.0x): Staff, partners, and mentors are asked to analyze the potential of the business idea, the market(s) to which the idea may be attractive, the feasibility of developing a product for that market(s), and whether the product is appropriately timed for the intended market(s).
-- **Serendipity** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
+- **Enchantment** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
 
 
 ### People
@@ -1917,7 +1917,7 @@ Another misconception we will attempt to address time and time again is the idea
 
 Expertise is not a prerequisite. Insights, willingness to share, and relatable stories are. So find the people who can talk honestly about their experiences. Whether they are considered "experts" or not.
 
-### Speaking is more important than listening
+### Listening is more important than speaking
 
 We find that some of our best mentor speakers are those who spend less time presenting and more time conversing or purely listening. So make sure to find folks who are comfortable with that dynamic. 
 
@@ -2041,11 +2041,11 @@ Honestly, from an accelerator standpoint, sometimes bad actors are more benefici
 
 Let's provide an example. 
 
-One class of PIE, we had arranged to have a serial founder come into to present to the class. The founder was currently employed by another company and, as such, took our invitation to mean we were interested in hearing about that company. And not the founder's journey with previous companies.
+One class of PIE, we had arranged to have a serial founder come into to present to the class. The founder was currently employed by another company and, as such, took our invitation to mean we were interested in hearing about that company and its product offering. And not the founder's journey with previous companies.
 
 Shame on us for not setting the context correctly. Lesson learned.
 
-With that misunderstanding as the impetus, things went from bad to worse. With and swirling schedule and multiple overlapping commitments, the founder canceled at the last minute. But rather than leaving us hanging, the founder decided to send an alternate speaker. The person the founder sent was a salesperson for the company.
+With that misunderstanding as the impetus, things went from bad to worse. With a swirling schedule and multiple overlapping commitments, the founder canceled at the last minute. But rather than leaving us hanging, the founder decided to send an alternate speaker. The person the founder sent was a salesperson for the company.
 
 So through no fault of the founder and no fault of the salesperson, we wound up in a bad actor situation. 
 
