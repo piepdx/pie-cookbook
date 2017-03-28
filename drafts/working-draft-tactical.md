@@ -821,11 +821,51 @@ Lead mentors are individuals who take a particular interest in one of the compan
 
 We have found that it is difficult to pick or establish lead mentors at the outset of the program. Rather, Accelerators have to monitor the potential for lead mentors and when appropriate, suggest to both the startup and the mentor that both would benefit from more regular meetings.
 
-						24. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
+**Role and expectations**
+
+These mentors will make up a small subsegment of your mentor pool. And they're very hard to assign. It's almost a "catch as catch can" arrangement. 
+
+You engage mentors with startups and founders. You observe their behavior and camaraderie. And if the timing and relationship seem right, you pull the mentor aside and talk about taking a larger role in a single startup's growth and direction. Should the mentor agree, you then talk to the startup about the potential of having a lead mentor.
+
+This relationship is somewhere between mentor and advisor. The lead mentor is still playing a role of imparting advice. But it is on a more regular and consistent basis than other mentors. 
+
+It should be noted that this becomes a much more significant time commitment for both mentor and founder. The lead mentor should be meeting with the startup on a weekly basis for the remainder of the accelerator class. 
+
+**Value to the accelerator**
+
+Lead mentors provide a great deal of value to the accelerator by:
+
+- Augmenting the accelerator staff in the management of the startups
+- Providing another vantage point for assessing the startups and their progress
+- Serving as an example to other mentors in a "lead by example" way
+- Establishing a stronger connection to the accelerator
+- Establishing a stronger connection to the startups
+- Enhancing the accelerator's ability to foster community connections
+
+**Value to the mentor**
+
+Serving as lead mentors can be a more rewarding experience for mentors if they have the time to commit to the arrangement. Many lead mentors gain the benefit of:
+
+- Having a measurable and demonstrable impact on a company's progression during the accelerator
+- Determining the potential for ongoing mentorship or advisorship following the accelerator
+- Gaining valuable insights on early stage business issues that can highlight and inform how the mentor deals with their own business pursuits
+- Establishing a tighter bond in the startup community
+- Raising the visibility of their contribution to the community
+
+**Value to the startups**
+
+Startups can always use more people in their respective corners. A lead mentor can be a valuable by:
+
+- Ensuring the founders have a confidante beyond the accelerator staff
+- Providing additional mentor resources that may not be obvious/accessible to the accelerator staff
+- Making introductions to investors
+- Helping with hiring
+- Providing candid feedback in a private setting
+- Working with each founder over an extended period of timing
+
+**Typical percentage of the mentor pool**
+
+Lead mentors generally make up a very small percentage of the mentor pool. At the very best, there will be one lead mentor per startup in each cohort. 
 
 #### Mentors in residence
 
