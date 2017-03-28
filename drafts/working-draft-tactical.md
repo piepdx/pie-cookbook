@@ -2185,29 +2185,37 @@ We’ve found that too much scheduling the first few days can lead to a bumpy ki
 			
 # Family Dinner
 
-Arguably one of the most important parts of the program, family dinner is a weekly gathering exclusively for our company founders to come together, share status updates and gives guidance to one another over dinner. We’ve found that only talking about each other’s successes tends to discourage any folks who are further behind or have had a rough week, so we keep family dinner conversations strictly to topics where founders could use help and support.  Think of it as it a support group over dinner.
+Arguably, Family Dinner is one of the most important parts of the program. As the name implies, Family Dinner is a weekly gathering — over dinner — designed to be an exclusive opportunity for our company founders to come together, share status updates, and give guidance to one another. Think of it as it a support group with food.
 
-Having a gathering like this is crucial to the (mental) health of your program and founders and will deepen the connections between companies.  Peer mentoring is not something that can be forced, but in a setting like family dinner, it is only natural that folks will offer help to their fellow founders.
+Having a gathering like this is crucial to the health of your program — and the mental well-being of your founders — that will deepen the connections among companies participating in the class. Peer mentoring is not something that can be forced, but in a setting like family dinner, it is only natural that folks will offer help to their fellow founders.
  
 Here are a few tips for how to effectively run a family dinner – because it’s not just as simple as ordering food.
  
-For a program of 6-8 companies, dinner usually run for an hour and a half.  Any longer than that and folks will start tuning out, and trust us, it will go longer than that if you’re not in control.  To avoid dinners that drag on, help your founders either cut to the chase, by calling out specific issues you know they’re having and could use help on or know when to politely cut folks off and move to the next company.  You don’t want to discourage any dialog that happens, but you do want to be mindful of everyone’s times.  Suggest they continue the conversation post dinner.
+For a program of 6-8 companies, dinner usually run for an hour and a half.  Any longer than that and folks will start tuning out. And trust us, it will go longer than that if you’re not in control.
+
+To avoid dinners that drag on, staff should help your founders either cut to the chase by calling out specific issues staff knows the founders are having or know when to politely cut folks off and move to the next company. You don’t want to discourage any dialog that happens, but you do want to be mindful of everyone’s time. 
+
+If you get into a particularly interesting but lengthy discussion, suggest the founders continue the conversation after dinner.
  
-As a management team, it is your responsibility to know what buttons to push and what levers to pull, to get your founders to open up. Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing. Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
+As a management team, it is your responsibility to know what buttons to push and what levers to pull to get your founders to open up. Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing. Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
  
 These dinners are always open to founders who are alums of the PIE program, and if you’re running your dinners right, your alumni will be regulars.
  
 We recommend hosting your dinners on-site rather than at a restaurant, unless you can get a private room. Having the meal catered means it’s easier for folks to get up from their desk and join, rather than being tempted to go home and stay there before joining you at restaurant.
  
-Unless teams are traveling, consider family dinner mandatory.
+Consider family dinner mandatory.
 
 ## Family Dinner 0.9 Beta (Coworking version)
 
-The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. We only called it Family Dinner because that's what YC called their gathering. And we liked the implications of family and strengthening the connections among the members of the PIE folks.
+The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. 
 
-As far as participants, it tended to be a mixture of folks from early stage startups and other individual contributors working out of the space.  There were a few regular attendees. But the mix changed and morphed from week to week. Conversations ranged from business to personal life to business' impact on personal life.
+We called it Family Dinner because [that's what Y Combinator called their gathering](https://www.fastcompany.com/3040961/the-y-combinator-chronicles/giddiness-terror-cornbread-heres-what-a-y-combinator-dinner-is-r). And we liked the implications of family and strengthening the connections among the members of the PIE folks.
 
-Then something interesting began to happen. Rather than simply sitting around and engaging in small talk, folks began to share issues and problems they were having. They began to explore the stress and emotions of running a startup. And they began to shed the "entrepreneurial veneer" of "Everything is awesome!" to reveal what was really happening. And to start to ask for help.
+As far as participants, it tended to be a mixture of folks from a number of the early stage startups as well as other individual contributors working out of the space. 
+
+There were a few regular attendees. But the mix changed and morphed from week to week. Conversations ranged from business to personal life to business' impact on personal life.
+
+Then something interesting began to happen. Rather than simply sitting around and engaging in small talk, folks began to share issues and problems they were having. They began to explore the stress and emotions of running a startup. And they began to shed the "entrepreneurial veneer" of "Everything is awesome! We're killing it!" to reveal what was really happening. And to start to ask for help.
 
 ## Family Dinner 1.0 (Coworking version)
 
@@ -2215,38 +2223,44 @@ As Family Dinner moved from Happy Hour to Reality Hour, something interesting be
   
 > Rather than opting for voluntary participation, the weekly event became an exercise in peer mentoring. 
 
-Each person who arrived was required to talk about what they were going through that week. In turn, other folks around the table were required to comment, critique, and collaborate to help that individual. Family Dinner began to solve problems — or identify problems as intractable. 
+Each person who arrived was required to talk about what they were going through that week. In turn, other folks around the table were required to comment, critique, and collaborate to help that individual. Family Dinner began to solve problems — or identify those problems as intractable. 
 
 Family Dinner problems began to take three distinct forms:
 
-1. **Been there done that.** An individual would highlight a problem that they had experienced. That problem had already been solved by someone else around the table. The two parties would collaborate to accelerate the resolution of the issue. 
-2. **Now, that's interesting.** An individual would raise an issue that no one had ever dealt with previously, and yet folks were motivated to solve collaboratively. Multiple parties would collaborate to accelerate the resolution of the issue.
+1. **Been there done that.** An individual would highlight a problem that they had experienced. If that problem had already been solved by someone else around the table, the two parties would collaborate to accelerate the resolution of the issue. 
+2. **Now, that's interesting.** An individual would raise an issue that no one had ever dealt with previously, and yet folks were motivated to solve collaboratively. Multiple folks would gather after the discussion to begin collaborating on a resolution of the issue. Sometimes, this took less than an hour. Other times, this would take several weeks of effort.
 3. **Stop. Do not pass Go.** An individual would raise an issue that folks had tried to solve before, but it would be defined to be a completely intractable problems with no solution. Rather than continue to struggle, the individual would be encouraged to move on — or move around — that problem.
 
 But it wasn't without its flaws. Some folks begin commanding more airtime than others. So we put a time limit on it. And enforced a requirement for everyone to talk. We tried to create a culture of collaboration. Where everyone was getting value out of the gathering. Not just a few squeaky wheels.
 
 ## Family Dinner 2.0 (Accelerator)
 
+When we decided to shift from coworking space to accelerator, we felt that Family Dinner was one of the more valuable activities that should make the transition, as well. But, in so doing, we failed to retain some of the parameters that had made it successful previously.
 
+First of all, we let folks talk about whatever they wanted to talk about. More often than not — being founders — this resulted in discussions on "what went well this week" or, even worse, with chest thumping.
 
-	
-				93. Origin
-					94. Borrowed from YC
-					95. Originally didn’t involve any dinner
-					96. Focused on peer mentoring
-				93. Format
-				94. Mistakes we made
-					95. No time limit
-					96. Chest-thumping
-				95. Rules
-					96. Mandatory attendance
-						97. Orchestrate calling in was a highlight
-					96. No bragging
-					97. Share what’s going wrong
-					98. Everyone has to talk
-					99. If you can help, help
-			96. Day-to-day
-			
+Inevitably, one startup or founder would be having a good week. They would highlight all of the amazing things that were happening that week. And then the other founders in the group would feel even worse about their progress.
+
+Rather than being something positive for peer mentoring, it became competitive and weird. We recognized this and tried to correct some of those bugs.
+
+## Family Dinner 2.5 (Accelerator)
+
+This was the final model for Family Dinner in the accelerator environment. These were the guiding principles:
+
+- No bragging.
+- Share what’s going wrong.
+- Everyone has to talk.
+- If you can help, help.
+
+During the course of the three month accelerator program, we catered Family Dinner every week for Founders. The gathering was required attendance for at least one Founder from every startup — but we encouraged the entire team to show up every week.Founders from previous classes were invited to attend.
+
+A PIE staff member — usually the program manager — managed the flow of conversations, calling out specific founders to speak and cutting off founders who were going over.
+
+Again, Realizing that sharing successes tends to discourage any folks who are further behind or have had a rough week, we encouraged folks to keep conversations to topics where other founders could use help and support. They were allowed to share successes but they were encouraged to share issues.
+
+We encouraged folks to keep updates short, but we would never cut anyone off who was digging into some deep issues. And we would specifically call out founders who we believed to have expertise that would be helpful to other founders. 
+
+Perhaps the highlight of all Family Dinners — and a nod to how valuable they were — was when Founders who were on the road would take time to call into Family Dinner. (Orchestrate was especially good at this.) If they were on video conference, we would make sure that everyone got face time with the founder calling in. 
 
 # Three months
 
