@@ -590,12 +590,12 @@ Dodging conflict is the primary mistake we made with the first class of PIE. We 
 
 When you're first starting, the progression should look something like this: 
 
-1. Accelerator Founders — or cofounders — which leads to securing
-2. Funding, which enables you to afford
-3. Space and 
-4. Staff, which allows you to recruit 
-5. Mentors, which become the primary means of attracting 
-6. Startups
+1. **Accelerator Founders** — or cofounders — which leads to securing
+2. **Funding**, which enables you to afford
+3. **Space** and 
+4. **Staff**, which allows you to recruit 
+5. **Mentors**, which become the primary means of attracting 
+6. **Startups**
 7. Which allows you to do this whole Accelerator thing 
 
 In terms of the amount of time you'll spend on each of these phases, the rank order looks more like this:
