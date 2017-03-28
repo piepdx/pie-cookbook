@@ -923,6 +923,18 @@ The Program Manager works to ensure that the current class of startups has the m
 (sidebar)
 #### Good Cop, Bad Cop
 
+One of the reasons we believe that it's nearly impossible to run an accelerator program with less than two staff is the "good cop, bad cop" dynamic. Not that anyone has to be bad cop. But you need to two people listening to the startups. Because they hear different things. 
+
+It helps if one of those folks — usually the program manager — is closer to the startups on a personal level. This is the good cop. The person that the startups trust. The confidante.
+
+This relationship allows one of the staff members to better assess the mental state of the founders. It provides a more effective barometer of the levels of stress in the accelerator environment. And it enables the staff to take in candid feedback on what's working and what isn't.
+
+Another staff member — usually the managing director — should remain more focused on the business, the founders' development, and the access to the mentors. This is the bad cop role. 
+
+This role allows the staff member to keep a more objective relationship with the  founders. It enables the staff to listen for business problems or opportunities independent of the emotional turmoil. And it allows for the staff to listen for mentoring opportunities that have more to do with the business than the founders.
+
+Obviously, the magic of the good cop, bad cop dynamic is that the two cops are in constant communication with one another, keeping the entire staff appraised on the emotional and business issues currently impacting the founders. And allowing them to assess and mitigate the tenor of the class — from one-on-one insights to the stress level of the entire class. 
+
 - - -
 
 # Optional roles
