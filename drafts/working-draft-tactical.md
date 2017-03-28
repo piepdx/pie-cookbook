@@ -1827,7 +1827,7 @@ More often than not, the problems you see haven’t even dawned on them yet. So 
 
 ### **9) Take it personally.**
 
-We want you to be invested. We want you to be happy and frustrated and proud and confounded. We want you along for the roller coaster ride. We need you to take this personally.
+We want you to be invested. We want you to be happy and frustrated and proud and confounded. We want you along for the rollercoaster ride. We need you to take this personally.
 
 > As a mentor, what comes from your gut and your heart is often more important than what comes from your brain.
 
@@ -2460,23 +2460,23 @@ There is no prescribed timing here. You add more pressure when it is needed. And
 
 That said, there are some clear guardrails to help guide your efforts.
 
-First off, it's very important to understand the emotional roller coaster of the accelerator. 
+First off, it's very important to understand the emotional rollercoaster of the accelerator. 
 
 ## The emotional ebb and flow of a stressful startup accelerator 
 
-We've all heard it. "Going through an accelerator is an emotional roller coaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
+We've all heard it. "Going through an accelerator is an emotional rollercoaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
 
-But what, exactly, does that roller coaster look like?
+But what, exactly, does that rollercoaster look like?
 
 At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
 - - - 
-> **tl;dr Recognizing and understanding the emotional roller coaster gives staff  insights as to when it is reasonable to increase the stress in the accelerator and when they would be wise to pull the pressure valve.** 
+> **tl;dr Recognizing and understanding the emotional rollercoaster gives staff  insights as to when it is reasonable to increase the stress in the accelerator and when they would be wise to pull the pressure valve.** 
 - - - 
 Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, their partners, families, mentors, and the accelerator staff. 
 
-So with that caveat in mind, let's walk through the emotional roller coaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, as well, for what it's worth.)
+So with that caveat in mind, let's walk through the emotional rollercoaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, as well, for what it's worth.)
 
-![Startup Emotional Roller Coaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
+![Startup Emotional rollercoaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
 
 Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
 
@@ -2540,7 +2540,7 @@ This will be the most rewarding month for your startups. Not only will you see t
 4. **"Wait a second. This is working."** Slowly but surely, the feedback starts to sink in. And the pitch starts to improve. The Founders regain their confidence. And the pitch actually starts to improve. From everyone's perspectives. And with practice, the pitches become more and more compelling. And with finessing, the Founders grow more and more confident in their ability to tell the story of the company they are building. And as the opportunity to get on stage — and get out of relentless pitch practice — draws nearer and nearer both mood and nerves are ever on the increase. 
 5. **Demo Day: "This is the best day of my life."** If everything goes as planned, Demo Day will be the most rewarding experience of any Founder's life. In fact, we often tell them that, backstage. "This will be the most fun you ever have with your startup." Again, part of that might be the knowledge that they will soon be free of the constant haranguing of the Accelerator environment. But the majority of this feeling comes from a sense of accomplishment. And confidence. And the recognizable ability to tell a compelling story — and then to celebrate the telling of that story in the gathering that happens after everyone leaves the stage.
 
-Now that you have some generic context of the roller coaster, let's break down those three months in terms of the subjects PIE used to educate Founders of tech Startups.
+Now that you have some generic context of the rollercoaster, let's break down those three months in terms of the subjects PIE used to educate Founders of tech Startups.
 
 ### The Three Ps
 
