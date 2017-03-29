@@ -1076,7 +1076,14 @@ Partners
 			52. Objectives
 			53. Outcomes
 		54. Media
-		55. Culture
+
+# Culture
+## Food
+We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
+
+Providing food for your founders lessens stress, keeps them healthier, and ensures that they're being fed. And all of that ensures that they're getting the most out of the other accelerator offerings. What's more, consistently scheduling meals and aligning them with mentor talks is a great way to ensure that the founders are around to learn from mentors. 
+
+
 			56. Hospitality
 				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
 				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
@@ -1114,13 +1121,59 @@ Now that you're starting to hone in on what type of environment, staff, resource
 
 Now that you have some potential buckets for where you're going to be spending money, we can start figuring out how much capital you're going to need to be successful with your accelerator. 
 
-We're providing these ballpark estimates, with the hopes that they help you hone in on the amount of capital required to run your accelerator. Let's take a look at those numbers, in order of importance. 
+We're providing the following some ballpark estimates for a variety of expenditures where we can — and additional context for where we can't. And we always encourage you to plan for the worst and hope for the best. Better to make your numbers higher and have the actuals come in lower. 
+
+So here we go in order of importance. 
 
 ### Space
+
+Obviously, for this model of accelerator, space is critical. You should allocate a significant amount of the capital to underwriting this expense. At the very least, you should estimate about 100 sq ft (30 sq m) for each founder in the space. At the most, you should get as much space as you can afford. 
+
+If you can buy — or work out an arrangement with the building owner — all the better. Equally beneficial, if you can round up enough capital to sign a longer lease, that will help drive down costs, as well.
+
+And try to get space that is roughly built out, rather than raw office space. (Former warehouse and storage spaces tend to work really well.) This will save you money on tenant improvements and the like. Ideally, you'll only be adding a few extra power outlets and a few touches here and there. We don't want you sinking a ton of cash into the space.  
+
+PIE began in an empty retail space that was donated to us by the building owner during the doldrums of the mortgage crisis. As the economy rebounded and the owner sold the building, that "free" space suddenly became very spendy. In the highest rent district of Portland. 
+
+So with that in mind our numbers aren't terribly useful here. In fact, it's incredibly difficult to do any apples to apples comparison. No matter where you are. But let's take some current averages and see if that helps give you a ballpark. 
+
+If x is the cost of the space per square foot per year and y is the number of companies you're looking to help, here's a rough equation. (We'll estimate the number of founders per team at three — some will have more and some will have less — and the amount of space per founder at 100 sq ft.)
+
+x(y(3*100)) = $TOTAL LEASE/year = $MONTHLY LEASE PAYMENT
+
+So let's say we wanted to help 10 startups in an area where the cost per square foot is $25. 
+
+$25(10(3*100)) = $75,000/year = $6250/month
+
+You can add other elements. But this gives you a starting point for ball parking the number. 
+
 ### Staff
+
+Now that you've got some space, let's get some people in that space. And some folks to manage it. For that, you'll need staff. 
+
+Like space, the pricing of the staff will be dependent on the region and cost of living and the like. But there are some industry averages floating around that will help. 
+
+On average, Managing Director/Program Manager salaries generally fall in the range of $125,000 to $175,000 per year plus benefits. For programs that make equity investments, many managing directors also receive an equity position (1 point or less) in each of the companies who go through the program and some participation in the the carry of the fund making the investments.
+
+Program Manager salaries, on average, range from $50,000 to $75,000 per year, plus benefits. It is less likely that this role receives equity or upside from the carry. 
+
+Many programs hire additional staff — associates, EiRs, and technical experts — by providing those contracted positions with the same offer as the participating startups receive. So if a startup gets $20,000 as in seed capital, you would budget a similar number for each of these contracted staff. 
+
+A good rule of thumb for salaries — in addition to the usual "depends on experience" — is to assume that the fewer staff you have, the more each of the roles will be paid. So if you're running a lean shop, expect to pay top dollar for the staff you are hiring. 
+
+With that in mind, let's just estimated that staffing is likely going to run a minimum of $350,000/year with benefits and other associated costs. 
+
+If you can get creative, get creative. But don't skimp on staff. They're under a ton of pressure to perform, so they deserve to be compensated fairly.  
+
 ### Food
+
+You'll spend enough time feeding their psychoses. Spend time and money to feed their body and feed their mind. Trust us. Budget for this expenditure. You'll be glad you did.
+
+At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders.
+
 ### Investment
 ### Upkeep and Maintenance
+### Demo Day
 			54. Pro forma
 # Space
 
