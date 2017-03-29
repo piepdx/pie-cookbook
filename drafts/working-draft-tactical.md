@@ -1082,8 +1082,43 @@ Partners
 				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
 			57. Diversity and Inclusion
 	52. Oven
-		53. Budget
-			54. Considerations
+
+# Budget
+
+Early on, one of the most challenging aspects of standing up an accelerator or coworking environment can be projecting — guessing, really — how much it will cost to run the project.
+
+And while sharing numbers from what it takes to run a startup accelerator in Portland, Oregon, may not be terribly helpful, we're hoping that we can provide some guidance through some topics for discussion. And some ballparks for the allocation of capital.
+
+## Considerations
+
+First and foremost, you have to determine what type of accelerator you're going to be running. 
+
+Let's start by asking a few questions:
+
+- Are you going to invest in the startups?
+- What types of startups are you going to be working with?
+- Do these companies require special infrastructure?
+- How many companies would you like to impact on a yearly basis?
+- How many staff members are required to support the number of participants?
+- How many classes per year are you planning to run?
+- Do you have existing partnerships that will reduce out-of-pocket costs?
+- How much space are you going to need to support the broader community?
+
+Now that you're starting to hone in on what type of environment, staff, resources, and potential investments you're going to make, you're starting to have a better idea of how much capital this is going to take. Now, let's see if we can make that number smaller. 
+
+- In regards to these responses, what is critical versus nice-to-have?
+- How lean can you run this project and still be successful?
+- What is your Minimum Valuable Accelerator?
+
+## Ballpark figures
+
+Now that you have some potential We're providing some ballpark figures, with the hopes that they help you hone in on the amount of capital required to run your accelerator. Let's take a look at those numbers, in order of importance. 
+
+### Space
+### Staff
+### Food
+### Investment
+### Upkeep and Maintenance
 			54. Pro forma
 # Space
 
