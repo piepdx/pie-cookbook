@@ -1159,8 +1159,16 @@ With that in mind, let's just estimated that staffing is likely going to run a m
 If you can get creative, get creative. But don't skimp on staff. They're under a ton of pressure to perform, so they deserve to be compensated fairly.  
 
 ### Food
+
+We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
+
+Budget for this expenditure. You'll be glad you did.
+
+At PIE, we chose to cater three meals per week, on average, throughout the course of the three month accelerator class. 
+
 ### Investment
 ### Upkeep and Maintenance
+
 			54. Pro forma
 # Space
 
