@@ -1092,7 +1092,11 @@ Feed their body; feed their mind.
 
 And can we ask one favor of your meal planning? If we would love accomplish one thing with this Cookbook, it would be to finally break that whole pizza and startups association. 
 
-I know. It's a little weird coming from a place named PIE. But please stop. Stop feeding founders pizza. There are plenty of events with free pizza. They'll get plenty. Trust us. Once in a while pizza is acceptable, but not consistently. 
+I know. It's a little weird coming from a place named PIE. But please stop. Stop feeding founders pizza. There are plenty of events with free pizza. They'll get plenty. Trust us. Once in a while pizza is acceptable, but not consistently.
+
+Equally infuriating — and lacking in nutrition — is the candy, chips, and soda snack stereotype. Don't fall for it. Your founders deserve better than that. So does your staff. Get creative. Some candy, chips, and soda are fine. In moderation. But maybe have fresh fruit delivered on a regular basis. Have a vegetable platter every week. Have hummus and pita. Mix it up. 
+
+Finally, you can have Ramen on hand as a snack. We get it. But it's not a meal. Ever. 
 
 Feed your founders real, nutritious food. Consistently. Make sure they're getting the fuel they need. 
 
@@ -1188,9 +1192,29 @@ If you can get creative, get creative. But don't skimp on staff. They're under a
 
 ### Food
 
-Throughout the accelerator, you'll spend enough time feeding founders' psychoses. Spend time and money to feed their body as well. Trust us. Budget for this expenditure. You'll be glad you did.
+Throughout the accelerator, you'll spend plenty of time feeding founders' psychoses. We recommend that you also spend time and money to feed their body. Trust us. Budget for this expenditure. You'll be glad you did.
 
+While you're welcome to cater as many meals as budget will allow, we recommend a baseline of two meals, one dinner (Family Dinner) and one lunch. At PIE, we catered three meals per week, Family Dinner and two lunches, on average. 
 
+Again, food pricing varies as much as real estate, depending on where you are. But you can ballpark it. Let's assume that an individual meal is going to cost around the same prices as entrees at your local restaurant cost. While they'll likely cost you less, this is a good starting point for your budget. If x is the  number of weeks in your program, y is the number of meals you're planning to cater per week, z is the number of companies you're looking to help, a is the average cost of an entree, here's a rough equation (assuming three founders per company on average).
+
+x(y(z(a*3))) = $TOTAL CATERING BILL/class
+
+So for PIE the equation looks like this:
+
+12(3(10($15*3))) = $16,200/class
+
+That's just meals. And just for the founders. Sometimes you'll have mentors stop by. And you'll have mentors in residence eating. So, for budgeting purposes, we'd recommend rounding that up to $20,000/class. 
+
+But remember that the founders will be in your space day in, day out. And mentors will be around a lot. And investors. And other folks using the space. And events. So we'll need to budget for beverages, snacks, and other incidentals. (NOTE: If you're planning on hosting large events like opening parties and the like, we recommend budgeting for those separately.)
+
+For PIE, let's assume that this brings the budget up to $25,000/class.
+
+Plus you'll want to have some wiggle room in this budget for those time when you want to do a special meal or there's a birthday or something else comes up. Heck. Maybe you want to get pizza one time. (One time is okay.)
+
+We'd recommend increasing the meal budget by at least 25% to cover these additional costs. 
+
+If you want to get more granular, just reduce the complexity of the equation above. With the same parameters, z(a*3) will give you the total cost of a single meal for your startups. For PIE that's 10($15*3) = $450. Which we'd just call $500, for budgeting purposes. So an additional 25% budget, would cover about 10 additional meals with a little left over (ahem) for snacks and beverages and stuff.
 
 ### Investment
 ### Upkeep and Maintenance
