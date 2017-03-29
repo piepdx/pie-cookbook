@@ -873,16 +873,48 @@ We’ve tried any number of models: paid desks, free desks, desks in trade. What
 
 This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
 
+These companies were familiar with the PIE process, having observed any number of classes. But we also invited PIE alums to remain in the space — or come back — so that they could assist as hands on mentors, as well.
+
 Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
 
-						26. Define role and expectations
-							27. At PIE, these were companies PIE alums who had been through the PIE process
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-							30. Can provide valuable insights into working with PIE and mentors
-							31. Can provide tips and tricks for getting the most out of the program
-							32. Can help startups work the system
+**Role and expectations**
+
+First and foremost, mentors in residence are expected to work on their respective businesses. Mentoring is secondary to that. That said, we do expect them to spend some time mentoring. 
+
+Most mentoring by mentors in residences is ad hoc. The mentors will observe something or hear something that motivates them to take a startup aside and provide feedback. Other times, staff will direct a mentor in residence to work with a startup, especially if it is a problem with which the mentor is familiar. 
+
+Other times, mentors in residence may help with making connections or judgment calls for startups going through the program.
+
+**Value to the accelerator**
+
+Mentors in residence serve as adjunct staff, enabling the organization to scale more effectively by:
+
+- Serving as eyes and ears with a different vantage point than the staff
+- Serving as confidantes when staff is absent or unavailable
+- Keeping the staff "honest" by highlighting mentors or programmatic elements that were helpful to their startups
+- Providing peer feedback and review from someone who has "been there and done that"
+- Highlighting which mentors are critical and how to best engage them
+
+**Value to the mentor**
+
+There are any numbers of benefits to the mentor in residence. They include:
+
+- Receiving free office space and perks for providing mentorship
+- Enabling the mentors to keep tabs on the latest trends in the startup community
+- Providing reciprocal peer mentoring
+- Gaining insights to different mentors and investors
+
+**Value to the startups**
+
+For the startups, the benefits of having a seasoned resource at their disposal are innumerable, but notable benefits include:
+
+- Being able to get objective feedback from a peer
+- Ensuring they gain a clear understanding of the challenges facing companies, post accelerator
+- Providing valuable insights into working with PIE and mentors
+- Providing tips and tricks for getting the most out of the progra
+- Helping startups "work the system"
+
+
 			21. Anyone can (and should) be a mentor
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities
