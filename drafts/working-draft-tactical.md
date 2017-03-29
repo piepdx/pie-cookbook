@@ -1079,9 +1079,34 @@ Partners
 
 # Culture
 ## Food
+
+With a name like PIE, it only stands to reason that we would include food as one of our critical offerings. 
+
 We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
 
-Providing food for your founders lessens stress, keeps them healthier, and ensures that they're being fed. And all of that ensures that they're getting the most out of the other accelerator offerings. What's more, consistently scheduling meals and aligning them with mentor talks is a great way to ensure that the founders are around to learn from mentors. 
+Providing food for your founders lessens stress, keeps them healthier, and ensures that they're actually eating from time to time. And all of that ensures that they're getting the most out of the other accelerator offerings. 
+
+What's more, consistently scheduling meals and aligning them with mentor talks is a great way to ensure that the founders are around to learn from mentors. Schedule mentor talks accordingly.
+
+Feed their body; feed their mind.
+
+And can we ask one favor of your meal planning? If we would love accomplish one thing with this Cookbook, it would be to finally break that whole pizza and startups association. 
+
+I know. It's a little weird coming from a place named PIE. But please stop. Stop feeding founders pizza. There are plenty of events with free pizza. They'll get plenty. Trust us. Once in a while pizza is acceptable, but not consistently.
+
+Equally infuriating — and lacking in nutrition — is the candy, chips, and soda snack stereotype. Don't fall for it. Your founders deserve better than that. So does your staff. Get creative. Some candy, chips, and soda are fine. In moderation. But maybe have fresh fruit delivered on a regular basis. Have a vegetable platter every week. Have hummus and pita. Mix it up. 
+
+Finally, you can have Ramen on hand as a snack. We get it. But it's not a meal. Ever. 
+
+Feed your founders real, nutritious food. Consistently. Make sure they're getting the fuel they need. 
+
+And please be conscious, aware, and diligent of founders', mentors', and staff dietary requirements. Maybe they're vegetarian. Maybe they have religious requirements. Maybe they have a food allergy. Maybe they're just particular. Whatever the case, listen and accommodate all of their needs. They're under enough pressure without having to deal with not having something they can eat.
+
+At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. 
+
+This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
+
+ 
 
 
 			56. Hospitality
@@ -1167,9 +1192,29 @@ If you can get creative, get creative. But don't skimp on staff. They're under a
 
 ### Food
 
-You'll spend enough time feeding their psychoses. Spend time and money to feed their body and feed their mind. Trust us. Budget for this expenditure. You'll be glad you did.
+Throughout the accelerator, you'll spend plenty of time feeding founders' psychoses. We recommend that you also spend time and money to feed their body. Trust us. Budget for this expenditure. You'll be glad you did.
 
-At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders.
+While you're welcome to cater as many meals as budget will allow, we recommend a baseline of two meals, one dinner (Family Dinner) and one lunch. At PIE, we catered three meals per week, Family Dinner and two lunches, on average. 
+
+Again, food pricing varies as much as real estate, depending on where you are. But you can ballpark it. Let's assume that an individual meal is going to cost around the same prices as entrees at your local restaurant cost. While they'll likely cost you less, this is a good starting point for your budget. If x is the  number of weeks in your program, y is the number of meals you're planning to cater per week, z is the number of companies you're looking to help, a is the average cost of an entree, here's a rough equation (assuming three founders per company on average).
+
+x(y(z(a*3))) = $TOTAL CATERING BILL/class
+
+So for PIE the equation looks like this:
+
+12(3(10($15*3))) = $16,200/class
+
+That's just meals. And just for the founders. Sometimes you'll have mentors stop by. And you'll have mentors in residence eating. So, for budgeting purposes, we'd recommend rounding that up to $20,000/class. 
+
+But remember that the founders will be in your space day in, day out. And mentors will be around a lot. And investors. And other folks using the space. And events. So we'll need to budget for beverages, snacks, and other incidentals. (NOTE: If you're planning on hosting large events like opening parties and the like, we recommend budgeting for those separately.)
+
+For PIE, let's assume that this brings the budget up to $25,000/class.
+
+Plus you'll want to have some wiggle room in this budget for those time when you want to do a special meal or there's a birthday or something else comes up. Heck. Maybe you want to get pizza one time. (One time is okay.)
+
+We'd recommend increasing the meal budget by at least 25% to cover these additional costs. 
+
+If you want to get more granular, just reduce the complexity of the equation above. With the same parameters, z(a*3) will give you the total cost of a single meal for your startups. For PIE that's 10($15*3) = $450. Which we'd just call $500, for budgeting purposes. So an additional 25% budget, would cover about 10 additional meals with a little left over (ahem) for snacks and beverages and stuff.
 
 ### Investment
 ### Upkeep and Maintenance
@@ -2236,7 +2281,12 @@ And with this happy accident it dawned on us that these founders were going to e
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
 
-# Mentor Integrity
+
+
+
+# How to mentor
+## Common mistakes
+### Mentor Integrity
 
 Via @bwenamai:
 
@@ -2245,12 +2295,6 @@ Via @bwenamai:
 https://github.com/piepdx/pie-cookbook/issues/2
 
 
-
-
-				26. How to mentor
-				27. Common mistakes
-			26. 			31. Integrity
-				32. https://github.com/piepdx/pie-cookbook/issues/2
 			33. Managing mentors
 				34. Scheduling should occur at the mentor’s convenience, not yours
 				35. Always make mentors aware that things change
@@ -2327,6 +2371,12 @@ Here are some examples of letters we’ve used:
 - [Woohoo! Here’s what to expect on your first day](/notes/logistics/onboarding-what-to-expect.md). (Along with acceptance letter)
 
 Consider providing these docs along with a welcome basket of swag.  Again, it’s about making folks feel welcome. The more comfortable your startups feel in the space, the sooner they’ll be feel the motivation to work — and begin building up the trust that will enable them to succeed in this environment.
+
+We recommend an intake survey for participants, so you can get a better feel for them as individuals, before they're in the space. Make these questions more personal for the founders:
+
+- Do you have any dietary requirements?
+- Do you have any allergies?
+- Are you an early bird or a night owl?
 
 ## Day 0
 
