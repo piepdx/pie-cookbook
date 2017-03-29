@@ -914,11 +914,12 @@ For the startups, the benefits of having a seasoned resource at their disposal a
 - Providing tips and tricks for getting the most out of the progra
 - Helping startups "work the system"
 
-
+#### Recruiting mentors
+	
 			21. Anyone can (and should) be a mentor
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities
-#### Recruiting mentors
+		
 			22. Identifying potential mentors
 			23. Recruiting potential mentors
 			23. Qualifying potential mentors
