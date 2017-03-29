@@ -1114,9 +1114,21 @@ Now that you're starting to hone in on what type of environment, staff, resource
 
 Now that you have some potential buckets for where you're going to be spending money, we can start figuring out how much capital you're going to need to be successful with your accelerator. 
 
-We're providing these ballpark estimates, with the hopes that they help you hone in on the amount of capital required to run your accelerator. Let's take a look at those numbers, in order of importance. 
+We're providing the following some ballpark estimates for a variety of expenditures where we can — and additional context for where we can't. So here we go in order of importance. 
 
 ### Space
+
+Obviously, for this model of accelerator, space is critical. You should allocate a significant amount of the capital to underwriting this expense. At the very least, you should estimate about 100 sq ft (30 sq m) for each founder in the space. At the most, you should get as much space as you can afford. 
+
+If you can buy — or work out an arrangement with the building owner — all the better. 
+
+And try to get space that is roughly built out, rather than raw office space. (Former warehouse and storage spaces tend to work really well.) This will save you money on tenant improvements and the like. Ideally, you'll only be adding a few extra power outlets and a few touches here and there. We don't want you sinking a ton of cash into the space.  
+
+PIE began in an empty retail space that was donated to us by the building owner during the doldrums of the mortgage crisis. As the economy rebounded and the owner sold the building, that "free" space suddenly became very spendy. In a highest rent district of Portland. 
+
+So with that in mind our numbers aren't terribly useful here. In fact, it's incredibly difficult to do any apples to apples comparison. No matter where you are. But let's take some current averages and see if that helps give you a ballpark. 
+
+
 ### Staff
 ### Food
 ### Investment
