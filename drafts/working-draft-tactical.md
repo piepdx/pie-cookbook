@@ -590,12 +590,12 @@ Dodging conflict is the primary mistake we made with the first class of PIE. We 
 
 When you're first starting, the progression should look something like this: 
 
-1. Accelerator Founders — or cofounders — which leads to securing
-2. Funding, which enables you to afford
-3. Space and 
-4. Staff, which allows you to recruit 
-5. Mentors, which become the primary means of attracting 
-6. Startups
+1. **Accelerator Founders** — or cofounders — which leads to securing
+2. **Funding**, which enables you to afford
+3. **Space** and 
+4. **Staff**, which allows you to recruit 
+5. **Mentors**, which become the primary means of attracting 
+6. **Startups**
 7. Which allows you to do this whole Accelerator thing 
 
 In terms of the amount of time you'll spend on each of these phases, the rank order looks more like this:
@@ -821,11 +821,51 @@ Lead mentors are individuals who take a particular interest in one of the compan
 
 We have found that it is difficult to pick or establish lead mentors at the outset of the program. Rather, Accelerators have to monitor the potential for lead mentors and when appropriate, suggest to both the startup and the mentor that both would benefit from more regular meetings.
 
-						24. Define role and expectations
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-						29. Typical percentage of the mentor pool
+**Role and expectations**
+
+These mentors will make up a small subsegment of your mentor pool. And they're very hard to assign. It's almost a "catch as catch can" arrangement. 
+
+You engage mentors with startups and founders. You observe their behavior and camaraderie. And if the timing and relationship seem right, you pull the mentor aside and talk about taking a larger role in a single startup's growth and direction. Should the mentor agree, you then talk to the startup about the potential of having a lead mentor.
+
+This relationship is somewhere between mentor and advisor. The lead mentor is still playing a role of imparting advice. But it is on a more regular and consistent basis than other mentors. 
+
+It should be noted that this becomes a much more significant time commitment for both mentor and founder. The lead mentor should be meeting with the startup on a weekly basis for the remainder of the accelerator class. 
+
+**Value to the accelerator**
+
+Lead mentors provide a great deal of value to the accelerator by:
+
+- Augmenting the accelerator staff in the management of the startups
+- Providing another vantage point for assessing the startups and their progress
+- Serving as an example to other mentors in a "lead by example" way
+- Establishing a stronger connection to the accelerator
+- Establishing a stronger connection to the startups
+- Enhancing the accelerator's ability to foster community connections
+
+**Value to the mentor**
+
+Serving as lead mentors can be a more rewarding experience for mentors if they have the time to commit to the arrangement. Many lead mentors gain the benefit of:
+
+- Having a measurable and demonstrable impact on a company's progression during the accelerator
+- Determining the potential for ongoing mentorship or advisorship following the accelerator
+- Gaining valuable insights on early stage business issues that can highlight and inform how the mentor deals with their own business pursuits
+- Establishing a tighter bond in the startup community
+- Raising the visibility of their contribution to the community
+
+**Value to the startups**
+
+Startups can always use more people in their respective corners. A lead mentor can be a valuable by:
+
+- Ensuring the founders have a confidante beyond the accelerator staff
+- Providing additional mentor resources that may not be obvious/accessible to the accelerator staff
+- Making introductions to investors
+- Helping with hiring
+- Providing candid feedback in a private setting
+- Working with each founder over an extended period of timing
+
+**Typical percentage of the mentor pool**
+
+Lead mentors generally make up a very small percentage of the mentor pool. At the very best, there will be one lead mentor per startup in each cohort. 
 
 #### Mentors in residence
 
@@ -833,20 +873,53 @@ We’ve tried any number of models: paid desks, free desks, desks in trade. What
 
 This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
 
+These companies were familiar with the PIE process, having observed any number of classes. But we also invited PIE alums to remain in the space — or come back — so that they could assist as hands on mentors, as well.
+
 Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
 
-						26. Define role and expectations
-							27. At PIE, these were companies PIE alums who had been through the PIE process
-						27. Value to the organization
-						28. Value to the mentor
-						29. Value to the startups
-							30. Can provide valuable insights into working with PIE and mentors
-							31. Can provide tips and tricks for getting the most out of the program
-							32. Can help startups work the system
+**Role and expectations**
+
+First and foremost, mentors in residence are expected to work on their respective businesses. Mentoring is secondary to that. That said, we do expect them to spend some time mentoring. 
+
+Most mentoring by mentors in residences is ad hoc. The mentors will observe something or hear something that motivates them to take a startup aside and provide feedback. Other times, staff will direct a mentor in residence to work with a startup, especially if it is a problem with which the mentor is familiar. 
+
+Other times, mentors in residence may help with making connections or judgment calls for startups going through the program.
+
+**Value to the accelerator**
+
+Mentors in residence serve as adjunct staff, enabling the organization to scale more effectively by:
+
+- Serving as eyes and ears with a different vantage point than the staff
+- Serving as confidantes when staff is absent or unavailable
+- Keeping the staff "honest" by highlighting mentors or programmatic elements that were helpful to their startups
+- Providing peer feedback and review from someone who has "been there and done that"
+- Highlighting which mentors are critical and how to best engage them
+
+**Value to the mentor**
+
+There are any numbers of benefits to the mentor in residence. They include:
+
+- Receiving free office space and perks for providing mentorship
+- Enabling the mentors to keep tabs on the latest trends in the startup community
+- Providing reciprocal peer mentoring
+- Gaining insights to different mentors and investors
+
+**Value to the startups**
+
+For the startups, the benefits of having a seasoned resource at their disposal are innumerable, but notable benefits include:
+
+- Being able to get objective feedback from a peer
+- Ensuring they gain a clear understanding of the challenges facing companies, post accelerator
+- Providing valuable insights into working with PIE and mentors
+- Providing tips and tricks for getting the most out of the progra
+- Helping startups "work the system"
+
+#### Recruiting mentors
+	
 			21. Anyone can (and should) be a mentor
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities
-#### Recruiting mentors
+		
 			22. Identifying potential mentors
 			23. Recruiting potential mentors
 			23. Qualifying potential mentors
