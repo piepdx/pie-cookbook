@@ -1154,7 +1154,9 @@ Many programs hire additional staff — associates, EiRs, and technical experts 
 
 A good rule of thumb for salaries — in addition to the usual "depends on experience" — is to assume that the fewer staff you have, the more each of the roles will be paid. So if you're running a lean shop, expect to pay top dollar for the staff you are hiring. 
 
-With that in mind, let's just estimated that staffing is likely going to run a minimum of $350,000/year with benefits and other associated costs.  
+With that in mind, let's just estimated that staffing is likely going to run a minimum of $350,000/year with benefits and other associated costs. 
+
+If you can get creative, get creative. But don't skimp on staff. They're under a ton of pressure to perform, so they deserve to be compensated fairly.  
 
 ### Food
 ### Investment
