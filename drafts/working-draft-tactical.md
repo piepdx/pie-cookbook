@@ -2257,7 +2257,12 @@ And with this happy accident it dawned on us that these founders were going to e
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
 
-# Mentor Integrity
+
+
+
+# How to mentor
+## Common mistakes
+### Mentor Integrity
 
 Via @bwenamai:
 
@@ -2266,12 +2271,6 @@ Via @bwenamai:
 https://github.com/piepdx/pie-cookbook/issues/2
 
 
-
-
-				26. How to mentor
-				27. Common mistakes
-			26. 			31. Integrity
-				32. https://github.com/piepdx/pie-cookbook/issues/2
 			33. Managing mentors
 				34. Scheduling should occur at the mentor’s convenience, not yours
 				35. Always make mentors aware that things change
