@@ -1112,7 +1112,9 @@ Now that you're starting to hone in on what type of environment, staff, resource
 
 ## Ballpark figures
 
-Now that you have some potential We're providing some ballpark figures, with the hopes that they help you hone in on the amount of capital required to run your accelerator. Let's take a look at those numbers, in order of importance. 
+Now that you have some potential buckets for where you're going to be spending money, we can start figuring out how much capital you're going to need to be successful with your accelerator. 
+
+We're providing these ballpark estimates, with the hopes that they help you hone in on the amount of capital required to run your accelerator. Let's take a look at those numbers, in order of importance. 
 
 ### Space
 ### Staff
@@ -1129,7 +1131,7 @@ At PIE, we're huge fans of coworking. Despite its detractors. And critics of the
 
 We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community, well, a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
 
-While coworking might not be the best solution for a solitary company in a vast sea of other disconnected companies, with people treating the entire office space like a water cooler. But in our experience, it tends to work really well with a bunch of small teams — and this is critical: who share something in common — cohabitating in a larger space. We've found that the random collisions that occur among these peers are worth the "loss of productivity." And we think that being human and collaborative in a workspace with other humans has an intrinsic value. Full stop.
+Coworking might not be the best solution for a solitary company in a vast sea of other disconnected companies, with people treating the entire office space like a water cooler. But in our experience, it tends to work really well with a bunch of small teams — and this is critical: small teams who share something in common — cohabitating in a larger space. We've found that the random collisions that occur among these peers are worth the "loss of productivity." And we think that being human and collaborative in a workspace with other humans has an intrinsic value. Full stop.
 
 We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
 
@@ -1180,7 +1182,7 @@ You should have too many people in the space. It should be noisy. You should hav
 
 ![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
 
-Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Shield them from the outside world. Create a utopian existence for them. That's what an incubator should do.
+Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Shield them from the outside world. Create a utopian existence for them. That's what an incubator does.
 
 Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up — and, ideally, out. Your job is to create a microcosm of the real world. A biome of startup life. They same way it exists outside of your doors. But with a few safety nets strewn here and there.
 
