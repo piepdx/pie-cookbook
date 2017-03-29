@@ -1076,7 +1076,14 @@ Partners
 			52. Objectives
 			53. Outcomes
 		54. Media
-		55. Culture
+
+# Culture
+## Food
+We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
+
+Providing food for your founders lessens stress, keeps them healthier, and ensures that they're being fed. And all of that ensures that they're getting the most out of the other accelerator offerings. What's more, consistently scheduling meals and aligning them with mentor talks is a great way to ensure that the founders are around to learn from mentors. 
+
+
 			56. Hospitality
 				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
 				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
@@ -1159,10 +1166,6 @@ With that in mind, let's just estimated that staffing is likely going to run a m
 If you can get creative, get creative. But don't skimp on staff. They're under a ton of pressure to perform, so they deserve to be compensated fairly.  
 
 ### Food
-
-We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
-
-Providing food for your founders lessens stress, keeps them healthier, and ensures that they're being fed. And all of that ensures that they're getting the most out of the other accelerator offerings. What's more, consistently scheduling meals and aligning them with mentor talks is a great way to ensure that the founders are around to learn from mentors. 
 
 You'll spend enough time feeding their psychoses. Spend time and money to feed their body and feed their mind. Trust us. Budget for this expenditure. You'll be glad you did.
 
