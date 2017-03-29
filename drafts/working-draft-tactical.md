@@ -1096,7 +1096,13 @@ I know. It's a little weird coming from a place named PIE. But please stop. Stop
 
 Feed your founders real, nutritious food. Consistently. Make sure they're getting the fuel they need. 
 
-And please be conscious, aware, and diligent of founders', mentors', and staff dietary requirements. Maybe they're vegetarian. Maybe they have religious requirements. Maybe they have a food allergy. Maybe they're just particular. Whatever the case, listen and accommodate all of their needs. They're under enough pressure without having to deal with not having something they can eat.  
+And please be conscious, aware, and diligent of founders', mentors', and staff dietary requirements. Maybe they're vegetarian. Maybe they have religious requirements. Maybe they have a food allergy. Maybe they're just particular. Whatever the case, listen and accommodate all of their needs. They're under enough pressure without having to deal with not having something they can eat.
+
+At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. 
+
+This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
+
+ 
 
 
 			56. Hospitality
@@ -1184,7 +1190,7 @@ If you can get creative, get creative. But don't skimp on staff. They're under a
 
 Throughout the accelerator, you'll spend enough time feeding founders' psychoses. Spend time and money to feed their body as well. Trust us. Budget for this expenditure. You'll be glad you did.
 
-At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders.
+
 
 ### Investment
 ### Upkeep and Maintenance
@@ -2342,6 +2348,12 @@ Here are some examples of letters we’ve used:
 - [Woohoo! Here’s what to expect on your first day](/notes/logistics/onboarding-what-to-expect.md). (Along with acceptance letter)
 
 Consider providing these docs along with a welcome basket of swag.  Again, it’s about making folks feel welcome. The more comfortable your startups feel in the space, the sooner they’ll be feel the motivation to work — and begin building up the trust that will enable them to succeed in this environment.
+
+We recommend an intake survey for participants, so you can get a better feel for them as individuals, before they're in the space. Make these questions more personal for the founders:
+
+- Do you have any dietary requirements?
+- Do you have any allergies?
+- Are you an early bird or a night owl?
 
 ## Day 0
 
