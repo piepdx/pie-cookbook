@@ -1162,9 +1162,11 @@ If you can get creative, get creative. But don't skimp on staff. They're under a
 
 We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
 
-Budget for this expenditure. You'll be glad you did.
+Providing food for your founders lessens stress, keeps them healthier, and ensures that they're being fed. And all of that ensures that they're getting the most out of the other accelerator offerings. What's more, consistently scheduling meals and aligning them with mentor talks is a great way to ensure that the founders are around to learn from mentors. 
 
-At PIE, we chose to cater three meals per week, on average, throughout the course of the three month accelerator class. 
+You'll spend enough time feeding their psychoses. Spend time and money to feed their body and feed their mind. Trust us. Budget for this expenditure. You'll be glad you did.
+
+At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders.
 
 ### Investment
 ### Upkeep and Maintenance
