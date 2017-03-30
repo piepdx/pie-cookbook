@@ -2234,9 +2234,50 @@ So give your mentors some guidance before they wind up on stage.
 
 Here are some of the ways we tried to do that in PIE.
 
-### Encourage mentors to tell stories of failure and mistakes. 
+#### Give them guidance on the room
+With PIE's mentors, most folks had visited the space before they presented there. But if they were visitors or hadn't been in the space, we made sure they were aware of how difficult the room was. 
 
-Any founder could tell you the entire journey of his or her successful company — step by step in intricate detail. You could take scrupulous notes, ask for clarification and additional color, and document each and every step of the journey with complete precision. 
+If they were giving a founder talk or doing a Q&A session, they got different prep than a workshop format.
+
+We didn't require slides. But if folks had them, we let them know we had a dinky projector and a white wall onto which we would trow their deck. 
+
+If they were doing a workshop, we'd make sure that they were well armed with whiteboards and markers. (Sometimes founder talks require whiteboards as well.)
+
+And we made it clear that we didn't have any audio equipment. No matter what the format. 
+
+#### If you plan to record, get permission
+As time went on, we started recording the presentations. Not for public consumption. But so that founders could return to previous content as needed. Or in case they missed a mentor session.
+
+If you choose to record your sessions, get permission from the mentor ahead of time. 
+
+### Trying to use this format as an educational platform is extremely challenging, if not ripe for failure (and not the kind of failure we want)
+Let's be completely blunt here. It will be extremely rare that all of your founders are all experiencing the same problem simultaneously. And even if they are? A lecture based format is about the worst format for them to be dealing with the problem.
+
+So save these sorts of educational sessions for workshops or one-on-one meetings. 
+
+Founders don't want to hear about the problems they're having. They want to fix the problems they're having. So we don't recommend that you choose this lecture format as a means of solving problems. It rarely works. And there are better ways of addressing those issues (which we'll get into later).
+
+That's why…
+
+#### Founder stories are the best
+The best use of the lecture format is putting a founder in front of your class of founders. So whenever possible choose speakers who are founders.
+
+Founders love the stories from the trenches. Because they're not actually stories about failure, at all. They're stories about perseverance. To talk about how they battled against all odds to win. About how they managed to string things together and come out on top.
+
+It’s part of the culture.
+
+Plus, most founders don't even need to prepare to tell these stories. They tell them all of the time.
+
+But you might need to prep them for the parts of the story that are most valuable to your startups.
+
+#### Encourage mentors to tell stories of mistakes and failure 
+Talking about naive decisions and stumbles and screw ups. Sharing awful fucking mistakes. And heartbreaking failures. They aren’t pretty. But to other entrepreneurs they are way more important than recounting the completely random lucky set of circumstances that landed you where you are today.
+
+Because unlike that celebrated and yet unrepeatable path to success, avoiding those failures and mistakes can be critical to your peers.
+
+Wisdom isn’t always about winning. And if you’ve created an environment of trust in your accelerator, these stories will be pure gold to your startups. Or the sustenance that keeps them going.
+
+Let's face it. Any founder could tell you the entire journey of his or her successful company — step by step in intricate detail. You could take scrupulous notes, ask for clarification and additional color, and document each and every step of the journey with complete precision. 
 
 Then you could carefully, methodically follow that guideline, note for note. Without falter. Down to the most seemingly insignificant detail.
 
@@ -2254,30 +2295,41 @@ Now what if, instead, you explored things that failed? Would you fail in the exa
 
 Because failure is a different story. Knowing the story of failure will enable your startups to better understand how things go wrong, how bad decisions come about, and how those things can be avoided. Or, at the very least, they’ll know that similar decisions have a high likelihood of failure. And they can go into the situation with their eyes open.
 
-Ask founders to talk about mistakes and failures? Won’t that be difficult? No. It won’t. And if it is then that’s likely a red flag that you have chosen poorly. Or the wounds are still too fresh. That you should save that mentor for sometime in the future. 
+Ask mentors to talk about mistakes and failures? Won’t that be difficult? No. It won’t. And if it is? Then that’s likely a red flag that you have chosen poorly with that mentor. Or the wounds are still too fresh. In which case, you should save that mentor for sometime in the future. 
 
-You see, entrepreneurs love the stories from the trenches. Because they're not actually stories about failure, at all. They're stories about perseverance.  To talk about how they battled against all odds to win. About how they managed to string things together and come out on top.
+#### Be prepared for Q&A to be awkward
+Most early stage founders don't have enough experience to ask good questions. Don't worry. They'll get better as class goes on.
 
-It’s part of the culture.
+To exacerbate matters, most founders aren't used to standing on stage and revealing all of their errors. 
 
-Talking about naive decisions and stumbles and screw ups. Sharing awful fucking mistakes. And heartbreaking failures. They aren’t pretty. But to other entrepreneurs they are way more important than recounting the completely random lucky set of circumstances that landed you where you are today.
+So the question and answer periods can get a little awkward. It happens. Especially in the workshop format. Because your founders are often trying to consume, process, and apply all at once.
 
-Because unlike that celebrated and yet unrepeatable path to success, avoiding those failures and mistakes can be critical to your peers.
+At PIE, we relied on staff to help ask pointed questions — because we were the best informed. We knew exactly what problems everyone in the room had, from speaker to startup. And we could use that knowledge to draw out interesting stories from the speaker that would be relevant to the startup founders in the class.
 
-Wisdom isn’t always about winning. And if you’ve created an environment of trust in your accelerator, these stories will be pure gold to your startups. Or the sustenance that keeps them going.
+But we also began to put more and more pressure on the startups to ask questions. And to do due diligence on the speakers before they were standing in front of the room. Because this sort of prep serves them well for any number of meetings. Teaching moment.
 
-### Trying to use this format as an educational platform is extremely challenging, if not ripe for failure (and not the kind of failure we want)
+And guess what? Our best speakers did an equal amount of prep and due diligence on the companies in the cohort. Before they took the stage.
 
-### Be prepared for Q&A to be awkward
+#### Being engaged is better than being polished
+Try as they might, some founders are just really bad in front of a crowd. (I can say this because I happen to be one of them.) But fact of the matter is that they can be even more engaged by being awkward.
 
-### Being engaged is better than being polished
+It's more authentic. More genuine. And more engaging if they've let their guard down.
 
-### Don't sweat the slides
+What's more, polished stories start to feel stilted in this sort of environment. They're great for pitches. Or for the big stage. But in this sort of intimate setting, they can fall flat. 
 
-### Don't make it a sales pitch
+Even if it's a workshop. It should still feel more natural than forced.
 
+So encourage speakers to be real. Because that will help them have more impact on your startups.
 
+#### Don't sweat the slides
+Some folks need slides. Some don't. Some are better with slides. Some are worse.
 
+Long story short, don't require speakers to have slides to speak. In fact, more often than not, you might want to ask them to leave the slides behind.
+
+The caveat here is that the workshop format can be helped by slides. But the vast majority of your talks won't be workshops.
+
+#### Don't make it a sales pitch
+Just don't.
 
 ## Presentation with Q&A
 
