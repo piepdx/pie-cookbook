@@ -1216,9 +1216,21 @@ We'd recommend increasing the meal budget by at least 25% to cover these additio
 
 If you want to get more granular, just reduce the complexity of the equation above. With the same parameters, z(a*3) will give you the total cost of a single meal for your startups. For PIE that's 10($15*3) = $450. Which we'd just call $500, for budgeting purposes. So an additional 25% budget, would cover about 10 additional meals with a little left over (ahem) for snacks and beverages and stuff.
 
-### Investment
+And remember, that's just during class. You'll want to be sure to reserve some budget for the off season, especially if you're going to allow folks to remain in the space.
+
+### Legal and Accounting
+
+Like it or not, you're going to incur costs for legal and accounting. Conservatively, as a ballpark, we'd recommend budgeting $20,000 for legal and $20,000 for accounting. 
+
+If you're planning on making an equity investment in the companies your program, your legal costs are going to be more significant. 
+
+It's also important to plan for legal costs outside the normal course of doing business. For example, it's become common practice to perform background checks on participants before they enter the program. At PIE, we chose to run basic background checks on all of the founders as part of the due diligence process, once they were accepted into the program. It's purely a precautionary measure. But it's highly recommended. Pricing for this sort of service can vary, but make sure to budget for it. 
+
 ### Upkeep and Maintenance
+
+### Investment
 ### Demo Day
+### Perks
 			54. Pro forma
 # Space
 
