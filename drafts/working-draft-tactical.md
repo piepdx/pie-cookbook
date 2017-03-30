@@ -1204,7 +1204,7 @@ So for PIE the equation looks like this:
 
 12(3(10($15*3))) = $16,200/class
 
-That's just meals. And just for the founders. Sometimes you'll have mentors stop by. And you'll have mentors in residence eating. So, for budgeting purposes, we'd recommend rounding that up to $20,000/class. 
+That's just meals. And just for the founders. Sometimes you'll have mentors stop by. And you'll have mentors in residence eating. And people will hire staff. So, for budgeting purposes, we'd recommend rounding that PIE number up to $20,000/class. 
 
 But remember that the founders will be in your space day in, day out. And mentors will be around a lot. And investors. And other folks using the space. And events. So we'll need to budget for beverages, snacks, and other incidentals. (NOTE: If you're planning on hosting large events like opening parties and the like, we recommend budgeting for those separately.)
 
