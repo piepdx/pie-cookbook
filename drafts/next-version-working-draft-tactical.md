@@ -78,6 +78,20 @@ Pressure/heat (Startups + Staff + Patron)
 ### Associate
 ### Technical assistance
 
+## Peer mentoring
+
+					103. Informal
+						103. Happy hours
+						104. After hours
+						104. Social gatherings
+						105. Pitch practice
+						106. Drop ins
+						107. On the fly/visiting mentors
+				108. Peer mentoring
+					109. Creating the culture of peer mentoring
+					110. Enabling random collisions through the selection process
+					111. Reinforcing collaboration and trust
+
 
 ## Pressure valves
 					112. Planned
