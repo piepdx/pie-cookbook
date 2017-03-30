@@ -1,5 +1,177 @@
 # TOPICS FOR PIE COOKBOOK 1.1
 
+## Format
+
+We’ve structured this as a cookbook for an accelerator. And admittedly, we may have been a little heavy handed with that whole analogy. Sorry. That’s just how we roll. But you’ll get used to it. 
+
+At least, we’re not subjecting you to the endless stream of idiotic pie related puns we bandy about on a daily basis. So be thankful for that. 
+
+Besides, it seemed to be a really compelling way to get you from the first taste of an accelerator to, well, dessert. 
+
+And honestly, when it comes right down to it? You’ll quickly realize that every founder has the exact same personality traits as a temperamental chef. Obsessed with perfection. Driven to succeed. Shouldering the brunt of every criticism no matter how seemingly minute.
+
+And loving what they do. Not matter how hard and painful it is to foster the creation of something amazing.  
+
+One of the most important headings you’ll find throughout the cookbook will be labeled “Mistakes were made.” This is where PIE screwed up, tripped, or outright failed. Why is this critical? Because you can follow the recipe word for word and never accurately recreate PIE. But you can always learn from our mistakes.
+
+You’ll also see sections labeled “Happy accidents.” These are times where we tried something random or accidentally discovered a benefit through absolutely no planning whatsoever. It just sort of happened. Salt fell in the pot and it just tasted better. And it helped. And hopefully it will help you. And inspire you to take random risks of your own.
+
+Finally, we’ll do our best to share all of the ingredients, preparations, step-by-step instructions, and intended results of these recipes. And if we don’t do that terribly well? Tell us. And we’ll fix it. For everyone. 
+
+Note: Your flavors of PIE will vary. In fact, they must vary. If they don’t, you’re likely doing it wrong.
+
+**Building a studio**
+
+When it comes right down to it, all we’ve done at PIE is figure out a way to create a protected and trusted environment for creative people to try new things — and potentially fail. It’s like any artist’s studio. 
+
+## Community
+[PLACEHOLDER] Provide analogies/examples of each of the communities above.
+
+## Recipes
+
+We don't expect you to follow these recipes step by step. This isn't a science experiment. This is sustenance for your community. And as such, it needs to taste the way your community wants it to taste. 
+
+We expect you to make these recipes your own. Maybe you like more salt or more spice. Do what works for your community. 
+
+## Prerequisite reading
+### Required
+	
+#### [Startup Communities](http://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1480563854) 
+	
+If you haven't read [**Startup Communities**](http://www.startuprev.com/category/communities/) by [Brad Feld](http://feld.com/), please stop right here. If there is any prerequisite for the **PIE Cookbook**, it is **Startup Communities**. 
+
+So much of what informed the Portland startup community is documented there. Many of the things we did accidentally in Portland, Oregon — or things which happened by luck — are clearly articulated in the book. And so is much of what has enabled Boulder, Colorado, to become one of the most entrepreneurially dense places on earth.
+
+So go read it. And highlight it. And quote it.  
+
+Don't rush it. Take the time to consume the book and think about it. Maybe a couple of times. We'll wait.
+
+If you're working to develop and support a nascent community, Brad's book provides a critical roadmap for that development — as well as delineating a timeline for how long you should expect that development to take.
+
+#### Venture Deals
+#### Accelerators
+#### The Launch Pad: Inside Y Combinator
+### Optional
+#### Zero to One
+#### Good to Great
+#### Hatching Twitter
+#### The Hard Things about Hard Things
+
+# Baking PIE
+## Portland
+## Open source
+## History of PIE
+
+
+		7. A Tale of Two Cities
+			7. Portland startup community
+			8. Wieden+Kennedy
+		7. Founding hypotheses
+			8. Startup community
+				9. Provide a means and method of “giving back” to channel the pent up desire of the community to do so
+				9. "Build better founders"
+				10. "Make new mistakes"
+			9. Wieden+Kennedy (aka, W+K, Wieden)
+				10. "Founders are just another flavor of creative"
+					11. Entrepreneurs and technologists are a new creative class, and their problem-solving toolkit will be increasingly important to solve the emerging brand challenges we tackle at Wieden+Kennedy. But words and images don’t always seem to play well with code. And folks great at one craft may not recognize another as “creative.” But in a world of distributed software and hardware, it’s important to find ways to work together. Entrepreneurs and technologists are inspired creatives who’ve chosen technology as their medium for creative expression. We should be able to find ways to do cool stuff, together.
+				12. Fail harderer. https://cdn-images-1.medium.com/max/1760/1*p-8RVqSOywefET-W2TnBgw.jpeg
+				13. PIE has always been a wedge
+					14. A means of empowering entities to initiate conversations that would be difficult, at best, if not downright impossible. 
+					15. We have served this role throughout our history, enabling a variety of companies to engage in more meaningful and impactful conversations with critical partners.
+		7. Experiments
+			8. PIE's culture of experimentation
+			9. PIE's culture of community
+				10. (via @nohorse) "One of the things I always appreciated about PIE was that it felt like it embodies the spirit of collaboration in Portland. For example PIE seems at home in Centrl Office. It's likely something that is obvious to folks who have spent a while in Portland or Austin, but it's slow to sink in to some cities. There is a value in supporting other business incubators, maker spaces, coworking spaces, in your city and build a web of trust where everyone can feel safe and supported. Competition in the classic capitalistic sense is toxic to the young businesses that need as much help and support as they can to get off the ground and should never need to feel like they are picking brands or picking sides and potentially burning bridges to get the help they need. It might seem obvious to the cookbook authors, but it's worth explaining as it's a new concept to many folks."
+			8. Coworking
+				9. 2009-2011
+				10. In 2009, PIE served as a curated coworking space for promising early stage startups and interesting creatives who called Portland home. During the coworking phase, PIE served as a hub for community, regularly hosting gatherings, hackathons, and educational meet ups. 
+				9. Events
+				10. Hackathons and Code Sprints
+					11. DjangoCon
+					12. Map Hack
+				11. W+K engagement
+					12. PIE as wet blanket
+					13. Briefing in with account teams
+					14. Office space for W+K employees
+					15. Transition space 
+				12. Other corporate engagement
+					13. Nike Open Data 
+				14. Municipal engagement
+					15. City of Portland open data hack
+					16. Portland Public Schools hack
+				15. State engagement
+				16. Home away from home
+			9. Accelerator
+				10. 2011-2014
+				11. Based on learnings from the curated coworking space, PIE changed its engagement from a passive observational role to an engaged and active role. This phase became the PIE accelerator, a series of three-month cohorts focused on intensive mentorship and community development.
+				10. Equity based investments
+					11. Standard 6%
+					12. Floating percentage
+				13. Experiments		
+					13. Nonprofit
+					14. Hardware
+					14. Open source
+					15. Solo founders
+					16. High school founders
+				17. W+K engagement
+					18. Brand sprints
+				19. Corporate engagement
+					20. Coca-Cola
+					21. Target
+					22. Google
+					23. Intel
+						24. Narrative Hack
+						25. Hack at Hayward Field
+					26. Nike
+						27. Kinect Hack
+				24. Municipal engagement
+					25. Portland Development Commission
+				25. State engagement
+					26. OregonInC and Business Oregon
+				26. Home away from home
+			27. Accelerator² 
+				28. 2013-Today
+				29. In 2013, PIE began exploring the application of an accelerator framework beyond early stage technology startups. That experiment led to the next phase of the PIE experiment, an accelerator designed to help other incubators and accelerators operate more effectively. 
+			10. Community engagement
+				11. PIElette
+				12. BREAKER
+				13. PIE staff as mentors for other programs
+					14. Oregon Story Board
+					14. Portland Seed Fund
+					15. SXSW Accelerator
+					15. Techstars Seattle
+					16. Nike+ Accelerator powered by Techstars
+					17. 9Mile Labs
+					18. Straight Shot 
+					19. Startup PDX Challenge
+			9. W+K engagement
+			10. Brand engagement
+
+Kind of like borrowing a cup of sugar from your neighbor.		
+			8. YC
+				9. Ingredients we borrowed
+					10. Investment strategy
+					11. Timeline
+					12. Family Dinner
+					13. Office Hours
+					14. Mentor recommendations
+					14. Demo Day
+				10. Ingredients we intentionally left behind
+					11. Class sizes
+					12. Non-resident accelerator
+			10. TechStars
+				11. Ingredients we borrowed 
+					12. Investment strategy
+					13. Timeline
+					14. Class sizes
+					14. Mentor Network
+					15. Resident Accelerator
+					16. Speed dating
+					17. Demo Day
+				12. Ingredients we intentionally left behind
+					13. Day-long speed dating
+					14. Pitching from the beginning of the program
+
 ## Mentors (more types)
 					30. Corporate mentors
 						24. Define role and expectations
@@ -39,6 +211,11 @@
 						27. Value to the organization
 						28. Value to the mentor
 						29. Special challenges of staff as mentors
+# Space
+
+				63. Fishbowl
+					64. How this enabled more effective mentors in residence and portfolio management
+	
 
 ## People who use the space differently
 
@@ -136,3 +313,21 @@ Admittedly we could do a better job of fostering the community among all of our 
 			112. Startup sprints
 				113. 404
 				114. Bring the pain
+
+# Additional Demo Day content
+				123. Demo format
+				124. Additional content
+				118. Venue
+				119. Promotion
+					120. Communications
+						121. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-invite.md
+						122. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-logistics.md
+						123. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-livestream-reminder.md
+						124. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-follow-up.md
+				120. Logistics
+					120. Run of show
+					120. Pre-show
+					121. During show
+					122. Post show
+					123. Archive
+						124. https://www.youtube.com/channel/UCMEbih2k3WBsODB68WqwT6g/videos?sort=dd&shelf_id=0&view=0

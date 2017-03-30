@@ -1,4 +1,4 @@
-# Recipes
+# Introduction
 
 The PIE methodology has been tested, refined, and proven in Portland over an eight-year period. During that time, the program implementing that methodology has fostered the growth of [a number of companies](http://www.piepdx.com/#press-section), such as AppFog, AppThwack, Cloudability, Little Bird, Lytics, Outdoor Project, Simple, Supportland/Placemaker, Switchboard, Uncorked Studios, and Urban Airship, to name a few. 
 
@@ -231,7 +231,7 @@ Ideally, you'll sympathize with your Founders. At the very least, you must empat
 If you need help getting your head in the right place, read "[Why Y Combinator made all the difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)."
 
 
-# Kitchen Prep
+# Start small
 
 Where you start is where you start. Don't let the current state of things or the amount of effort required prevent you from taking action. Start small. Start today. It might not be where you want to start. But you've got to start somewhere.
 
@@ -558,7 +558,7 @@ It doesn't do you any good to try to build an accelerator full of consumer facin
 First, play to your strengths. Once you have momentum, then you can get visionary.
 
 
-# Cooking
+# Staring an accelerator
 
 Let's start with this. First and foremost, the primary objective of any Accelerator should be to **create an environment of trust that accelerates creative output**. That is the most basic way to describe it.
 
@@ -596,7 +596,7 @@ When you're first starting, the progression should look something like this:
 4. **Staff**, which allows you to recruit 
 5. **Mentors**, which become the primary means of attracting 
 6. **Startups**
-7. Which allows you to do this whole Accelerator thing 
+7. Which allows you to do this whole **Accelerator** thing 
 
 In terms of the amount of time you'll spend on each of these phases, the rank order looks more like this:
 
@@ -607,7 +607,7 @@ In terms of the amount of time you'll spend on each of these phases, the rank or
 5. Space
 6. Founders 
 
-# Base ingredients
+# Three critical components for any accelerator 
 
 In our experience, there are three critical components to supporting and maintaining a sustainable Accelerator: community, funding, and promotion. 
 
@@ -758,13 +758,13 @@ So we encourage you to approach your platform choices with these questions:
 - Are there certain platforms that your team simply enjoys using more than others? (If you don't like writing, starting a blog is the wrong idea. But maybe a podcast or a YouTube channel would be appropriate?)
 - What are the one or two platforms which would be most successful with the least amount of effort? Just because all of the platforms are there doesn't mean you need to be on all of them. Look for efficiencies.
 
-## Other critical ingredients
+## Other critical components
 
-Like any recipe, there are main ingredients and the ingredients which add flavor or make the dish. So while you could likely build an Accelerator with the base ingredients, we highly recommend adding some of these other critical ingredients to your Accelerator recipe.
+There are a number of other critical components — often subcomponents of the ones mentioned above — that will play an important role in helping to ensure the success of the accelerator program.
 
 ### Mentors
 
-The most critical of these "additional ingredients" will be your mentors. These are the assets that will actually make your Accelerator work — or fail. So we'll spend a great deal of time on this topic. 
+The most critical of these critical components will be your mentors. These are the assets that will actually make your Accelerator work — or fail. So we'll spend a great deal of time on this topic. 
 
 It is important to understand that there are different types of mentors, different ways to apply each mentor, and different motivations for the mentors to participate in the program. It's also important that you understand the best ways to recruit, manage, and reward your mentors for their participation in your program.
 
@@ -1170,7 +1170,7 @@ So let's say we wanted to help 10 startups in an area where the cost per square 
 
 $25(10(3*100)) = $75,000/year = $6250/month
 
-You can add other elements. But this gives you a starting point for ball parking the number. 
+You can add other elements. Like you're going to want to account for the monthly infrastructure costs — things like internet connectivity, electricity, water, sanitation…. But this gives you a starting point for ball parking the number. 
 
 ### Staff
 
@@ -1678,14 +1678,9 @@ For this reason, most people started talking calls outside on the stoop. Or star
 That worked fine when the weather was good. But that didn't work so well in the winter. Or during the rainy season. 
 
 So we were motivated to find a better solution. 
-
-				63. Fishbowl
-					64. How this enabled more effective mentors in residence and portfolio management
-	
-
  
 
-# Recipe for an Accelerator
+# Running an Accelerator
 
 ## Establish a thesis
 
@@ -3068,7 +3063,7 @@ We manage our invites through Eventbrite and reserve groups of tickets for Inves
 ### Venue
 Ideally you'll find one that that not only meets your needs for capacity, but can also handle the technical requirements you’ll have.  Make sure that your venue gives you time for walk-thrus with the presenters as well as rehearsal time. Bonus if you find one where you can host your post presentation reception (we’ll talk about those in a bit).  We had our first at a locally owned theatre and served popcorn.  We’ve since held it at a nicer venue.  The details are important here.  It’s like the saying goes, dress for the job you want to have – find a venue that matches the level you’re aiming for.
 
-As a reference we used the main theatre and mezzanine for our reception here: http://www.pcs.org/rent-the-armory/
+As a reference we used the main theatre and mezzanine for our reception here: [http://www.pcs.org/rent-the-armory/](http://www.pcs.org/rent-the-armory/)
 
 ### Technical requirements
 #### Number one rule
@@ -3107,25 +3102,7 @@ Producing an event like demo day takes a lot of time.  Not only are you managing
 One of the things we tried time and time again was to get the startups to take mentors and potential investors out to dinner after the event. From giving them money to do so to planning their itinerary. It never really worked as expected, but we still think it's a great way of continuing the conversations in a more intimate environment. 
 
 
-				123. Demo format
-				124. Additional content
-				118. Venue
-				119. Promotion
-					120. Communications
-						121. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-invite.md
-						122. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-logistics.md
-						123. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-livestream-reminder.md
-						124. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-demo-day-follow-up.md
-				120. Logistics
-					120. Run of show
-					120. Pre-show
-					121. During show
-					122. Post show
-					123. Archive
-						124. https://www.youtube.com/channel/UCMEbih2k3WBsODB68WqwT6g/videos?sort=dd&shelf_id=0&view=0
-# Dessert 
-
-## Post mortem
+# Post mortem
 
 If you’ve done your work on pitch practice correctly, your startups will be primed to turn the tables on you. 
 
