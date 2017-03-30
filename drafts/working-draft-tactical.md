@@ -1241,6 +1241,21 @@ There are any number of ways to customize your accelerator experience to fit the
 These are some additional costs to keep in mind, but they're not mission critical for the accelerator to work. These are a few examples of nice to haves.
  
 #### Investment
+
+When we started PIE, the prevailing accelerator model had accelerators making an equity investment in each of the companies that participated in the accelerator. The math at that time was $6000/founder up to three founders. So, $18,000. Common wisdom dictated that investment purchased 6% of the company. 
+
+As time went on, the models continued to fluctuate and change. Some folks started using convertible notes or SAFE documents to defer equity investments to a later date. Some chose to invest even more money — or to have an investment waiting post graduation. Some chose to have a floating amount of equity based on the perceived valuation of the company and the amount the accelerator was interested in investing. Others invested capital and then had the startup pay for the accelerator services out of that capital. Still others chose to forego taking equity, altogether. 
+
+These days, there are any number of ways to approach this problem. Obviously, the most expensive — in terms of capital required — is to invest a small amount of seed capital at the beginning of the class, followed by a larger, post graduation amount. This is the model that Techstars currently uses.
+
+If you want to use the current model as your ballpark number, then budget $20,000 + $100,000 per startup.
+
+There is no right or wrong way to go about this. And obviously, we could spend hours going through the pros and cons of each model. But the reality is, you need to choose what works for you based on what you're hoping to accomplish and the amount of capital you have at your disposal. 
+
+We simply recommend that you always question your motives and ensure that the process and associated costs are fair and equitable to the founders. Your accelerator should be delivering value. And there should be some equitable compensation for that value.  
+
+On the converse, this is not about your accelerator getting rich. Trust us. There are far easier ways to get rich than running a risky early stage startup accelerator.
+
 #### Demo Day
 #### Upkeep and Maintenance
 
