@@ -1235,6 +1235,11 @@ Maybe it's paying for a ticket for a founder to fly home. Maybe it's hiring a ba
 Whatever the case, we highly recommend that you earmark some budget for being nice and for taking care of your founders and your staff. It's these little things that make the accelerator more bearable. And make the community a community. 
 
 ### Optional costs
+
+There are any number of ways to customize your accelerator experience to fit the  types of startups with whom you want to work. Maybe you need more equipment? Maybe you want to take an interest in each of the companies? Maybe you want to have a demo day? 
+
+These are some additional costs to keep in mind, but they're not mission critical for the accelerator to work. These are a few examples of nice to haves.
+ 
 #### Investment
 #### Demo Day
 #### Upkeep and Maintenance
