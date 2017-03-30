@@ -1970,13 +1970,15 @@ Why? Well, in our experience, we've learned that each model has its pros and con
 
 # How to activate mentors
 
-At PIE, we used four different means of activating mentors by getting them engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
+At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
 
 We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
 
-# Mentoring the mentors
+Before you engage mentors with startups — whether they've had the opportunity to mentor before or not — it's important to give them a little mentoring, too. We recommend onboarding them with some context for mentoring, itself.
 
-Around the time [PIE](http://piepdx.com/ "PIE") was starting the accelerator phase of this ongoing experiment, [David Cohen](http://twitter.com/davidcohen), cofounder of [TechStars](http://techstars.com/ "TechStars"), shared the [TechStars Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/ "TechStars Mentor Manifesto"). And it served as an inspiration for me. [A post by Micah Baldwin](http://learntoduck.com/techstars/good-mentor/ "8 Rules To Being A Good Techstars Mentor"), a former TechStars mentor , provided a similar nudge for me.
+## Mentoring the mentors
+
+Around the time [PIE](http://piepdx.com/ "PIE") was starting the accelerator phase of this ongoing experiment, [David Cohen](http://twitter.com/davidcohen), cofounder of [TechStars](http://techstars.com/ "TechStars"), shared the [TechStars Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/ "TechStars Mentor Manifesto"). And it served as an inspiration for me. [A post by Micah Baldwin](http://archive.learntoduck.net/techstars/good-mentor/ "8 Rules To Being A Good Techstars Mentor"), a former TechStars mentor , provided a similar nudge for me.
 
 I’m often reminded to go back and reread both of these posts. And am inspired, again and again. So I thought I’d take the opportunity to augment the PIE mentor guidance a bit with some things that we’ve learned from observing PIE startups and mentors over the years.
 
