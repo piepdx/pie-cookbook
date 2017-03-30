@@ -2198,7 +2198,9 @@ We believe that anyone and everyone has the potential to be a mentor. Likewise, 
 
 Your challenge as a staff member is to figure out how to apply those mentors. 
 
-Expertise is not a prerequisite. Insights, willingness to share, and relatable stories are. So find the people who can talk honestly about their experiences. Whether they are considered "experts" or not.
+Expertise is not a prerequisite. Insights, willingness to share, and relatable stories are. So find the people who can talk honestly about their experiences and share relevant feedback. Whether they are considered "experts" or not.
+
+CAVEAT: Most of your speakers will be either founders or experts. But your entire mentor pool can have a ton of variety and levels of expertise — or lack thereof.
 
 #### 4) Speaking is more important than listening
 Sometimes, being a good speaker isn't what startups need. They need someone who listens. 
@@ -2269,6 +2271,8 @@ It’s part of the culture.
 Plus, most founders don't even need to prepare to tell these stories. They tell them all of the time.
 
 But you might need to prep them for the parts of the story that are most valuable to your startups.
+
+NOTE: Workshops get a pass here. Most workshops, you'll want a subject matter expert whether they happen to be a founder or not.
 
 #### Encourage mentors to tell stories of mistakes and failure 
 Talking about naive decisions and stumbles and screw ups. Sharing awful fucking mistakes. And heartbreaking failures. They aren’t pretty. But to other entrepreneurs they are way more important than recounting the completely random lucky set of circumstances that landed you where you are today.
