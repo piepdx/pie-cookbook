@@ -3124,27 +3124,6 @@ Rest easy. Had you told them any earlier, they wouldn’t have heard you. They w
 
 Don’t believe us? Try telling your next class earlier and see what happens.
 
-			119. Quarterly surveys
-			119. Metrics for success
-				120. Qualitative versus Quantitative 
-				121. Accelerator program versus Broader ecosystem
-				120. Traditional (https://github.com/piepdx/pie-cookbook/issues/6)
-					121. Jobs created
-					122. Capital raised
-					123. Valuation
-					124. Exits
-					125. Survival rate
-				126. Nontraditional
-			120. Ongoing portfolio management
-			120. Ongoing communications
-			121. Off season
-				122. Mentor recruitment
-				123. Startup recruitment
-				124. Events
-				125. Hackathons
-
-
-
 # Conclusion
 
 One of the primary motivations for writing the PIE Cookbook was the firm belief that this programmatic model for assisting founders and companies could inform the development of additional accelerator models. Or entirely new ways of managing this sort of mentorship.
