@@ -3012,26 +3012,7 @@ Admittedly we could do a better job of fostering the community among all of our 
 					108. Status reporting
 					109. Check-ins
 					110. Weekly reports
-				111. Pressure valves
-					112. Planned
-						113. Happy Hour
-						114. Nike employee store
-							115. Kept secret
-							116. Provided each founder with $100 spending money
-						115. Cooking together
-							116. Kitchen Cru
-					113. Impromptu
-						114. Meals
-						115. Perks
-						116. Financial assistance
-							117. Hiring a sitter so that a founder could spend time quality time with his wife
-			111. Brand sprints with W+K
-				112. Studio
-				113. Benefits to startups
-				114. Benefits to W+K
-			112. Startup sprints
-				113. 404
-				114. Bring the pain
+				
 # Demo Day 
 ## To Demo Day or not to Demo Day?
 ## Graduating from the program 
