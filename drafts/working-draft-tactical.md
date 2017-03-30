@@ -1234,6 +1234,14 @@ Maybe it's paying for a ticket for a founder to fly home. Maybe it's hiring a ba
 
 Whatever the case, we highly recommend that you earmark some budget for being nice and for taking care of your founders and your staff. It's these little things that make the accelerator more bearable. And make the community a community. 
 
+### Slush, fudge, and breathing room
+
+No matter how conservatively worst case your budget winds up, there are always unexpected costs that crop up. So we advise that you do more than round up. Consider adding another 10%-25% of the overall budget to account for unforeseen expenses. 
+
+Maybe you need to fly in an amazing mentor. Maybe there's an event that your startups need to attend. Maybe the whole cohort gets invited to the Bay Area to hang out at Google or Facebook. You never know. 
+
+The last thing you want to have happen is to miss an opportunity that could have been life changing for your founders, simply because you lacked the budget to make it happen. So plan accordingly. 
+
 ### Optional costs
 
 There are any number of ways to customize your accelerator experience to fit the  types of startups with whom you want to work. Maybe you need more equipment? Maybe you want to take an interest in each of the companies? Maybe you want to have a demo day? 
