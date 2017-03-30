@@ -2291,7 +2291,7 @@ Because failure is a different story. Knowing the story of failure will enable y
 
 Ask mentors to talk about mistakes and failures? Won’t that be difficult? No. It won’t. And if it is? Then that’s likely a red flag that you have chosen poorly with that mentor. Or the wounds are still too fresh. In which case, you should save that mentor for sometime in the future. 
 
-### Be prepared for Q&A to be awkward
+#### Be prepared for Q&A to be awkward
 Most early stage founders don't have enough experience to ask good questions. Don't worry. They'll get better as class goes on.
 
 To exacerbate matters, most founders aren't used to standing on stage and revealing all of their errors. 
@@ -2304,8 +2304,12 @@ But we also began to put more and more pressure on the startups to ask questions
 
 And guess what? Our best speakers did an equal amount of prep and due diligence on the companies in the cohort. Before they took the stage.
 
-### Being engaged is better than being polished
+#### Being engaged is better than being polished
+Try as they might, some founders are just really bad in front of a crowd. (I can say this because I happen to be one of them.) But fact of the matter is that they can be even more engaged by being awkward.
 
+It's more authentic. More genuine. And more engaging if they've let their guard down. 
+
+So encourage speakers to be real.
 
 ### Don't sweat the slides
 
