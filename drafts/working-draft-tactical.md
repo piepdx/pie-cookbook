@@ -2292,8 +2292,20 @@ Because failure is a different story. Knowing the story of failure will enable y
 Ask mentors to talk about mistakes and failures? Won’t that be difficult? No. It won’t. And if it is? Then that’s likely a red flag that you have chosen poorly with that mentor. Or the wounds are still too fresh. In which case, you should save that mentor for sometime in the future. 
 
 ### Be prepared for Q&A to be awkward
+Most early stage founders don't have enough experience to ask good questions. Don't worry. They'll get better as class goes on.
+
+To exacerbate matters, most founders aren't used to standing on stage and revealing all of their errors. 
+
+So the question and answer periods can get a little awkward. It happens.
+
+At PIE, we relied on staff to help ask pointed questions — because we were the best informed. We knew exactly what problems everyone in the room had, from speaker to startup. And we could use that knowledge to draw out interesting stories from the speaker that would be relevant to the startup founders in the class.
+
+But we also began to put more and more pressure on the startups to ask questions. And to do due diligence on the speakers before they were standing in front of the room. Because this sort of prep serves them well for any number of meetings. Teaching moment.
+
+And guess what? Our best speakers did an equal amount of prep and due diligence on the companies in the cohort. Before they took the stage.
 
 ### Being engaged is better than being polished
+
 
 ### Don't sweat the slides
 
