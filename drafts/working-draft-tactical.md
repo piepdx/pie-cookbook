@@ -1290,6 +1290,8 @@ Whatever the case, you're going to need to spend some money keeping the space up
 
 To get you started on the budgeting process, we've wiped a pro forma that PIE used for budgeting. It's a good way to start thinking through your budget. Feel free to make a copy and retool it to suit your needs.
 
+NOTE: This is a pro forma for one fiscal year of an accelerator that is already in operation. It does not account for startup costs, like buying furniture or tenant improvements. 
+
 Google Sheets: [PIE - Sample pro forma](https://docs.google.com/spreadsheets/d/1imODTZHjecv1GHHTp68seeGplYBmRb90OvI3D5FBNCA/edit?usp=sharing)
 
 # Space
