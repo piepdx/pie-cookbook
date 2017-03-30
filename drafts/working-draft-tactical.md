@@ -1280,6 +1280,10 @@ For budgeting, you'll want to assess venue costs, A/V costs, staging and product
 
 #### Upkeep and Maintenance
 
+If your accelerator is located within a larger office building, you may be expected to cover the costs of janitorial services or garbage. Or you may discover that you need to build another conference room. Or maybe some of your desks will fall apart because you didn't buy the IKEA desks we recommend.
+
+Whatever the case, you're going to need to spend some money keeping the space up to snuff — or maybe even improved. So earmark a portion of your budget to account for those expenditures. 
+
 ## Sample pro forma
 
 To get you started on the budgeting process, we've wiped a pro forma that PIE used for budgeting. It's a good way to start thinking through your budget. Feel free to make a copy and retool it to suit your needs.
