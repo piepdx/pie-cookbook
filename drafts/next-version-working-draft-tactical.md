@@ -331,3 +331,26 @@ Admittedly we could do a better job of fostering the community among all of our 
 					122. Post show
 					123. Archive
 						124. https://www.youtube.com/channel/UCMEbih2k3WBsODB68WqwT6g/videos?sort=dd&shelf_id=0&view=0
+
+## Post mortem
+
+			119. Quarterly surveys
+			119. Metrics for success
+				120. Qualitative versus Quantitative 
+				121. Accelerator program versus Broader ecosystem
+				120. Traditional (https://github.com/piepdx/pie-cookbook/issues/6)
+					121. Jobs created
+					122. Capital raised
+					123. Valuation
+					124. Exits
+					125. Survival rate
+				126. Nontraditional
+			120. Ongoing portfolio management
+			120. Ongoing communications
+			121. Off season
+				122. Mentor recruitment
+				123. Startup recruitment
+				124. Events
+				125. Hackathons
+
+

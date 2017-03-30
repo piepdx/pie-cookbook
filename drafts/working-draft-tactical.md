@@ -1970,13 +1970,17 @@ Why? Well, in our experience, we've learned that each model has its pros and con
 
 # How to activate mentors
 
-At PIE, we used four different means of activating mentors by getting them engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
+At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
 
 We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
 
-# Mentoring the mentors
+But before you engage mentors with startups — whether they've had the opportunity to mentor before or not — it's important to give them a little mentoring, too. 
 
-Around the time [PIE](http://piepdx.com/ "PIE") was starting the accelerator phase of this ongoing experiment, [David Cohen](http://twitter.com/davidcohen), cofounder of [TechStars](http://techstars.com/ "TechStars"), shared the [TechStars Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/ "TechStars Mentor Manifesto"). And it served as an inspiration for me. [A post by Micah Baldwin](http://learntoduck.com/techstars/good-mentor/ "8 Rules To Being A Good Techstars Mentor"), a former TechStars mentor , provided a similar nudge for me.
+We recommend onboarding folks with some context for mentoring, itself.
+
+## Mentoring the mentors
+
+Around the time [PIE](http://piepdx.com/ "PIE") was starting the accelerator phase of this ongoing experiment, [David Cohen](http://twitter.com/davidcohen), cofounder of [TechStars](http://techstars.com/ "TechStars"), shared the [TechStars Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/ "TechStars Mentor Manifesto"). And it served as an inspiration for me. [A post by Micah Baldwin](http://archive.learntoduck.net/techstars/good-mentor/ "8 Rules To Being A Good Techstars Mentor"), a former TechStars mentor , provided a similar nudge for me.
 
 I’m often reminded to go back and reread both of these posts. And am inspired, again and again. So I thought I’d take the opportunity to augment the PIE mentor guidance a bit with some things that we’ve learned from observing PIE startups and mentors over the years.
 
@@ -1986,9 +1990,9 @@ So we took that mentoring to heart.
 
 If you’re thinking about becoming a mentor for startups — either in a formal accelerator program or independently — here are some tips for thinking about how to work with entrepreneurs.
 
-## 10 tips for mentoring startups
+### 10 tips for mentoring startups
 
-### 1) Common sense is not common.
+#### 1) Common sense is not common.
 
 Mentors often worry that they need to come up with some earth-shattering insights to be of value. This couldn’t be further from the truth. Fact of the matter is that you spend day-in, day-out working in your area of expertise.
 
@@ -2021,7 +2025,7 @@ Like it or not, we are all victims of the “curse of knowledge.” And that’s
 
 And that’s why, be it for business or mentoring or whatever, I am constantly challenged — and fail regularly — to do two things:
 
-#### a) Stop assuming intuitive leaps have been made.
+##### a) Stop assuming intuitive leaps have been made.
 
 I have a really bad tendency to assume that everyone has already thought about what I’m thinking about. As such, I assume that they’re making the same intuitive leaps I am. So I don’t say anything. Or share thoughts.
 
@@ -2029,7 +2033,7 @@ The problem with this is that — more often than not — they aren’t 
 
 What’s more, I’m really trying to focus on beginning at the introductory level — the 101 — and go from there. Without being pedantic or dismissive. Because you can’t just jump into the deep end of the pool and assume that everyone knows how to swim.
 
-#### b) Over-communicating what I think I know.
+##### b) Over-communicating what I think I know.
 
 If I’m not sure where my peers stand, then the onus is on me to be more effective at communicating. And I need to be more conscious and deliberate about sharing my opinions. No matter how small our company or our organization, we should be over-communicating when telling one another what is important, how we think things should be done, and how we have learned to get there.
 
@@ -2042,7 +2046,7 @@ You know more about what you do than I do, or he does, or she does, or they do. 
 
 > That thing that seems so completely obvious to you? It isn’t to the rest of us. Your common sense isn’t common.
 
-### 2) Your mistakes are often more valuable than your successes.
+#### 2) Your mistakes are often more valuable than your successes.
 
 While sharing your victories can be motivating for startups and entrepreneurs, being open about your failures and mistakes can often be more helpful. The stumbles and downfalls are the things that caused you to lose sleep, to stress, and to doubt. Share those. So that everyone can learn from them.
 
@@ -2050,7 +2054,7 @@ While sharing your victories can be motivating for startups and entrepreneurs, b
 
 We always say that PIE is about “making new mistakes.” There are two reasons: 1) If startups are repeating mistakes our mentors have already made, we’re failing them and 2) If the startups go out and make new mistakes, then they can come back as mentors to prevent others from making those mistakes.
 
-### 3) You don’t have to know everything.
+#### 3) You don’t have to know everything.
 
 You were asked to mentor because of your experience. And because you’re awesome. But that doesn’t mean you need to know everything. Nor does it mean the onus is on you to know everything.
 
@@ -2058,7 +2062,7 @@ You were asked to mentor because of your experience. And because you’re awesom
 
 You’ll be surprised at how seemingly simple things can drastically improve a startup’s potential and perspective.
 
-### 4) You are more than your role or profession.
+#### 4) You are more than your role or profession.
 
 This one became especially clear with our corporate mentors. Sometimes, you have to take off your “brand hat” and put away your business card.
 
@@ -2066,7 +2070,7 @@ This one became especially clear with our corporate mentors. Sometimes, you have
 
 You are an incredibly talented individual who has made it to the position you’re in because of the decisions you’ve made. And its your insight and intellect that guided those decisions — that brought you to your current role. Sometimes, just being you and providing personal advice can be incredibly beneficial.
 
-### 5) Know your limitations.
+#### 5) Know your limitations.
 
 Don’t over promise. Don’t under deliver. And don’t get yourself into a mentoring situation that has you feeling stressed. An hour of your time is valuable. If that’s all you have to give, that’s all we’re asking you to give.
 
@@ -2074,7 +2078,7 @@ Don’t over promise. Don’t under deliver. And don’t get yourself into a men
 
 It’s the opportunity to share what you’ve learned. And to prevent others from making the mistakes you’ve made. It should be seen as such.
 
-### 6) Advise as if you were an employee.
+#### 6) Advise as if you were an employee.
 
 Mentors are often driven individuals who have attained their position through sheer determination and hard work. They’re often people who take the wheel and try to steer others in the right direction. And they’re used to leading.
 
@@ -2084,7 +2088,7 @@ And fact of the matter is that — no matter how vehemently you support or o
 
 We take this from the vantage of an employee or consultant advising his or her superiors. “This is my opinion on what should be done, but you’re the boss.” Mostly because I’m fairly sure I’ll be working for one these entrepreneurs one day.
 
-### **7) Be honest.**
+#### **7) Be honest.**
 
 While mentoring can be a lot about bolstering the outlook for new entrepreneurs and motivating them to change the world, that’s not the goal of mentoring. The goal of mentoring is positive. But the path may not be.
 
@@ -2092,7 +2096,7 @@ While mentoring can be a lot about bolstering the outlook for new entrepreneurs 
 
 Sometimes, your feedback will be negative. Sometimes, your feedback will be difficult. But it should always be honest and critical — in both the positive and negative sense of the word.
 
-### **8) You can’t fix everything. Nor should you.**
+#### **8) You can’t fix everything. Nor should you.**
 
 You’re not here to rescue anyone. You’re here to provide startups with feedback. And you’re here to challenge them. That’s all we ask. If you want to take an entrepreneur under your wing, please feel free. But don’t feel obligated to solve their problems.
 
@@ -2100,7 +2104,7 @@ You’re not here to rescue anyone. You’re here to provide startups with feedb
 
 More often than not, the problems you see haven’t even dawned on them yet. So tell them. But don’t try to fix the problems for them.
 
-### **9) Take it personally.**
+#### **9) Take it personally.**
 
 We want you to be invested. We want you to be happy and frustrated and proud and confounded. We want you along for the rollercoaster ride. We need you to take this personally.
 
@@ -2108,7 +2112,7 @@ We want you to be invested. We want you to be happy and frustrated and proud and
 
 At times, it will be completely aggravating. But that means you’re taking it personally. And that’s what these entrepreneurs need.
 
-### **10) Mentor one another.**
+#### **10) Mentor one another.**
 
 You’re not just here to give. You’re here to get. It’s a two-way street. So talk to other mentors. Get advice from the startups. Get advice from your peers. Get advice from anyone in the community.
 
@@ -2116,11 +2120,9 @@ You’re not just here to give. You’re here to get. It’s a two-way street. S
 
 And be equally willing to listen when another mentor wants to impart their knowledge to you.
 
-**Good luck. And thank you for giving back.**
+## Mentoring, like many accelerator things, is messy
 
-# Notes on mentoring
-
-"Accelerator" can be a misnomer, in some cases. Accelerators are actually about slowing down, making connections, and contributing to community. They're about making busy people focus. About creating lines where there are only dots. 
+As a mentor, it's important to understand that "accelerator" is often a misnomer. Accelerators are actually about slowing down, making connections, and contributing to community. They're about making busy people focus. About creating lines where there are only dots. 
 
 If they accelerate anything, they accelerate connection. For both those mentors who choose to participate. As well as for the founders who are selected. 
 
@@ -2134,7 +2136,7 @@ It doesn't have metrics. Or milestones. Or process.
 
 But it does have technique. It does have examples. And guidelines. And guardrails. For both the mentors and those being mentored. And for peers.
 
-## In Practice (via @eighteyes)
+## Mentorship in Practice (via @eighteyes)
 Mentoring is an alignment of perspective. Here, you have to take the life experiences of another person, and have them understand your perspective. As a mentor, you must take the time to know a person, how a person thinks, what their experience is. A handy way to approach this is to speak about complicated material in the form of metaphors.
 
 ### Metaphors are powerful teaching tools (via @eighteyes)
@@ -2157,51 +2159,57 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 ### Learn Openly (via @eighteyes)
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
+## Preparing mentors to speak to a class
 
-# Preparing mentors to speak to a class
+One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the entire class. For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
 
-One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the class as a whole. For some accelerators, this can happen sporadically. For others, in can take place several times a week. 
+At PIE, we found a cadence of two talks — where a single mentor addresses the entire class — per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. 
 
-At PIE, we found a cadence of two talks per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. Variety, am I right?
+Variety, am I right?
 
-## Initial misconceptions
+### Misconceptions about mentor presentations
 
-In our experience, we've found that there are a few misconceptions some communities have about speakers. So we wanted to dispel those immediately.
+In our experience, we've found that there are a few misconceptions some communities have about mentors presentations. So we wanted to dispel those immediately.
 
-### Mentors who want to speak are the mentors that should speak
-
-Despite rumors to the contrary, there will likely be a large contingent of your community that actually enjoys presenting in front of an audience. They enjoy the stage. And they enjoy public speaking. And as your program — or programming — becomes more prominent and recognized, these folks will seek out your program. 
+#### 1) Mentors who want to speak are the mentors that should speak
+Despite rumors to the contrary, there will likely be a large contingent of your community that actually enjoys presenting in front of an audience. They enjoy the stage. And they enjoy public speaking. And as your program — or programming — becomes more prominent and recognized, these folks will seek out your program for speaking opportunities. 
 
 Sometimes they're amazing speakers. Sometimes they're not. There is value in each of those outcomes. 
 
 Amazing speakers really help the startups. Not so amazing speakers can provide great conversation points for the startups and staff. 
 
-But don't think you have to take all comers. Like so many things that happen in the chaotic environment of the accelerator, you have to determine if the timing is right. For the content. For the personality. And for the startups. Because wasting a good speaker at the wrong time is just as bad as having an off topic speaker at the wrong time.
+But don't think you have to take all comers. Like so many things that happen in the chaotic environment of the accelerator, you have to determine if the timing is right. For the content. For the personality. And for the startups. 
 
-### Mentors who don't want to speak shouldn't speak
+Because wasting a good speaker at the wrong time is just as bad as having an off topic speaker at the right time.
 
+#### 2) Mentors who don't want to speak shouldn't speak
 While shouldn't you take all comers, the converse is also true. Sometimes, you have to seek out the mentor who doesn't want to present in front of the class. Because they have valuable insight. Or interesting stories. Or the startups simply need to have a little boost.
 
 Act accordingly.
 
-While it may take more cajoling and prepping, it is critically important that you always find the right speakers. Not just the speakers to which you have immediate access.
+While it may take more cajoling and prepping, it is critically important that you always find the right speakers. Not just the speakers to which you have immediate access. And not just the folks who want to speak.
 
-### Mentors need to be expert
+You're here to help your founders. And your mentors want to help founders. Sometimes that's awkward and uncomfortable.
 
-Another misconception we will attempt to address time and time again is the idea that mentors need to be expert. We believe that anyone and everyone has the potential to be a mentor. Likewise, anyone and everyone has the potential to speak as a mentor. 
+#### 3) Mentors need to be experts
+Another misconception is the idea that mentors need to be expert in their field. 
+
+We believe that anyone and everyone has the potential to be a mentor. Likewise, anyone and everyone has the potential to speak as a mentor. And to provide valuable insights to your founders.
+
+Your challenge as a staff member is to figure out how to apply those mentors. 
 
 Expertise is not a prerequisite. Insights, willingness to share, and relatable stories are. So find the people who can talk honestly about their experiences. Whether they are considered "experts" or not.
 
-### Listening is more important than speaking
+#### 4) Speaking is more important than listening
+Sometimes, being a good speaker isn't what startups need. They need someone who listens. 
 
-We find that some of our best mentor speakers are those who spend less time presenting and more time conversing or purely listening. So make sure to find folks who are comfortable with that dynamic. 
+We find that some of our best mentor speakers are those who spend less time presenting and more time chatting — or just listening. So make sure to find folks who are comfortable with that dynamic. 
 
 You're much better off to have a so-so presentation with a lively Q&A session than to have a polished oratory followed by crickets. 
 
-Startups are in your program to explore opportunities, question assumptions, and get their hands dirty. Not revel in theory. So make sure they have speakers who draw that conversation out.
+Startups are in your program to explore opportunities, question assumptions, and get their hands dirty. They are seeking opportunities to learn about practical applications and unique insights. Not to revel in theory. So make sure founders have speakers who draw that conversation out.
 
-### You need a formal setting for presentations
-
+#### 5) You need a formal setting for presentations
 We've pretty much covered this in the space design. But to hit it one more time… 
 
 We talk to a lot of folks who dodge the whole speaker thing with, "Well, we don't have anywhere to do it."
@@ -2212,15 +2220,19 @@ PIE's mentors had, arguably, one of the most thankless presentation platforms ev
 
 Tough room, as the comedians say. We made due. 
 
-And I would argue that the very nature of the raw space lent itself to more candid discussions. That forcing founders to pull back from their desks and wheel their chairs away from obstructions caused them to be more engaged. That even those founders who remained intently typing away throughout the presentation gained something. Because they were immersed in the moment.
+And I would argue that the very nature of the raw space lent itself to more candid discussions. That by forcing founders to pull back from their desks and wheel their chairs away from obstructions caused them to be more engaged. That even those founders who remained intently typing away throughout the presentation gained something. Because they were immersed in the moment.
 
 The best stage is the stage you have. Make due. 
 
-## Coaching the mentors
+### Prepping mentors for speaking to your founders
 
 Once you've selected a mentor to speak, it will benefit both the community and your program if you adequately prepare them for the talk. 
 
 Even the most seasoned CEO with a completely polished pitch can become a babbling idiot when trying to describe how they built the business — or how they failed. But those are the stories that provide the most value to the startups you're trying to help.
+
+So give your mentors some guidance before they wind up on stage.
+
+Here are some of the ways we tried to do that in PIE.
 
 ### Encourage mentors to tell stories of failure and mistakes. 
 
@@ -3095,9 +3107,6 @@ Sigh.  You could do it, but do you wanna?  (inside joke ftw) It’s really not w
 ### Post show reception (1.5 hours)
 To facilitate conversations post presentations we host a private reception for our companies, media, and investors, immediately after curtain call.  Work with teams to find out who they’d like to attend and help make those introductions happen.  This is not a wrap party, but you should provide some bites and drinks. After all, the majority of the attendees just sat through an entire presentation. 
 
-### Finally, food
-Producing an event like demo day takes a lot of time.  Not only are you managing each individual company and making sure their presentation is ready, but you’re managing the entire show.  
-
 ### Denouement: Repair to dinner
 One of the things we tried time and time again was to get the startups to take mentors and potential investors out to dinner after the event. From giving them money to do so to planning their itinerary. It never really worked as expected, but we still think it's a great way of continuing the conversations in a more intimate environment. 
 
@@ -3123,27 +3132,6 @@ To this end, we can almost guarantee that one of the most consistent pieces of f
 Rest easy. Had you told them any earlier, they wouldn’t have heard you. They would have ignored it. Or they would have believed that the problem would never affect them.
 
 Don’t believe us? Try telling your next class earlier and see what happens.
-
-			119. Quarterly surveys
-			119. Metrics for success
-				120. Qualitative versus Quantitative 
-				121. Accelerator program versus Broader ecosystem
-				120. Traditional (https://github.com/piepdx/pie-cookbook/issues/6)
-					121. Jobs created
-					122. Capital raised
-					123. Valuation
-					124. Exits
-					125. Survival rate
-				126. Nontraditional
-			120. Ongoing portfolio management
-			120. Ongoing communications
-			121. Off season
-				122. Mentor recruitment
-				123. Startup recruitment
-				124. Events
-				125. Hackathons
-
-
 
 # Conclusion
 
