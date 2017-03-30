@@ -3095,9 +3095,6 @@ Sigh.  You could do it, but do you wanna?  (inside joke ftw) It’s really not w
 ### Post show reception (1.5 hours)
 To facilitate conversations post presentations we host a private reception for our companies, media, and investors, immediately after curtain call.  Work with teams to find out who they’d like to attend and help make those introductions happen.  This is not a wrap party, but you should provide some bites and drinks. After all, the majority of the attendees just sat through an entire presentation. 
 
-### Finally, food
-Producing an event like demo day takes a lot of time.  Not only are you managing each individual company and making sure their presentation is ready, but you’re managing the entire show.  
-
 ### Denouement: Repair to dinner
 One of the things we tried time and time again was to get the startups to take mentors and potential investors out to dinner after the event. From giving them money to do so to planning their itinerary. It never really worked as expected, but we still think it's a great way of continuing the conversations in a more intimate environment. 
 
