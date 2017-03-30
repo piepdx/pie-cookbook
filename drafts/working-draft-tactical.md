@@ -2237,9 +2237,13 @@ Here are some of the ways we tried to do that in PIE.
 #### Give them guidance on the room
 With PIE's mentors, most folks had visited the space before they presented there. But if they were visitors or hadn't been in the space, we made sure they were aware of how difficult the room was. 
 
+If they were giving a founder talk or doing a Q&A session, they got different prep than a workshop format.
+
 We didn't require slides. But if folks had them, we let them know we had a dinky projector and a white wall onto which we would trow their deck. 
 
-And we made it clear that we didn't have any audio equipment. 
+If they were doing a workshop, we'd make sure that they were well armed with whiteboards and markers. (Sometimes founder talks require whiteboards as well.)
+
+And we made it clear that we didn't have any audio equipment. No matter what the format. 
 
 #### If you plan to record, get permission
 As time went on, we started recording the presentations. Not for public consumption. But so that founders could return to previous content as needed. Or in case they missed a mentor session.
@@ -2248,6 +2252,8 @@ If you choose to record your sessions, get permission from the mentor ahead of t
 
 ### Trying to use this format as an educational platform is extremely challenging, if not ripe for failure (and not the kind of failure we want)
 Let's be completely blunt here. It will be extremely rare that all of your founders are all experiencing the same problem simultaneously. And even if they are? A lecture based format is about the worst format for them to be dealing with the problem.
+
+So save these sorts of educational sessions for workshops or one-on-one meetings. 
 
 Founders don't want to hear about the problems they're having. They want to fix the problems they're having. So we don't recommend that you choose this lecture format as a means of solving problems. It rarely works. And there are better ways of addressing those issues (which we'll get into later).
 
@@ -2296,7 +2302,7 @@ Most early stage founders don't have enough experience to ask good questions. Do
 
 To exacerbate matters, most founders aren't used to standing on stage and revealing all of their errors. 
 
-So the question and answer periods can get a little awkward. It happens.
+So the question and answer periods can get a little awkward. It happens. Especially in the workshop format. Because your founders are often trying to consume, process, and apply all at once.
 
 At PIE, we relied on staff to help ask pointed questions — because we were the best informed. We knew exactly what problems everyone in the room had, from speaker to startup. And we could use that knowledge to draw out interesting stories from the speaker that would be relevant to the startup founders in the class.
 
@@ -2311,20 +2317,19 @@ It's more authentic. More genuine. And more engaging if they've let their guard 
 
 What's more, polished stories start to feel stilted in this sort of environment. They're great for pitches. Or for the big stage. But in this sort of intimate setting, they can fall flat. 
 
+Even if it's a workshop. It should still feel more natural than forced.
+
 So encourage speakers to be real. Because that will help them have more impact on your startups.
 
-### Don't sweat the slides
+#### Don't sweat the slides
 Some folks need slides. Some don't. Some are better with slides. Some are worse.
 
 Long story short, don't require speakers to have slides to speak. In fact, more often than not, you might want to ask them to leave the slides behind.
 
 The caveat here is that the workshop format can be helped by slides. But the vast majority of your talks won't be workshops.
 
-### Don't make it a sales pitch
+#### Don't make it a sales pitch
 Just don't.
-
-
-
 
 ## Presentation with Q&A
 
