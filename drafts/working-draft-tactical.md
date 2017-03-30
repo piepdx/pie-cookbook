@@ -2307,7 +2307,9 @@ And guess what? Our best speakers did an equal amount of prep and due diligence 
 #### Being engaged is better than being polished
 Try as they might, some founders are just really bad in front of a crowd. (I can say this because I happen to be one of them.) But fact of the matter is that they can be even more engaged by being awkward.
 
-It's more authentic. More genuine. And more engaging if they've let their guard down. 
+It's more authentic. More genuine. And more engaging if they've let their guard down.
+
+What's more, polished stories start to feel stilted in this sort of environment. They're great for pitches. Or for the big stage. But in this sort of intimate setting, they can fall flat. 
 
 So encourage speakers to be real.
 
