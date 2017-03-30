@@ -1216,13 +1216,41 @@ We'd recommend increasing the meal budget by at least 25% to cover these additio
 
 If you want to get more granular, just reduce the complexity of the equation above. With the same parameters, z(a*3) will give you the total cost of a single meal for your startups. For PIE that's 10($15*3) = $450. Which we'd just call $500, for budgeting purposes. So an additional 25% budget, would cover about 10 additional meals with a little left over (ahem) for snacks and beverages and stuff.
 
-### Investment
-### Upkeep and Maintenance
-### Demo Day
-			54. Pro forma
+And remember, that's just during class. You'll want to be sure to reserve some budget for the off season, especially if you're going to allow folks to remain in the space.
+
+### Legal and Accounting
+
+Like it or not, you're going to incur costs for legal and accounting. Conservatively, as a ballpark, we'd recommend budgeting $20,000 for legal and $20,000 for accounting. 
+
+If you're planning on making an equity investment in the companies your program, your legal costs are going to be more significant. 
+
+It's also important to plan for legal costs outside the normal course of doing business. For example, it's become common practice to perform background checks on participants before they enter the program. At PIE, we chose to run basic background checks on all of the founders as part of the due diligence process, once they were accepted into the program. It's purely a precautionary measure. But it's highly recommended. Pricing for this sort of service can vary, but make sure to budget for it. 
+
+### Perks
+
+Another must-have budget item is a slush fund for perks. Because at some point, you're going to need to help your founders blow off some steam. Or someone is going need a short term loan. Or there's going to being something stressing someone out in the most debilitating of ways. 
+
+Maybe it's paying for a ticket for a founder to fly home. Maybe it's hiring a babysitter so that a founder can have a date with their significant other. Maybe it's just taking the entire office out for an impromptu happy hour or shopping trip.
+
+Whatever the case, we highly recommend that you earmark some budget for being nice and for taking care of your founders and your staff. It's these little things that make the accelerator more bearable. And make the community a community. 
+
+### Optional costs
+
+There are any number of ways to customize your accelerator experience to fit the  types of startups with whom you want to work. Maybe you need more equipment? Maybe you want to take an interest in each of the companies? Maybe you want to have a demo day? 
+
+These are some additional costs to keep in mind, but they're not mission critical for the accelerator to work. These are a few examples of nice to haves.
+ 
+#### Investment
+#### Demo Day
+#### Upkeep and Maintenance
+
+## Sample pro forma
+
+To get you started on the budgeting process, we've wiped a pro forma that PIE used for budgeting. It's a good way to start thinking through your budget. Feel free to make a copy and retool it to suit your needs.
+
+Google Sheets: [PIE - Sample pro forma](https://docs.google.com/spreadsheets/d/1imODTZHjecv1GHHTp68seeGplYBmRb90OvI3D5FBNCA/edit?usp=sharing)
+
 # Space
-
-
 ## Create a Minimally Valuable Space
 
 At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
@@ -2833,8 +2861,6 @@ The last week is pretty much nonstop practice, where we not only continue to fin
 
 If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
 
-
-
 				97. Work time
 				98. Social time
 					99. Coffee hour
@@ -2852,6 +2878,16 @@ If you can, take the opportunity to have the presenters practice in the venue. W
 					103. Status reporting
 					104. Weekly 1:1
 					105. Office hours
+					
+## Shared experiences
+						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
+						114. Family Dinner
+						115. Lunch
+						112. Pitch Practice
+					108. Status reporting
+					109. Check-ins
+					110. Weekly reports
+
 
 **Advice for startups: Working with mentors**
 
@@ -2930,17 +2966,6 @@ Example topics:
 **1:Team**
 **Office hours**
 
-					103. Informal
-						103. Happy hours
-						104. After hours
-						104. Social gatherings
-						105. Pitch practice
-						106. Drop ins
-						107. On the fly/visiting mentors
-				108. Peer mentoring
-					109. Creating the culture of peer mentoring
-					110. Enabling random collisions through the selection process
-					111. Reinforcing collaboration and trust
 					
 **Encouraging bonding among peers** 
 
@@ -2952,61 +2977,10 @@ We've also learned that it’s important to use a range of bonding activities. A
 
 The basic rule is: Be inclusive. And provide a range of options. Not every option will work for every participant. 
 
-Below is a list of things we’ve done.
-	
-## Activity examples 
-
-### Cooking class
-With a name like PIE, it should come as little surprise that a number of our activities revolve around food. And when you have that much creative talent in one room, sometimes it's refreshing to give folks a different outlet for that creativity — especially one that doesn't involve banging on a keyboard. 
-
-One activity that met both our food and creativity needs was a cooking class. For the first couple of years, we partnered with a local food accelerator that had commercial kitchen space. They put together a menu, taught our founders to prepare a dish from scratch, and then the entire group had the opportunity to share in the creations, family style. 
-
-Everyone — no matter how well attuned they were to a kitchen — was out of his or her element. And it put everyone on equal footing. Best of all, there were always a few unexpected surprises when we discovered the true chefs in our midst.
-
-Each year we did this resulted in the best family dinner of the class. 
-
-### Alumni vs new class kickball or picnic 
-### Away from the computer/office activities 
-### Mixers + happy hours
-we’ve done hot sauce tasting, cheese and wine pairings, etc
-
-### Family open house
-a lot of program companies have families.  It’s nice to give family and friends an opportunity to check out the space
-
-Admittedly we could do a better job of fostering the community among all of our classes, but at the very least there is an understanding that they can count on one another for support.
-
-
-					112. Using shared experiences
-						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
-						114. Family Dinner
-						115. Lunch
-						112. Pitch Practice
-					108. Status reporting
-					109. Check-ins
-					110. Weekly reports
-				111. Pressure valves
-					112. Planned
-						113. Happy Hour
-						114. Nike employee store
-							115. Kept secret
-							116. Provided each founder with $100 spending money
-						115. Cooking together
-							116. Kitchen Cru
-					113. Impromptu
-						114. Meals
-						115. Perks
-						116. Financial assistance
-							117. Hiring a sitter so that a founder could spend time quality time with his wife
-			111. Brand sprints with W+K
-				112. Studio
-				113. Benefits to startups
-				114. Benefits to W+K
-			112. Startup sprints
-				113. 404
-				114. Bring the pain
+				
 # Demo Day 
 ## To Demo Day or not to Demo Day?
-## Graduating from the program | DEMO DAY
+## Graduating from the program 
 
 Graduation requirements can be modified to fit your programs needs or specialities. Most, if not all, programs culminate with a demo day. Companies give a 6-8 minute pitches of their product in front of an audience that can be made up of a combination of stakeholders, investors, mentors, media, and/or community. 
 
