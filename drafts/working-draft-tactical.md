@@ -2861,8 +2861,6 @@ The last week is pretty much nonstop practice, where we not only continue to fin
 
 If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
 
-
-
 				97. Work time
 				98. Social time
 					99. Coffee hour
@@ -2880,6 +2878,16 @@ If you can, take the opportunity to have the presenters practice in the venue. W
 					103. Status reporting
 					104. Weekly 1:1
 					105. Office hours
+					
+## Shared experiences
+						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
+						114. Family Dinner
+						115. Lunch
+						112. Pitch Practice
+					108. Status reporting
+					109. Check-ins
+					110. Weekly reports
+
 
 **Advice for startups: Working with mentors**
 
@@ -2969,15 +2977,6 @@ We've also learned that it’s important to use a range of bonding activities. A
 
 The basic rule is: Be inclusive. And provide a range of options. Not every option will work for every participant. 
 
-
-					112. Using shared experiences
-						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
-						114. Family Dinner
-						115. Lunch
-						112. Pitch Practice
-					108. Status reporting
-					109. Check-ins
-					110. Weekly reports
 				
 # Demo Day 
 ## To Demo Day or not to Demo Day?
