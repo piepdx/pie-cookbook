@@ -1246,8 +1246,6 @@ To get you started on the budgeting process, we've wiped a pro forma that PIE us
 Google Sheets: [PIE - Sample pro forma](https://docs.google.com/spreadsheets/d/1imODTZHjecv1GHHTp68seeGplYBmRb90OvI3D5FBNCA/edit?usp=sharing)
 
 # Space
-
-
 ## Create a Minimally Valuable Space
 
 At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
