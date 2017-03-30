@@ -2321,7 +2321,7 @@ Long story short, don't require speakers to have slides to speak. In fact, more 
 The caveat here is that the workshop format can be helped by slides. But the vast majority of your talks won't be workshops.
 
 ### Don't make it a sales pitch
-
+Just don't.
 
 
 
