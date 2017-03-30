@@ -1170,7 +1170,7 @@ So let's say we wanted to help 10 startups in an area where the cost per square 
 
 $25(10(3*100)) = $75,000/year = $6250/month
 
-You can add other elements. But this gives you a starting point for ball parking the number. 
+You can add other elements. Like you're going to want to account for the monthly infrastructure costs — things like internet connectivity, electricity, water, sanitation…. But this gives you a starting point for ball parking the number. 
 
 ### Staff
 
