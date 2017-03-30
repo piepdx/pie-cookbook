@@ -1260,9 +1260,15 @@ On the converse, this is not about your accelerator getting rich. Trust us. Ther
 
 Like investing, the prevailing model when we started PIE included a "Demo Day" as the graduation from the program. At the time, this generally involved filling a theater with a bunch of would-be investors in an attempt to get meaningful conversation started between founders and investors.
 
-Since then, there have been many different takes on the Demo Day model. Some are low-key events that take place behind close doors. Some are huge splashy community events with a live band and pomp and circumstance that are designed as  a celebration of community and accomplishment rather than a way of securing funding. (This was where PIE went with its Demo Day.) 
+Since then, there have been many different takes on the Demo Day model. Some are low-key events that take place behind close doors. Some are huge splashy community events — in a huge theater with a live band, a livestream of the content available to anyone in the whole world, and pomp and circumstance — that are designed as  a celebration of community and accomplishment rather than a way of securing funding. (This was where PIE went with its Demo Day.) Still others have done away with Demo Days altogether.
 
 ![PIE Demo Day](/source/images/supportland-demo-day-pie.jpg)
+
+Again, there is no right way to do this. You simply need to make the decision based on the needs of your community and your founders. Demo Days can be incredibly impactful. 
+
+But, it's important to understand that these days, that impact does not generally come in the form of raising capital. Investors could attend a demo day practically every week of the year at this point. So if connecting investors with your founders is your primary goal, get more creative about how to make those connections. Because a demo day probably isn't it. 
+
+For budgeting, you'll want to assess venue costs, A/V costs, staging and production, livestream, band, hosts, whatever… You can go as small as possible or as large as budget will allow. But do what works for your community.
 
 #### Upkeep and Maintenance
 
