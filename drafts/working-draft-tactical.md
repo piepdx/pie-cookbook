@@ -1204,7 +1204,7 @@ So for PIE the equation looks like this:
 
 12(3(10($15*3))) = $16,200/class
 
-That's just meals. And just for the founders. Sometimes you'll have mentors stop by. And you'll have mentors in residence eating. So, for budgeting purposes, we'd recommend rounding that up to $20,000/class. 
+That's just meals. And just for the founders. Sometimes you'll have mentors stop by. And you'll have mentors in residence eating. And people will hire staff. So, for budgeting purposes, we'd recommend rounding that PIE number up to $20,000/class. 
 
 But remember that the founders will be in your space day in, day out. And mentors will be around a lot. And investors. And other folks using the space. And events. So we'll need to budget for beverages, snacks, and other incidentals. (NOTE: If you're planning on hosting large events like opening parties and the like, we recommend budgeting for those separately.)
 
@@ -1234,6 +1234,14 @@ Maybe it's paying for a ticket for a founder to fly home. Maybe it's hiring a ba
 
 Whatever the case, we highly recommend that you earmark some budget for being nice and for taking care of your founders and your staff. It's these little things that make the accelerator more bearable. And make the community a community. 
 
+### Slush, fudge, and breathing room
+
+No matter how conservatively worst case your budget winds up, there are always unexpected costs that crop up. So we advise that you do more than round up. Consider adding another 10%-25% of the overall budget to account for unforeseen expenses. 
+
+Maybe you need to fly in an amazing mentor. Maybe there's an event that your startups need to attend. Maybe the whole cohort gets invited to the Bay Area to hang out at Google or Facebook. You never know. 
+
+The last thing you want to have happen is to miss an opportunity that could have been life changing for your founders, simply because you lacked the budget to make it happen. So plan accordingly. 
+
 ### Optional costs
 
 There are any number of ways to customize your accelerator experience to fit the  types of startups with whom you want to work. Maybe you need more equipment? Maybe you want to take an interest in each of the companies? Maybe you want to have a demo day? 
@@ -1241,12 +1249,48 @@ There are any number of ways to customize your accelerator experience to fit the
 These are some additional costs to keep in mind, but they're not mission critical for the accelerator to work. These are a few examples of nice to haves.
  
 #### Investment
+
+When we started PIE, the prevailing accelerator model had accelerators making an equity investment in each of the companies that participated in the accelerator. The math at that time was $6000/founder up to three founders. So, $18,000. Common wisdom dictated that investment purchased 6% of the company. 
+
+As time went on, the models continued to fluctuate and change. Some folks started using convertible notes or SAFE documents to defer equity investments to a later date. Some chose to invest even more money — or to have an investment waiting post graduation. Some chose to have a floating amount of equity based on the perceived valuation of the company and the amount the accelerator was interested in investing. Others invested capital and then had the startup pay for the accelerator services out of that capital. Still others chose to forego taking equity, altogether. 
+
+These days, there are any number of ways to approach this problem. Obviously, the most expensive — in terms of capital required — is to invest a small amount of seed capital at the beginning of the class, followed by a larger, post graduation amount. This is the model that Techstars currently uses.
+
+If you want to use the current model as your ballpark number, then budget $20,000 + $100,000 per startup.
+
+There is no right or wrong way to go about this. And obviously, we could spend hours going through the pros and cons of each model. But the reality is, you need to choose what works for you based on what you're hoping to accomplish and the amount of capital you have at your disposal. 
+
+We simply recommend that you always question your motives and ensure that the process and associated costs are fair and equitable to the founders. Your accelerator should be delivering value. And there should be some equitable compensation for that value.  
+
+On the converse, this is not about your accelerator getting rich. Trust us. There are far easier ways to get rich than running a risky early stage startup accelerator.
+
 #### Demo Day
+
+Like investing, the prevailing model when we started PIE included a "Demo Day" as the graduation from the program. At the time, this generally involved filling a theater with a bunch of would-be investors in an attempt to get meaningful conversation started between founders and investors.
+
+Since then, there have been many different takes on the Demo Day model. Some are low-key events that take place behind close doors. Some are huge splashy community events — in a huge theater with a live band, a livestream of the content available to anyone in the whole world, and pomp and circumstance — that are designed as  a celebration of community and accomplishment rather than a way of securing funding. (This was where PIE went with its Demo Day.) Still others have done away with Demo Days altogether.
+
+![PIE Demo Day](/source/images/supportland-demo-day-pie.jpg)
+
+Again, there is no right way to do this. You simply need to make the decision based on the needs of your community and your founders. Demo Days can be incredibly impactful. 
+
+But, it's important to understand that these days, that impact does not generally come in the form of raising capital. Investors could attend a demo day practically every week of the year at this point. So if connecting investors with your founders is your primary goal, get more creative about how to make those connections. Because a demo day probably isn't it. 
+
+For budgeting, you'll want to assess venue costs, A/V costs, staging and production, livestream, band, hosts, whatever… You can go as small as possible or as large as budget will allow. But do what works for your community.
+
 #### Upkeep and Maintenance
+
+If your accelerator is located within a larger office building, you may be expected to cover the costs of janitorial services or garbage. Or you may discover that you need to build another conference room. Or maybe some of your desks will fall apart because you didn't buy the IKEA desks we recommend.
+
+One thing is for sure, your participants will do an incredibly poor job of keeping the space clean. And your staff will likely be more than busy trying keep tabs on all of the activities. So if you can afford to allocate budget to help keep the space more hospitable, please do so.
+
+Whatever the case, you're going to need to spend some money keeping the space up to snuff — or maybe even improved. So earmark a portion of your budget to account for those expenditures. 
 
 ## Sample pro forma
 
 To get you started on the budgeting process, we've wiped a pro forma that PIE used for budgeting. It's a good way to start thinking through your budget. Feel free to make a copy and retool it to suit your needs.
+
+NOTE: This is a pro forma for one fiscal year of an accelerator that is already in operation. It does not account for startup costs, like buying furniture or tenant improvements. 
 
 Google Sheets: [PIE - Sample pro forma](https://docs.google.com/spreadsheets/d/1imODTZHjecv1GHHTp68seeGplYBmRb90OvI3D5FBNCA/edit?usp=sharing)
 
