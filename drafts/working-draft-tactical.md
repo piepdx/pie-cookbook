@@ -2311,9 +2311,14 @@ It's more authentic. More genuine. And more engaging if they've let their guard 
 
 What's more, polished stories start to feel stilted in this sort of environment. They're great for pitches. Or for the big stage. But in this sort of intimate setting, they can fall flat. 
 
-So encourage speakers to be real.
+So encourage speakers to be real. Because that will help them have more impact on your startups.
 
 ### Don't sweat the slides
+Some folks need slides. Some don't. Some are better with slides. Some are worse.
+
+Long story short, don't require speakers to have slides to speak. In fact, more often than not, you might want to ask them to leave the slides behind.
+
+The caveat here is that the workshop format can be helped by slides. But the vast majority of your talks won't be workshops.
 
 ### Don't make it a sales pitch
 
