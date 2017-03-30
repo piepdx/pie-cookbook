@@ -1974,7 +1974,9 @@ At PIE, we experimented with a number of different means of activating mentors a
 
 We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
 
-Before you engage mentors with startups — whether they've had the opportunity to mentor before or not — it's important to give them a little mentoring, too. We recommend onboarding them with some context for mentoring, itself.
+But before you engage mentors with startups — whether they've had the opportunity to mentor before or not — it's important to give them a little mentoring, too. 
+
+We recommend onboarding folks with some context for mentoring, itself.
 
 ## Mentoring the mentors
 
@@ -2118,11 +2120,9 @@ You’re not just here to give. You’re here to get. It’s a two-way street. S
 
 And be equally willing to listen when another mentor wants to impart their knowledge to you.
 
-**Good luck. And thank you for giving back.**
+## Mentoring, like many accelerator things, is messy
 
-# Notes on mentoring
-
-"Accelerator" can be a misnomer, in some cases. Accelerators are actually about slowing down, making connections, and contributing to community. They're about making busy people focus. About creating lines where there are only dots. 
+As a mentor, it's important to understand that "accelerator" is often a misnomer. Accelerators are actually about slowing down, making connections, and contributing to community. They're about making busy people focus. About creating lines where there are only dots. 
 
 If they accelerate anything, they accelerate connection. For both those mentors who choose to participate. As well as for the founders who are selected. 
 
@@ -2136,7 +2136,7 @@ It doesn't have metrics. Or milestones. Or process.
 
 But it does have technique. It does have examples. And guidelines. And guardrails. For both the mentors and those being mentored. And for peers.
 
-## In Practice (via @eighteyes)
+## Mentorship in Practice (via @eighteyes)
 Mentoring is an alignment of perspective. Here, you have to take the life experiences of another person, and have them understand your perspective. As a mentor, you must take the time to know a person, how a person thinks, what their experience is. A handy way to approach this is to speak about complicated material in the form of metaphors.
 
 ### Metaphors are powerful teaching tools (via @eighteyes)
@@ -2159,51 +2159,57 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 ### Learn Openly (via @eighteyes)
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
+## Preparing mentors to speak to a class
 
-# Preparing mentors to speak to a class
+One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the entire class. For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
 
-One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the class as a whole. For some accelerators, this can happen sporadically. For others, in can take place several times a week. 
+At PIE, we found a cadence of two talks — where a single mentor addresses the entire class — per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. 
 
-At PIE, we found a cadence of two talks per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. Variety, am I right?
+Variety, am I right?
 
-## Initial misconceptions
+### Misconceptions about mentor presentations
 
-In our experience, we've found that there are a few misconceptions some communities have about speakers. So we wanted to dispel those immediately.
+In our experience, we've found that there are a few misconceptions some communities have about mentors presentations. So we wanted to dispel those immediately.
 
-### Mentors who want to speak are the mentors that should speak
-
-Despite rumors to the contrary, there will likely be a large contingent of your community that actually enjoys presenting in front of an audience. They enjoy the stage. And they enjoy public speaking. And as your program — or programming — becomes more prominent and recognized, these folks will seek out your program. 
+#### 1) Mentors who want to speak are the mentors that should speak
+Despite rumors to the contrary, there will likely be a large contingent of your community that actually enjoys presenting in front of an audience. They enjoy the stage. And they enjoy public speaking. And as your program — or programming — becomes more prominent and recognized, these folks will seek out your program for speaking opportunities. 
 
 Sometimes they're amazing speakers. Sometimes they're not. There is value in each of those outcomes. 
 
 Amazing speakers really help the startups. Not so amazing speakers can provide great conversation points for the startups and staff. 
 
-But don't think you have to take all comers. Like so many things that happen in the chaotic environment of the accelerator, you have to determine if the timing is right. For the content. For the personality. And for the startups. Because wasting a good speaker at the wrong time is just as bad as having an off topic speaker at the wrong time.
+But don't think you have to take all comers. Like so many things that happen in the chaotic environment of the accelerator, you have to determine if the timing is right. For the content. For the personality. And for the startups. 
 
-### Mentors who don't want to speak shouldn't speak
+Because wasting a good speaker at the wrong time is just as bad as having an off topic speaker at the right time.
 
+#### 2) Mentors who don't want to speak shouldn't speak
 While shouldn't you take all comers, the converse is also true. Sometimes, you have to seek out the mentor who doesn't want to present in front of the class. Because they have valuable insight. Or interesting stories. Or the startups simply need to have a little boost.
 
 Act accordingly.
 
-While it may take more cajoling and prepping, it is critically important that you always find the right speakers. Not just the speakers to which you have immediate access.
+While it may take more cajoling and prepping, it is critically important that you always find the right speakers. Not just the speakers to which you have immediate access. And not just the folks who want to speak.
 
-### Mentors need to be expert
+You're here to help your founders. And your mentors want to help founders. Sometimes that's awkward and uncomfortable.
 
-Another misconception we will attempt to address time and time again is the idea that mentors need to be expert. We believe that anyone and everyone has the potential to be a mentor. Likewise, anyone and everyone has the potential to speak as a mentor. 
+#### 3) Mentors need to be expert
+Another misconception is the idea that mentors need to be expert in their field. 
+
+We believe that anyone and everyone has the potential to be a mentor. Likewise, anyone and everyone has the potential to speak as a mentor. And to provide valuable insights to your founders.
+
+Your challenge as a staff member is to figure out how to apply those mentors. 
 
 Expertise is not a prerequisite. Insights, willingness to share, and relatable stories are. So find the people who can talk honestly about their experiences. Whether they are considered "experts" or not.
 
-### Listening is more important than speaking
+#### 4) Speaking is more important than listening
+Sometimes, being a good speaker isn't what startups need. They need someone who listens. 
 
-We find that some of our best mentor speakers are those who spend less time presenting and more time conversing or purely listening. So make sure to find folks who are comfortable with that dynamic. 
+We find that some of our best mentor speakers are those who spend less time presenting and more time chatting — or just listening. So make sure to find folks who are comfortable with that dynamic. 
 
 You're much better off to have a so-so presentation with a lively Q&A session than to have a polished oratory followed by crickets. 
 
-Startups are in your program to explore opportunities, question assumptions, and get their hands dirty. Not revel in theory. So make sure they have speakers who draw that conversation out.
+Startups are in your program to explore opportunities, question assumptions, and get their hands dirty. They are seeking opportunities to learn about practical applications and unique insights. Not to revel in theory. So make sure founders have speakers who draw that conversation out.
 
-### You need a formal setting for presentations
-
+#### 5) You need a formal setting for presentations
 We've pretty much covered this in the space design. But to hit it one more time… 
 
 We talk to a lot of folks who dodge the whole speaker thing with, "Well, we don't have anywhere to do it."
@@ -2214,7 +2220,7 @@ PIE's mentors had, arguably, one of the most thankless presentation platforms ev
 
 Tough room, as the comedians say. We made due. 
 
-And I would argue that the very nature of the raw space lent itself to more candid discussions. That forcing founders to pull back from their desks and wheel their chairs away from obstructions caused them to be more engaged. That even those founders who remained intently typing away throughout the presentation gained something. Because they were immersed in the moment.
+And I would argue that the very nature of the raw space lent itself to more candid discussions. That by forcing founders to pull back from their desks and wheel their chairs away from obstructions caused them to be more engaged. That even those founders who remained intently typing away throughout the presentation gained something. Because they were immersed in the moment.
 
 The best stage is the stage you have. Make due. 
 
