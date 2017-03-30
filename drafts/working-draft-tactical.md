@@ -1282,6 +1282,8 @@ For budgeting, you'll want to assess venue costs, A/V costs, staging and product
 
 If your accelerator is located within a larger office building, you may be expected to cover the costs of janitorial services or garbage. Or you may discover that you need to build another conference room. Or maybe some of your desks will fall apart because you didn't buy the IKEA desks we recommend.
 
+One thing is for sure, your participants will do an incredibly poor job of keeping the space clean. And your staff will likely be more than busy trying keep tabs on all of the activities. So if you can afford to allocate budget to help keep the space more hospitable, please do so.
+
 Whatever the case, you're going to need to spend some money keeping the space up to snuff — or maybe even improved. So earmark a portion of your budget to account for those expenditures. 
 
 ## Sample pro forma
