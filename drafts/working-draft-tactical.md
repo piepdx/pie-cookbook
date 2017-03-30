@@ -1988,9 +1988,9 @@ So we took that mentoring to heart.
 
 If you’re thinking about becoming a mentor for startups — either in a formal accelerator program or independently — here are some tips for thinking about how to work with entrepreneurs.
 
-## 10 tips for mentoring startups
+### 10 tips for mentoring startups
 
-### 1) Common sense is not common.
+#### 1) Common sense is not common.
 
 Mentors often worry that they need to come up with some earth-shattering insights to be of value. This couldn’t be further from the truth. Fact of the matter is that you spend day-in, day-out working in your area of expertise.
 
@@ -2023,7 +2023,7 @@ Like it or not, we are all victims of the “curse of knowledge.” And that’s
 
 And that’s why, be it for business or mentoring or whatever, I am constantly challenged — and fail regularly — to do two things:
 
-#### a) Stop assuming intuitive leaps have been made.
+##### a) Stop assuming intuitive leaps have been made.
 
 I have a really bad tendency to assume that everyone has already thought about what I’m thinking about. As such, I assume that they’re making the same intuitive leaps I am. So I don’t say anything. Or share thoughts.
 
@@ -2031,7 +2031,7 @@ The problem with this is that — more often than not — they aren’t 
 
 What’s more, I’m really trying to focus on beginning at the introductory level — the 101 — and go from there. Without being pedantic or dismissive. Because you can’t just jump into the deep end of the pool and assume that everyone knows how to swim.
 
-#### b) Over-communicating what I think I know.
+##### b) Over-communicating what I think I know.
 
 If I’m not sure where my peers stand, then the onus is on me to be more effective at communicating. And I need to be more conscious and deliberate about sharing my opinions. No matter how small our company or our organization, we should be over-communicating when telling one another what is important, how we think things should be done, and how we have learned to get there.
 
@@ -2044,7 +2044,7 @@ You know more about what you do than I do, or he does, or she does, or they do. 
 
 > That thing that seems so completely obvious to you? It isn’t to the rest of us. Your common sense isn’t common.
 
-### 2) Your mistakes are often more valuable than your successes.
+#### 2) Your mistakes are often more valuable than your successes.
 
 While sharing your victories can be motivating for startups and entrepreneurs, being open about your failures and mistakes can often be more helpful. The stumbles and downfalls are the things that caused you to lose sleep, to stress, and to doubt. Share those. So that everyone can learn from them.
 
@@ -2052,7 +2052,7 @@ While sharing your victories can be motivating for startups and entrepreneurs, b
 
 We always say that PIE is about “making new mistakes.” There are two reasons: 1) If startups are repeating mistakes our mentors have already made, we’re failing them and 2) If the startups go out and make new mistakes, then they can come back as mentors to prevent others from making those mistakes.
 
-### 3) You don’t have to know everything.
+#### 3) You don’t have to know everything.
 
 You were asked to mentor because of your experience. And because you’re awesome. But that doesn’t mean you need to know everything. Nor does it mean the onus is on you to know everything.
 
@@ -2060,7 +2060,7 @@ You were asked to mentor because of your experience. And because you’re awesom
 
 You’ll be surprised at how seemingly simple things can drastically improve a startup’s potential and perspective.
 
-### 4) You are more than your role or profession.
+#### 4) You are more than your role or profession.
 
 This one became especially clear with our corporate mentors. Sometimes, you have to take off your “brand hat” and put away your business card.
 
@@ -2068,7 +2068,7 @@ This one became especially clear with our corporate mentors. Sometimes, you have
 
 You are an incredibly talented individual who has made it to the position you’re in because of the decisions you’ve made. And its your insight and intellect that guided those decisions — that brought you to your current role. Sometimes, just being you and providing personal advice can be incredibly beneficial.
 
-### 5) Know your limitations.
+#### 5) Know your limitations.
 
 Don’t over promise. Don’t under deliver. And don’t get yourself into a mentoring situation that has you feeling stressed. An hour of your time is valuable. If that’s all you have to give, that’s all we’re asking you to give.
 
@@ -2076,7 +2076,7 @@ Don’t over promise. Don’t under deliver. And don’t get yourself into a men
 
 It’s the opportunity to share what you’ve learned. And to prevent others from making the mistakes you’ve made. It should be seen as such.
 
-### 6) Advise as if you were an employee.
+#### 6) Advise as if you were an employee.
 
 Mentors are often driven individuals who have attained their position through sheer determination and hard work. They’re often people who take the wheel and try to steer others in the right direction. And they’re used to leading.
 
@@ -2086,7 +2086,7 @@ And fact of the matter is that — no matter how vehemently you support or o
 
 We take this from the vantage of an employee or consultant advising his or her superiors. “This is my opinion on what should be done, but you’re the boss.” Mostly because I’m fairly sure I’ll be working for one these entrepreneurs one day.
 
-### **7) Be honest.**
+#### **7) Be honest.**
 
 While mentoring can be a lot about bolstering the outlook for new entrepreneurs and motivating them to change the world, that’s not the goal of mentoring. The goal of mentoring is positive. But the path may not be.
 
@@ -2094,7 +2094,7 @@ While mentoring can be a lot about bolstering the outlook for new entrepreneurs 
 
 Sometimes, your feedback will be negative. Sometimes, your feedback will be difficult. But it should always be honest and critical — in both the positive and negative sense of the word.
 
-### **8) You can’t fix everything. Nor should you.**
+#### **8) You can’t fix everything. Nor should you.**
 
 You’re not here to rescue anyone. You’re here to provide startups with feedback. And you’re here to challenge them. That’s all we ask. If you want to take an entrepreneur under your wing, please feel free. But don’t feel obligated to solve their problems.
 
@@ -2102,7 +2102,7 @@ You’re not here to rescue anyone. You’re here to provide startups with feedb
 
 More often than not, the problems you see haven’t even dawned on them yet. So tell them. But don’t try to fix the problems for them.
 
-### **9) Take it personally.**
+#### **9) Take it personally.**
 
 We want you to be invested. We want you to be happy and frustrated and proud and confounded. We want you along for the rollercoaster ride. We need you to take this personally.
 
@@ -2110,7 +2110,7 @@ We want you to be invested. We want you to be happy and frustrated and proud and
 
 At times, it will be completely aggravating. But that means you’re taking it personally. And that’s what these entrepreneurs need.
 
-### **10) Mentor one another.**
+#### **10) Mentor one another.**
 
 You’re not just here to give. You’re here to get. It’s a two-way street. So talk to other mentors. Get advice from the startups. Get advice from your peers. Get advice from anyone in the community.
 
