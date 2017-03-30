@@ -1241,7 +1241,7 @@ Whatever the case, we highly recommend that you earmark some budget for being ni
 
 ## Sample pro forma
 
-To get you started on the budgeting process, we've wiped a pro forma that PIE used for budgeting. It's a good start for your budgeting process. Feel free to make a copy and retool it to suit your needs.
+To get you started on the budgeting process, we've wiped a pro forma that PIE used for budgeting. It's a good way to start thinking through your budget. Feel free to make a copy and retool it to suit your needs.
 
 Google Sheets: [PIE - Sample pro forma](https://docs.google.com/spreadsheets/d/1imODTZHjecv1GHHTp68seeGplYBmRb90OvI3D5FBNCA/edit?usp=sharing)
 
