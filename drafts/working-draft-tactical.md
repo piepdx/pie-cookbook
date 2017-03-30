@@ -1227,10 +1227,11 @@ If you're planning on making an equity investment in the companies your program,
 It's also important to plan for legal costs outside the normal course of doing business. For example, it's become common practice to perform background checks on participants before they enter the program. At PIE, we chose to run basic background checks on all of the founders as part of the due diligence process, once they were accepted into the program. It's purely a precautionary measure. But it's highly recommended. Pricing for this sort of service can vary, but make sure to budget for it. 
 
 ### Upkeep and Maintenance
-
-### Investment
-### Demo Day
 ### Perks
+### Optional costs
+#### Investment
+#### Demo Day
+
 			54. Pro forma
 # Space
 
