@@ -2191,7 +2191,7 @@ While it may take more cajoling and prepping, it is critically important that yo
 
 You're here to help your founders. And your mentors want to help founders. Sometimes that's awkward and uncomfortable.
 
-#### 3) Mentors need to be expert
+#### 3) Mentors need to be experts
 Another misconception is the idea that mentors need to be expert in their field. 
 
 We believe that anyone and everyone has the potential to be a mentor. Likewise, anyone and everyone has the potential to speak as a mentor. And to provide valuable insights to your founders.
@@ -2224,11 +2224,15 @@ And I would argue that the very nature of the raw space lent itself to more cand
 
 The best stage is the stage you have. Make due. 
 
-## Coaching the mentors
+### Prepping mentors for speaking to your founders
 
 Once you've selected a mentor to speak, it will benefit both the community and your program if you adequately prepare them for the talk. 
 
 Even the most seasoned CEO with a completely polished pitch can become a babbling idiot when trying to describe how they built the business — or how they failed. But those are the stories that provide the most value to the startups you're trying to help.
+
+So give your mentors some guidance before they wind up on stage.
+
+Here are some of the ways we tried to do that in PIE.
 
 ### Encourage mentors to tell stories of failure and mistakes. 
 
