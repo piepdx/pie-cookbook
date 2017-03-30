@@ -3034,7 +3034,7 @@ Admittedly we could do a better job of fostering the community among all of our 
 				114. Bring the pain
 # Demo Day 
 ## To Demo Day or not to Demo Day?
-## Graduating from the program | DEMO DAY
+## Graduating from the program 
 
 Graduation requirements can be modified to fit your programs needs or specialities. Most, if not all, programs culminate with a demo day. Companies give a 6-8 minute pitches of their product in front of an audience that can be made up of a combination of stakeholders, investors, mentors, media, and/or community. 
 
