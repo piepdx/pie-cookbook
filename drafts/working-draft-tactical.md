@@ -1257,6 +1257,13 @@ We simply recommend that you always question your motives and ensure that the pr
 On the converse, this is not about your accelerator getting rich. Trust us. There are far easier ways to get rich than running a risky early stage startup accelerator.
 
 #### Demo Day
+
+Like investing, the prevailing model when we started PIE included a "Demo Day" as the graduation from the program. At the time, this generally involved filling a theater with a bunch of would-be investors in an attempt to get meaningful conversation started between founders and investors.
+
+Since then, there have been many different takes on the Demo Day model. Some are low-key events that take place behind close doors. Some are huge splashy community events with a live band and pomp and circumstance that are designed as  a celebration of community and accomplishment rather than a way of securing funding. (This was where PIE went with its Demo Day.) 
+
+![PIE Demo Day](/source/images/supportland-demo-day-pie.jpg)
+
 #### Upkeep and Maintenance
 
 ## Sample pro forma
