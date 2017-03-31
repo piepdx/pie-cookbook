@@ -1843,6 +1843,256 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 ### Learn Openly (via @eighteyes)
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
+# Curriculum
+
+As a program, PIE has worked to continually refine its highly intensive mentorship model — through both traditional mentors as well as peer mentorship —  in a way that can be customized on a company-by-company basis. We have continued to refine the model so that it even supports the program's ability to focus on the concerns and issues of single individuals, as needed. 
+
+We equate the curriculum of this program to an “independent study” model in a traditional learning environment. Every Founder in the class shares a collective experience with one another, but their individual learnings are tailored to each of their specific needs — be those needs be individualized by company or person — on a case-by-case basis.
+
+This high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
+
+## More independent study than classroom
+
+Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
+
+PIE's high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
+
+While curriculum can be valuable for Bootcamp programs, "101" type programs, and where participants have a significant amount of time to learn — or review — the content of that curriculum, it is not terribly effective in the Accelerator environment. This is one of the reasons we suggest that Accelerator programs avoid purchasing established curriculum programs for their use. (Another reason is that Accelerators often have very little capital at their disposal and there are better uses of that capital, at the outset.) 
+
+Likewise, we advise against spending a lengthy amount of time creating your own rigid curriculum for your program. 
+- - -
+> **tl;dr PIE took weeks developing a curriculum prior to our first Accelerator class. We threw it out a few days into the program.**
+- - -
+Rather, we suggest that Accelerator Staff and Mentors always be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
+
+Some examples of these struggles that impact all founders simultaneously, follow.
+
+## Common issues 
+
+Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. 
+
+That said, every entrepreneur and company will struggle with the following issues:
+
+1. **Working with cofounders**: For most Founders, this experience will be their first time working with a cofounder — or pursuing a business on their own. The stress of going through the program tends to exacerbate and accelerate these issues. We spend a significant amount of time mitigating these conflicts. 
+2. **Working with mentors**: When exposed to advice, which is often contradictory, from successful Founders, every Founder experiences “mentor whiplash.” This can be debilitating and confusing. As such, PIE staff spends time working with our Founders to learn how to manage and act upon this feedback.
+3. **Learning how to meet**: While many of your Founders have participated in meetings, it is highly unlikely that they will have experience with the volume, tenor, and stress of the meetings they will encounter during the Accelerator program. Teaching Founders how to meet can be a critical component of insuring their success in your program.
+4. **Product market fit**: Every Founder believes that their product concept has value. Successful Founders understand that they need customers to validate that belief. PIE works with Founders to ensure that they gain an understanding of what product offering will be the most successful.
+5. **Financial projections**: Even if your teams are lucky enough to have a financially minded cofounder, it is highly unlikely that any of the cofounders have had to deal with financial projections from such an early stage. It is even more likely that this way of thinking about the company, its product, and its business model will be completely foreign to everyone in your cohort.
+6.  **Pricing**: Pricing will always be wrong because it's nearly impossible to get right. But your Founders have to start somewhere. Learning how to set pricing, test pricing models, and revise and optimize pricing will be critical knowledge for all of your Founders. 
+7.  **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
+8.  **Pitching**: Whether the Startups plan to pursue venture capital or not, being able to effectively tell the story of their company is a critical skill for every Founder. Even if you choose to forego the concept of a "Demo Day," your programs should still spend a significant amount of time working with Founders on crafting a pitch.
+9.  **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
+
+## Timing
+
+In a perfect world, Accelerators would be able to schedule and deliver education on each of these topics in a very programmatic way. Unfortunately, the opportunities to do so are rare. 
+
+Every Founder will require education on the topics they all share in common, but there is very little likelihood that every Founder will all be experiencing these issues at the same time. It is up to Staff and Mentors to monitor these opportunities for shared learning as they arise. It is up to the Staff to be prepared to take advantage of these opportunities whenever possible, as a means of making the most efficient use of time for both Founders and Mentors. 
+
+The most critical aspect of delivering shared curriculum is understanding when to time that content for your class. It's not when you think it should be timed, it's a matter of determining when the Founders will be most receptive to engaging with the Mentor (or Mentors) who can best provide that education.
+- - -
+> **tl;dr There is no convenient programmatic path — no effective curriculum — for educating Founders. Accelerator Staff must be attuned to the ebb and flow of learning and take advantage of opportunities as they arise.** 
+- - -
+The time when founders will be most receptive to the delivery a shared, class-wide learning experience is when the majority of Founders have had the opportunity to struggle with the topic at their own pace. At times, you will need to allow the Founders to fail on their own, before they will be receptive to learning more about the topic.
+
+Over the years, we learned that you can use the Accelerator program format to artificially introduce factors that cause all Founders and Companies to experience the same problem at the same time. 
+
+Which is how we came upon the idea of creating a cadence and "The Three Ps."
+
+# Creating a cadence
+
+One of the most critical efforts for the accelerator staff is that of managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
+
+There is no prescribed timing here. You add more pressure when it is needed. And you try to break the tension when needed. There is no schedule here. You just have to play it by ear. And act with your best instincts.
+
+That said, there are some clear guardrails to help guide your efforts.
+
+First off, it's very important to understand the emotional rollercoaster of the accelerator. 
+
+## The emotional ebb and flow of a stressful startup accelerator 
+
+We've all heard it. "Going through an accelerator is an emotional rollercoaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
+
+But what, exactly, does that rollercoaster look like?
+
+At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
+- - - 
+> **tl;dr Recognizing and understanding the emotional rollercoaster gives staff  insights as to when it is reasonable to increase the stress in the accelerator and when they would be wise to pull the pressure valve.** 
+- - - 
+Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, their partners, families, mentors, and the accelerator staff. 
+
+So with that caveat in mind, let's walk through the emotional rollercoaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, as well, for what it's worth.)
+
+![Startup Emotional rollercoaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
+
+Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
+
+### Pre-Accelerator
+
+It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number of leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
+
+We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
+
+![Startup pre-Accelerator Detail](/source/images/pieAcceleratorEmotionalRollerCoasterPreAccelerator-Detail.png)
+
+1. **False Ceiling of Euphoria** We've learned that the Accelerator environment accelerates, among other things, emotions. As such, we've learned that the highs are far higher than they have seemed to the founders in the past. For that reason, we categorize the pinnacle of euphoria for founders prior to the accelerator as a "false ceiling." Accelerator staff and mentors need to be prepared to help accentuate the good times — and to help regulate euphoric misconceptions.
+2. **False Floor of Despair** If the "highs are higher," then guess what? That's right. The lows are way lower. Within the accelerator environment, we often find founders struggling with depression and negativity that surmounts anything with which they had to deal prior to entering the accelerator program. Accelerator staff and mentors need to be prepared for how paralyzingly acute these lows can be.
+3. **"I found the perfect Accelerator for us!"** When startups are looking for support, finding an Accelerator that best matches their needs can be a high point for them. It's important that Accelerator staff understand and appreciate this moment of euphoria and do their best to cultivate a relationship with each and every Founder who has an interest in their Accelerator.
+4. **"It's been 30 seconds and they haven't responded. They hate us."** Just as quickly as Founders get excited about your Accelerator, they'll get equally despondent if you don't respond to them immediately. Make sure that you're adequately staffed to deal with the influx of questions and inquiries. Automate as much as you can to ensure that Founders always get a response to every request. For example, make sure that there is some indication that a submitted application has been received and is being reviewed. Otherwise, you'll get multiple questions from each and every Founder.
+5. **"We made it through the entire process and they accepted us!"** Once accepted to a program, Founders often experience a sense of euphoria coupled with relief. To many Founders, the recognition and acceptance create a false sense of accomplishment. When in reality, it is actually the starting line for a much more difficult — and emotionally taxing — phase for their company.
+6. **"Maybe we've made a mistake. Is this the right move for us?"** While the period of euphoria may last for some, most Founders will experience a return to a more calm outlook prior to their beginning the program. This may also manifest itself as having second thoughts or cold feet about joining the Accelerator program at all. Be prepared for questions and Founders seeking reassurance.
+
+### Month 1 
+
+Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions. 
+
+As we mentioned above, PIE generally worked with founders who were confident with building product. Your founders may be similar. Or you may attract founders with different points of confidence. 
+
+Whatever the case, it is important that you begin the accelerator program focusing on the area or topic where your founders boast the most confidence. The accelerator environment can be exceedingly stressful and emotionally taxing. By starting your founders in an area of strength, you give them the best chance of surviving the emotional onslaught of their new reality.
+
+![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
+
+1. **"Acceptance! We've made it! The sky is the limit."** Once the Founders accept that the Accelerator is the right thing for their startup and cofounders, there is a palpable upswing in emotion. But it is important to note that there will be first date jitters and nerves. Each Founder deals with it differently, but it tends to be an incredibly positive and reassuring time for most companies. The nerves are perceived as excitement rather than dread. And the notion that someone not only believes in the Founders and their idea but is willing to help them succeed is an incredibly heady feeling for most.
+2. **"We are killing it!" aka Breaking through the false ceiling of euphoria** What happens when you get a bunch of euphoric and excited Founders together? That's right: mass hysteria. As Founders' emotions play off of one another, individual Founders find that heady feeling growing at an exponential rate. What previously seemed like the height of happiness — the False Ceiling of Euphoria — pales in comparison to the feeling of giddiness most of the Founders begin to experience. But as the Founders begin to realize their new existence in the Accelerator program, this feeling of euphoria begins to ebb. *Note: This will likely be the last time Founders feel emotionally positive for months.*
+3. **"We're doing it wrong." aka Crashing through the false floor of despair**  The stress and strain of the new environment, the seemingly relentless strings of new tasks and expectations, Mentor whiplash, and a feeling of being unable to navigate — let alone manage — the Accelerator environment can be emotionally crushing. This would be bad enough, alone. But it's exacerbated by the fact that the Founders are coming down off of the highest peak of euphoria. We often see Founders barreling down from this crest at breakneck speed, culminating in a descent into the lowest of lows. Lower, in fact, than any of the worst days prior to entering the Accelerator program. It's a true bottoming out. Previous failures and bad days pale in comparison to the Founder's current emotional state. They feel like complete failures and become very inwardly focused, detaching from their peers and cofounders and grasping to find something that they feel capable of handling. 
+4. **"Everybody else seems to be struggling with the same issues."** Once the startups get settled, the founders get comfortable with one another, and folks begin to settle into a daily rhythm, participants will stop being so inwardly focused — and will begin refrain from continually beating themselves up. They'll start to notice the struggles of their peers. They'll begin conversations about how they're struggling. And they'll discover that they're not alone. This causes a slight improvement in attitude. Not stellar, but an upswing.   
+5. **"We're still the worst company in here."** But that upswing is short lived as founders rapidly return to self criticism. This is usually based on their misperception that every other founder in the program is handling the stress and scheduling more effective. Or is making better use of the resources at his/her disposal. While this viewpoint is often ill founded — no one is actually doing terribly well at this point — it can still cause a dip founders' emotional states. It's especially important to note that this mindset can be reinforced by other founders celebrating wins. So it's important to keep both the positive and negative stuff in check. 
+6. **"And folks here seem to get what we do."** We recommend that the first month be wholly focused on an area of strength for the Founders — since the bulk of PIE Founders were product-centric, we focused on product — the opportunity to share that strength is an uplifting one. While Founders rarely have a cohesive story about their Startup at this point, other Founders can intuit motivations and functions, giving the companies a sense of belonging. This reinforces the feeling that the Startup idea has merit. And it helps reinforce the Founders' feeling of belonging in the Accelerator program. 
+
+### Month 2 
+
+This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
+
+And there's really no way to fix this or prevent this. If you've done your job correctly as an Accelerator, you've put your Founders under a significant amount of pressure in the first month in a new environment — and so much has changed about their business — that your Founders will be feeling pretty beat up. And they'll feel like they're bumping along the bottom of the tank of despair. 
+
+The false floor of despair is long forgotten. This is their new reality.
+
+Some of your Founders will have higher amplitude in their spikes and troughs. Others will simply bump along throughout the month. Regardless, every Founder will have a rough second month. So be aware of what they are going through.
+
+![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
+
+1. **"I thought we were getting it, but we're not."** Coming off the affirmation of Month 1, founders may be able to retain some semblance of euphoria. But it's far more likely that this "accomplishment" will quickly erode into stress about all of the other thing that the Startup has to accomplish during the Accelerator. This is the classic point where Founders feel completely overwhelmed. Emotions and egos are extremely fragile at this point in time. And burn out is a significant risk. 
+2. **"We can do this."** If anything, Founders are resilient. And stubborn. And they'll figure out ways to rebound. Even in short bursts. No matter what you throw at them. This difficult time is often the most rewarding and reinforcing of the Accelerator. Confidence is built. Egos are rebuilt. And Founders start to feel like they're actually starting to get a handle on this new existence. They're not overly confident. But their confidence is building. As is their understanding of how to manage themselves, their companies, and their peer relationships, both within the company and within the cohort. That's what makes this the perfect point to teach — and challenge — the founders on their greatest weaknesses. Because they've developed the resilience to handle it. 
+3. **"We don't seem any worse off than anyone else."** Not only does confidence build, but Month 2 is the month where founders gain the most empathy for their cofounders and peers. They start to recognize that everyone is struggling. And that even the most confident and capable Founders in the cohort have their weaknesses. So when you introduce subject matter with which everyone struggles — and everyone recognizes that one another is struggling — you enforce a tendency toward collaboration, support, and peer mentorship. Which, in turn, fortifies the connections and feeling of community among the participants. 
+
+### Month 3 
+
+This will be the most rewarding month for your startups. Not only will you see them making significant progress, they will make *tangible* progress that the Founders, themselves, will recognize. That progress, in turn, will directly impact the future of their companies. 
+
+![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
+
+1. **"After talking to folks, I'm not sure our company is viable."** The beginning of month three is often a low point for folks. They've just come out of one of their most challenging learning experiences in month 2. They have grown used to the constant mentor meetings and the speed at which things are going. So much so, that they have a difficult time recognizing how much they're accomplishing. They have, to put it colloquially, established a new normal. And that can make them feel like they're not progressing or succeeding.
+2. **"We get to pitch! We totally get pitching."** Whatever the reason — be it their acceptance into your Accelerator, the bevy of pitch contests to which a startup is exposed these days, or simply having family and friends providing less than critical feedback — most Founder tend to exist under the delusion that they already know how to tell the story of their company. Unfortunately for them, nothing could be further from the truth. But at this point, they'll come into Month 3 with more confidence than they've had in weeks — potentially months. 
+3. **"No one got our pitch. We're not even going to make it to the stage."** Companies start to pitch. And that illusion of "We totally get pitching" begins to crumble. And as more truly critical feedback comes rolling in — from staff, from mentors, and perhaps worst of all, from their peers — Founders come to realize that their pitch needs a ton of work. In fact, in most cases, what they thought was their pitch has to be totally scrapped. This realization has the potential to crush confidence and further demotivate even the most confident Founders. 
+4. **"Wait a second. This is working."** Slowly but surely, the feedback starts to sink in. And the pitch starts to improve. The Founders regain their confidence. And the pitch actually starts to improve. From everyone's perspectives. And with practice, the pitches become more and more compelling. And with finessing, the Founders grow more and more confident in their ability to tell the story of the company they are building. And as the opportunity to get on stage — and get out of relentless pitch practice — draws nearer and nearer both mood and nerves are ever on the increase. 
+5. **Demo Day: "This is the best day of my life."** If everything goes as planned, Demo Day will be the most rewarding experience of any Founder's life. In fact, we often tell them that, backstage. "This will be the most fun you ever have with your startup." Again, part of that might be the knowledge that they will soon be free of the constant haranguing of the Accelerator environment. But the majority of this feeling comes from a sense of accomplishment. And confidence. And the recognizable ability to tell a compelling story — and then to celebrate the telling of that story in the gathering that happens after everyone leaves the stage.
+
+Now that you have some generic context of the rollercoaster, let's break down those three months in terms of the subjects PIE used to educate Founders of tech Startups.
+
+### The Three Ps
+
+So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
+
+By class three (Coconut Creme), we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
+
+Throughout the course of these stages and gates, we tailor the mentor talks to match the topic — or to queue up the obvious need for the startups to focus on these particular topics.
+
+Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
+
+#### Product (Month 1)
+
+Because PIE classes generally consisted of groups of developers who understood how to build products, we started in a place of strength and confidence: product development. 
+
+The challenge? Be ready to demo the current version of the company's product in front of the others startups in the class. The deadline was one month into the class. And it was a required activity. 
+
+For some, this was a relatively simple request and in line with their product development schedules. For others, it required a great deal of effort to meet the milestone.
+
+But that led to some interesting things, as well.
+
+Those who were further ahead on product often discovered that they lacked the language to effectively convey what they were building. Worse yet, they sometimes that the current version of the product was difficult, if not impossible, to demo to a diverse audience. 
+
+We get to question assumptions, clarify utility, and make suggestions, as a class — in a group environment. Companies get to respond directly to queries, jot down feature ideas, and generally scratch their head a great deal and ask "Why **did** we do it that way?"
+
+So month one, get the product momentum going. And reward those who are making progress. Because that's going to be the crux of everything going forward. 
+
+It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
+
+#### Projections (Month 2)
+
+Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
+
+Now that we've stressed out the developers, we put the stress on the business people. Who, more often than not, are developers learning how to business. 
+
+And in our experience, nothing makes a business person feel more businessy than creating a spreadsheet with lots of dollar values in it. So that's exactly what we focus on during month two, projections.
+
+We usually choose a 12 month window, because none of us know what's really going to happen in the future. But a year seems like a viable window to explore these numbers.
+
+With projections, we experience the polar opposite of product. No one feels confident in their numbers. Most companies don't even know where to begin. 
+
+To support, we offer templates, mentors, and office hours to help. But it usually doesn't. And it becomes a last minute scramble, rife with cries of "Do we really have to do this?"
+
+The answer is "Yes." It's a required element of the class.
+
+From this position of lacking confidence, the revealing of the projections to peers in the a group becomes a very different exercise. With the presenting founder often asking more questions than the audience.
+
+"How did you do this?", "Does this seem realistic?", "What's missing?"
+
+A second month of stress induced collaboration has heightened the trust among peers from a feeling of camaraderie to a dynamic of peer mentorship. And this is exactly what we're trying to engender. 
+
+But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
+
+#### Pitch (Month 3)
+
+Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
+
+It's important to note that many programs choose to pitch throughout the course of the entire class. We've found this to have diminishing returns if run for longer than a month. It's also a good chunk of time which we feel is better focused on things like product and projections.
+
+If the product demo is the area of the most confidence and projections are the area of least confidence, the pitch is somewhere in the middle. But it's often the most difficult to refine and finesse, so plan to spend a great deal of time doing it. 
+
+At PIE, we played it by ear, with no fewer than two full group pitch practices per week. With individual staff, mentor, and peer-to-peer pitch practices rounding out the month of activity. 
+
+We began with no slides, only story. Because it does no good to waste time building slides for a story that is going to change drastically anyway. We continue with no slides until we feel the stories are starting to solidify. Then we move to pitches with slides and story.
+
+Group pitch practices are attended by all startups and staff. Mentors are invited to attend when and if they can. Presenters receive feedback from staff, peers, and their team members. 
+
+But there is one distinct difference from the previous two milestones. The difference — and this is critically important — is that while previous presentations are a conversation among the presenter and the audience, this feedback loop is one way. The audience can critique the presentation, but the presenter cannot respond. 
+
+Why? Well, we learned from our speaking coach mentor that this is a critical step in getting people to actually implement changes and improve their talks. You see, if they respond to the feedback, they subconsciously assume that they've fixed the problem. So don't let them respond. And they go and actually fix the problem.
+
+Once the story and deck are starting to come together, start recording the presenters. Not only will it give them a valuable asset to review, it will present another stressor that breaks them out of their comfort zone.
+
+Another piece of feedback we've received from the startups? 
+
+The last week is pretty much nonstop practice, where we not only continue to finesse the story and the deck, but we start getting the presenter to give the pitch in the uniform that they plan to wear on stage. We've learned that the more we gradually attempt to mimic the environment and conditions they will experience on Demo Day — even if it can't be done perfectly — the better the presentations are.
+
+If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
+
+				97. Work time
+				98. Social time
+					99. Coffee hour
+					99. Happy hour
+				97. Care and feeding of startups
+					98. Stress reliever
+					99. Keeps them healthy
+					100. Develops social bonds
+					101. To Lunch and Learn or not Lunch and Learn
+				98. Care and feeding of mentors
+					99. Not every engagement needs to be "work"
+				100. Keeping the conversation going
+					101. Chat
+					102. Email
+					103. Status reporting
+					104. Weekly 1:1
+					105. Office hours
+					
+## Shared experiences
+						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
+						114. Family Dinner
+						115. Lunch
+						112. Pitch Practice
+					108. Status reporting
+					109. Check-ins
+					110. Weekly reports
 # Running an Accelerator Class
 
 				78. Setting expectations
@@ -2014,15 +2264,203 @@ We recommend an intake survey for participants, so you can get a better feel for
 - Do you have any allergies?
 - Are you an early bird or a night owl?
 
-### Day 1
-
-#### Take it slow
+### Day 1: Take it slow
 
 We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
 
 				93. Touring the space
 				94. Introducing startups to one another
+				
+Once the startups get settled, it's important to get into the typical flow as quickly as possible. As the first activity, we recommend starting with Family Dinner. 
 
+# Family Dinner
+Arguably, Family Dinner is one of the most important parts of the program. As the name implies, Family Dinner is a weekly gathering — over dinner — designed to be an exclusive opportunity for our company founders to come together, share status updates, and give guidance to one another. Think of it as it a support group with food.
+
+Having a gathering like this is crucial to the health of your program — and the mental well-being of your founders — that will deepen the connections among companies participating in the class. Peer mentoring is not something that can be forced, but in a setting like family dinner, it is only natural that folks will offer help to their fellow founders.
+ 
+Here are a few tips for how to effectively run a family dinner – because it’s not just as simple as ordering food.
+ 
+For a program of 6-8 companies, dinner usually run for an hour and a half.  Any longer than that and folks will start tuning out. And trust us, it will go longer than that if you’re not in control.
+
+To avoid dinners that drag on, staff should help your founders either cut to the chase by calling out specific issues staff knows the founders are having or know when to politely cut folks off and move to the next company. You don’t want to discourage any dialog that happens, but you do want to be mindful of everyone’s time. 
+
+If you get into a particularly interesting but lengthy discussion, suggest the founders continue the conversation after dinner.
+ 
+As a management team, it is your responsibility to know what buttons to push and what levers to pull to get your founders to open up. Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing. Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
+ 
+These dinners are always open to founders who are alums of the PIE program, and if you’re running your dinners right, your alumni will be regulars.
+ 
+We recommend hosting your dinners on-site rather than at a restaurant, unless you can get a private room. Having the meal catered means it’s easier for folks to get up from their desk and join, rather than being tempted to go home and stay there before joining you at restaurant.
+ 
+Consider family dinner mandatory.
+
+## Family Dinner 0.9 Beta (Coworking version)
+The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. 
+
+We called it Family Dinner because [that's what Y Combinator called their gathering](https://www.fastcompany.com/3040961/the-y-combinator-chronicles/giddiness-terror-cornbread-heres-what-a-y-combinator-dinner-is-r). And we liked the implications of family and strengthening the connections among the members of the PIE folks.
+
+As far as participants, it tended to be a mixture of folks from a number of the early stage startups as well as other individual contributors working out of the space. 
+
+There were a few regular attendees. But the mix changed and morphed from week to week. Conversations ranged from business to personal life to business' impact on personal life.
+
+Then something interesting began to happen. Rather than simply sitting around and engaging in small talk, folks began to share issues and problems they were having. They began to explore the stress and emotions of running a startup. And they began to shed the "entrepreneurial veneer" of "Everything is awesome! We're killing it!" to reveal what was really happening. And to start to ask for help.
+
+## Family Dinner 1.0 (Coworking version)
+
+As Family Dinner moved from Happy Hour to Reality Hour, something interesting began to happen. More folks attended. More folks participated. More folks shared. And more folks were encouraged to share. 
+  
+> Rather than opting for voluntary participation, the weekly event became an exercise in peer mentoring. 
+
+Each person who arrived was required to talk about what they were going through that week. In turn, other folks around the table were required to comment, critique, and collaborate to help that individual. Family Dinner began to solve problems — or identify those problems as intractable. 
+
+Family Dinner problems began to take three distinct forms:
+
+1. **Been there done that.** An individual would highlight a problem that they had experienced. If that problem had already been solved by someone else around the table, the two parties would collaborate to accelerate the resolution of the issue. 
+2. **Now, that's interesting.** An individual would raise an issue that no one had ever dealt with previously, and yet folks were motivated to solve collaboratively. Multiple folks would gather after the discussion to begin collaborating on a resolution of the issue. Sometimes, this took less than an hour. Other times, this would take several weeks of effort.
+3. **Stop. Do not pass Go.** An individual would raise an issue that folks had tried to solve before, but it would be defined to be a completely intractable problems with no solution. Rather than continue to struggle, the individual would be encouraged to move on — or move around — that problem.
+
+But it wasn't without its flaws. Some folks begin commanding more airtime than others. So we put a time limit on it. And enforced a requirement for everyone to talk. We tried to create a culture of collaboration. Where everyone was getting value out of the gathering. Not just a few squeaky wheels.
+
+## Family Dinner 2.0 (Accelerator)
+
+When we decided to shift from coworking space to accelerator, we felt that Family Dinner was one of the more valuable activities that should make the transition, as well. But, in so doing, we failed to retain some of the parameters that had made it successful previously.
+
+First of all, we let folks talk about whatever they wanted to talk about. More often than not — being founders — this resulted in discussions on "what went well this week" or, even worse, with chest thumping.
+
+Inevitably, one startup or founder would be having a good week. They would highlight all of the amazing things that were happening that week. And then the other founders in the group would feel even worse about their progress.
+
+Rather than being something positive for peer mentoring, it became competitive and weird. We recognized this and tried to correct some of those bugs.
+
+## Family Dinner 2.5 (Accelerator)
+
+This was the final model for Family Dinner in the accelerator environment. These were the guiding principles:
+
+- No bragging.
+- Share what’s going wrong.
+- Everyone has to talk.
+- If you can help, help.
+
+During the course of the three month accelerator program, we catered Family Dinner every week for Founders. The gathering was required attendance for at least one Founder from every startup — but we encouraged the entire team to show up every week.Founders from previous classes were invited to attend.
+
+A PIE staff member — usually the program manager — managed the flow of conversations, calling out specific founders to speak and cutting off founders who were going over.
+
+Again, Realizing that sharing successes tends to discourage any folks who are further behind or have had a rough week, we encouraged folks to keep conversations to topics where other founders could use help and support. They were allowed to share successes but they were encouraged to share issues.
+
+We encouraged folks to keep updates short, but we would never cut anyone off who was digging into some deep issues. And we would specifically call out founders who we believed to have expertise that would be helpful to other founders. 
+
+Perhaps the highlight of all Family Dinners — and a nod to how valuable they were — was when Founders who were on the road would take time to call into Family Dinner. (Orchestrate was especially good at this.) If they were on video conference, we would make sure that everyone got face time with the founder calling in. 
+
+Following the first Family Dinner (I know, it was awkward right?), you'll start to get into the cadence. Let's take a look at what that might look like. 	
+
+## Typical week in PIE
+
+We often get asked, "What's a typical week like in your accelerator?" And while the term "typical week" is an oxymoron for PIE, there are some things that occur with enough regularity — and provide enough structure for participants — that we can describe them.
+
+So here's an imperfect look at a typical week at PIE:
+
+## Monday
+
+**8:00AM** 
+Staff arrives and meets with one another about the week's upcoming events. Some startups are already working.
+
+**10:00AM** 
+Workspace is full. All startups have arrived. Staff holds one-on-one meetings with each team. 
+
+**5:00PM**
+Family Dinner starts. Founders and staff leave the workspace to have dinner together. Non-founding team members remain in the space working. 
+
+**7:00PM** 
+Family Dinner ends. Startups return to workspace and continue working. Staff returns to space. Compares notes. Continues peer mentoring momentum from Family Dinner.
+
+**8:00PM** 
+Workspace is about half full with the founders who prefer the late shift. Staff remains online in the chat room or accessible via email.
+
+## Tuesday
+
+**8:00AM** 
+Staff arrives. Continues making mentor connections for startups based on issues raised during family dinner. *Note: It may take as many as two or three mentors with subject matter expertise to help each startup resolve each issue. Your job, from a staff perspective, is to help make this process as efficient as possible.*  
+
+> Make things as simple as possible but no simpler.
+> Albert Einstein
+
+**10:00AM** 
+Workspace is full.
+
+**12:00PM** 
+Catered lunch in the workspace. Some startups sit together and chat. Others simply eat at their desks. (There is no required socializing. Just a request that the founders make time to eat.)
+
+**1:00PM** 
+Anecdotal founder story from a PIE mentor, followed by Q&A.
+
+**2:30PM** 
+Return to work. Mentors often remain behind to continue the conversation with a startup or two.
+
+**7:00PM** 
+Staff and startups start to thin out in the workspace. Staff remains online in the chat room or accessible via email.
+
+## Wednesday
+
+**8:00AM** 
+Work day for startups and staff. Staff arrives. Checks in on progress. Spends day meeting with mentors, potential mentors, alums, and future recruits. 
+
+**10:00AM** 
+Startups working in the workspace.
+
+**11:00AM** 
+Random visitor pings staff. Staff invites the visitor to grab a desk and hang out in PIE for the day.
+
+**1:00PM** 
+Random visitor provides an informal talk and Q&A for startups.
+
+**2:30PM** 
+Startups working in workspace. Staff meetings with W+K account and creative teams. 
+
+**5:00PM** 
+Startups encouraged to attend a targeted community event and spend time networking with the rest of the Portland tech community. Staff suggests they drag the random visitor along for the ride. 
+
+**8:00PM** 
+Startups return to space and continue working and discuss event. Or opt to grab drinks with the random visitor.
+
+## Thursday
+
+**8:00AM** 
+Staff arrives. Startups start to roll in.
+
+**12:00PM** 
+Catered lunch in the workspace. 
+
+**1:00PM** 
+Workshop based on common problem all startups are experiencing. Staff, mentors, and peer-to-peer engagement encouraged.
+
+**3:00PM** 
+Startups return to work. Small groups break off to work on issues that arose during the workshop.
+
+**7:00PM** 
+Staff departs. Space starts to clear out. 
+
+## Friday
+
+**8:00AM** 
+Staff arrives. Startups start to roll in.
+
+**10:00AM** 
+Staff learns that there is an investor in town to meet with a PIE alum. Staff invites the investor to run the gauntlet. Investor agrees. Startups are given 15 minutes each to meet with the investor.
+
+**12:00PM** 
+Staff talks with startups about what happened, what went well, what could be better. 
+
+**4:00PM** 
+Happy Hour with PIE mentors, alums, and community members.
+
+**7:00PM** 
+Happy Hour winds down. Startups go back to work.
+
+**8:00PM** 
+Founders who clicked with the investor meet up to continue the conversation
+
+## Saturday and Sunday
+
+Staff and startups in space sporadically. No scheduled events.
 
 # Engaging mentors in an accelerator class
 At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
@@ -2361,444 +2799,6 @@ Best of all, it occurred in a safe environment. Somewhere that the founders coul
 And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
-				
-# Family Dinner
-Arguably, Family Dinner is one of the most important parts of the program. As the name implies, Family Dinner is a weekly gathering — over dinner — designed to be an exclusive opportunity for our company founders to come together, share status updates, and give guidance to one another. Think of it as it a support group with food.
-
-Having a gathering like this is crucial to the health of your program — and the mental well-being of your founders — that will deepen the connections among companies participating in the class. Peer mentoring is not something that can be forced, but in a setting like family dinner, it is only natural that folks will offer help to their fellow founders.
- 
-Here are a few tips for how to effectively run a family dinner – because it’s not just as simple as ordering food.
- 
-For a program of 6-8 companies, dinner usually run for an hour and a half.  Any longer than that and folks will start tuning out. And trust us, it will go longer than that if you’re not in control.
-
-To avoid dinners that drag on, staff should help your founders either cut to the chase by calling out specific issues staff knows the founders are having or know when to politely cut folks off and move to the next company. You don’t want to discourage any dialog that happens, but you do want to be mindful of everyone’s time. 
-
-If you get into a particularly interesting but lengthy discussion, suggest the founders continue the conversation after dinner.
- 
-As a management team, it is your responsibility to know what buttons to push and what levers to pull to get your founders to open up. Group sharing might not come naturally at first, so it is important to create a safe space to facilitate sharing. Adopt the “what you hear at family dinner, stays at family dinner” motto or a Friend-DA. 
- 
-These dinners are always open to founders who are alums of the PIE program, and if you’re running your dinners right, your alumni will be regulars.
- 
-We recommend hosting your dinners on-site rather than at a restaurant, unless you can get a private room. Having the meal catered means it’s easier for folks to get up from their desk and join, rather than being tempted to go home and stay there before joining you at restaurant.
- 
-Consider family dinner mandatory.
-
-## Family Dinner 0.9 Beta (Coworking version)
-The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. 
-
-We called it Family Dinner because [that's what Y Combinator called their gathering](https://www.fastcompany.com/3040961/the-y-combinator-chronicles/giddiness-terror-cornbread-heres-what-a-y-combinator-dinner-is-r). And we liked the implications of family and strengthening the connections among the members of the PIE folks.
-
-As far as participants, it tended to be a mixture of folks from a number of the early stage startups as well as other individual contributors working out of the space. 
-
-There were a few regular attendees. But the mix changed and morphed from week to week. Conversations ranged from business to personal life to business' impact on personal life.
-
-Then something interesting began to happen. Rather than simply sitting around and engaging in small talk, folks began to share issues and problems they were having. They began to explore the stress and emotions of running a startup. And they began to shed the "entrepreneurial veneer" of "Everything is awesome! We're killing it!" to reveal what was really happening. And to start to ask for help.
-
-## Family Dinner 1.0 (Coworking version)
-
-As Family Dinner moved from Happy Hour to Reality Hour, something interesting began to happen. More folks attended. More folks participated. More folks shared. And more folks were encouraged to share. 
-  
-> Rather than opting for voluntary participation, the weekly event became an exercise in peer mentoring. 
-
-Each person who arrived was required to talk about what they were going through that week. In turn, other folks around the table were required to comment, critique, and collaborate to help that individual. Family Dinner began to solve problems — or identify those problems as intractable. 
-
-Family Dinner problems began to take three distinct forms:
-
-1. **Been there done that.** An individual would highlight a problem that they had experienced. If that problem had already been solved by someone else around the table, the two parties would collaborate to accelerate the resolution of the issue. 
-2. **Now, that's interesting.** An individual would raise an issue that no one had ever dealt with previously, and yet folks were motivated to solve collaboratively. Multiple folks would gather after the discussion to begin collaborating on a resolution of the issue. Sometimes, this took less than an hour. Other times, this would take several weeks of effort.
-3. **Stop. Do not pass Go.** An individual would raise an issue that folks had tried to solve before, but it would be defined to be a completely intractable problems with no solution. Rather than continue to struggle, the individual would be encouraged to move on — or move around — that problem.
-
-But it wasn't without its flaws. Some folks begin commanding more airtime than others. So we put a time limit on it. And enforced a requirement for everyone to talk. We tried to create a culture of collaboration. Where everyone was getting value out of the gathering. Not just a few squeaky wheels.
-
-## Family Dinner 2.0 (Accelerator)
-
-When we decided to shift from coworking space to accelerator, we felt that Family Dinner was one of the more valuable activities that should make the transition, as well. But, in so doing, we failed to retain some of the parameters that had made it successful previously.
-
-First of all, we let folks talk about whatever they wanted to talk about. More often than not — being founders — this resulted in discussions on "what went well this week" or, even worse, with chest thumping.
-
-Inevitably, one startup or founder would be having a good week. They would highlight all of the amazing things that were happening that week. And then the other founders in the group would feel even worse about their progress.
-
-Rather than being something positive for peer mentoring, it became competitive and weird. We recognized this and tried to correct some of those bugs.
-
-## Family Dinner 2.5 (Accelerator)
-
-This was the final model for Family Dinner in the accelerator environment. These were the guiding principles:
-
-- No bragging.
-- Share what’s going wrong.
-- Everyone has to talk.
-- If you can help, help.
-
-During the course of the three month accelerator program, we catered Family Dinner every week for Founders. The gathering was required attendance for at least one Founder from every startup — but we encouraged the entire team to show up every week.Founders from previous classes were invited to attend.
-
-A PIE staff member — usually the program manager — managed the flow of conversations, calling out specific founders to speak and cutting off founders who were going over.
-
-Again, Realizing that sharing successes tends to discourage any folks who are further behind or have had a rough week, we encouraged folks to keep conversations to topics where other founders could use help and support. They were allowed to share successes but they were encouraged to share issues.
-
-We encouraged folks to keep updates short, but we would never cut anyone off who was digging into some deep issues. And we would specifically call out founders who we believed to have expertise that would be helpful to other founders. 
-
-Perhaps the highlight of all Family Dinners — and a nod to how valuable they were — was when Founders who were on the road would take time to call into Family Dinner. (Orchestrate was especially good at this.) If they were on video conference, we would make sure that everyone got face time with the founder calling in. 
-
-## Typical week in PIE
-
-We often get asked, "What's a typical week like in your accelerator?" And while the term "typical week" is an oxymoron for PIE, there are some things that occur with enough regularity — and provide enough structure for participants — that we can describe them.
-
-So here's an imperfect look at a typical week at PIE:
-
-## Monday
-
-**8:00AM** 
-Staff arrives and meets with one another about the week's upcoming events. Some startups are already working.
-
-**10:00AM** 
-Workspace is full. All startups have arrived. Staff holds one-on-one meetings with each team. 
-
-**5:00PM**
-Family Dinner starts. Founders and staff leave the workspace to have dinner together. Non-founding team members remain in the space working. 
-
-**7:00PM** 
-Family Dinner ends. Startups return to workspace and continue working. Staff returns to space. Compares notes. Continues peer mentoring momentum from Family Dinner.
-
-**8:00PM** 
-Workspace is about half full with the founders who prefer the late shift. Staff remains online in the chat room or accessible via email.
-
-## Tuesday
-
-**8:00AM** 
-Staff arrives. Continues making mentor connections for startups based on issues raised during family dinner. *Note: It may take as many as two or three mentors with subject matter expertise to help each startup resolve each issue. Your job, from a staff perspective, is to help make this process as efficient as possible.*  
-
-> Make things as simple as possible but no simpler.
-> Albert Einstein
-
-**10:00AM** 
-Workspace is full.
-
-**12:00PM** 
-Catered lunch in the workspace. Some startups sit together and chat. Others simply eat at their desks. (There is no required socializing. Just a request that the founders make time to eat.)
-
-**1:00PM** 
-Anecdotal founder story from a PIE mentor, followed by Q&A.
-
-**2:30PM** 
-Return to work. Mentors often remain behind to continue the conversation with a startup or two.
-
-**7:00PM** 
-Staff and startups start to thin out in the workspace. Staff remains online in the chat room or accessible via email.
-
-## Wednesday
-
-**8:00AM** 
-Work day for startups and staff. Staff arrives. Checks in on progress. Spends day meeting with mentors, potential mentors, alums, and future recruits. 
-
-**10:00AM** 
-Startups working in the workspace.
-
-**11:00AM** 
-Random visitor pings staff. Staff invites the visitor to grab a desk and hang out in PIE for the day.
-
-**1:00PM** 
-Random visitor provides an informal talk and Q&A for startups.
-
-**2:30PM** 
-Startups working in workspace. Staff meetings with W+K account and creative teams. 
-
-**5:00PM** 
-Startups encouraged to attend a targeted community event and spend time networking with the rest of the Portland tech community. Staff suggests they drag the random visitor along for the ride. 
-
-**8:00PM** 
-Startups return to space and continue working and discuss event. Or opt to grab drinks with the random visitor.
-
-## Thursday
-
-**8:00AM** 
-Staff arrives. Startups start to roll in.
-
-**12:00PM** 
-Catered lunch in the workspace. 
-
-**1:00PM** 
-Workshop based on common problem all startups are experiencing. Staff, mentors, and peer-to-peer engagement encouraged.
-
-**3:00PM** 
-Startups return to work. Small groups break off to work on issues that arose during the workshop.
-
-**7:00PM** 
-Staff departs. Space starts to clear out. 
-
-## Friday
-
-**8:00AM** 
-Staff arrives. Startups start to roll in.
-
-**10:00AM** 
-Staff learns that there is an investor in town to meet with a PIE alum. Staff invites the investor to run the gauntlet. Investor agrees. Startups are given 15 minutes each to meet with the investor.
-
-**12:00PM** 
-Staff talks with startups about what happened, what went well, what could be better. 
-
-**4:00PM** 
-Happy Hour with PIE mentors, alums, and community members.
-
-**7:00PM** 
-Happy Hour winds down. Startups go back to work.
-
-**8:00PM** 
-Founders who clicked with the investor meet up to continue the conversation
-
-## Saturday and Sunday
-
-Staff and startups in space sporadically. No scheduled events.
-
-# Curriculum
-
-As a program, PIE has worked to continually refine its highly intensive mentorship model — through both traditional mentors as well as peer mentorship —  in a way that can be customized on a company-by-company basis. We have continued to refine the model so that it even supports the program's ability to focus on the concerns and issues of single individuals, as needed. 
-
-We equate the curriculum of this program to an “independent study” model in a traditional learning environment. Every Founder in the class shares a collective experience with one another, but their individual learnings are tailored to each of their specific needs — be those needs be individualized by company or person — on a case-by-case basis.
-
-This high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
-
-## More independent study than classroom
-
-Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
-
-PIE's high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
-
-While curriculum can be valuable for Bootcamp programs, "101" type programs, and where participants have a significant amount of time to learn — or review — the content of that curriculum, it is not terribly effective in the Accelerator environment. This is one of the reasons we suggest that Accelerator programs avoid purchasing established curriculum programs for their use. (Another reason is that Accelerators often have very little capital at their disposal and there are better uses of that capital, at the outset.) 
-
-Likewise, we advise against spending a lengthy amount of time creating your own rigid curriculum for your program. 
-- - -
-> **tl;dr PIE took weeks developing a curriculum prior to our first Accelerator class. We threw it out a few days into the program.**
-- - -
-Rather, we suggest that Accelerator Staff and Mentors always be on the lookout for opportunities where every startup is experiencing the same exact problem at the same exact time. Take advantage of those opportunities. But take advantage of them ad hoc, and on the fly.
-
-Some examples of these struggles that impact all founders simultaneously, follow.
-
-## Common issues 
-
-Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. 
-
-That said, every entrepreneur and company will struggle with the following issues:
-
-1. **Working with cofounders**: For most Founders, this experience will be their first time working with a cofounder — or pursuing a business on their own. The stress of going through the program tends to exacerbate and accelerate these issues. We spend a significant amount of time mitigating these conflicts. 
-2. **Working with mentors**: When exposed to advice, which is often contradictory, from successful Founders, every Founder experiences “mentor whiplash.” This can be debilitating and confusing. As such, PIE staff spends time working with our Founders to learn how to manage and act upon this feedback.
-3. **Learning how to meet**: While many of your Founders have participated in meetings, it is highly unlikely that they will have experience with the volume, tenor, and stress of the meetings they will encounter during the Accelerator program. Teaching Founders how to meet can be a critical component of insuring their success in your program.
-4. **Product market fit**: Every Founder believes that their product concept has value. Successful Founders understand that they need customers to validate that belief. PIE works with Founders to ensure that they gain an understanding of what product offering will be the most successful.
-5. **Financial projections**: Even if your teams are lucky enough to have a financially minded cofounder, it is highly unlikely that any of the cofounders have had to deal with financial projections from such an early stage. It is even more likely that this way of thinking about the company, its product, and its business model will be completely foreign to everyone in your cohort.
-6.  **Pricing**: Pricing will always be wrong because it's nearly impossible to get right. But your Founders have to start somewhere. Learning how to set pricing, test pricing models, and revise and optimize pricing will be critical knowledge for all of your Founders. 
-7.  **Funding**: With the popularity of startups comes some misconceptions, like the idea that every company has to raise venture capital. At PIE, we work with entrepreneurs to help them understand the variety of ways they can fund their ongoing efforts, whether that means pursuing equity investment or not.
-8.  **Pitching**: Whether the Startups plan to pursue venture capital or not, being able to effectively tell the story of their company is a critical skill for every Founder. Even if you choose to forego the concept of a "Demo Day," your programs should still spend a significant amount of time working with Founders on crafting a pitch.
-9.  **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
-
-## Timing
-
-In a perfect world, Accelerators would be able to schedule and deliver education on each of these topics in a very programmatic way. Unfortunately, the opportunities to do so are rare. 
-
-Every Founder will require education on the topics they all share in common, but there is very little likelihood that every Founder will all be experiencing these issues at the same time. It is up to Staff and Mentors to monitor these opportunities for shared learning as they arise. It is up to the Staff to be prepared to take advantage of these opportunities whenever possible, as a means of making the most efficient use of time for both Founders and Mentors. 
-
-The most critical aspect of delivering shared curriculum is understanding when to time that content for your class. It's not when you think it should be timed, it's a matter of determining when the Founders will be most receptive to engaging with the Mentor (or Mentors) who can best provide that education.
-- - -
-> **tl;dr There is no convenient programmatic path — no effective curriculum — for educating Founders. Accelerator Staff must be attuned to the ebb and flow of learning and take advantage of opportunities as they arise.** 
-- - -
-The time when founders will be most receptive to the delivery a shared, class-wide learning experience is when the majority of Founders have had the opportunity to struggle with the topic at their own pace. At times, you will need to allow the Founders to fail on their own, before they will be receptive to learning more about the topic.
-
-Over the years, we learned that you can use the Accelerator program format to artificially introduce factors that cause all Founders and Companies to experience the same problem at the same time. 
-
-Which is how we came upon the idea of creating a cadence and "The Three Ps."
-
-# Creating a cadence
-
-One of the most critical efforts for the accelerator staff is that of managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
-
-There is no prescribed timing here. You add more pressure when it is needed. And you try to break the tension when needed. There is no schedule here. You just have to play it by ear. And act with your best instincts.
-
-That said, there are some clear guardrails to help guide your efforts.
-
-First off, it's very important to understand the emotional rollercoaster of the accelerator. 
-
-## The emotional ebb and flow of a stressful startup accelerator 
-
-We've all heard it. "Going through an accelerator is an emotional rollercoaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
-
-But what, exactly, does that rollercoaster look like?
-
-At PIE, we've spent time analyzing the behavior of founders in both our accelerator as well as other programs in which we've had the opportunity to participate. And that analysis has led to a rough sketch of the general ebb and flow of emotions that founders experience throughout the course of an accelerator program.
-- - - 
-> **tl;dr Recognizing and understanding the emotional rollercoaster gives staff  insights as to when it is reasonable to increase the stress in the accelerator and when they would be wise to pull the pressure valve.** 
-- - - 
-Now, granted, this is a sweeping generalization that may not apply to every founder in a program. But we've found that paying attention to this emotional cycle — and managing the program accordingly — can be beneficial for founders, their partners, families, mentors, and the accelerator staff. 
-
-So with that caveat in mind, let's walk through the emotional rollercoaster that is an accelerator. (Note: We've noticed a similar cadence with folks who chase and receive venture capital, as well, for what it's worth.)
-
-![Startup Emotional rollercoaster](/source/images/pieAcceleratorEmotionalRollerCoaster.001.png)
-
-Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
-
-### Pre-Accelerator
-
-It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number of leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
-
-We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
-
-![Startup pre-Accelerator Detail](/source/images/pieAcceleratorEmotionalRollerCoasterPreAccelerator-Detail.png)
-
-1. **False Ceiling of Euphoria** We've learned that the Accelerator environment accelerates, among other things, emotions. As such, we've learned that the highs are far higher than they have seemed to the founders in the past. For that reason, we categorize the pinnacle of euphoria for founders prior to the accelerator as a "false ceiling." Accelerator staff and mentors need to be prepared to help accentuate the good times — and to help regulate euphoric misconceptions.
-2. **False Floor of Despair** If the "highs are higher," then guess what? That's right. The lows are way lower. Within the accelerator environment, we often find founders struggling with depression and negativity that surmounts anything with which they had to deal prior to entering the accelerator program. Accelerator staff and mentors need to be prepared for how paralyzingly acute these lows can be.
-3. **"I found the perfect Accelerator for us!"** When startups are looking for support, finding an Accelerator that best matches their needs can be a high point for them. It's important that Accelerator staff understand and appreciate this moment of euphoria and do their best to cultivate a relationship with each and every Founder who has an interest in their Accelerator.
-4. **"It's been 30 seconds and they haven't responded. They hate us."** Just as quickly as Founders get excited about your Accelerator, they'll get equally despondent if you don't respond to them immediately. Make sure that you're adequately staffed to deal with the influx of questions and inquiries. Automate as much as you can to ensure that Founders always get a response to every request. For example, make sure that there is some indication that a submitted application has been received and is being reviewed. Otherwise, you'll get multiple questions from each and every Founder.
-5. **"We made it through the entire process and they accepted us!"** Once accepted to a program, Founders often experience a sense of euphoria coupled with relief. To many Founders, the recognition and acceptance create a false sense of accomplishment. When in reality, it is actually the starting line for a much more difficult — and emotionally taxing — phase for their company.
-6. **"Maybe we've made a mistake. Is this the right move for us?"** While the period of euphoria may last for some, most Founders will experience a return to a more calm outlook prior to their beginning the program. This may also manifest itself as having second thoughts or cold feet about joining the Accelerator program at all. Be prepared for questions and Founders seeking reassurance.
-
-### Month 1 
-
-Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions. 
-
-As we mentioned above, PIE generally worked with founders who were confident with building product. Your founders may be similar. Or you may attract founders with different points of confidence. 
-
-Whatever the case, it is important that you begin the accelerator program focusing on the area or topic where your founders boast the most confidence. The accelerator environment can be exceedingly stressful and emotionally taxing. By starting your founders in an area of strength, you give them the best chance of surviving the emotional onslaught of their new reality.
-
-![Startup Accelerator Month 1](/source/images/pieAcceleratorEmotionalRollerCoasterMonth01Detail.png)
-
-1. **"Acceptance! We've made it! The sky is the limit."** Once the Founders accept that the Accelerator is the right thing for their startup and cofounders, there is a palpable upswing in emotion. But it is important to note that there will be first date jitters and nerves. Each Founder deals with it differently, but it tends to be an incredibly positive and reassuring time for most companies. The nerves are perceived as excitement rather than dread. And the notion that someone not only believes in the Founders and their idea but is willing to help them succeed is an incredibly heady feeling for most.
-2. **"We are killing it!" aka Breaking through the false ceiling of euphoria** What happens when you get a bunch of euphoric and excited Founders together? That's right: mass hysteria. As Founders' emotions play off of one another, individual Founders find that heady feeling growing at an exponential rate. What previously seemed like the height of happiness — the False Ceiling of Euphoria — pales in comparison to the feeling of giddiness most of the Founders begin to experience. But as the Founders begin to realize their new existence in the Accelerator program, this feeling of euphoria begins to ebb. *Note: This will likely be the last time Founders feel emotionally positive for months.*
-3. **"We're doing it wrong." aka Crashing through the false floor of despair**  The stress and strain of the new environment, the seemingly relentless strings of new tasks and expectations, Mentor whiplash, and a feeling of being unable to navigate — let alone manage — the Accelerator environment can be emotionally crushing. This would be bad enough, alone. But it's exacerbated by the fact that the Founders are coming down off of the highest peak of euphoria. We often see Founders barreling down from this crest at breakneck speed, culminating in a descent into the lowest of lows. Lower, in fact, than any of the worst days prior to entering the Accelerator program. It's a true bottoming out. Previous failures and bad days pale in comparison to the Founder's current emotional state. They feel like complete failures and become very inwardly focused, detaching from their peers and cofounders and grasping to find something that they feel capable of handling. 
-4. **"Everybody else seems to be struggling with the same issues."** Once the startups get settled, the founders get comfortable with one another, and folks begin to settle into a daily rhythm, participants will stop being so inwardly focused — and will begin refrain from continually beating themselves up. They'll start to notice the struggles of their peers. They'll begin conversations about how they're struggling. And they'll discover that they're not alone. This causes a slight improvement in attitude. Not stellar, but an upswing.   
-5. **"We're still the worst company in here."** But that upswing is short lived as founders rapidly return to self criticism. This is usually based on their misperception that every other founder in the program is handling the stress and scheduling more effective. Or is making better use of the resources at his/her disposal. While this viewpoint is often ill founded — no one is actually doing terribly well at this point — it can still cause a dip founders' emotional states. It's especially important to note that this mindset can be reinforced by other founders celebrating wins. So it's important to keep both the positive and negative stuff in check. 
-6. **"And folks here seem to get what we do."** We recommend that the first month be wholly focused on an area of strength for the Founders — since the bulk of PIE Founders were product-centric, we focused on product — the opportunity to share that strength is an uplifting one. While Founders rarely have a cohesive story about their Startup at this point, other Founders can intuit motivations and functions, giving the companies a sense of belonging. This reinforces the feeling that the Startup idea has merit. And it helps reinforce the Founders' feeling of belonging in the Accelerator program. 
-
-### Month 2 
-
-This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
-
-And there's really no way to fix this or prevent this. If you've done your job correctly as an Accelerator, you've put your Founders under a significant amount of pressure in the first month in a new environment — and so much has changed about their business — that your Founders will be feeling pretty beat up. And they'll feel like they're bumping along the bottom of the tank of despair. 
-
-The false floor of despair is long forgotten. This is their new reality.
-
-Some of your Founders will have higher amplitude in their spikes and troughs. Others will simply bump along throughout the month. Regardless, every Founder will have a rough second month. So be aware of what they are going through.
-
-![Startup Accelerator Month 2](/source/images/pieAcceleratorEmotionalRollerCoasterMonth02Detail.png)
-
-1. **"I thought we were getting it, but we're not."** Coming off the affirmation of Month 1, founders may be able to retain some semblance of euphoria. But it's far more likely that this "accomplishment" will quickly erode into stress about all of the other thing that the Startup has to accomplish during the Accelerator. This is the classic point where Founders feel completely overwhelmed. Emotions and egos are extremely fragile at this point in time. And burn out is a significant risk. 
-2. **"We can do this."** If anything, Founders are resilient. And stubborn. And they'll figure out ways to rebound. Even in short bursts. No matter what you throw at them. This difficult time is often the most rewarding and reinforcing of the Accelerator. Confidence is built. Egos are rebuilt. And Founders start to feel like they're actually starting to get a handle on this new existence. They're not overly confident. But their confidence is building. As is their understanding of how to manage themselves, their companies, and their peer relationships, both within the company and within the cohort. That's what makes this the perfect point to teach — and challenge — the founders on their greatest weaknesses. Because they've developed the resilience to handle it. 
-3. **"We don't seem any worse off than anyone else."** Not only does confidence build, but Month 2 is the month where founders gain the most empathy for their cofounders and peers. They start to recognize that everyone is struggling. And that even the most confident and capable Founders in the cohort have their weaknesses. So when you introduce subject matter with which everyone struggles — and everyone recognizes that one another is struggling — you enforce a tendency toward collaboration, support, and peer mentorship. Which, in turn, fortifies the connections and feeling of community among the participants. 
-
-### Month 3 
-
-This will be the most rewarding month for your startups. Not only will you see them making significant progress, they will make *tangible* progress that the Founders, themselves, will recognize. That progress, in turn, will directly impact the future of their companies. 
-
-![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
-
-1. **"After talking to folks, I'm not sure our company is viable."** The beginning of month three is often a low point for folks. They've just come out of one of their most challenging learning experiences in month 2. They have grown used to the constant mentor meetings and the speed at which things are going. So much so, that they have a difficult time recognizing how much they're accomplishing. They have, to put it colloquially, established a new normal. And that can make them feel like they're not progressing or succeeding.
-2. **"We get to pitch! We totally get pitching."** Whatever the reason — be it their acceptance into your Accelerator, the bevy of pitch contests to which a startup is exposed these days, or simply having family and friends providing less than critical feedback — most Founder tend to exist under the delusion that they already know how to tell the story of their company. Unfortunately for them, nothing could be further from the truth. But at this point, they'll come into Month 3 with more confidence than they've had in weeks — potentially months. 
-3. **"No one got our pitch. We're not even going to make it to the stage."** Companies start to pitch. And that illusion of "We totally get pitching" begins to crumble. And as more truly critical feedback comes rolling in — from staff, from mentors, and perhaps worst of all, from their peers — Founders come to realize that their pitch needs a ton of work. In fact, in most cases, what they thought was their pitch has to be totally scrapped. This realization has the potential to crush confidence and further demotivate even the most confident Founders. 
-4. **"Wait a second. This is working."** Slowly but surely, the feedback starts to sink in. And the pitch starts to improve. The Founders regain their confidence. And the pitch actually starts to improve. From everyone's perspectives. And with practice, the pitches become more and more compelling. And with finessing, the Founders grow more and more confident in their ability to tell the story of the company they are building. And as the opportunity to get on stage — and get out of relentless pitch practice — draws nearer and nearer both mood and nerves are ever on the increase. 
-5. **Demo Day: "This is the best day of my life."** If everything goes as planned, Demo Day will be the most rewarding experience of any Founder's life. In fact, we often tell them that, backstage. "This will be the most fun you ever have with your startup." Again, part of that might be the knowledge that they will soon be free of the constant haranguing of the Accelerator environment. But the majority of this feeling comes from a sense of accomplishment. And confidence. And the recognizable ability to tell a compelling story — and then to celebrate the telling of that story in the gathering that happens after everyone leaves the stage.
-
-Now that you have some generic context of the rollercoaster, let's break down those three months in terms of the subjects PIE used to educate Founders of tech Startups.
-
-### The Three Ps
-
-So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
-
-By class three (Coconut Creme), we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
-
-Throughout the course of these stages and gates, we tailor the mentor talks to match the topic — or to queue up the obvious need for the startups to focus on these particular topics.
-
-Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
-
-#### Product (Month 1)
-
-Because PIE classes generally consisted of groups of developers who understood how to build products, we started in a place of strength and confidence: product development. 
-
-The challenge? Be ready to demo the current version of the company's product in front of the others startups in the class. The deadline was one month into the class. And it was a required activity. 
-
-For some, this was a relatively simple request and in line with their product development schedules. For others, it required a great deal of effort to meet the milestone.
-
-But that led to some interesting things, as well.
-
-Those who were further ahead on product often discovered that they lacked the language to effectively convey what they were building. Worse yet, they sometimes that the current version of the product was difficult, if not impossible, to demo to a diverse audience. 
-
-We get to question assumptions, clarify utility, and make suggestions, as a class — in a group environment. Companies get to respond directly to queries, jot down feature ideas, and generally scratch their head a great deal and ask "Why **did** we do it that way?"
-
-So month one, get the product momentum going. And reward those who are making progress. Because that's going to be the crux of everything going forward. 
-
-It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
-
-#### Projections (Month 2)
-
-Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
-
-Now that we've stressed out the developers, we put the stress on the business people. Who, more often than not, are developers learning how to business. 
-
-And in our experience, nothing makes a business person feel more businessy than creating a spreadsheet with lots of dollar values in it. So that's exactly what we focus on during month two, projections.
-
-We usually choose a 12 month window, because none of us know what's really going to happen in the future. But a year seems like a viable window to explore these numbers.
-
-With projections, we experience the polar opposite of product. No one feels confident in their numbers. Most companies don't even know where to begin. 
-
-To support, we offer templates, mentors, and office hours to help. But it usually doesn't. And it becomes a last minute scramble, rife with cries of "Do we really have to do this?"
-
-The answer is "Yes." It's a required element of the class.
-
-From this position of lacking confidence, the revealing of the projections to peers in the a group becomes a very different exercise. With the presenting founder often asking more questions than the audience.
-
-"How did you do this?", "Does this seem realistic?", "What's missing?"
-
-A second month of stress induced collaboration has heightened the trust among peers from a feeling of camaraderie to a dynamic of peer mentorship. And this is exactly what we're trying to engender. 
-
-But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
-
-#### Pitch (Month 3)
-
-Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
-
-It's important to note that many programs choose to pitch throughout the course of the entire class. We've found this to have diminishing returns if run for longer than a month. It's also a good chunk of time which we feel is better focused on things like product and projections.
-
-If the product demo is the area of the most confidence and projections are the area of least confidence, the pitch is somewhere in the middle. But it's often the most difficult to refine and finesse, so plan to spend a great deal of time doing it. 
-
-At PIE, we played it by ear, with no fewer than two full group pitch practices per week. With individual staff, mentor, and peer-to-peer pitch practices rounding out the month of activity. 
-
-We began with no slides, only story. Because it does no good to waste time building slides for a story that is going to change drastically anyway. We continue with no slides until we feel the stories are starting to solidify. Then we move to pitches with slides and story.
-
-Group pitch practices are attended by all startups and staff. Mentors are invited to attend when and if they can. Presenters receive feedback from staff, peers, and their team members. 
-
-But there is one distinct difference from the previous two milestones. The difference — and this is critically important — is that while previous presentations are a conversation among the presenter and the audience, this feedback loop is one way. The audience can critique the presentation, but the presenter cannot respond. 
-
-Why? Well, we learned from our speaking coach mentor that this is a critical step in getting people to actually implement changes and improve their talks. You see, if they respond to the feedback, they subconsciously assume that they've fixed the problem. So don't let them respond. And they go and actually fix the problem.
-
-Once the story and deck are starting to come together, start recording the presenters. Not only will it give them a valuable asset to review, it will present another stressor that breaks them out of their comfort zone.
-
-Another piece of feedback we've received from the startups? 
-
-The last week is pretty much nonstop practice, where we not only continue to finesse the story and the deck, but we start getting the presenter to give the pitch in the uniform that they plan to wear on stage. We've learned that the more we gradually attempt to mimic the environment and conditions they will experience on Demo Day — even if it can't be done perfectly — the better the presentations are.
-
-If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
-
-				97. Work time
-				98. Social time
-					99. Coffee hour
-					99. Happy hour
-				97. Care and feeding of startups
-					98. Stress reliever
-					99. Keeps them healthy
-					100. Develops social bonds
-					101. To Lunch and Learn or not Lunch and Learn
-				98. Care and feeding of mentors
-					99. Not every engagement needs to be "work"
-				100. Keeping the conversation going
-					101. Chat
-					102. Email
-					103. Status reporting
-					104. Weekly 1:1
-					105. Office hours
-					
-## Shared experiences
-						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
-						114. Family Dinner
-						115. Lunch
-						112. Pitch Practice
-					108. Status reporting
-					109. Check-ins
-					110. Weekly reports
 
 
 **Advice for startups: Working with mentors**
