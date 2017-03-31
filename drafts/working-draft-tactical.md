@@ -932,6 +932,15 @@ At PIE, we chose to cater three meals per week, on average — one dinner and tw
 
 This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
 
+## Diversity and inclusion
+Admittedly, PIE did a relatively poor job with a diverse set of mentors and startup founders. 
+
+We were lucky to have a number of women in each of our classes, from the coworking days through the accelerator. Nearly half of our mentors were women. This was not intentional. It just happened to work out that way. 
+
+That said, we had very little variety in terms of colors, ethnicities, orientations, backgrounds, and beliefs.
+
+This was a mistake. One that we are actively working to correct. One that we are being intentional about improving as we continue to work on PIE. Given the opportunity to start over, we would make this one of the critical components of our accelerator foundation. So that's why we're including it here. 
+
 # Budget
 Early on, one of the most challenging aspects of standing up an accelerator or coworking environment can be projecting — guessing, really — how much it will cost to run the project.
 
