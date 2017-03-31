@@ -2265,15 +2265,57 @@ We recommend an intake survey for participants, so you can get a better feel for
 - Are you an early bird or a night owl?
 
 ### Day 1: Take it slow
-
 We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
 
 				93. Touring the space
 				94. Introducing startups to one another
 				
-Once the startups get settled, it's important to get into the typical flow as quickly as possible. As the first activity, we recommend starting with Family Dinner. 
+#### Introducing startups to the concept of working with mentors
+Just as the startups will need context for what the accelerator is designed to do, they'll also need context on how to work with mentors. We feel it's best to do this sort of stuff in person, so we wait until the startups are in the space.
 
-# Family Dinner
+Here's an example of one way we use to bring the startups up-to-speed
+
+##### Advice for startups: Working with mentors**
+Are you interested in engaging with mentors? Good. That's what we're here to do.
+
+Here are a some tips:
+
+###### OVERALL
+- These folks are volunteering their time because they want to give back to the community. Please be cognizant and respectful of this contribution.
+- Please understand that while our program is a priority for them, they have day jobs and families and whatnot.
+- Following the deep dive meetings, management has compiled a list of mentors who will be helpful to your startup. We will make those introductions on an ongoing basis. Please use one of the two methods below for engaging with those mentors.
+- If you’re not finding mentors who meet your needs, please alert management with your concerns and we will recruit mentors to assist with your particular situation.
+- Shit happens. Sometimes they’ll need to cancel and/or reschedule.
+
+###### AD HOC MENTOR MEETINGS
+Need an intro?
+
+The database was designed to be an easy way of searching through the mentor network. Feel free to search through and find folks who are of interest to you.
+
+Ping management with requests for introduction or schedule time via mentor’s office hours
+
+Once you’re introduced…
+
+- Once management makes an email introduction, immediately follow up to schedule a time and place with the mentor.
+- Do one last follow up/confirmation via email evening before/morning of your meeting.
+- Following the Office Hours, send a follow up email touching on any salient points.
+- Fill out the mentor feedback form
+
+###### OFFICE HOURS
+- Keep tabs on the Office Hours page and be on the lookout for mentors who you find interesting 
+- If management staff sees a mentor with office hours who would be beneficial for you, we’ll generally nudge you to set up some time.
+- Once you’ve secured time, confirm the time and place via email. Mentors are busy and sometimes a single email gets lost in the fray.
+- Do one last follow up/confirmation via email evening before/morning of your meeting.
+- Following the Office Hours, send a follow up email touching on any salient points.
+- Fill out the mentor feedback form
+https://docs.google.com/forms/d/1vwn3OQRAiZbGaDNYUt38BOkdPVqnmMG77qRLJMXFnW0/viewform
+
+### Getting into the flow		
+Once the startups get settled, it's important to get into the typical flow as quickly as possible. Don't let this take more than 48 hours or so. Otherwise, your startups will settle into a routine and breaking them from that routine will be difficult. 
+
+As the first activity, we recommend starting with Family Dinner. 
+
+#### Family Dinner
 Arguably, Family Dinner is one of the most important parts of the program. As the name implies, Family Dinner is a weekly gathering — over dinner — designed to be an exclusive opportunity for our company founders to come together, share status updates, and give guidance to one another. Think of it as it a support group with food.
 
 Having a gathering like this is crucial to the health of your program — and the mental well-being of your founders — that will deepen the connections among companies participating in the class. Peer mentoring is not something that can be forced, but in a setting like family dinner, it is only natural that folks will offer help to their fellow founders.
@@ -2292,7 +2334,7 @@ These dinners are always open to founders who are alums of the PIE program, and 
  
 We recommend hosting your dinners on-site rather than at a restaurant, unless you can get a private room. Having the meal catered means it’s easier for folks to get up from their desk and join, rather than being tempted to go home and stay there before joining you at restaurant.
  
-Consider family dinner mandatory.
+Consider family dinner mandatory. And rest assured that it will take a while for you to find your Family Dinner groove. At PIE, we made a bunch of errors with the format before we honed in on what worked for our companies.
 
 ## Family Dinner 0.9 Beta (Coworking version)
 The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. 
@@ -2306,7 +2348,6 @@ There were a few regular attendees. But the mix changed and morphed from week to
 Then something interesting began to happen. Rather than simply sitting around and engaging in small talk, folks began to share issues and problems they were having. They began to explore the stress and emotions of running a startup. And they began to shed the "entrepreneurial veneer" of "Everything is awesome! We're killing it!" to reveal what was really happening. And to start to ask for help.
 
 ## Family Dinner 1.0 (Coworking version)
-
 As Family Dinner moved from Happy Hour to Reality Hour, something interesting began to happen. More folks attended. More folks participated. More folks shared. And more folks were encouraged to share. 
   
 > Rather than opting for voluntary participation, the weekly event became an exercise in peer mentoring. 
@@ -2322,7 +2363,6 @@ Family Dinner problems began to take three distinct forms:
 But it wasn't without its flaws. Some folks begin commanding more airtime than others. So we put a time limit on it. And enforced a requirement for everyone to talk. We tried to create a culture of collaboration. Where everyone was getting value out of the gathering. Not just a few squeaky wheels.
 
 ## Family Dinner 2.0 (Accelerator)
-
 When we decided to shift from coworking space to accelerator, we felt that Family Dinner was one of the more valuable activities that should make the transition, as well. But, in so doing, we failed to retain some of the parameters that had made it successful previously.
 
 First of all, we let folks talk about whatever they wanted to talk about. More often than not — being founders — this resulted in discussions on "what went well this week" or, even worse, with chest thumping.
@@ -2332,7 +2372,6 @@ Inevitably, one startup or founder would be having a good week. They would highl
 Rather than being something positive for peer mentoring, it became competitive and weird. We recognized this and tried to correct some of those bugs.
 
 ## Family Dinner 2.5 (Accelerator)
-
 This was the final model for Family Dinner in the accelerator environment. These were the guiding principles:
 
 - No bragging.
@@ -2350,10 +2389,13 @@ We encouraged folks to keep updates short, but we would never cut anyone off who
 
 Perhaps the highlight of all Family Dinners — and a nod to how valuable they were — was when Founders who were on the road would take time to call into Family Dinner. (Orchestrate was especially good at this.) If they were on video conference, we would make sure that everyone got face time with the founder calling in. 
 
-Following the first Family Dinner (I know, it was awkward right?), you'll start to get into the cadence. Let's take a look at what that might look like. 	
+Following the first Family Dinner… 
+
+I know, it was awkward right? Don't worry. it will get better. I promise. 
+
+… you'll start to get into the cadence. Let's take a look at what that might look like. 	
 
 ## Typical week in PIE
-
 We often get asked, "What's a typical week like in your accelerator?" And while the term "typical week" is an oxymoron for PIE, there are some things that occur with enough regularity — and provide enough structure for participants — that we can describe them.
 
 So here's an imperfect look at a typical week at PIE:
@@ -2463,9 +2505,17 @@ Founders who clicked with the investor meet up to continue the conversation
 Staff and startups in space sporadically. No scheduled events.
 
 # Engaging mentors in an accelerator class
+So that all makes sense. But there's an awful lot of mentoring in there. How does that stuff start to happen? 
+
 At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
 
-We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
+We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor:
+
+- Presentation with Q&A
+- Workshops
+- Speed dating
+- Matchmaking
+- Office hours
 
 ## Presentation with Q&A
 Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.
@@ -2473,7 +2523,6 @@ Often the least taxing — but still incredibly valuable — way to engage mento
 ### For the mentor
 
 #### Preparing mentors to speak to a class
-
 One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the entire class. For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
 
 At PIE, we found a cadence of two talks — where a single mentor addresses the entire class — per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. 
@@ -2481,7 +2530,6 @@ At PIE, we found a cadence of two talks — where a single mentor addresses the 
 Variety, am I right?
 
 ### Misconceptions about mentor presentations
-
 In our experience, we've found that there are a few misconceptions some communities have about mentors presentations. So we wanted to dispel those immediately.
 
 #### 1) Mentors who want to speak are the mentors that should speak
@@ -2655,14 +2703,38 @@ Just don't.
 ### For the mentor
 ### For the founders
 
+ - - -
+### Experimenting with the format: Lunch and Learns
+Sometimes a mentor talk, other times a workshop, sometimes led by peers, lunch and learns are scheduled twice a week during the three month program during the lunch hour. Speakers can range from founders with anecdotal “war stories” to subject matter experts. We often bring our higher profiled mentors in for these talks, as it is easier to schedule for them. These are some of the most valuable learning opportunities of the program.
+ 
+Despite how straightforward these sessions sound, we’ve discovered a few snags. There is a chance that any given topic, might not be something a company is dealing with that particular day or week, but trust us, they will – and when they are dealing with it, they might not have a chance to meet with that mentor again. This is one of those; take advantage of the opportunity while you have it, moments.
+ 
+Teams will be busy and claim they just don’t have the time for another meeting.  Again, see above. These opportunities aren’t always on the table so they should be treated as such. 
+ 
+Active engagement is crucial for the companies and for the speakers.  A silent room means that your companies aren’t paying attention or asking questions and maybe even more importantly, it means that your speaker is wasting their time and becoming less and less likely to mentor for your program again. We ask our companies to step away from their machines and actively listen / take notes when during the session – it’s only an hour.
+ 
+Oh, and don’t forget to supply lunch – as it’s in the name and presents an opportunity for peer mentoring among the companies or a chance to talk more with the speaker. We’ve found it's best served before the talk.
+
+This doesn’t have to be mentor led. This can be peer led. Some of the most interesting lunch and learns are peer led.
+
+Example topics:
+- Getting the most out of an accelerator
+- Pricing Model roundtable – multiple mentors
+- The importance of documentation  	
+- Minimum “Valuable” Product
+- Founder Talks
+- Business Development 101
+- Presenting 101 
+- PR 101
+- - -
+
+
 ## Speed dating or running the gauntlet
 
 # Speed dating vs Matchmaking
-
 When it comes to mentor engagement, no topic is more ripe for discussion — and more likely to rile opinions — than the pros and cons of speed dating and matchmaking. But before we get into that, let's explain what we mean by the terms.
 
 ## Speed dating
-
 With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
 
 There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
@@ -2698,7 +2770,6 @@ Where we have found this permutation effective is with Angel groups and Venture 
 In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
 
 ### The dark side of speed dating
-
 While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
 
 These drawbacks, which we'll cover in more detail, include but are not limited to:
@@ -2708,8 +2779,10 @@ These drawbacks, which we'll cover in more detail, include but are not limited t
 - Perceived lack of tangible results
 - A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
 
-## Matchmaking 
+### For the mentor
+### For the founders
 
+## Matchmaking 
 While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
 
 In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
@@ -2725,16 +2798,10 @@ With matchmaking, the connections between mentors and startups are less serendip
 
 There is no set day or timeframe. Staff introduces the startup and mentor and leaves it the startup to schedule the meeting. Staff then follows up with both mentor and startup to understand the outcomes of the meeting and to help decide next steps. 
 
-## So which is it? Both.
-
-Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
-
-Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
-
-### For the mentor
-### For the founders
-
-## Hands on
+We define three different formats for matchmaking:
+- 1:1
+- 1:Company
+- Many:Company 
 
 ### 1:1
 
@@ -2751,9 +2818,8 @@ Why? Well, in our experience, we've learned that each model has its pros and con
 #### For the mentor
 #### For the founders
 
-
-# Bad actors
-
+- - -
+# A note about bad actors
 One of the most challenging things about attempting to manage community — and then activating that community in the form of an accelerator — is the presence of bad actors.
 
 When we say "bad actors," we mean individuals who are more interested in personal gain than the gain of the community or the founders in your program. It happens. Sometimes it's intentional. Often it's not. 
@@ -2800,85 +2866,6 @@ And with this happy accident it dawned on us that these founders were going to e
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
 
-
-**Advice for startups: Working with mentors**
-
-Are you interested in engaging with mentors? Good. That's what we're here to do.
-
-Here are a some tips:
-
-## OVERALL
-- These folks are volunteering their time because they want to give back to the community. Please be cognizant and respectful of this contribution.
-- Please understand that while our program is a priority for them, they have day jobs and families and whatnot.
-- Following the deep dive meetings, management has compiled a list of mentors who will be helpful to your startup. We will make those introductions on an ongoing basis. Please use one of the two methods below for engaging with those mentors.
-- If you’re not finding mentors who meet your needs, please alert management with your concerns and we will recruit mentors to assist with your particular situation.
-- Shit happens. Sometimes they’ll need to cancel and/or reschedule.
-
-## OFFICE HOURS
-- Keep tabs on the Office Hours page and be on the lookout for mentors who you find interesting 
-- If management staff sees a mentor with office hours who would be beneficial for you, we’ll generally nudge you to set up some time.
-- Once you’ve secured time, confirm the time and place via email. Mentors are busy and sometimes a single email gets lost in the fray.
-- Do one last follow up/confirmation via email evening before/morning of your meeting.
-- Following the Office Hours, send a follow up email touching on any salient points.
-- Fill out the mentor feedback form
-https://docs.google.com/forms/d/1vwn3OQRAiZbGaDNYUt38BOkdPVqnmMG77qRLJMXFnW0/viewform
-
-## AD HOC MENTOR MEETINGS
-
-Need an intro?
-
-The database was designed to be an easy way of searching through the mentor network. Feel free to search through and find folks who are of interest to you.
-
-Ping management with requests for introduction or schedule time via mentor’s office hours
-
-Once you’re introduced…
-
-- Once management makes an email introduction, immediately follow up to schedule a time and place with the mentor.
-- Do one last follow up/confirmation via email evening before/morning of your meeting.
-- Following the Office Hours, send a follow up email touching on any salient points.
-- Fill out the mentor feedback form
-
-					
-				99. Mentor engagement
-					100. Formal
-						101. Presentation with Q&A
-							102. As we mention above, founders only care about the problem they’re experiencing today, right now. To further the disconnect, even if a mentor provides step-by-step instructions with excruciating details, the founder will never be able to recreate the steps, moments in time, or luck that founder had. 
-							103. For this reason, we suggest that mentor presentations primarily be used as an anecdotal learning experience. Not a teaching one.
-							104. Your primary objective with this format is to convince your founders that they, like the mentor, are capable of succeeding. 
-							104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
-							105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
-						100. Workshops
-
-**Lunch and Learns** 
-
-Sometimes a mentor talk, other times a workshop, lunch and learns are scheduled twice a week during the three month program during the lunch hour. Speakers can range from founders with anecdotal “war stories” to subject matter experts. We often bring our higher profiled mentors in for these talks, as it is easier to schedule for them. These are some of the most valuable learning opportunities of the program.
- 
-Despite how straightforward these sessions sound, we’ve discovered a few snags. There is a chance that any given topic, might not be something a company is dealing with that particular day or week, but trust us, they will – and when they are dealing with it, they might not have a chance to meet with that mentor again. This is one of those; take advantage of the opportunity while you have it, moments.
- 
-Teams will be busy and claim they just don’t have the time for another meeting.  Again, see above. These opportunities aren’t always on the table so they should be treated as such. 
- 
-Active engagement is crucial for the companies and for the speakers.  A silent room means that your companies aren’t paying attention or asking questions and maybe even more importantly, it means that your speaker is wasting their time and becoming less and less likely to mentor for your program again. We ask our companies to step away from their machines and actively listen / take notes when during the session – it’s only an hour.
- 
-Oh, and don’t forget to supply lunch – as it’s in the name and presents an opportunity for peer mentoring among the companies or a chance to talk more with the speaker. We’ve found it's best served before the talk.
-
-This doesn’t have to be mentor led. This can be peer led. Some of the most interesting lunch and learns are peer led.
-
-Example topics:
-- Getting the most out of an accelerator
-- Pricing Model roundtable – multiple mentors
-- The importance of documentation  	
-- Minimum “Valuable” Product
-- Founder Talks
-- Business Development 101
-- Presenting 101 
-- PR 101
-
-**Gauntlet/speed dating**
-**1:1**
-**1:Team**
-**Office hours**
-
-					
 **Encouraging bonding among peers** 
 
 This is an important part of our program and one that we feel is often overlooked by others.  We believe that we aren’t just graduating individual companies from our program, but collaborative groups who will improve and enhance our existing community. 
@@ -2973,7 +2960,6 @@ One of the things we tried time and time again was to get the startups to take m
 
 
 # Post mortem
-
 If you’ve done your work on pitch practice correctly, your startups will be primed to turn the tables on you. 
 
 > “You critiqued my pitch? Let me critique your job.” 
