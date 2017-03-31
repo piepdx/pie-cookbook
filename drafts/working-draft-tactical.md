@@ -2752,9 +2752,8 @@ We define three different formats for matchmaking:
 #### For the mentor
 #### For the founders
 
-
-# Bad actors
-
+- - -
+# A note about bad actors
 One of the most challenging things about attempting to manage community — and then activating that community in the form of an accelerator — is the presence of bad actors.
 
 When we say "bad actors," we mean individuals who are more interested in personal gain than the gain of the community or the founders in your program. It happens. Sometimes it's intentional. Often it's not. 
@@ -2800,6 +2799,7 @@ Best of all, it occurred in a safe environment. Somewhere that the founders coul
 And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
+- - -
 
 
 **Advice for startups: Working with mentors**
@@ -2840,15 +2840,6 @@ Once you’re introduced…
 - Fill out the mentor feedback form
 
 					
-				99. Mentor engagement
-					100. Formal
-						101. Presentation with Q&A
-							102. As we mention above, founders only care about the problem they’re experiencing today, right now. To further the disconnect, even if a mentor provides step-by-step instructions with excruciating details, the founder will never be able to recreate the steps, moments in time, or luck that founder had. 
-							103. For this reason, we suggest that mentor presentations primarily be used as an anecdotal learning experience. Not a teaching one.
-							104. Your primary objective with this format is to convince your founders that they, like the mentor, are capable of succeeding. 
-							104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
-							105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
-						100. Workshops
 
 **Lunch and Learns** 
 
