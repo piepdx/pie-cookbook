@@ -768,7 +768,7 @@ The most critical of these critical components will be your mentors. These are t
 
 It is important to understand that there are different types of mentors, different ways to apply each mentor, and different motivations for the mentors to participate in the program. It's also important that you understand the best ways to recruit, manage, and reward your mentors for their participation in your program.
 
-Let's start by outlining the general categories of Mentors, bearing in mind that Mentors can often fall into multiple categories. 
+Let's start by outlining the general categories of Mentors, bearing in mind that Mentors can often fall into multiple categories. We'll get into recruiting mentors later in the Cookbook.
  
 #### Non-resident Mentors
 
@@ -914,19 +914,616 @@ For the startups, the benefits of having a seasoned resource at their disposal a
 - Providing tips and tricks for getting the most out of the progra
 - Helping startups "work the system"
 
-#### Recruiting mentors
-	
-			21. Anyone can (and should) be a mentor
-				22. It’s not just “experts”
-				23. Different viewpoints reveal flaws and opportunities
-		
-			22. Identifying potential mentors
-			23. Recruiting potential mentors
-			23. Qualifying potential mentors
-			24. Alums as mentors
-			24. Onboarding
-			24. Time commitment
 
+Partners
+			52. Objectives
+			53. Outcomes
+		54. Media
+
+# Culture
+## Establish a thesis
+
+Even if you're not planning to invest capital in your Startups, you should still do one thing like an investor: have a thesis. 
+
+What's a thesis? It's something that guides the types of companies with whom you want to work and often — more importantly — a guideline that prevents you from working with companies that aren't the right fit for your Accelerator.
+
+A thesis is especially important for a first-time program. Otherwise, you'll try to take all comers, which will set you up for failure on any number of fronts.
+- - - 
+> **tl;dr A thesis will help guide all of your Accelerator activities.**
+- - - 
+You don't have to be married to your thesis forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof. It just needs to be defined. And you need to stick to it.
+
+At PIE, we hit upon the fact that we were really good at accelerating technology platforms and enabling technology. Or to put it another way, we did really well with developers building tools for other developers. Why did we get good at this? There were any number of reasons but among the most important were:
+
+- Portland has a long history of building platforms and enabling technologies, so there were more folks who had "been there and done that" with these types of businesses.
+- Our mentors had expertise in building platforms.
+- Our alums happened to be focused on platforms.
+- The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
+- As mentors and alums helped us recruit companies, they inevitably drew from a community of peers — many of whom were building platforms or enabling technology
+- Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — a company built on the premise of helping other companies.
+- We started PIE just as both the SaaS and mobile markets were exploding
+
+## Know where you suck
+
+Know — don’t assume; know — what you are truly good at doing.
+
+And even more importantly? Be willing to admit where you suck.
+
+At PIE, it quickly became obvious that we sucked at helping startups with fundraising. We were hamstrung by several things.
+
+First, there was a nascent investment community in Portland. 
+
+Second, the community that happened to exist did not possess a complementary risk profile for the companies with whom we were working. Because of that, the local investors had little appetite for the types of companies as investments. 
+
+Third, we had not established adequate ties with investors in other regions. We had friends here and there, but we didn’t have a strong rolodex of investors whose theses matched our startup profiles.
+
+But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provided us with yet another measure by which to select the companies we chose.
+
+## But also know what your strengths are
+
+PIE mentor and Techstars Seattle Managing Director, Chris DeVore, provides a [compelling list of the things that Seattle is good at doing](http://crashdev.com/2017/01/what-is-seattle-best-at/). 
+
+While your list might not be as long as Chris' — Seattle has been at this for a while — it's important that you take the time to assess what strengths your staff, mentors, startups, and regional expertise bring to the mix. 
+
+If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
+ 
+## Food
+
+With a name like PIE, it only stands to reason that we would include food as one of our critical offerings. 
+
+We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
+
+Providing food for your founders lessens stress, keeps them healthier, and ensures that they're actually eating from time to time. And all of that ensures that they're getting the most out of the other accelerator offerings. 
+
+What's more, consistently scheduling meals and aligning them with mentor talks is a great way to ensure that the founders are around to learn from mentors. Schedule mentor talks accordingly.
+
+Feed their body; feed their mind.
+
+And can we ask one favor of your meal planning? If we would love accomplish one thing with this Cookbook, it would be to finally break that whole pizza and startups association. 
+
+I know. It's a little weird coming from a place named PIE. But please stop. Stop feeding founders pizza. There are plenty of events with free pizza. They'll get plenty. Trust us. Once in a while pizza is acceptable, but not consistently.
+
+Equally infuriating — and lacking in nutrition — is the candy, chips, and soda snack stereotype. Don't fall for it. Your founders deserve better than that. So does your staff. Get creative. Some candy, chips, and soda are fine. In moderation. But maybe have fresh fruit delivered on a regular basis. Have a vegetable platter every week. Have hummus and pita. Mix it up. 
+
+Finally, you can have Ramen on hand as a snack. We get it. But it's not a meal. Ever. 
+
+Feed your founders real, nutritious food. Consistently. Make sure they're getting the fuel they need. 
+
+And please be conscious, aware, and diligent of founders', mentors', and staff dietary requirements. Maybe they're vegetarian. Maybe they have religious requirements. Maybe they have a food allergy. Maybe they're just particular. Whatever the case, listen and accommodate all of their needs. They're under enough pressure without having to deal with not having something they can eat.
+
+At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. 
+
+This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
+
+ 
+
+
+			56. Hospitality
+				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
+				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
+			57. Diversity and Inclusion
+	52. Oven
+
+# Budget
+Early on, one of the most challenging aspects of standing up an accelerator or coworking environment can be projecting — guessing, really — how much it will cost to run the project.
+
+And while sharing numbers from what it takes to run a startup accelerator in Portland, Oregon, may not be terribly helpful, we're hoping that we can provide some guidance through some topics for discussion. And some ballparks for the allocation of capital.
+
+## Considerations
+First and foremost, you have to determine what type of accelerator you're going to be running. 
+
+Let's start by asking a few questions:
+
+- Are you going to invest in the startups?
+- What types of startups are you going to be working with?
+- Do these companies require special infrastructure?
+- How many companies would you like to impact on a yearly basis?
+- How many staff members are required to support the number of participants?
+- How many classes per year are you planning to run?
+- Do you have existing partnerships that will reduce out-of-pocket costs?
+- How much space are you going to need to support the broader community?
+
+Now that you're starting to hone in on what type of environment, staff, resources, and potential investments you're going to make, you're starting to have a better idea of how much capital this is going to take. Now, let's see if we can make that number smaller. 
+
+- In regards to these responses, what is critical versus nice-to-have?
+- How lean can you run this project and still be successful?
+- What is your Minimum Valuable Accelerator?
+
+## Ballpark figures
+Now that you have some potential buckets for where you're going to be spending money, we can start figuring out how much capital you're going to need to be successful with your accelerator. 
+
+We're providing the following some ballpark estimates for a variety of expenditures where we can — and additional context for where we can't. And we always encourage you to plan for the worst and hope for the best. Better to make your numbers higher and have the actuals come in lower. 
+
+So here we go in order of importance. 
+
+### Space
+Obviously, for this model of accelerator, space is critical. You should allocate a significant amount of the capital to underwriting this expense. At the very least, you should estimate about 100 sq ft (30 sq m) for each founder in the space. At the most, you should get as much space as you can afford. 
+
+If you can buy — or work out an arrangement with the building owner — all the better. Equally beneficial, if you can round up enough capital to sign a longer lease, that will help drive down costs, as well.
+
+And try to get space that is roughly built out, rather than raw office space. (Former warehouse and storage spaces tend to work really well.) This will save you money on tenant improvements and the like. Ideally, you'll only be adding a few extra power outlets and a few touches here and there. We don't want you sinking a ton of cash into the space.  
+
+PIE began in an empty retail space that was donated to us by the building owner during the doldrums of the mortgage crisis. As the economy rebounded and the owner sold the building, that "free" space suddenly became very spendy. In the highest rent district of Portland. 
+
+So with that in mind our numbers aren't terribly useful here. In fact, it's incredibly difficult to do any apples to apples comparison. No matter where you are. But let's take some current averages and see if that helps give you a ballpark. 
+
+If x is the cost of the space per square foot per year and y is the number of companies you're looking to help, here's a rough equation. (We'll estimate the number of founders per team at three — some will have more and some will have less — and the amount of space per founder at 100 sq ft.)
+
+x(y(3*100)) = $TOTAL LEASE/year = $MONTHLY LEASE PAYMENT
+
+So let's say we wanted to help 10 startups in an area where the cost per square foot is $25. 
+
+$25(10(3*100)) = $75,000/year = $6250/month
+
+You can add other elements. Like you're going to want to account for the monthly infrastructure costs — things like internet connectivity, electricity, water, sanitation…. But this gives you a starting point for ball parking the number. 
+
+### Staff
+Now that you've got some space, let's get some people in that space. And some folks to manage it. For that, you'll need staff. 
+
+Like space, the pricing of the staff will be dependent on the region and cost of living and the like. But there are some industry averages floating around that will help. 
+
+On average, Managing Director/Program Manager salaries generally fall in the range of $125,000 to $175,000 per year plus benefits. For programs that make equity investments, many managing directors also receive an equity position (1 point or less) in each of the companies who go through the program and some participation in the the carry of the fund making the investments.
+
+Program Manager salaries, on average, range from $50,000 to $75,000 per year, plus benefits. It is less likely that this role receives equity or upside from the carry. 
+
+Many programs hire additional staff — associates, EiRs, and technical experts — by providing those contracted positions with the same offer as the participating startups receive. So if a startup gets $20,000 as in seed capital, you would budget a similar number for each of these contracted staff. 
+
+A good rule of thumb for salaries — in addition to the usual "depends on experience" — is to assume that the fewer staff you have, the more each of the roles will be paid. So if you're running a lean shop, expect to pay top dollar for the staff you are hiring. 
+
+With that in mind, let's just estimated that staffing is likely going to run a minimum of $350,000/year with benefits and other associated costs. 
+
+If you can get creative, get creative. But don't skimp on staff. They're under a ton of pressure to perform, so they deserve to be compensated fairly.  
+
+### Food
+Throughout the accelerator, you'll spend plenty of time feeding founders' psychoses. We recommend that you also spend time and money to feed their body. Trust us. Budget for this expenditure. You'll be glad you did.
+
+While you're welcome to cater as many meals as budget will allow, we recommend a baseline of two meals, one dinner (Family Dinner) and one lunch. At PIE, we catered three meals per week, Family Dinner and two lunches, on average. 
+
+Again, food pricing varies as much as real estate, depending on where you are. But you can ballpark it. Let's assume that an individual meal is going to cost around the same prices as entrees at your local restaurant cost. While they'll likely cost you less, this is a good starting point for your budget. If x is the  number of weeks in your program, y is the number of meals you're planning to cater per week, z is the number of companies you're looking to help, a is the average cost of an entree, here's a rough equation (assuming three founders per company on average).
+
+x(y(z(a*3))) = $TOTAL CATERING BILL/class
+
+So for PIE the equation looks like this:
+
+12(3(10($15*3))) = $16,200/class
+
+That's just meals. And just for the founders. Sometimes you'll have mentors stop by. And you'll have mentors in residence eating. And people will hire staff. So, for budgeting purposes, we'd recommend rounding that PIE number up to $20,000/class. 
+
+But remember that the founders will be in your space day in, day out. And mentors will be around a lot. And investors. And other folks using the space. And events. So we'll need to budget for beverages, snacks, and other incidentals. (NOTE: If you're planning on hosting large events like opening parties and the like, we recommend budgeting for those separately.)
+
+For PIE, let's assume that this brings the budget up to $25,000/class.
+
+Plus you'll want to have some wiggle room in this budget for those time when you want to do a special meal or there's a birthday or something else comes up. Heck. Maybe you want to get pizza one time. (One time is okay.)
+
+We'd recommend increasing the meal budget by at least 25% to cover these additional costs. 
+
+If you want to get more granular, just reduce the complexity of the equation above. With the same parameters, z(a*3) will give you the total cost of a single meal for your startups. For PIE that's 10($15*3) = $450. Which we'd just call $500, for budgeting purposes. So an additional 25% budget, would cover about 10 additional meals with a little left over (ahem) for snacks and beverages and stuff.
+
+And remember, that's just during class. You'll want to be sure to reserve some budget for the off season, especially if you're going to allow folks to remain in the space.
+
+### Legal and Accounting
+Like it or not, you're going to incur costs for legal and accounting. Conservatively, as a ballpark, we'd recommend budgeting $20,000 for legal and $20,000 for accounting. 
+
+If you're planning on making an equity investment in the companies your program, your legal costs are going to be more significant. 
+
+It's also important to plan for legal costs outside the normal course of doing business. For example, it's become common practice to perform background checks on participants before they enter the program. At PIE, we chose to run basic background checks on all of the founders as part of the due diligence process, once they were accepted into the program. It's purely a precautionary measure. But it's highly recommended. Pricing for this sort of service can vary, but make sure to budget for it. 
+
+### Perks
+Another must-have budget item is a slush fund for perks. Because at some point, you're going to need to help your founders blow off some steam. Or someone is going need a short term loan. Or there's going to being something stressing someone out in the most debilitating of ways. 
+
+Maybe it's paying for a ticket for a founder to fly home. Maybe it's hiring a babysitter so that a founder can have a date with their significant other. Maybe it's just taking the entire office out for an impromptu happy hour or shopping trip.
+
+Whatever the case, we highly recommend that you earmark some budget for being nice and for taking care of your founders and your staff. It's these little things that make the accelerator more bearable. And make the community a community. 
+
+### Slush, fudge, and breathing room
+No matter how conservatively worst case your budget winds up, there are always unexpected costs that crop up. So we advise that you do more than round up. Consider adding another 10%-25% of the overall budget to account for unforeseen expenses. 
+
+Maybe you need to fly in an amazing mentor. Maybe there's an event that your startups need to attend. Maybe the whole cohort gets invited to the Bay Area to hang out at Google or Facebook. You never know. 
+
+The last thing you want to have happen is to miss an opportunity that could have been life changing for your founders, simply because you lacked the budget to make it happen. So plan accordingly. 
+
+### Optional costs
+There are any number of ways to customize your accelerator experience to fit the  types of startups with whom you want to work. Maybe you need more equipment? Maybe you want to take an interest in each of the companies? Maybe you want to have a demo day? 
+
+These are some additional costs to keep in mind, but they're not mission critical for the accelerator to work. These are a few examples of nice to haves.
+ 
+#### Investment
+When we started PIE, the prevailing accelerator model had accelerators making an equity investment in each of the companies that participated in the accelerator. The math at that time was $6000/founder up to three founders. So, $18,000. Common wisdom dictated that investment purchased 6% of the company. 
+
+As time went on, the models continued to fluctuate and change. Some folks started using convertible notes or SAFE documents to defer equity investments to a later date. Some chose to invest even more money — or to have an investment waiting post graduation. Some chose to have a floating amount of equity based on the perceived valuation of the company and the amount the accelerator was interested in investing. Others invested capital and then had the startup pay for the accelerator services out of that capital. Still others chose to forego taking equity, altogether. 
+
+These days, there are any number of ways to approach this problem. Obviously, the most expensive — in terms of capital required — is to invest a small amount of seed capital at the beginning of the class, followed by a larger, post graduation amount. This is the model that Techstars currently uses.
+
+If you want to use the current model as your ballpark number, then budget $20,000 + $100,000 per startup.
+
+There is no right or wrong way to go about this. And obviously, we could spend hours going through the pros and cons of each model. But the reality is, you need to choose what works for you based on what you're hoping to accomplish and the amount of capital you have at your disposal. 
+
+We simply recommend that you always question your motives and ensure that the process and associated costs are fair and equitable to the founders. Your accelerator should be delivering value. And there should be some equitable compensation for that value.  
+
+On the converse, this is not about your accelerator getting rich. Trust us. There are far easier ways to get rich than running a risky early stage startup accelerator.
+
+#### Demo Day
+Like investing, the prevailing model when we started PIE included a "Demo Day" as the graduation from the program. At the time, this generally involved filling a theater with a bunch of would-be investors in an attempt to get meaningful conversation started between founders and investors.
+
+Since then, there have been many different takes on the Demo Day model. Some are low-key events that take place behind close doors. Some are huge splashy community events — in a huge theater with a live band, a livestream of the content available to anyone in the whole world, and pomp and circumstance — that are designed as  a celebration of community and accomplishment rather than a way of securing funding. (This was where PIE went with its Demo Day.) Still others have done away with Demo Days altogether.
+
+![PIE Demo Day](/source/images/supportland-demo-day-pie.jpg)
+
+Again, there is no right way to do this. You simply need to make the decision based on the needs of your community and your founders. Demo Days can be incredibly impactful. 
+
+But, it's important to understand that these days, that impact does not generally come in the form of raising capital. Investors could attend a demo day practically every week of the year at this point. So if connecting investors with your founders is your primary goal, get more creative about how to make those connections. Because a demo day probably isn't it. 
+
+For budgeting, you'll want to assess venue costs, A/V costs, staging and production, livestream, band, hosts, whatever… You can go as small as possible or as large as budget will allow. But do what works for your community.
+
+#### Upkeep and Maintenance
+If your accelerator is located within a larger office building, you may be expected to cover the costs of janitorial services or garbage. Or you may discover that you need to build another conference room. Or maybe some of your desks will fall apart because you didn't buy the IKEA desks we recommend.
+
+One thing is for sure, your participants will do an incredibly poor job of keeping the space clean. And your staff will likely be more than busy trying keep tabs on all of the activities. So if you can afford to allocate budget to help keep the space more hospitable, please do so.
+
+Whatever the case, you're going to need to spend some money keeping the space up to snuff — or maybe even improved. So earmark a portion of your budget to account for those expenditures. 
+
+## Sample pro forma
+To get you started on the budgeting process, we've wiped a pro forma that PIE used for budgeting. It's a good way to start thinking through your budget. Feel free to make a copy and retool it to suit your needs.
+
+NOTE: This is a pro forma for one fiscal year of an accelerator that is already in operation. It does not account for startup costs, like buying furniture or tenant improvements. 
+
+Google Sheets: [PIE - Sample pro forma](https://docs.google.com/spreadsheets/d/1imODTZHjecv1GHHTp68seeGplYBmRb90OvI3D5FBNCA/edit?usp=sharing)
+
+# Space
+## Create a Minimally Valuable Space
+At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
+
+We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community, well, a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
+
+Coworking might not be the best solution for a solitary company in a vast sea of other disconnected companies, with people treating the entire office space like a water cooler. But in our experience, it tends to work really well with a bunch of small teams — and this is critical: small teams who share something in common — cohabitating in a larger space. We've found that the random collisions that occur among these peers are worth the "loss of productivity." And we think that being human and collaborative in a workspace with other humans has an intrinsic value. Full stop.
+
+We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
+
+### Build an accelerator space
+But you're not building a coworking space for your accelerator participants. You're building a accelerator space for that has some facets of traditional coworking, like shared resources and an open floor plan. 
+
+Yes, people will cowork out of your accelerator space. But your accelerator space is not a coworking space. This is an important distinction, so let's unpack that a bit.
+
+### Coworking space is comfortable
+We've noticed a tendency in the accelerator industry to deck out your shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs. Bean bags. Ping pong tables. Catered kitchens…
+
+Honestly, we could go on and on.
+
+Yes, people ooh and ah when they see the space. And yes, if you're running a coworking space, the aesthetic makes it easier to defend the prices you're charging them for space. And yes, it can provide a certain sense of pride for the folks running the space. 
+
+There is a certain je ne sais quoi to a cohesive interior design aesthetic. 
+
+It's an aesthetic that's required for coworking. Because you need people — people who could otherwise roll out of bed and start working — to feel the motivation to commute into an office space. You need people to feel that there is intrinsic value in the space you're providing. And you need people to be comfortable with the prices they are paying in return for that investment. 
+
+But, to be honest, more often than not, those are false positives. They don't really make for a great community space. Or accelerator space. That design element makes for a great coworking space. 
+
+Over designing is a mistake.  
+
+Don't feel guilty. PIE fell for this trap too. It happens. But this is about you making new mistakes, remember? Not repeating ours. 
+
+At the PIE space, our initial build out was the equivalent of Hollywood set design for the quintessential startup workspace. Complete with painted and distressed closet doors as desktops supported by heavily welded — and rustically beautiful — sawhorses.  
+
+But for as compelling as the aesthetic was, it simply didn't work.
+
+### Accelerator space is awkward
+Why? Well, what we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
+- - - 
+> **tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.**
+- - - 
+It's not that we didn't have the ability to make the space more comfortable. It's simply that it *shouldn't* be comfortable. That is not the purpose of the space. The space, like building a startup, should be difficult. And awkward. It should always cause friction. And discomfort.
+
+> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+> Antoine de Saint-Exupery. 
+
+Your only requirements are a solid wifi connection, access to power, a surface for a laptop, and a chair. That's it. Beyond that, you provide less than is needed. 
+
+Think less office space, more coffeeshop or bar.
+
+You should have too many people in the space. It should be noisy. You should have too few conference rooms. People should be eavesdropping on conversations whether they want to or not. You should have passible coffee and, if it fits your culture, beer. And most of all, everyone should be in one another's way.
+
+![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
+
+Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Shield them from the outside world. Create a utopian existence for them. That's what an incubator does.
+
+Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up — and, ideally, out. Your job is to create a microcosm of the real world. A biome of startup life. They same way it exists outside of your doors. But with a few safety nets strewn here and there.
+
+And then you need to poke the startups so that, from time to time, they tumble into those safety nets.
+
+If you provide a space that is too comfortable and too accommodating then the startups will stay there. Forever. And that isn't what you want. You want churn. You want growth. You want backfill. And activity. And hustle.
+
+Yes, your Founders are amazing people to be around. And there is no end to their creativity and drive. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
+- - - 
+> **tl;dr We are inviting you into our space because we want you to leave.**  
+- - - 
+Like being embarrassed to bring your friends over to your parents' house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — your Founders' parents' basement. And it should be just as awkward as that arrangement.
+
+There are also fringe benefits to this sort of interior design. You, as an accelerator staff, remain scrappy. You feel less comfortable. You don't get to have it easy, either. You're dealing with the same awkwardness that your Founders are experiencing. And that's just how it should be.
+
+![PIE's kitchen "table"](/source/images/pie-kitchen-table.jpg)
+
+Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire one prevailing thought: "We need to get you out of here."  
+
+## The best space is the space you have
+The best Accelerators tend to be the ones that make do with the space they have. It's not the space you want; it's the space you've got. So use it. Don't get hung up on it. Just get started.
+
+Conversely, many Accelerator projects stumble when trying to source "the perfect space" for their home. "It's not the right size," "It's not the right location," "It's not configured well." 
+
+It doesn't matter. Have you found a space? Is it available? Can you afford it? Good. Make it work. 
+
+### Physical dimensions
+For the actual physical dimensions of the space, you can approach the problem one of two ways:
+
+1. If you already have a space, figure out how many people you can wedge into that space.
+2. If you're searching for a space, figure out how many founders/companies you'd like to have in a cohort.
+
+Adjust accordingly. 
+
+At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. And it was oddly shaped. But it had its own entrance. And it's own kitchen area.  
+
+![Sketch of the PIE space from initial walkthrough](https://github.com/piepdx/pie-cookbook/blob/master/source/images/PIE-sketch-2009.jpg)
+
+After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
+
+So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively. So remember, it's not just what the space can handle but what staff and mentors can handle.)
+
+More on how we arranged those startups will follow.
+
+## Infrastructure
+More often than not, Accelerator spaces are a "work with the space that you have" sort of proposition. And there doesn't tend to be a lot of capital for tenant improvements or build out. That said, there are certain aspects of the space that you simply have to make work. Even if that means spending a little money to make it feasible.
+
+PIE focused on early stage tech startups who were usually pursuing Web based or mobile based products that were hosted in the cloud. For that reason, the vast majority of our companies were people banging on laptops. 
+
+But even that sort of setup requires some infrastructure.
+
+Here are some of those "must haves" for an Accelerator to even function as a workspace.
+
+### Power
+At the very least, you should plan on having one outlet and one surge protecting power strip per person. This may require you to spend money on additional power drops in your space. Or you may be able to make due with extension cords and trip guards, within the realms of fire code. But no matter what, it will definitely require you to purchase a lot of power strips — or have someone donate them to your cause. 
+- - - 
+> **tl;dr At a minimum, provide one outlet and one power strip per person.**
+- - - 
+Note: PIE did not do this well. This was one of our mistakes. We didn't have enough power outlets for each person to have an outlet. And, at times, it caused more stress than we care to admit. Later, we managed to get more power added, especially when startups needed the additional power to function. 
+
+### Internet
+Regardless of the types of businesses with whom you're working, high speed internet connectivity is a must. So figure out a way to pay for it or get it donated. 
+
+At PIE, we went for an enterprise grade cable connection. If you can get fiber, get fiber. It's worth it. And again, worth mitigating the stress of dropped connections or large file transfers. 
+
+### Wifi
+While some of your company may require physical internet drops, wifi will likely suffice for most of your participants. 
+
+PIE was hilariously bad at selecting wifi routers early in its existence. And this plagued us for about a year. Until we tore out the system we had set up and rebuilt it from scratch.
+
+Spend the time and money to get the wifi done right. 
+
+And be extremely liberal with the number of simultaneous connections your router can support. Especially if you're hosting events in your space. But it helps day-to-day, as well. 
+
+Rest assured, you'll be surprised how much good wifi connectivity can result in a positive impression of the space and your events. Because it's hard for people to tell others about your Accelerator if they can't get online to talk about it.
+
+### Printing/copying
+It sounds ridiculous in this day and age, but you need a printer and copier. Inevitably there will be a contract or term sheets or employee documentation that requires this. It's a cost of doing business.
+
+At least these days it's possible to find a single multipurpose device to handle your needs. And try to make it as efficient as possible. Because no one wants to be sweating a 30 page document completing a print run before a deadline. 
+
+Also prepare to take on the cost of supplies and maintenance for this unit. Because it will break. Usually at the most inconvenient times. 
+
+If you want to be really nice, make sure that this device is networked. PIE never managed to accomplish this. It's still a dream that we will, one day.
+
+Finally, don't be tempted to charge per copy or anything silly like that. Just eat the cost as a cost of doing business. 
+			
+
+## Restrooms/Locker rooms
+This is obvious but we don't want to ignore the obvious. You're going to need restrooms for your Accelerator residents. Preferably multiple facilities. 
+
+But while restrooms are definitely a necessity, it's not a requirement that they be part of the main space itself. They just need to be accessible. 
+
+For the first few years of PIE, we used a shared restroom for several retail locations in our building. Then we got a slight upgrade when W+K provided access to their locker rooms, which allowed our startups to access to showers and lockers, as well. 
+
+## Kitchen
+Given how much time the founders will be spending in the space, a kitchen is a critical component of the Accelerator setup. Please note that it also becomes a completely hassle in terms of custodial upkeep. In our experience, it's like one kitchen in a living space with 40 roommates. 
+
+That said, it's still critically important that you have it. And that you plan appropriately for its ongoing maintenance — and communicate those responsibilities and — potentially — chores to the residents of the space. 
+
+Our kitchen became so important to the space — serendipitous collisions and compelling conversations started in there all of the time — that we used the term "Kitchen" to describe the general chat room on our chat environment. 
+
+Here's how ours was outfitted for the class. 
+
+### Coffee/Tea
+Probably the most critical component of the kitchen for founders: the convenient conveyance of caffeine. 
+
+If possible, invest in a coffee maker that with piped in water. Not only is it more efficient when people are making pot after pot of coffee, it ensures that there is one less possibility of making a mess in the kitchen area. 
+
+Also invest in the highest quality coffee and tea available. It's of minimal additional cost but it goes a long way in helping the startups feel at home. 
+
+Make sure to have a wide selection of teas, caffeinated, caffeine free, herbal, and green. 
+
+### Refrigerator(s)
+Have at least one full size refrigerator for the kitchen. Just like you would have at home. 
+
+Founders will often bring in their own meals — or need a way of storing doggy bags from lunch and dinner meetings. Help them stretch their budgets as far as they can. 
+
+Plus, if you're feeding them as often as we will encourage you to do, you'll need somewhere to store those leftovers, as well.
+
+At PIE, we were lucky enough to have two full-size fridges. And if you can afford the same setup, we highly recommend it. We labeled one public and one private. 
+
+In the public fridge, anything was fair game. This is where we would store things like condiments, leftovers from PIE group meals, and other food that founders deemed fair game for the rest of the group. Sometimes, you're lucky enough to get founders who enjoy cooking for everyone. And when you do, you want somewhere to put that. 
+
+In the private fridge, we required folks to label all food. This was specifically hands off sort of stuff. Like sack lunches. Or that extra special cream that someone wanted for his coffee. 
+
+Like the kitchen, itself, cleaning the fridge(s) will become a chore and a bone of contention. Plan ahead for that. 
+
+### Cupboards/storage
+You're going to need somewhere to put all of the coffee and tea and cups and plates and whatnot. And you'll need drawers for silverware and stuff.
+Make sure these are well stocked with plates, bowls, mugs, glasses, silverware, and serving wear. As an added bonus, consider storage containers for leftover food. 
+
+You'll also need room to store snacks. And soups. And other dry storage sorts of things that folks will bring into the space. It's like any kitchen. And folks are living out of the space for the most part. So treat it accordingly. 
+
+Again, it is the responsibility of the accelerator to stock commonly used items like coffee and tea, spices, hot sauce, condiments, and the like.  
+
+Like everything else in the kitchen, get ready for these to become messy and disorganized. And set aside time or assign chores accordingly. 
+
+### Garbage and Recycling
+Even if your space is occupied exclusively by folks typing on keyboards, you will still accumulate refuse. So it's a good idea to have places to put it.
+
+Being from Portland, we had ![an extensive complement of containers](https://www.hulu.com/watch/335493) for correctly disposing of rubbish. But at the very least, we recommend the following:
+
+- Recycling (glass, cans, plastic, paper, cardboard, as sorted by your sanitation services)
+- Compost (food waste, compostable containers, coffee grounds)
+- Garbage (stuff that can't be used in a different way)
+
+### Sink(s)
+At least one sink is necessary. Multiple sinks are preferable. Otherwise you get a line up of people whenever you've had a meal. Try to make it as efficient as possible. Or as efficient as your space will allow. 
+
+More so than any other area, the sink will become your nightmare. No matter how many times you remind folks, no matter how many signs you post, no matter who is assigned clean up, the sink will pile up with dishes. Always. 
+
+Plan accordingly.
+
+### Kitchen nice to haves
+At PIE, we were lucky to have a few things that made life in an accelerator easier. You can get by without these things, but if you can afford them, we highly recommend them.
+
+#### Microwave
+If you have a bunch of leftovers, someone at some point is going to want to reheat some leftovers. Or pop some popcorn. So maybe consider having a microwave on hand to handle some of that. 
+
+#### Dishwasher
+Arguably, this falls into the "nice to have" category. But if you have the option to have a dishwasher, we highly recommend it. (See the note about the sink, above.)
+
+Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. If you have a dishwasher, the  sign is a must have.
+
+Like the fridge and the sink, it's probably a good idea to assign chores to make sure that this is taken care of.
+
+And if you can't afford a dishwasher or the space will not allow for one, make sure to purchase a drying rack. Because someone is going to have to clean those dishes in the sink eventually.
+
+#### Water Cooler
+Startups cannot live by caffeinated beverages alone. And it's important that you try to keep folks as healthy as possible. So hydration is imperative. 
+
+That's why we were happy to have a water cooler in our office. Sort of by accident. (It was a residual benefit of the aforementioned livestreaming telethon.)
+
+#### To kegerator or not to kegerator
+In Portland, it's a common occurrence to have a kegerator — a fridge with a tap that allows you to store a keg of liquid, keep it cold, and easily dispense it — in startup spaces. That kegerator could have beer or wine or cider or kombucha. Some even just serve sparkling water. 
+
+It's something that speaks to an underlying culture of craft distilling and brewing in Portland. And Portland has a rich history in many types of alcohol production. In fact, we often reference how the growth of the startup community directly emulates the culture and community of the wine and beer industries in our region. But it's not for everyone. 
+
+We chose to have a kegerator in the space because nearly everyone in the space drank beer. And there were times when retiring to the kitchen and sharing a beer with a peer resulted in some really interesting conversations. 
+
+But it's a choice. Not a requirement. So do as you see fit.
+				
+### Additional items
+Part of the magic of the kitchen is allowing your startups to customize the space to their own particular needs… and then gratuitously appropriating their good ideas. 
+
+Some of those good ideas include:
+
+- **Toaster**: Folks like toast. And toasted bagels. This might work for you.
+- **Toaster oven**: Reheating leftovers or for melting cheese on bagels.
+- **Sodastream**: Despite the awkward sounds emanating from the kitchen, the Switchboard team really seemed to love their Sodastream. 
+- **Blender**: We may or may not have had a representative of a certain margarita maker in the space for a time. But that said, smoothies and veggie blends are something your startups may want.
+
+Note: We have blown the circuit breaker on a regular basis. Especially when we had the toaster and microwave going when the fridge kicked on. We were lucky that the kitchen was on a separate circuit. Well, on a circuit with our conference room. Long  story short, be aware of your power consumption and the load on the circuits as you appoint your kitchen.
+
+### IKEA is your friend
+Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
+
+Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
+
+You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
+
+![Building IKEA desks](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2011-08-25%2009.55.10.jpg)
+
+Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
+
+Long story short, take care of the basics. Like power. And internet. And desks and comfortable office chairs. (Your Founders are going to be sitting in them for hours upon hours.) It's fine to put the onus of purchasing laptops, monitors, phones, accoutrement, and the like on the founders. But don't make them hunt down things like power strips or extension cords or dry erase markers. That's base infrastructure. That's your job.
+	
+## Arranging the desks in the office space 
+Some Accelerator programs use long tables along which a number of startups will sit. Others use individual desks. 
+
+We chose individual desks which we would arrange in "pods" by company. Sometimes, smaller companies would share a single pod. Sometimes, founders would separate their desk from their company pod. 
+
+You never know how founders will want to work with their cofounders. So we allowed founders to arrange the desks however they wanted. Some founders would choose to sit side by side, so they could easily engage pair programming or look at one another's screens. Some founders liked sitting across from one another, so that they could more easily converse — or know when the cofounder was in Do Not Disturb mode. Still others had a hub and spoke set up. Or some other combination.
+
+We wanted our founders to be as effective and efficient as they could be. So we let them adapt the space to their needs, no matter what that did to the overall aesthetic of the space. 
+
+- - -
+**Mistakes were made: Where the staff sits**
+When we started the accelerator, we made the assumption that the founders would do a better job of acclimating and engaging with one another if we gave them the run of the main space. We located the PIE cofounders and staff in the far corner of the space, out of the way. 
+
+![Where PIE management sat for the first Accelerator class](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2009-07-01%2014.20.34.jpg)
+
+We made two mistakes with this arrangement. 
+
+First, we didn't have enough staff to make effective use of the space. Which meant we had empty desks in our corner. In an effort to alleviate this issue, we brought one of the teams into our corner. While the corner wasn't completely shielded from the floor of the Accelerator, it was protected enough to make it feel like a separate space. 
+
+This negatively impacted the team that sat with us. They didn't bond with the other startups as effectively. And they managed to keep themselves excluded — by choice — when they should have been forced to be included.
+
+Second, the staff suffered by being separated from the startups. We didn't have our finger on the pulse. We couldn't feel the vibe of the room. 
+
+It wasn't that the staff was inaccessible. We weren't. And the founders felt totally comfortable coming into our corner and chatting with us. But we missed out on the times when people weren't seeking us out. And the nonverbal clues. And the gut checks you get when you're embedded within the active space.
+
+- - -
+		
+### There is no caste system here
+At PIE, one of the most important things we discovered — through trial and error — was that staff and startups had to be perceived as equals in terms of workspace. 
+
+What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't get private offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the Founders going through the Accelerator. 
+- - - 
+> **tl;dr Don't play favorites. Embed the staff in the trenches.**
+- - - 
+Anything less, and you're compromising the opportunity to bond with your companies. And bonding with your companies is what this is all about. Because you're in this for the long haul.
+
+Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
+
+## Ongoing build out
+
+The space you start with doesn't have to be perfect. It's like building any product. Start with what you have. Figure out what's working. Figure out what's needed. And improve from there. 
+
+When we started PIE, there were no conference rooms. Or phone booths. So people took calls in the space. Or out on the stoop. Or while walking laps around the block.
+
+We had a pseudo conference room that allowed a small group of people to gather. But it allowed for little privacy. 
+
+![PIE's original conference room chairs](https://github.com/turoczy/pie-cookbook/blob/master/source/images/2011-03-08%2009.30.51.jpg)
+
+It was just a circle of high back leather chairs around an old Starbucks sign coffee table. But it provided enough of a conference room effect to be useful. In the short term.
+ 
+### Conference room
+
+As time went on, we identified the need for an actual conference room. So we took another corner of the office space and walled it off to create a conference room space. 
+
+It was overly warm and stuffy. The chairs were uncomfortable. The electricity rarely worked. The whiteboard was difficult to erase. But it had a door. And it served its purpose. 
+
+It is important to note that we did not start with a conference room. We started with what we had and, through use, identified that a conference room was needed. Only then did we incur the expense to create the conference room. And this was after we'd inhabited the space for quite some time. 
+
+While it's fairly safe to assume you'll need a conference room, you might want to see how people make use of your existing space before you act on that assumption. Or see how they compensate for the lack of conference room. There might be some interesting learning there. 
+
+### Meeting areas
+
+Whether you have a conference room in the space or not, you're going to wast to establish some meeting areas in your space. These can be as simple as a couch. Or they can have more structure to them.
+
+When we say "meeting areas," we mean open areas within the coworking area or nearby. These should be places where people can be overheard. And where privacy or confidentiality are secondary. 
+
+Why? Because this sort of arrangement serves three very important functions:
+
+1. Encouraging people to have meetings within earshot of their peers helps establish a level of comfort and trust with the entire cohort. As folks become more and more comfortable with one another — as that trust builds — you'll see fewer and fewer meetings occurring with closed doors and secrecy. 
+2. People will overhear what is going on. They'll realize that other founders are struggling similar issues. They'll empathize and, eventually, sympathize with the other founders in their cohort. And if all goes well, they'll start to help one another more effectively. "I couldn't help by overhear… I have some ideas for you." 
+3. Last but not least, it helps create a sense of activity in the space. You want a dull roar. You want people collaborating. You want it being a little noisy. Don't try to eliminate that. This isn't a library in the 50s.
+
+### Phone booths
+
+When we started PIE, one of the most obvious — and noisy — things about it was the lack of privacy. There was absolutely nowhere in the space where a person could take a phone call or have a private conversation without everyone hearing. 
+
+For this reason, most people started talking calls outside on the stoop. Or started taking walks around the block for private meetings.
+ 
+![Taking calls, PIE style](https://github.com/turoczy/pie-cookbook/blob/master/source/images/2012-12-15%2009.34.28.jpg) 
+
+That worked fine when the weather was good. But that didn't work so well in the winter. Or during the rainy season. 
+
+So we were motivated to find a better solution. 
+
+## Mail
+One of the fringe benefits of sitting in an office space is getting an official business address. For many of our startups, this was the first actual address that the company had had. A number of them even incorporated while they were in PIE. 
+
+We chose to use a single physical address for all of the startups. Since we were all sitting in the same space. In the early days, this was manageable through a single inbox. As the number of PIE alums grew, we found it more effective to create mailboxes for current residents. As such, it became the responsibility of the staff to sort the mail and alert alums when mail had arrived for them.
+
+Be advised that the mail thing goes two ways. Not only will you be dealing with inbound mail, your startups will want outbound services and shipping as well. Make sure you have adequate envelopes, boxes, tape, and postage at your location. 
+
+The downside of all of this? Most of your startups will only share the space with you briefly, but you will be receiving mail for every single one of your startups for the rest of your life.
 
 # Staff
 
@@ -1071,795 +1668,19 @@ If budget and available management resources allow, accelerators may also choose
 
 ## How to hire
 
-
-Partners
-			52. Objectives
-			53. Outcomes
-		54. Media
-
-# Culture
-## Food
-
-With a name like PIE, it only stands to reason that we would include food as one of our critical offerings. 
-
-We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
-
-Providing food for your founders lessens stress, keeps them healthier, and ensures that they're actually eating from time to time. And all of that ensures that they're getting the most out of the other accelerator offerings. 
-
-What's more, consistently scheduling meals and aligning them with mentor talks is a great way to ensure that the founders are around to learn from mentors. Schedule mentor talks accordingly.
-
-Feed their body; feed their mind.
-
-And can we ask one favor of your meal planning? If we would love accomplish one thing with this Cookbook, it would be to finally break that whole pizza and startups association. 
-
-I know. It's a little weird coming from a place named PIE. But please stop. Stop feeding founders pizza. There are plenty of events with free pizza. They'll get plenty. Trust us. Once in a while pizza is acceptable, but not consistently.
-
-Equally infuriating — and lacking in nutrition — is the candy, chips, and soda snack stereotype. Don't fall for it. Your founders deserve better than that. So does your staff. Get creative. Some candy, chips, and soda are fine. In moderation. But maybe have fresh fruit delivered on a regular basis. Have a vegetable platter every week. Have hummus and pita. Mix it up. 
-
-Finally, you can have Ramen on hand as a snack. We get it. But it's not a meal. Ever. 
-
-Feed your founders real, nutritious food. Consistently. Make sure they're getting the fuel they need. 
-
-And please be conscious, aware, and diligent of founders', mentors', and staff dietary requirements. Maybe they're vegetarian. Maybe they have religious requirements. Maybe they have a food allergy. Maybe they're just particular. Whatever the case, listen and accommodate all of their needs. They're under enough pressure without having to deal with not having something they can eat.
-
-At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. 
-
-This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
-
- 
-
-
-			56. Hospitality
-				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
-				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
-			57. Diversity and Inclusion
-	52. Oven
-
-# Budget
-
-Early on, one of the most challenging aspects of standing up an accelerator or coworking environment can be projecting — guessing, really — how much it will cost to run the project.
-
-And while sharing numbers from what it takes to run a startup accelerator in Portland, Oregon, may not be terribly helpful, we're hoping that we can provide some guidance through some topics for discussion. And some ballparks for the allocation of capital.
-
-## Considerations
-
-First and foremost, you have to determine what type of accelerator you're going to be running. 
-
-Let's start by asking a few questions:
-
-- Are you going to invest in the startups?
-- What types of startups are you going to be working with?
-- Do these companies require special infrastructure?
-- How many companies would you like to impact on a yearly basis?
-- How many staff members are required to support the number of participants?
-- How many classes per year are you planning to run?
-- Do you have existing partnerships that will reduce out-of-pocket costs?
-- How much space are you going to need to support the broader community?
-
-Now that you're starting to hone in on what type of environment, staff, resources, and potential investments you're going to make, you're starting to have a better idea of how much capital this is going to take. Now, let's see if we can make that number smaller. 
-
-- In regards to these responses, what is critical versus nice-to-have?
-- How lean can you run this project and still be successful?
-- What is your Minimum Valuable Accelerator?
-
-## Ballpark figures
-
-Now that you have some potential buckets for where you're going to be spending money, we can start figuring out how much capital you're going to need to be successful with your accelerator. 
-
-We're providing the following some ballpark estimates for a variety of expenditures where we can — and additional context for where we can't. And we always encourage you to plan for the worst and hope for the best. Better to make your numbers higher and have the actuals come in lower. 
-
-So here we go in order of importance. 
-
-### Space
-
-Obviously, for this model of accelerator, space is critical. You should allocate a significant amount of the capital to underwriting this expense. At the very least, you should estimate about 100 sq ft (30 sq m) for each founder in the space. At the most, you should get as much space as you can afford. 
-
-If you can buy — or work out an arrangement with the building owner — all the better. Equally beneficial, if you can round up enough capital to sign a longer lease, that will help drive down costs, as well.
-
-And try to get space that is roughly built out, rather than raw office space. (Former warehouse and storage spaces tend to work really well.) This will save you money on tenant improvements and the like. Ideally, you'll only be adding a few extra power outlets and a few touches here and there. We don't want you sinking a ton of cash into the space.  
-
-PIE began in an empty retail space that was donated to us by the building owner during the doldrums of the mortgage crisis. As the economy rebounded and the owner sold the building, that "free" space suddenly became very spendy. In the highest rent district of Portland. 
-
-So with that in mind our numbers aren't terribly useful here. In fact, it's incredibly difficult to do any apples to apples comparison. No matter where you are. But let's take some current averages and see if that helps give you a ballpark. 
-
-If x is the cost of the space per square foot per year and y is the number of companies you're looking to help, here's a rough equation. (We'll estimate the number of founders per team at three — some will have more and some will have less — and the amount of space per founder at 100 sq ft.)
-
-x(y(3*100)) = $TOTAL LEASE/year = $MONTHLY LEASE PAYMENT
-
-So let's say we wanted to help 10 startups in an area where the cost per square foot is $25. 
-
-$25(10(3*100)) = $75,000/year = $6250/month
-
-You can add other elements. Like you're going to want to account for the monthly infrastructure costs — things like internet connectivity, electricity, water, sanitation…. But this gives you a starting point for ball parking the number. 
-
-### Staff
-
-Now that you've got some space, let's get some people in that space. And some folks to manage it. For that, you'll need staff. 
-
-Like space, the pricing of the staff will be dependent on the region and cost of living and the like. But there are some industry averages floating around that will help. 
-
-On average, Managing Director/Program Manager salaries generally fall in the range of $125,000 to $175,000 per year plus benefits. For programs that make equity investments, many managing directors also receive an equity position (1 point or less) in each of the companies who go through the program and some participation in the the carry of the fund making the investments.
-
-Program Manager salaries, on average, range from $50,000 to $75,000 per year, plus benefits. It is less likely that this role receives equity or upside from the carry. 
-
-Many programs hire additional staff — associates, EiRs, and technical experts — by providing those contracted positions with the same offer as the participating startups receive. So if a startup gets $20,000 as in seed capital, you would budget a similar number for each of these contracted staff. 
-
-A good rule of thumb for salaries — in addition to the usual "depends on experience" — is to assume that the fewer staff you have, the more each of the roles will be paid. So if you're running a lean shop, expect to pay top dollar for the staff you are hiring. 
-
-With that in mind, let's just estimated that staffing is likely going to run a minimum of $350,000/year with benefits and other associated costs. 
-
-If you can get creative, get creative. But don't skimp on staff. They're under a ton of pressure to perform, so they deserve to be compensated fairly.  
-
-### Food
-
-Throughout the accelerator, you'll spend plenty of time feeding founders' psychoses. We recommend that you also spend time and money to feed their body. Trust us. Budget for this expenditure. You'll be glad you did.
-
-While you're welcome to cater as many meals as budget will allow, we recommend a baseline of two meals, one dinner (Family Dinner) and one lunch. At PIE, we catered three meals per week, Family Dinner and two lunches, on average. 
-
-Again, food pricing varies as much as real estate, depending on where you are. But you can ballpark it. Let's assume that an individual meal is going to cost around the same prices as entrees at your local restaurant cost. While they'll likely cost you less, this is a good starting point for your budget. If x is the  number of weeks in your program, y is the number of meals you're planning to cater per week, z is the number of companies you're looking to help, a is the average cost of an entree, here's a rough equation (assuming three founders per company on average).
-
-x(y(z(a*3))) = $TOTAL CATERING BILL/class
-
-So for PIE the equation looks like this:
-
-12(3(10($15*3))) = $16,200/class
-
-That's just meals. And just for the founders. Sometimes you'll have mentors stop by. And you'll have mentors in residence eating. And people will hire staff. So, for budgeting purposes, we'd recommend rounding that PIE number up to $20,000/class. 
-
-But remember that the founders will be in your space day in, day out. And mentors will be around a lot. And investors. And other folks using the space. And events. So we'll need to budget for beverages, snacks, and other incidentals. (NOTE: If you're planning on hosting large events like opening parties and the like, we recommend budgeting for those separately.)
-
-For PIE, let's assume that this brings the budget up to $25,000/class.
-
-Plus you'll want to have some wiggle room in this budget for those time when you want to do a special meal or there's a birthday or something else comes up. Heck. Maybe you want to get pizza one time. (One time is okay.)
-
-We'd recommend increasing the meal budget by at least 25% to cover these additional costs. 
-
-If you want to get more granular, just reduce the complexity of the equation above. With the same parameters, z(a*3) will give you the total cost of a single meal for your startups. For PIE that's 10($15*3) = $450. Which we'd just call $500, for budgeting purposes. So an additional 25% budget, would cover about 10 additional meals with a little left over (ahem) for snacks and beverages and stuff.
-
-And remember, that's just during class. You'll want to be sure to reserve some budget for the off season, especially if you're going to allow folks to remain in the space.
-
-### Legal and Accounting
-
-Like it or not, you're going to incur costs for legal and accounting. Conservatively, as a ballpark, we'd recommend budgeting $20,000 for legal and $20,000 for accounting. 
-
-If you're planning on making an equity investment in the companies your program, your legal costs are going to be more significant. 
-
-It's also important to plan for legal costs outside the normal course of doing business. For example, it's become common practice to perform background checks on participants before they enter the program. At PIE, we chose to run basic background checks on all of the founders as part of the due diligence process, once they were accepted into the program. It's purely a precautionary measure. But it's highly recommended. Pricing for this sort of service can vary, but make sure to budget for it. 
-
-### Perks
-
-Another must-have budget item is a slush fund for perks. Because at some point, you're going to need to help your founders blow off some steam. Or someone is going need a short term loan. Or there's going to being something stressing someone out in the most debilitating of ways. 
-
-Maybe it's paying for a ticket for a founder to fly home. Maybe it's hiring a babysitter so that a founder can have a date with their significant other. Maybe it's just taking the entire office out for an impromptu happy hour or shopping trip.
-
-Whatever the case, we highly recommend that you earmark some budget for being nice and for taking care of your founders and your staff. It's these little things that make the accelerator more bearable. And make the community a community. 
-
-### Slush, fudge, and breathing room
-
-No matter how conservatively worst case your budget winds up, there are always unexpected costs that crop up. So we advise that you do more than round up. Consider adding another 10%-25% of the overall budget to account for unforeseen expenses. 
-
-Maybe you need to fly in an amazing mentor. Maybe there's an event that your startups need to attend. Maybe the whole cohort gets invited to the Bay Area to hang out at Google or Facebook. You never know. 
-
-The last thing you want to have happen is to miss an opportunity that could have been life changing for your founders, simply because you lacked the budget to make it happen. So plan accordingly. 
-
-### Optional costs
-
-There are any number of ways to customize your accelerator experience to fit the  types of startups with whom you want to work. Maybe you need more equipment? Maybe you want to take an interest in each of the companies? Maybe you want to have a demo day? 
-
-These are some additional costs to keep in mind, but they're not mission critical for the accelerator to work. These are a few examples of nice to haves.
- 
-#### Investment
-
-When we started PIE, the prevailing accelerator model had accelerators making an equity investment in each of the companies that participated in the accelerator. The math at that time was $6000/founder up to three founders. So, $18,000. Common wisdom dictated that investment purchased 6% of the company. 
-
-As time went on, the models continued to fluctuate and change. Some folks started using convertible notes or SAFE documents to defer equity investments to a later date. Some chose to invest even more money — or to have an investment waiting post graduation. Some chose to have a floating amount of equity based on the perceived valuation of the company and the amount the accelerator was interested in investing. Others invested capital and then had the startup pay for the accelerator services out of that capital. Still others chose to forego taking equity, altogether. 
-
-These days, there are any number of ways to approach this problem. Obviously, the most expensive — in terms of capital required — is to invest a small amount of seed capital at the beginning of the class, followed by a larger, post graduation amount. This is the model that Techstars currently uses.
-
-If you want to use the current model as your ballpark number, then budget $20,000 + $100,000 per startup.
-
-There is no right or wrong way to go about this. And obviously, we could spend hours going through the pros and cons of each model. But the reality is, you need to choose what works for you based on what you're hoping to accomplish and the amount of capital you have at your disposal. 
-
-We simply recommend that you always question your motives and ensure that the process and associated costs are fair and equitable to the founders. Your accelerator should be delivering value. And there should be some equitable compensation for that value.  
-
-On the converse, this is not about your accelerator getting rich. Trust us. There are far easier ways to get rich than running a risky early stage startup accelerator.
-
-#### Demo Day
-
-Like investing, the prevailing model when we started PIE included a "Demo Day" as the graduation from the program. At the time, this generally involved filling a theater with a bunch of would-be investors in an attempt to get meaningful conversation started between founders and investors.
-
-Since then, there have been many different takes on the Demo Day model. Some are low-key events that take place behind close doors. Some are huge splashy community events — in a huge theater with a live band, a livestream of the content available to anyone in the whole world, and pomp and circumstance — that are designed as  a celebration of community and accomplishment rather than a way of securing funding. (This was where PIE went with its Demo Day.) Still others have done away with Demo Days altogether.
-
-![PIE Demo Day](/source/images/supportland-demo-day-pie.jpg)
-
-Again, there is no right way to do this. You simply need to make the decision based on the needs of your community and your founders. Demo Days can be incredibly impactful. 
-
-But, it's important to understand that these days, that impact does not generally come in the form of raising capital. Investors could attend a demo day practically every week of the year at this point. So if connecting investors with your founders is your primary goal, get more creative about how to make those connections. Because a demo day probably isn't it. 
-
-For budgeting, you'll want to assess venue costs, A/V costs, staging and production, livestream, band, hosts, whatever… You can go as small as possible or as large as budget will allow. But do what works for your community.
-
-#### Upkeep and Maintenance
-
-If your accelerator is located within a larger office building, you may be expected to cover the costs of janitorial services or garbage. Or you may discover that you need to build another conference room. Or maybe some of your desks will fall apart because you didn't buy the IKEA desks we recommend.
-
-One thing is for sure, your participants will do an incredibly poor job of keeping the space clean. And your staff will likely be more than busy trying keep tabs on all of the activities. So if you can afford to allocate budget to help keep the space more hospitable, please do so.
-
-Whatever the case, you're going to need to spend some money keeping the space up to snuff — or maybe even improved. So earmark a portion of your budget to account for those expenditures. 
-
-## Sample pro forma
-
-To get you started on the budgeting process, we've wiped a pro forma that PIE used for budgeting. It's a good way to start thinking through your budget. Feel free to make a copy and retool it to suit your needs.
-
-NOTE: This is a pro forma for one fiscal year of an accelerator that is already in operation. It does not account for startup costs, like buying furniture or tenant improvements. 
-
-Google Sheets: [PIE - Sample pro forma](https://docs.google.com/spreadsheets/d/1imODTZHjecv1GHHTp68seeGplYBmRb90OvI3D5FBNCA/edit?usp=sharing)
-
-# Space
-## Create a Minimally Valuable Space
-
-At PIE, we're huge fans of coworking. Despite its detractors. And critics of the open floor plan. Heck, we started as a coworking space. We get it. 
-
-We think that coworking — as a model — works uniquely well for building and reinforcing the connective tissue that makes a community, well, a community. That same connective tissue that, over time, becomes the muscle that supports a thriving ecosystem. 
-
-Coworking might not be the best solution for a solitary company in a vast sea of other disconnected companies, with people treating the entire office space like a water cooler. But in our experience, it tends to work really well with a bunch of small teams — and this is critical: small teams who share something in common — cohabitating in a larger space. We've found that the random collisions that occur among these peers are worth the "loss of productivity." And we think that being human and collaborative in a workspace with other humans has an intrinsic value. Full stop.
-
-We firmly believe in a shared space for your accelerator program. We see it as an intrinsic part of the experience of being in an accelerator — and a critical component of the community you are working to enhance.
-
-### Build an accelerator space
-
-But you're not building a coworking space for your accelerator participants. You're building a accelerator space for that has some facets of traditional coworking, like shared resources and an open floor plan. 
-
-Yes, people will cowork out of your accelerator space. But your accelerator space is not a coworking space. This is an important distinction, so let's unpack that a bit.
-
-### Coworking space is comfortable
-
-We've noticed a tendency in the accelerator industry to deck out your shared workspace with the latest and greatest. Swanky furniture. Gaming equipment. Tons of outlets. Sit/stand desks. Comfy office chairs. Bean bags. Ping pong tables. Catered kitchens…
-
-Honestly, we could go on and on.
-
-Yes, people ooh and ah when they see the space. And yes, if you're running a coworking space, the aesthetic makes it easier to defend the prices you're charging them for space. And yes, it can provide a certain sense of pride for the folks running the space. 
-
-There is a certain je ne sais quoi to a cohesive interior design aesthetic. 
-
-It's an aesthetic that's required for coworking. Because you need people — people who could otherwise roll out of bed and start working — to feel the motivation to commute into an office space. You need people to feel that there is intrinsic value in the space you're providing. And you need people to be comfortable with the prices they are paying in return for that investment. 
-
-But, to be honest, more often than not, those are false positives. They don't really make for a great community space. Or accelerator space. That design element makes for a great coworking space. 
-
-Over designing is a mistake.  
-
-Don't feel guilty. PIE fell for this trap too. It happens. But this is about you making new mistakes, remember? Not repeating ours. 
-
-At the PIE space, our initial build out was the equivalent of Hollywood set design for the quintessential startup workspace. Complete with painted and distressed closet doors as desktops supported by heavily welded — and rustically beautiful — sawhorses.  
-
-But for as compelling as the aesthetic was, it simply didn't work.
-
-### Accelerator space is awkward
-
-Why? Well, what we've learned over the years is that the space must be viable and functional. Aside from that, it should never be comfortable. It should never be easy. The space should be just difficult enough. Without being frustrating. 
-- - - 
-> **tl;dr We encourage you to think of the collaborative workspace in terms of being "utilitarian." It should be awkward at best. Leaning toward uncomfortable.**
-- - - 
-It's not that we didn't have the ability to make the space more comfortable. It's simply that it *shouldn't* be comfortable. That is not the purpose of the space. The space, like building a startup, should be difficult. And awkward. It should always cause friction. And discomfort.
-
-> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-> Antoine de Saint-Exupery. 
-
-Your only requirements are a solid wifi connection, access to power, a surface for a laptop, and a chair. That's it. Beyond that, you provide less than is needed. 
-
-Think less office space, more coffeeshop or bar.
-
-You should have too many people in the space. It should be noisy. You should have too few conference rooms. People should be eavesdropping on conversations whether they want to or not. You should have passible coffee and, if it fits your culture, beer. And most of all, everyone should be in one another's way.
-
-![There are no forks](/source/images/2015-03-13-13.55.06.jpg)
-
-Why put the startups through additional stress and turmoil? Because your objective is not to coddle startups. If you want to coddle them, then start an incubator. Protect them with warmth and comfort. Shield them from the outside world. Create a utopian existence for them. That's what an incubator does.
-
-Your job as an accelerator, however, is to get them moving further faster than they would on their own. Your job is to get them to grow up — and, ideally, out. Your job is to create a microcosm of the real world. A biome of startup life. They same way it exists outside of your doors. But with a few safety nets strewn here and there.
-
-And then you need to poke the startups so that, from time to time, they tumble into those safety nets.
-
-If you provide a space that is too comfortable and too accommodating then the startups will stay there. Forever. And that isn't what you want. You want churn. You want growth. You want backfill. And activity. And hustle.
-
-Yes, your Founders are amazing people to be around. And there is no end to their creativity and drive. But you need to get them out of the space. And you need to encourage them to move out. And they need to want to do that. That needs to be a motivating factor. An unspoken rule. 
-- - - 
-> **tl;dr We are inviting you into our space because we want you to leave.**  
-- - - 
-Like being embarrassed to bring your friends over to your parents' house because their idea of decor is decades out of date. Your accelerator is — both literally and figuratively — your Founders' parents' basement. And it should be just as awkward as that arrangement.
-
-There are also fringe benefits to this sort of interior design. You, as an accelerator staff, remain scrappy. You feel less comfortable. You don't get to have it easy, either. You're dealing with the same awkwardness that your Founders are experiencing. And that's just how it should be.
-
-![PIE's kitchen "table"](/source/images/pie-kitchen-table.jpg)
-
-Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire one prevailing thought: "We need to get you out of here."  
-
-## The best space is the space you have
-
-The best Accelerators tend to be the ones that make do with the space they have. It's not the space you want; it's the space you've got. So use it. Don't get hung up on it. Just get started.
-
-Conversely, many Accelerator projects stumble when trying to source "the perfect space" for their home. "It's not the right size," "It's not the right location," "It's not configured well." 
-
-It doesn't matter. Have you found a space? Is it available? Can you afford it? Good. Make it work. 
-
-### Physical dimensions
-
-For the actual physical dimensions of the space, you can approach the problem one of two ways:
-
-1. If you already have a space, figure out how many people you can wedge into that space.
-2. If you're searching for a space, figure out how many founders/companies you'd like to have in a cohort.
-
-Adjust accordingly. 
-
-At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. And it was oddly shaped. But it had its own entrance. And it's own kitchen area.  
-
-![Sketch of the PIE space from initial walkthrough](https://github.com/piepdx/pie-cookbook/blob/master/source/images/PIE-sketch-2009.jpg)
-
-After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
-
-So we went after 10 companies for our first Accelerator class. (NOTE: This was too many for staff to effectively handle, but the space supported it effectively. So remember, it's not just what the space can handle but what staff and mentors can handle.)
-
-More on how we arranged those startups will follow.
-
-## Infrastructure
-
-More often than not, Accelerator spaces are a "work with the space that you have" sort of proposition. And there doesn't tend to be a lot of capital for tenant improvements or build out. That said, there are certain aspects of the space that you simply have to make work. Even if that means spending a little money to make it feasible.
-
-PIE focused on early stage tech startups who were usually pursuing Web based or mobile based products that were hosted in the cloud. For that reason, the vast majority of our companies were people banging on laptops. 
-
-But even that sort of setup requires some infrastructure.
-
-Here are some of those "must haves" for an Accelerator to even function as a workspace.
-
-### Power
-
-At the very least, you should plan on having one outlet and one surge protecting power strip per person. This may require you to spend money on additional power drops in your space. Or you may be able to make due with extension cords and trip guards, within the realms of fire code. But no matter what, it will definitely require you to purchase a lot of power strips — or have someone donate them to your cause. 
-- - - 
-> **tl;dr At a minimum, provide one outlet and one power strip per person.**
-- - - 
-Note: PIE did not do this well. This was one of our mistakes. We didn't have enough power outlets for each person to have an outlet. And, at times, it caused more stress than we care to admit. Later, we managed to get more power added, especially when startups needed the additional power to function. 
-
-### Internet
-
-Regardless of the types of businesses with whom you're working, high speed internet connectivity is a must. So figure out a way to pay for it or get it donated. 
-
-At PIE, we went for an enterprise grade cable connection. If you can get fiber, get fiber. It's worth it. And again, worth mitigating the stress of dropped connections or large file transfers. 
-
-### Wifi
-
-While some of your company may require physical internet drops, wifi will likely suffice for most of your participants. 
-
-PIE was hilariously bad at selecting wifi routers early in its existence. And this plagued us for about a year. Until we tore out the system we had set up and rebuilt it from scratch.
-
-Spend the time and money to get the wifi done right. 
-
-And be extremely liberal with the number of simultaneous connections your router can support. Especially if you're hosting events in your space. But it helps day-to-day, as well. 
-
-Rest assured, you'll be surprised how much good wifi connectivity can result in a positive impression of the space and your events. Because it's hard for people to tell others about your Accelerator if they can't get online to talk about it.
-
-### Printing/copying
-
-It sounds ridiculous in this day and age, but you need a printer and copier. Inevitably there will be a contract or term sheets or employee documentation that requires this. It's a cost of doing business.
-
-At least these days it's possible to find a single multipurpose device to handle your needs. And try to make it as efficient as possible. Because no one wants to be sweating a 30 page document completing a print run before a deadline. 
-
-Also prepare to take on the cost of supplies and maintenance for this unit. Because it will break. Usually at the most inconvenient times. 
-
-If you want to be really nice, make sure that this device is networked. PIE never managed to accomplish this. It's still a dream that we will, one day.
-
-Finally, don't be tempted to charge per copy or anything silly like that. Just eat the cost as a cost of doing business. 
-			
-
-## Restrooms/Locker rooms
-
-This is obvious but we don't want to ignore the obvious. You're going to need restrooms for your Accelerator residents. Preferably multiple facilities. 
-
-But while restrooms are definitely a necessity, it's not a requirement that they be part of the main space itself. They just need to be accessible. 
-
-For the first few years of PIE, we used a shared restroom for several retail locations in our building. Then we got a slight upgrade when W+K provided access to their locker rooms, which allowed our startups to access to showers and lockers, as well. 
-
-## Kitchen
-
-Given how much time the founders will be spending in the space, a kitchen is a critical component of the Accelerator setup. Please note that it also becomes a completely hassle in terms of custodial upkeep. In our experience, it's like one kitchen in a living space with 40 roommates. 
-
-That said, it's still critically important that you have it. And that you plan appropriately for its ongoing maintenance — and communicate those responsibilities and — potentially — chores to the residents of the space. 
-
-Our kitchen became so important to the space — serendipitous collisions and compelling conversations started in there all of the time — that we used the term "Kitchen" to describe the general chat room on our chat environment. 
-
-Here's how ours was outfitted for the class. 
-
-### Coffee/Tea
-
-Probably the most critical component of the kitchen for founders: the convenient conveyance of caffeine. 
-
-If possible, invest in a coffee maker that with piped in water. Not only is it more efficient when people are making pot after pot of coffee, it ensures that there is one less possibility of making a mess in the kitchen area. 
-
-Also invest in the highest quality coffee and tea available. It's of minimal additional cost but it goes a long way in helping the startups feel at home. 
-
-Make sure to have a wide selection of teas, caffeinated, caffeine free, herbal, and green. 
-
-### Refrigerator(s)
-
-Have at least one full size refrigerator for the kitchen. Just like you would have at home. 
-
-Founders will often bring in their own meals — or need a way of storing doggy bags from lunch and dinner meetings. Help them stretch their budgets as far as they can. 
-
-Plus, if you're feeding them as often as we will encourage you to do, you'll need somewhere to store those leftovers, as well.
-
-At PIE, we were lucky enough to have two full-size fridges. And if you can afford the same setup, we highly recommend it. We labeled one public and one private. 
-
-In the public fridge, anything was fair game. This is where we would store things like condiments, leftovers from PIE group meals, and other food that founders deemed fair game for the rest of the group. Sometimes, you're lucky enough to get founders who enjoy cooking for everyone. And when you do, you want somewhere to put that. 
-
-In the private fridge, we required folks to label all food. This was specifically hands off sort of stuff. Like sack lunches. Or that extra special cream that someone wanted for his coffee. 
-
-Like the kitchen, itself, cleaning the fridge(s) will become a chore and a bone of contention. Plan ahead for that. 
-
-### Cupboards/storage
-
-You're going to need somewhere to put all of the coffee and tea and cups and plates and whatnot. And you'll need drawers for silverware and stuff.
-Make sure these are well stocked with plates, bowls, mugs, glasses, silverware, and serving wear. As an added bonus, consider storage containers for leftover food. 
-
-You'll also need room to store snacks. And soups. And other dry storage sorts of things that folks will bring into the space. It's like any kitchen. And folks are living out of the space for the most part. So treat it accordingly. 
-
-Again, it is the responsibility of the accelerator to stock commonly used items like coffee and tea, spices, hot sauce, condiments, and the like.  
-
-Like everything else in the kitchen, get ready for these to become messy and disorganized. And set aside time or assign chores accordingly. 
-
-### Garbage and Recycling
-
-Even if your space is occupied exclusively by folks typing on keyboards, you will still accumulate refuse. So it's a good idea to have places to put it.
-
-Being from Portland, we had ![an extensive complement of containers](https://www.hulu.com/watch/335493) for correctly disposing of rubbish. But at the very least, we recommend the following:
-
-- Recycling (glass, cans, plastic, paper, cardboard, as sorted by your sanitation services)
-- Compost (food waste, compostable containers, coffee grounds)
-- Garbage (stuff that can't be used in a different way)
-
-### Sink(s)
-
-At least one sink is necessary. Multiple sinks are preferable. Otherwise you get a line up of people whenever you've had a meal. Try to make it as efficient as possible. Or as efficient as your space will allow. 
-
-More so than any other area, the sink will become your nightmare. No matter how many times you remind folks, no matter how many signs you post, no matter who is assigned clean up, the sink will pile up with dishes. Always. 
-
-Plan accordingly.
-
-### Kitchen nice to haves
-
-At PIE, we were lucky to have a few things that made life in an accelerator easier. You can get by without these things, but if you can afford them, we highly recommend them.
-
-#### Microwave
-
-If you have a bunch of leftovers, someone at some point is going to want to reheat some leftovers. Or pop some popcorn. So maybe consider having a microwave on hand to handle some of that. 
-
-#### Dishwasher
-
-Arguably, this falls into the "nice to have" category. But if you have the option to have a dishwasher, we highly recommend it. (See the note about the sink, above.)
-
-Also, invest in a cheap "clean/dirty" magnet. Or be totally disruptive and make your own sign. Either way, make it happen. The dishwasher is a nice to have. If you have a dishwasher, the  sign is a must have.
-
-Like the fridge and the sink, it's probably a good idea to assign chores to make sure that this is taken care of.
-
-And if you can't afford a dishwasher or the space will not allow for one, make sure to purchase a drying rack. Because someone is going to have to clean those dishes in the sink eventually.
-
-#### Water Cooler
-
-Startups cannot live by caffeinated beverages alone. And it's important that you try to keep folks as healthy as possible. So hydration is imperative. 
-
-That's why we were happy to have a water cooler in our office. Sort of by accident. (It was a residual benefit of the aforementioned livestreaming telethon.)
-
-#### To kegerator or not to kegerator
-
-In Portland, it's a common occurrence to have a kegerator — a fridge with a tap that allows you to store a keg of liquid, keep it cold, and easily dispense it — in startup spaces. That kegerator could have beer or wine or cider or kombucha. Some even just serve sparkling water. 
-
-It's something that speaks to an underlying culture of craft distilling and brewing in Portland. And Portland has a rich history in many types of alcohol production. In fact, we often reference how the growth of the startup community directly emulates the culture and community of the wine and beer industries in our region. But it's not for everyone. 
-
-We chose to have a kegerator in the space because nearly everyone in the space drank beer. And there were times when retiring to the kitchen and sharing a beer with a peer resulted in some really interesting conversations. 
-
-But it's a choice. Not a requirement. So do as you see fit.
-				
-### Additional items
-
-Part of the magic of the kitchen is allowing your startups to customize the space to their own particular needs… and then gratuitously appropriating their good ideas. 
-
-Some of those good ideas include:
-
-- **Toaster**: Folks like toast. And toasted bagels. This might work for you.
-- **Toaster oven**: Reheating leftovers or for melting cheese on bagels.
-- **Sodastream**: Despite the awkward sounds emanating from the kitchen, the Switchboard team really seemed to love their Sodastream. 
-- **Blender**: We may or may not have had a representative of a certain margarita maker in the space for a time. But that said, smoothies and veggie blends are something your startups may want.
-
-Note: We have blown the circuit breaker on a regular basis. Especially when we had the toaster and microwave going when the fridge kicked on. We were lucky that the kitchen was on a separate circuit. Well, on a circuit with our conference room. Long  story short, be aware of your power consumption and the load on the circuits as you appoint your kitchen.
-
-## Mail
-
-One of the fringe benefits of sitting in an office space is getting an official business address. For many of our startups, this was the first actual address that the company had had. A number of them even incorporated while they were in PIE. 
-
-We chose to use a single physical address for all of the startups. Since we were all sitting in the same space. In the early days, this was manageable through a single inbox. As the number of PIE alums grew, we found it more effective to create mailboxes for current residents. As such, it became the responsibility of the staff to sort the mail and alert alums when mail had arrived for them.
-
-Be advised that the mail thing goes two ways. Not only will you be dealing with inbound mail, your startups will want outbound services and shipping as well. Make sure you have adequate envelopes, boxes, tape, and postage at your location. 
-
-The downside of all of this? Most of your startups will only share the space with you briefly, but you will be receiving mail for every single one of your startups for the rest of your life.
-	
-## Arranging the desks in the office space 
-
-Some Accelerator programs use long tables along which a number of startups will sit. Others use individual desks. 
-
-We chose individual desks which we would arrange in "pods" by company. Sometimes, smaller companies would share a single pod. Sometimes, founders would separate their desk from their company pod. 
-
-You never know how founders will want to work with their cofounders. So we allowed founders to arrange the desks however they wanted. Some founders would choose to sit side by side, so they could easily engage pair programming or look at one another's screens. Some founders liked sitting across from one another, so that they could more easily converse — or know when the cofounder was in Do Not Disturb mode. Still others had a hub and spoke set up. Or some other combination.
-
-We wanted our founders to be as effective and efficient as they could be. So we let them adapt the space to their needs, no matter what that did to the overall aesthetic of the space. 
-
-- - -
-**Mistakes were made: Where the staff sits**
-When we started the accelerator, we made the assumption that the founders would do a better job of acclimating and engaging with one another if we gave them the run of the main space. We located the PIE cofounders and staff in the far corner of the space, out of the way. 
-
-![Where PIE management sat for the first Accelerator class](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2009-07-01%2014.20.34.jpg)
-
-We made two mistakes with this arrangement. 
-
-First, we didn't have enough staff to make effective use of the space. Which meant we had empty desks in our corner. In an effort to alleviate this issue, we brought one of the teams into our corner. While the corner wasn't completely shielded from the floor of the Accelerator, it was protected enough to make it feel like a separate space. 
-
-This negatively impacted the team that sat with us. They didn't bond with the other startups as effectively. And they managed to keep themselves excluded — by choice — when they should have been forced to be included.
-
-Second, the staff suffered by being separated from the startups. We didn't have our finger on the pulse. We couldn't feel the vibe of the room. 
-
-It wasn't that the staff was inaccessible. We weren't. And the founders felt totally comfortable coming into our corner and chatting with us. But we missed out on the times when people weren't seeking us out. And the nonverbal clues. And the gut checks you get when you're embedded within the active space.
-
-- - -
-		
-### There is no caste system here
-
-At PIE, one of the most important things we discovered — through trial and error — was that staff and startups had to be perceived as equals in terms of workspace. 
-
-What we realized, relatively quickly, was that the staff had to be on the same level as the startups, both physically and figuratively. The staff didn't get perks. They didn't get private offices. Or special considerations. The staff has to be down in the muck with all of the other Founders. They have to experience the struggle firsthand. They have to be accessible. And interruptible. And perhaps, most importantly, tangible and real to the Founders going through the Accelerator. 
-- - - 
-> **tl;dr Don't play favorites. Embed the staff in the trenches.**
-- - - 
-Anything less, and you're compromising the opportunity to bond with your companies. And bonding with your companies is what this is all about. Because you're in this for the long haul.
-
-Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
-
-
-### IKEA is your friend
-
-Now that you have a space and some infrastructure in place, we'll need somewhere to put all of those Founders so they're not sitting on the floor. 
-
-Don't make furnishings a major line item. We used low cost dining room tables from IKEA. And even though we bought them in 2011, they're still holding their own today. And look practically brand new. 
-
-You're welcome to choose whatever you want, but at this price point, we're ever hopeful that IKEA never discontinues the [Melltorp](http://www.ikea.com/us/en/catalog/products/S19011777/). 
-
-![Building IKEA desks](https://github.com/piepdx/pie-cookbook/blob/master/source/images/2011-08-25%2009.55.10.jpg)
-
-Want a standing desk? Combine that kitchen table with a coffee table to make a fairly ergonomic standing desk for most folks. Melltorp plus [Lack](http://www.ikea.com/us/en/catalog/products/20011408/)? Congrats on creating a standing desk for less than $100 US.
-
-Long story short, take care of the basics. Like power. And internet. And desks and comfortable office chairs. (Your Founders are going to be sitting in them for hours upon hours.) It's fine to put the onus of purchasing laptops, monitors, phones, accoutrement, and the like on the founders. But don't make them hunt down things like power strips or extension cords or dry erase markers. That's base infrastructure. That's your job.
-
-## Ongoing build out
-
-The space you start with doesn't have to be perfect. It's like building any product. Start with what you have. Figure out what's working. Figure out what's needed. And improve from there. 
-
-When we started PIE, there were no conference rooms. Or phone booths. So people took calls in the space. Or out on the stoop. Or while walking laps around the block.
-
-We had a pseudo conference room that allowed a small group of people to gather. But it allowed for little privacy. 
-
-![PIE's original conference room chairs](https://github.com/turoczy/pie-cookbook/blob/master/source/images/2011-03-08%2009.30.51.jpg)
-
-It was just a circle of high back leather chairs around an old Starbucks sign coffee table. But it provided enough of a conference room effect to be useful. In the short term.
- 
-### Conference room
-
-As time went on, we identified the need for an actual conference room. So we took another corner of the office space and walled it off to create a conference room space. 
-
-It was overly warm and stuffy. The chairs were uncomfortable. The electricity rarely worked. The whiteboard was difficult to erase. But it had a door. And it served its purpose. 
-
-It is important to note that we did not start with a conference room. We started with what we had and, through use, identified that a conference room was needed. Only then did we incur the expense to create the conference room. And this was after we'd inhabited the space for quite some time. 
-
-While it's fairly safe to assume you'll need a conference room, you might want to see how people make use of your existing space before you act on that assumption. Or see how they compensate for the lack of conference room. There might be some interesting learning there. 
-
-### Meeting areas
-
-Whether you have a conference room in the space or not, you're going to wast to establish some meeting areas in your space. These can be as simple as a couch. Or they can have more structure to them.
-
-When we say "meeting areas," we mean open areas within the coworking area or nearby. These should be places where people can be overheard. And where privacy or confidentiality are secondary. 
-
-Why? Because this sort of arrangement serves three very important functions:
-
-1. Encouraging people to have meetings within earshot of their peers helps establish a level of comfort and trust with the entire cohort. As folks become more and more comfortable with one another — as that trust builds — you'll see fewer and fewer meetings occurring with closed doors and secrecy. 
-2. People will overhear what is going on. They'll realize that other founders are struggling similar issues. They'll empathize and, eventually, sympathize with the other founders in their cohort. And if all goes well, they'll start to help one another more effectively. "I couldn't help by overhear… I have some ideas for you." 
-3. Last but not least, it helps create a sense of activity in the space. You want a dull roar. You want people collaborating. You want it being a little noisy. Don't try to eliminate that. This isn't a library in the 50s.
-
-### Phone booths
-
-When we started PIE, one of the most obvious — and noisy — things about it was the lack of privacy. There was absolutely nowhere in the space where a person could take a phone call or have a private conversation without everyone hearing. 
-
-For this reason, most people started talking calls outside on the stoop. Or started taking walks around the block for private meetings.
- 
-![Taking calls, PIE style](https://github.com/turoczy/pie-cookbook/blob/master/source/images/2012-12-15%2009.34.28.jpg) 
-
-That worked fine when the weather was good. But that didn't work so well in the winter. Or during the rainy season. 
-
-So we were motivated to find a better solution. 
- 
-
-# Running an Accelerator
-
-## Establish a thesis
-
-Even if you're not planning to invest capital in your Startups, you should still do one thing like an investor: have a thesis. 
-
-What's a thesis? It's something that guides the types of companies with whom you want to work and often — more importantly — a guideline that prevents you from working with companies that aren't the right fit for your Accelerator.
-
-A thesis is especially important for a first-time program. Otherwise, you'll try to take all comers, which will set you up for failure on any number of fronts.
-- - - 
-> **tl;dr A thesis will help guide all of your Accelerator activities.**
-- - - 
-You don't have to be married to your thesis forever and it can change as often as you want. But you need one. Your thesis can be defined by market dynamics, community trends, the expertise of your mentors, the success of your startups, the desires of your patron, or any combination thereof. It just needs to be defined. And you need to stick to it.
-
-At PIE, we hit upon the fact that we were really good at accelerating technology platforms and enabling technology. Or to put it another way, we did really well with developers building tools for other developers. Why did we get good at this? There were any number of reasons but among the most important were:
-
-- Portland has a long history of building platforms and enabling technologies, so there were more folks who had "been there and done that" with these types of businesses.
-- Our mentors had expertise in building platforms.
-- Our alums happened to be focused on platforms.
-- The risk tolerance profile for the Portland community favored platforms and enabling technologies over consumer plays because the perceived risks and challenges are lesser.
-- As mentors and alums helped us recruit companies, they inevitably drew from a community of peers — many of whom were building platforms or enabling technology
-- Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — a company built on the premise of helping other companies.
-- We started PIE just as both the SaaS and mobile markets were exploding
-
-## Know where you suck
-
-Know — don’t assume; know — what you are truly good at doing.
-
-And even more importantly? Be willing to admit where you suck.
-
-At PIE, it quickly became obvious that we sucked at helping startups with fundraising. We were hamstrung by several things.
-
-First, there was a nascent investment community in Portland. 
-
-Second, the community that happened to exist did not possess a complementary risk profile for the companies with whom we were working. Because of that, the local investors had little appetite for the types of companies as investments. 
-
-Third, we had not established adequate ties with investors in other regions. We had friends here and there, but we didn’t have a strong rolodex of investors whose theses matched our startup profiles.
-
-But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provided us with yet another measure by which to select the companies we chose.
-
-## But also know what your strengths are
-
-PIE mentor and Techstars Seattle Managing Director, Chris DeVore, provides a [compelling list of the things that Seattle is good at doing](http://crashdev.com/2017/01/what-is-seattle-best-at/). 
-
-While your list might not be as long as Chris' — Seattle has been at this for a while — it's important that you take the time to assess what strengths your staff, mentors, startups, and regional expertise bring to the mix. 
-
-If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
- 
-				78. Setting expectations
-				79. Communicating expectations
-			78. Time period
-			79. Number of classes per year
-			80. Number of companies per class
-			81. Continued coworking or not?
-			81. Promotions
-				82. Media
-				83. Community
-					84. Mentors
-					85. Alums
-					86. Partners
-					87. Patrons
-					88. Sponsors
-				84. Events
-				82. Tchotchkes
-			82. Applications
-				83. Example application (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
-				84. Communications
-					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
-					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
-					87. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
-					88. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
-				84. Fringe benefits of applications: Market research
-					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
-					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
-
-# Selection
-
-Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
-
-It only makes sense. Because it's honestly the most challenging part of this whole process. 
-
-What's more, to the outside world, it's the metric on which the "success" of your Accelerator will be judged. 
-
-And everyone is interested in this topic. Other programs want to make sure that they're picking the best candidates. And candidates want to be sure they're providing the details that make it more likely for them to get picked.
-
-
-## Grading criteria
-
-Over the course of the programs PIE ran, we came up with a way of grading startups on a series of weighted factors. And we know this will come as a shock, but we made those factors into an acronym. 
-
-We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
-
-(Additional content on selection to be incorporated)
-
-**Participant selection**
-PIE has a proven and refined methodology for selecting participants in its programs. At a macro level, this methodology includes a weighted average of the following elements:
-
-- **People** (5.0x): We analyze the entrepreneurs to determine their level of coachability, the extent of their experience in business and/or the market they are pursuing, their existing knowledge and learning to be had, their ability to work in a collaborative space, and their willingness to participate in the program as a mentor to other members of their cohort (peer mentoring), as well as their potential to assist future members of the program (ongoing mentoring).
-- **Idea** (2.0x): Staff, partners, and mentors are asked to analyze the potential of the business idea, the market(s) to which the idea may be attractive, the feasibility of developing a product for that market(s), and whether the product is appropriately timed for the intended market(s).
-- **Enchantment** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
-
-
-### People
-
-People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
-- - - 
-> **tl;dr The only thing that matters is picking good Founders.**
-- - - 
-That's why we spend so much of the application process dealing with people issues rather than business issues. This is more of a psychology evaluation than a business plan competition. 
-
-It's a lifeboat quandary. A stuck overnight in an airport test. A who's got who's back. And who can be reliable and effective. 
-
-So we recommend doing whatever you have to do to get the Founders to reveal those sorts of traits. To figure out how they interact. To figure out where the flaws and cracks and stress points are. To discover what is going to motivate them. Or send them spiraling. 
-
-And to use all of that information to pick the best people for your program. Not Cofounders. Not business people. Not rockstars or ninjas or wizards. Just people. Pick good people. 
-
-So we ask questions like:
-
-- Is this Founder coachable?
-- How does this Founder interact with his/her Cofounders? 
-- Do we trust him/her? 
-- Will this Founder be a good peer mentor?
-- Can this Founder be collaborative and cooperative in a shared workspace?
-- What would happen if you were stuck in an airport overnight with this Founder?
-- Will this Founder be a good Mentor for future PIE companies? 
-
-
-### Idea
-
-After People, the next grading criteria is the Idea. Not the product, mind you, because that will change over the course of the Accelerator. It's the Idea. 
-
-So we ask questions like:
-
-- Does the idea have potential? 
-- Does the idea have a target market? 
-- Is that market attainable? 
-- What will it take to engage that market?
-- Is there significant competition? (Not a a disqualifier, at all.)
-
-### Enchantment
-
-This is kind of our catch all category. It can serve as a tiebreaker. Or as a multiplier. Or simply as a way to reaffirm what we believe the other two categories have told us. 
-
-Okay. To be honest, we actually call this category "Serendipity." But we didn't like that acronym. So we changed it to "Enchantment." Because it's a little bit magic. And gut. And luck.
-
-To qualify Enchantment, we ask questions like:
-
-- Are we illogically enchanted with this idea?
-- Are there other Founders in this class who would benefit and collaborate with these Founders? 
-- Are there adjacencies or complementary products or business opportunities with other Startups in this Class?
-- Are there adjacencies or complementary products or business opportunities with other PIE alums?
-- Do we have Mentors who would be particularly adept at helping this Startup?
-- Do they present an interesting collaborative opportunity or creative challenge for our Patrons or Sponsors?
-- Do they have a product that matches the thesis of our closest investors?
-- Is this just interesting for some odd reason?
-
-				85. Written responses
-				86. Follow up questions
-				87. Face to face Interviews
-					88. Travel
-					88. Objective
-					89. Tells
-				90. [Expect founders to be dubious](https://hackernoon.com/i-used-to-be-a-skeptic-but-the-first-two-weeks-of-techstars-boulder-have-blown-my-mind-d05c6fc55c91#.y40yakq93) 
-			90. Prep
-				91. Background checks
-				92. Paperwork
 # Recruiting mentors
-
-Test driving mentors
-			27. Assessing skill fit
-			28. Assessing personality fit
-			29. Actively engaged pool
-			30. Passively engaged pool
-			30. Overlap
-
-
-
-# Applying Mentors
-
-In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
+	
+			21. Anyone can (and should) be a mentor
+				22. It’s not just “experts”
+				23. Different viewpoints reveal flaws and opportunities
+		
+			22. Identifying potential mentors
+			23. Recruiting potential mentors
+			23. Qualifying potential mentors
+			24. Alums as mentors
+			24. Onboarding
+			
+			In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
 
 For example, if you want a mentor to assist as a subject matter expert, make sure they are given the appropriate platform for conveying that knowledge. Don't make them present if a workshop is a more appropriate format. Don't make them take 1:1 meetings if their knowledge is relevant to every company — and will result in them repeating the same advice to 10 different companies. 
 - - - 
@@ -1893,80 +1714,7 @@ And if you do it right? You’ll find they’ll be a lot more willing to commit 
 
 Respect mentors’ time and they will repay that respect with more time.
 
-
-# Speed dating vs Matchmaking
-
-When it comes to mentor engagement, no topic is more ripe for discussion — and more likely to rile opinions — than the pros and cons of speed dating and matchmaking. But before we get into that, let's explain what we mean by the terms.
-
-## Speed dating
-
-With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
-
-There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
-
-The process is designed to make efficient use of time for both mentors and startups, giving each party the chance to briefly meet the other. And to give mentors a general lay of the land for the cohort as a whole. It also avails the opportunity for each party to identify folks with whom they would like to be working.
-
-From the Mentor's perspective, progress goes something like this:
-
-- Mentor 1 meets with Startup 1
-- Mentor 1 meets with Startup 2
-- Mentor 1 meets with Startup 3…
-
-From the Startup's perspective, progress looks more like this:
-
-- Startup 1 meets with Mentor 1
-- Startup 1 meets with Mentor 2
-- Startup 1 meets with Mentor 3
-
-So as you can see, the best number of mentors to schedule for a speed dating session is less than or, ideally, equal to the number of Startups in your Accelerator. Too many, one way or the other, and someone's time is being wasted. Too few, and its value is questioned.
-
-But what if you have three times as many mentors wanting to participate as you have startups? That's right. You schedule separate sessions. In this case, you schedule three separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best. 
-- - - 
-> **tl;dr Speed dating works best when the Mentor to Startup ratio is 1:1.**
-- - - 
-Don't try to have multiple mentors sit down with each Startup. That can be awkward for both the Startups and the Mentors. Unless… they already know one another well.
-
-We've experimented with groups of mentors meeting with Startups in this round robin fashion. It's another way to handle a large number of mentors meeting with the Startups, in an efficient fashion. But we've found that these Mentors need to know one another on a collegial or friendly level before this works. Otherwise, comfort levels tend to compromise the value of this model. 
-
-Where we have found this permutation effective is with Angel groups and Venture Capital partners and/or associates. You can group three Investors from an Angel group or VC, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
-- - - 
-> **tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.**
-- - - 
-In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
-
-### The dark side of speed dating
-
-While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
-
-These drawbacks, which we'll cover in more detail, include but are not limited to:
-
-- Mentor and Startup fatigue
-- Perceived lack of meaningful connections
-- Perceived lack of tangible results
-- A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
-
-## Matchmaking 
-
-While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
-
-In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
-
-With matchmaking, the connections between mentors and startups are less serendipitous and more intentional, based on a series of factors, such as:
-
-- Current problems plaguing the founders
-- Stage of the product or company
-- Skill set and expertise of the mentor
-- Personality of the founders
-- Personality of mentor
-- Likelihood of availability
-
-There is no set day or timeframe. Staff introduces the startup and mentor and leaves it the startup to schedule the meeting. Staff then follows up with both mentor and startup to understand the outcomes of the meeting and to help decide next steps. 
-
-## So which is it? Both.
-
-Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
-
-Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
+Where to recruit mentors
 
 # How to activate mentors
 
@@ -2159,6 +1907,146 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 ### Learn Openly (via @eighteyes)
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
+Test driving mentors
+			27. Assessing skill fit
+			28. Assessing personality fit
+			29. Actively engaged pool
+			30. Passively engaged pool
+			30. Overlap
+
+
+# Running an Accelerator Class
+
+				78. Setting expectations
+				79. Communicating expectations
+			78. Time period
+			79. Number of classes per year
+			80. Number of companies per class
+			81. Continued coworking or not?
+
+
+
+			81. Promotions
+				82. Media
+				83. Community
+					84. Mentors
+					85. Alums
+					86. Partners
+					87. Patrons
+					88. Sponsors
+				84. Events
+				82. Tchotchkes
+			82. Applications
+				83. Example application (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
+				84. Communications
+					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
+					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
+					87. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
+					88. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
+				84. Fringe benefits of applications: Market research
+					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
+					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
+
+# Selection
+
+Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
+
+It only makes sense. Because it's honestly the most challenging part of this whole process. 
+
+What's more, to the outside world, it's the metric on which the "success" of your Accelerator will be judged. 
+
+And everyone is interested in this topic. Other programs want to make sure that they're picking the best candidates. And candidates want to be sure they're providing the details that make it more likely for them to get picked.
+
+
+## Grading criteria
+
+Over the course of the programs PIE ran, we came up with a way of grading startups on a series of weighted factors. And we know this will come as a shock, but we made those factors into an acronym. 
+
+We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
+
+(Additional content on selection to be incorporated)
+
+**Participant selection**
+PIE has a proven and refined methodology for selecting participants in its programs. At a macro level, this methodology includes a weighted average of the following elements:
+
+- **People** (5.0x): We analyze the entrepreneurs to determine their level of coachability, the extent of their experience in business and/or the market they are pursuing, their existing knowledge and learning to be had, their ability to work in a collaborative space, and their willingness to participate in the program as a mentor to other members of their cohort (peer mentoring), as well as their potential to assist future members of the program (ongoing mentoring).
+- **Idea** (2.0x): Staff, partners, and mentors are asked to analyze the potential of the business idea, the market(s) to which the idea may be attractive, the feasibility of developing a product for that market(s), and whether the product is appropriately timed for the intended market(s).
+- **Enchantment** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
+
+
+### People
+
+People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
+- - - 
+> **tl;dr The only thing that matters is picking good Founders.**
+- - - 
+That's why we spend so much of the application process dealing with people issues rather than business issues. This is more of a psychology evaluation than a business plan competition. 
+
+It's a lifeboat quandary. A stuck overnight in an airport test. A who's got who's back. And who can be reliable and effective. 
+
+So we recommend doing whatever you have to do to get the Founders to reveal those sorts of traits. To figure out how they interact. To figure out where the flaws and cracks and stress points are. To discover what is going to motivate them. Or send them spiraling. 
+
+And to use all of that information to pick the best people for your program. Not Cofounders. Not business people. Not rockstars or ninjas or wizards. Just people. Pick good people. 
+
+So we ask questions like:
+
+- Is this Founder coachable?
+- How does this Founder interact with his/her Cofounders? 
+- Do we trust him/her? 
+- Will this Founder be a good peer mentor?
+- Can this Founder be collaborative and cooperative in a shared workspace?
+- What would happen if you were stuck in an airport overnight with this Founder?
+- Will this Founder be a good Mentor for future PIE companies? 
+
+
+### Idea
+
+After People, the next grading criteria is the Idea. Not the product, mind you, because that will change over the course of the Accelerator. It's the Idea. 
+
+So we ask questions like:
+
+- Does the idea have potential? 
+- Does the idea have a target market? 
+- Is that market attainable? 
+- What will it take to engage that market?
+- Is there significant competition? (Not a a disqualifier, at all.)
+
+### Enchantment
+
+This is kind of our catch all category. It can serve as a tiebreaker. Or as a multiplier. Or simply as a way to reaffirm what we believe the other two categories have told us. 
+
+Okay. To be honest, we actually call this category "Serendipity." But we didn't like that acronym. So we changed it to "Enchantment." Because it's a little bit magic. And gut. And luck.
+
+To qualify Enchantment, we ask questions like:
+
+- Are we illogically enchanted with this idea?
+- Are there other Founders in this class who would benefit and collaborate with these Founders? 
+- Are there adjacencies or complementary products or business opportunities with other Startups in this Class?
+- Are there adjacencies or complementary products or business opportunities with other PIE alums?
+- Do we have Mentors who would be particularly adept at helping this Startup?
+- Do they present an interesting collaborative opportunity or creative challenge for our Patrons or Sponsors?
+- Do they have a product that matches the thesis of our closest investors?
+- Is this just interesting for some odd reason?
+
+				85. Written responses
+				86. Follow up questions
+				87. Face to face Interviews
+					88. Travel
+					88. Objective
+					89. Tells
+				90. [Expect founders to be dubious](https://hackernoon.com/i-used-to-be-a-skeptic-but-the-first-two-weeks-of-techstars-boulder-have-blown-my-mind-d05c6fc55c91#.y40yakq93) 
+			90. Prep
+				91. Background checks
+				92. Paperwork
+
+
+# Engaging mentors in an accelerator class
+
+
+## Presentation with Q&A
+
+### For the mentor
+
 ## Preparing mentors to speak to a class
 
 One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the entire class. For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
@@ -2335,9 +2223,6 @@ The caveat here is that the workshop format can be helped by slides. But the vas
 #### Don't make it a sales pitch
 Just don't.
 
-## Presentation with Q&A
-
-### For the mentor
 ### For the founders
 
 ## Workshops
@@ -2346,6 +2231,80 @@ Just don't.
 ### For the founders
 
 ## Speed dating or running the gauntlet
+
+# Speed dating vs Matchmaking
+
+When it comes to mentor engagement, no topic is more ripe for discussion — and more likely to rile opinions — than the pros and cons of speed dating and matchmaking. But before we get into that, let's explain what we mean by the terms.
+
+## Speed dating
+
+With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
+
+There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
+
+The process is designed to make efficient use of time for both mentors and startups, giving each party the chance to briefly meet the other. And to give mentors a general lay of the land for the cohort as a whole. It also avails the opportunity for each party to identify folks with whom they would like to be working.
+
+From the Mentor's perspective, progress goes something like this:
+
+- Mentor 1 meets with Startup 1
+- Mentor 1 meets with Startup 2
+- Mentor 1 meets with Startup 3…
+
+From the Startup's perspective, progress looks more like this:
+
+- Startup 1 meets with Mentor 1
+- Startup 1 meets with Mentor 2
+- Startup 1 meets with Mentor 3
+
+So as you can see, the best number of mentors to schedule for a speed dating session is less than or, ideally, equal to the number of Startups in your Accelerator. Too many, one way or the other, and someone's time is being wasted. Too few, and its value is questioned.
+
+But what if you have three times as many mentors wanting to participate as you have startups? That's right. You schedule separate sessions. In this case, you schedule three separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best. 
+- - - 
+> **tl;dr Speed dating works best when the Mentor to Startup ratio is 1:1.**
+- - - 
+Don't try to have multiple mentors sit down with each Startup. That can be awkward for both the Startups and the Mentors. Unless… they already know one another well.
+
+We've experimented with groups of mentors meeting with Startups in this round robin fashion. It's another way to handle a large number of mentors meeting with the Startups, in an efficient fashion. But we've found that these Mentors need to know one another on a collegial or friendly level before this works. Otherwise, comfort levels tend to compromise the value of this model. 
+
+Where we have found this permutation effective is with Angel groups and Venture Capital partners and/or associates. You can group three Investors from an Angel group or VC, together — especially ones who know one another well and who use a similar due diligence style — and they'll do just fine. That said, the Startups may feel a little ganged up on. 
+- - - 
+> **tl;dr Speed dating between groups of Mentors and Startups works if, and only if, the Mentors know one another well, like Investors from the same group or fund.**
+- - - 
+In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
+
+### The dark side of speed dating
+
+While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
+
+These drawbacks, which we'll cover in more detail, include but are not limited to:
+
+- Mentor and Startup fatigue
+- Perceived lack of meaningful connections
+- Perceived lack of tangible results
+- A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
+
+## Matchmaking 
+
+While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
+
+In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
+
+With matchmaking, the connections between mentors and startups are less serendipitous and more intentional, based on a series of factors, such as:
+
+- Current problems plaguing the founders
+- Stage of the product or company
+- Skill set and expertise of the mentor
+- Personality of the founders
+- Personality of mentor
+- Likelihood of availability
+
+There is no set day or timeframe. Staff introduces the startup and mentor and leaves it the startup to schedule the meeting. Staff then follows up with both mentor and startup to understand the outcomes of the meeting and to help decide next steps. 
+
+## So which is it? Both.
+
+Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
+
+Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
 
 ### For the mentor
 ### For the founders
