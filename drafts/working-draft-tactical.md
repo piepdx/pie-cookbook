@@ -181,7 +181,6 @@ For us, the space in the Wieden+Kennedy building afforded us opportunities for c
 3. It served as a physical representation of the community, as a whole. So when folks were visiting town or were new to town, they had a place to land. And that space enabled others to discover and engage with the community more readily.
 
 ### Step 6: Keep doing all of that stuff. But do more of it. Faster.
-
 Now that you've got some momentum, you've got a working space, and you've started to define your role in the community, you have to really get to work. Or maybe you have to build something else. But you get the gist.
 
 There's more to do.
@@ -209,7 +208,6 @@ Again, this isn't the right way to do anything. This just happens to be how PIE 
 Whatever you choose to do — start a long journey or jump into the deep end of the pool — just remember that, in the long run, you're not building an accelerator. You're building a community.
 
 ## Coworking and Community Development are not complementary
-
 When we started PIE, we were working under the assumption that "coworking" — the concept of a variety of companies and individual contributors sharing a common workspace — and "community" were synonymous. Get a bunch of people sitting and working in the same space and viola! Community. 
 
 Nope. Coworking and Community are not synonymous. In fact, at times, they may even be at odds with one another. So even if you've got a thriving coworking business, don't assume you have a community. If your coworking business is thriving, that actually may be an indicator that you don't have a community. Conversely, if your coworking space is struggling to make ends meet, that may also be an indicator that you're doing okay with community development. 
@@ -220,8 +218,12 @@ It seems counterintuitive but we’ve learned that giving startups desks for fre
 
 Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream. And whatever the case, don't assume the health — or lack thereof — of a business pursuit like coworking is a direct or even relevant indicator of the health of your community. We've seen many a healthy community without the financial health to sustain a coworking space.
 
-## Empathize with Founders
+## Create a culture of hospitality
+Your accelerator should serves as a welcoming hub for the community. It should be a safe place where ideas are exchanged. Where concepts are challenged. And where productive discussions occur. 
 
+This is critical to your ability to create a culture of trust and an environment where founders and mentors can be open and engaged.
+
+## Empathize with Founders
 Finally and most importantly, before you do anything, put yourself in the Founders' shoes. Empathize with them. And continue to return to that viewpoint. Founders are your customers. Treat them accordingly.
 
 This is why we encourage you to immerse yourself in the community before you try  to do anything else. And why we encourage you to start your own companies. So you know what it's like. 
@@ -232,12 +234,12 @@ If you need help getting your head in the right place, read "[Why Y Combinator m
 
 
 # Start small
-
 Where you start is where you start. Don't let the current state of things or the amount of effort required prevent you from taking action. Start small. Start today. It might not be where you want to start. But you've got to start somewhere.
 
 Just start.
 
 # Before you begin
+This is like a cookbook of false starts, isn't it? Bear with us.
 
 It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say, "We're an accelerator. That's not always a positive thing. We have the potential to help accelerate your success, but we can just as easily accelerate your company right into the ground."
 
@@ -246,7 +248,6 @@ At PIE, we dove headlong into the effort with a bunch of assumptions. Among thos
 So we learned that it was important to diffuse those assumptions by taking some time to establish context and vocabulary for what you're trying to accomplish. Below, you'll find an example of the definitions we used to explain the different elements of the PIE community.
 
 ## Definitions
-
 Like many industries, the startup world is rife with terminology that holds special meaning to individuals who are well versed in its own cryptic lexicon. For that reason, we often fall into situations where we assume we’re on the same page as one of our similarly immersed counterparts. And — like most assumptions — that can cause problems. We believe that communication and clarity are vital, so we’re always looking for ways to get everyone speaking the same language.
 
 We feel that it is extremely important to have a consistent set of language to describe the concepts and participants in this process. Without clear definitions, we run the risk of miscommunication — even when we think that we’re speaking the same language.
@@ -261,7 +262,6 @@ Community can refer to any group of individuals who hold common goals and are mo
 A community simply has to have a focus. It can revolve around concepts, ideals, goals, brands, or any combination thereof. We see community, at its essence, as a group of people with a shared, collaborative vision.
 
 ### Accelerator
-
 An accelerator is a semi-protective environment that behaves as a microcosm of the real world, at a highly increased rate of speed. It is designed to help founders better understand how to deal with trends, personalities, and adversity in the real world. It is also designed to support founders in rapidly addressing issues impacting their businesses.  
 
 > Accelerators are not designed to protect founders from the elements of the startup world. They are designed to expose founders to those elements, time and time again in rapid succession. 
@@ -271,7 +271,6 @@ To quote Techstars, accelerators, by their very nature, are designed to help com
 Accelerators are unsuccessful when they allow unproven founders or products to survive longer than they reasonably should. Failed companies are not a "failure" of an accelerator. In fact, accelerating a company toward failure, sooner rather than later, is one of the most important functions of an accelerator. It saves founders time, money, and emotional stress by helping them recognize that the timing simply isn't right for their pursuit.
 
 ### Incubator
-
 An incubator is a protected work environment designed to shelter founders and ideas as they work to realize concepts and prototypes in an effort to bring a functional product to market. 
 
 In our definition of an incubator, there is no "business" yet. There are simply ideas and potential.  
@@ -289,7 +288,6 @@ Throughout this document, we will only be focusing on the Accelerator model but 
 NOTE: Although PIE has "incubator" in its name, that's a misnomer. We started as an incubator and transitioned into an accelerator. We chose not to rebrand the effort. Or maybe we simply couldn't come up with an acronym that worked. Except PAELLA.
 
 ### Startup
-
 How, exactly, does one define a startup? Well, honestly, we could write a-whole-nother book on that question alone. So rather than get into the particulars, we're going to simplify our definitions.
 
 At a macro level, we tend to define a "startup" as any company that: 
@@ -303,7 +301,6 @@ For the sake of this book, a "startup" will be any company with whom your Accele
 > **tl;dr Your Accelerator is inhabited by Startups. And it may be assisted by Corporations.**
 - - - 
 ### Founder/Cofounder
-
 Founders — often referred to a Cofounders when part of a founding team — create Startups. So Founders are the folks with whom you will be working. They're the person or people who were motivated to solve a problem and start a company. Often, Founders come in teams, but there are solo Founders, as well.  
 - - - 
 > **tl;dr Founders are the individuals on whom you will be focusing your Accelerator efforts.**
@@ -313,7 +310,6 @@ Sometimes, Startups have already hired Staff. While this does not necessarily pr
 > NOTE: At times, an Accelerator must designate activities as "Founder only" — specifically excluding Staff, Mentors, Advisors, and Investors — to ensure that those activities provide a protective environment of trust for Founders in the Accelerator. Managing this exclusivity will be critical to an open and collaborative cohort.
 
 ### Mentor
-
 Obviously, as an early stage startup accelerator, we spend far more time with mentors than advisors. In our world, we define a Mentor as an individual who volunteers his or her time to provide a startup with opinions, criticism, and feedback on problems, opportunities, or quandaries.
 - - - 
 > **tl;dr Mentors are volunteers who provide opinions to Founders.**
@@ -332,8 +328,7 @@ Therefore, mentors should…
 - Be used en masse to simultaneously provide a variety of viewpoints on specific problems or opportunities — the more opinions, the better— even if it winds up causing the classic “[mentor whiplash](http://avc.com/2013/07/mentorinvestor-whiplash/)”
 
 ### Advisors
-
-Conversely, we define an Advisor as an individual who is compensated —either in the form of equity or cash — by a startup in exchange for effort on solving a specific issue with the company or who is charged with assisting the founding team with a variety of issues.
+Conversely, we define an Advisor as an individual who is compensated — either in the form of equity or cash — by a startup in exchange for effort on solving a specific issue with the company or who is charged with assisting the founding team with a variety of issues.
 - - - 
 > **tl;dr Advisors are compensated to do work for Startups.**
 - - - 
@@ -352,7 +347,6 @@ Therefore, advisors should…
 - - - 
 [sidebar]
 ## Pick the right person for the job
-
 > The primary difference between a mentor and an advisor is that the former is chiefly tasked with providing opinions on problems and the latter is tasked with resolving those issues.
 
 To recap, if you’re working with a **mentor**, ask them for advice, not effort. They’re volunteers. They’re not being paid to help you. They’re providing their insights with the hopes that others will not have to suffer the same pains the mentor has.
@@ -364,7 +358,6 @@ Mentors volunteer; advisors are paid. Mentors advise; advisors work.
 - - - - -
 
 ### Investor
-
 Folks have a tendency to lump all investors together. However, when you're dealing with a specific stage of company, it's best to be more granular about the types of investors with whom that company will be interacting, both in the short term and in the future.
 
 At the most basic, an investor is someone who is using either personal capital or someone else's capital to make investments with the long-term objective of creating more money than they started with. 
@@ -380,7 +373,6 @@ A note about capital: We'll use "capital" in the broad sense, but you should rec
 Therefore, Accelerators operating with only initial investment capital must be comfortable with the concept of their position being increasingly diluted in future rounds of funding. To allay this, Accelerators may raise funds to go to follow-on rounds or they may partner with other investors to help protect the Accelerator's interest. Another tactic some Accelerators employ is introducing "anti-dilution" clauses into their agreements that prevent dilution from happening. Or assigning Warrants for future equity purchases. At PIE, we have found this practice — especially for new or little known Accelerators — to make future fundraising more difficult for  companies. So it's not something we'd recommend.
 
 #### Angel
-
 An Angel is an individual who invests his or her own money in an early stage company. This investment could come as early as a "Friends and Family" round (defined below) or as late as a "Lettered" round (defined below), though more often than not, Angel check sizes generally have them participating sooner rather than later, ranging from low five figure checks to six figure checks, depending on the Angel and his/her investment strategy. Some Angels choose to make a series of small bets; others choose to make a significant investment in a single company. Some Angels are comfortable investing on their own; others prefer to invest with other Angels or as part of an Angel Group (defined below).
 
 NOTE: It is important to understand individual Angels and they're preferred investment strategies, because they run the gamut.
@@ -394,7 +386,6 @@ Angels often invest in industries where they made their money. So it is importan
 > e.g., If an Angel made his/her money in food and beverage, it may be unlikely that they will feel comfortable investing in a technology startup.
 
 #### Angel Groups
-
 Angel investors will sometimes collaborate with other Angels to pool funds, get access to more deal flow, or share due diligence with one another. We refer to these collectives as "Angel Groups." Angel Groups may be in a position to write larger checks from pooled funds than individual Angels would be willing to commit. 
 
 Angel Group check sizes range from individual Angel checks at low five figures 
@@ -415,7 +406,6 @@ Some important questions to ask:
 - Can Angels choose to invest individually, independent of the decisions of the group?
 
 #### Syndicates
-
 A Syndicate is a venture capital fund often composed of a group of Angels led by a single dealmaker designed to make a single investment. The model is predicated on the idea that the dealmaker is a trustworthy source of deals and that is a good judge of opportunity. 
 
 Members of the Syndicate agree to invest capital when the dealmaker invests capital. 
@@ -423,29 +413,24 @@ Members of the Syndicate agree to invest capital when the dealmaker invests capi
 Why is this even a thing? Well, it has two benefits. One, like Angel Groups, it simplifies fundraising from the startup perspective. They can focus on pitching Syndicate leads with the hopes of gaining the investment of the entire Syndicate. For the Syndicate lead, helping source deals provides them with a the benefit of participating in the carry, like a traditional fund, which provides an additional upside should the deal prove lucrative. 
 
 #### Accelerator Investment
-
-- While it is not a requirement, many accelerators chose to invest capital in the startups participating in their programs. Some of these investments are structured as traditional equity purchases while, these days, more accelerators seem to offer convertible notes as the structure for investment. Y Combinator uses a vehicle called [SAFE (Standard Agreement for Future Equity)](https://www.ycombinator.com/documents/). 
+While it is not a requirement, many accelerators chose to invest capital in the startups participating in their programs. Some of these investments are structured as traditional equity purchases while, these days, more accelerators seem to offer convertible notes as the structure for investment. Y Combinator uses a vehicle called [SAFE (Standard Agreement for Future Equity)](https://www.ycombinator.com/documents/). 
 
 Some programs choose to provide all of the capital at once. Some programs provide a small amount of capital at the outset of the program, followed by a more significant investment once the company completes the program.
 
 #### Micro Venture Capital
-
 Micro Venture Capital tends to be funds of under $100 million that invest in early stage companies often before typical institutional investors would participate in a deal. Check sizes vary for these types of organizations. It is important to note that these funds often reserve follow-on capital to protect their positions.
 
 #### Traditional/Institutional Venture Capital
-
 Most accelerators will only work with traditional venture capital in the role of mentors for their programs, given that large funds do not generally invest in early stage companies. That said, having later stage investors involved in the program can be extremely beneficial as a means of preventing problems before they start or helping guide startups on conversations that will occur in the future. 
 
 What's more, it's always best to start these conversations sooner rather than later. And it's always nice to have conversations about money and expectations when neither party is currently in a position to engage with one another — rather than at the awkward point where the startup is in dire need of capital.
 
 #### Corporate Venture aka Strategics
-
 Corporations with venture arms most often choose to make strategic investments in companies at later rounds as a means of strengthening partnerships or market position. You often hear these investments referred to as "strategic investments." As such, Corporate Venture groups are sometimes referred to as "strategics."
 
 Most accelerators will only work with corporate venture folks in the role of  mentors for Accelerator programs, given that corporate funds do not generally invest in early stage companies. Like traditional VC, it's better to establish these relationships before a capital need arises for the startup. 
 
 #### Private Equity
-
 Private Equity firms provide a means of creating a liquidity event without an initial public offering or acquisition by another company. 
 
 Most accelerators will only work with private equity folks in the role of mentors for their programs, given that private equity does not tend to invest in early stage companies. Again, it's always best to start these conversations sooner rather than later. 
@@ -453,19 +438,16 @@ Most accelerators will only work with private equity folks in the role of mentor
 > **tl;dr Traditional VC, Corporate Venture, and Private Equity can be good sources of Mentors for Accelerators because there is likely no immediate transactional opportunity for the participating startups.**
 - - - 
 ### Investment rounds
-
 While it's a bit of a shifting target, it is important to distinguish each type of investment round and the stages at which companies should be pursuing these kinds of investments. The following are a broad definitions using the common lexicon of the stages of rounds of equity investment. 
 
 > NOTE: We are providing the definitions PIE used. Your results may vary. 
 
 #### Friends and Family aka FFF (Friends, Family, and Fools)
-
 The "Friends and Family" round is generally the first round of funding many startups pursue. Whether it be a nest egg that the founders have tucked away, small checks from family members, capital from a friend who has a little cash to spare, or someone simply intrigued with the idea who is willing to take a flyer, this is the capital that allows founders and potentially team members to leave their day jobs and focus on their startup full time. With Friends and Family, the primary objective is providing working capital that facilitates the effort of developing a prototype.
 
 This is often short-term capital that lasts months, not years.
 
 #### Pre-Seed
-
 Pre-Seed is often the first "official" round of funding. In our lexicon, this is the round where Accelerator funding — the equity purchase you are likely to be making, should you choose to do so — falls. It's the capital that provides the founders with runway to take a prototype and find product-market fit. Or to refine the prototype until that fit can be found. 
 
 Other investors who may participate in these rounds are individual Angels and very early stage Micro VCs. Friends and Family investors may continue to participate in this round, especially if they have received pro rata rights.
@@ -473,7 +455,6 @@ Other investors who may participate in these rounds are individual Angels and ve
 Again, this is often short term capital that lasts months, not years. More "keep the company alive" capital than "grow the company" capital.
 
 #### Seed
-
 Seed is often the first significant infusion of capital into the company. Currently, this infusion comes when the founders can demonstrate that their concept or prototype has potential in a specific market. This capital provides the runway to take the product to that market and establish traction and, hopefully, revenue. 
 
 Seed funding often comes post-Accelerator. Investors in Seed rounds include Angels, Angel Groups, Syndicates, and Micro VCs. Traditional VCs may also choose to participate in these rounds. Again, previous investors with pro rata rights — like an Accelerator — may also "re-up" in this round.
@@ -481,16 +462,13 @@ Seed funding often comes post-Accelerator. Investors in Seed rounds include Ange
 This is longer term capital designed to fuel company growth, rather than just keeping the company alive. 
 
 #### Lettered
-
 Lettered rounds (A, B, C, etc.) are what most folks think of when they talk about "venture capital." These rounds are the money that keeps the company growing, supports the company as they struggle to grow, helps them address new markets or market changes, allows them to acquire complimentary or competing companies, and address any number of other "costs of doing business" which may not be covered by the revenue the company generates. 
 
 As the rounds progress, there are more and more investors involved, either early stage investors providing "follow-on capital" to retain their positions or new investors seeking an equity stake in promising startups. 
 
 As an Accelerator taking equity, Lettered rounds are where you will experience the most dilution of your ownership position, unless you have significant follow-on capital at your disposal for defending your position in the company.
-
  
 ### Resident
-
 At PIE, we introduced the concept of a Resident, that was different from the Startups participating in the program. A Resident could take any of the following forms in our environment:
 
 1. **Mentor in Residence**: This designation was reserved for Startups who had participated in an Accelerator class and then remained in our coworking space. In exchange for a rent-free existence, Mentors in Residence were obligated to work with Startups in the active Accelerator class, providing them with guidance and insights that would make the program more effective, e.g., "Make sure and meet with this mentor," or "Don't pay attention when Rick throws that tantrum," or "I remember when were struggling at this stage."
@@ -498,15 +476,14 @@ At PIE, we introduced the concept of a Resident, that was different from the Sta
 3. **Investor in Residence**: Some of the residents of the space weren't even startups. They were investors who spent time with our startups, providing connections, criticism, and feedback to our startups. And the value of that different perspective provided a unique vantage for our companies and helped them better understand the investor perspective. If you have the opportunity to engage with investors and have them share your space — even if it's only a limited exposure — it's still incredibly valuable. 
 
 ### Patron
-
 With PIE, we were very careful with the language we used to describe our primary underwriter, Wieden+Kennedy. Because they, as an organization, were consistently more concerned with soft returns on their investment — education, on the job training, and serendipitous connections. It wasn't a financial, hard return for W+K. And so the language we chose was designed to reflect that. 
 
 We always referred to W+K as a "patron" rather than a "sponsor." Our reasoning? We meant it as a compliment, in the same vein as those benefactors who saw the value of providing financial support for artists to pursue their work — without any guarantee that that expenditure would result in anything more than creative exploration.
 - - - 
 > **tl;dr W+K is the founding Patron for PIE. And anything we've accomplished is only due to that generosity.**
 - - - 
-### Sponsor
 
+### Sponsor
 At PIE, we saw Sponsors as benefactors who provided capital for the operating costs of an Accelerator with the expectation of a measurable return for that capital. The money from Sponsors was not put to work by  making equity investments. Rather, it was used to pay for space, staff, services, and other costs associated with the day-to-day operations of the Accelerator. This helped Corporations participate in the Accelerator without the complexity of engaging as Investors.
 
 In return, these Sponsors expected something. This is what makes them different from Patrons. Patrons assume that something will come of the investment eventually. Sponsors expect that something demonstrable will come of the investment at the outset.
@@ -514,7 +491,6 @@ In return, these Sponsors expected something. This is what makes them different 
 Sponsors worked with PIE to cohost events, embed staff as mentors, receive consulting from PIE staff and startups, and the like.
 
 ### Partner
-
 We define Partners as an entity that provides a product or service to the organization in an effort to promote that product or service. For Accelerators, these Partners tend to be the folks who provide the "added services" that create additional value for your Accelerator. 
 
 Partner agreements are neither equity nor capital based. Instead, they are often based on "in kind" contributions to the Accelerator or its Startups.
@@ -528,13 +504,11 @@ Check out the [Startup Fundraising Dictionary](https://medium.com/startup-grind/
 - - - 
 
 ## So why did we force you to work through all of that?
-
 Why all of the definition setting at the outset? Because the more context you have going into the situation — the more clarity and the more consensus — the better you'll communicate. And the fewer misunderstandings you'll have. And the more likelihood you'll have of success.
 
 Now that we've defined the terms of the types of players in the ecosystem — or those completely absent from the ecosystem — it's important to describe and define the environment in which your accelerator will exist. Otherwise, how will you know what you've got at your disposal? Or what's missing?
 
 ## Environmental scan
-
 You may anecdotally understand the community in which you exist, but it's always  good to survey a number of participants to determine the true composition of your community. 
 
 We recommend an environmental scan. It doesn't have to be exhaustive but it does have to accurately reflect reality. This isn't an optimistic look at your community. It's the truth. 
@@ -557,370 +531,6 @@ It doesn't do you any good to try to build an accelerator full of consumer facin
 
 First, play to your strengths. Once you have momentum, then you can get visionary.
 
-
-# Staring an accelerator
-
-Let's start with this. First and foremost, the primary objective of any Accelerator should be to **create an environment of trust that accelerates creative output**. That is the most basic way to describe it.
-
-Founders trust you to help them make sense of this whole startup thing. To be honest with them. To say the hard things that need to be said. To connect them with the expertise that helps them continue. Or the insight that helps them to quit. 
-
-But it's not just startups. Mentors trust you to engage them, if and only if, it will be worth their time. Investors trust you as a filter to help them mitigate their risk. Media trusts you as a means of identifying interesting companies and trends. People who dream of starting a company one day trust you as a resource to support them. 
-
-It's a whole bunch of people looking for something in which to trust. And that trust is hard earned. And easily lost. But that is your role. To be the trusted — and fairly objective — third party. To be the trusted advisor. To everyone.
- 
-A close second to an Accelerator's role of establishing trust? Reality. 
-
-As we've highlighted in the definitions, an Accelerator is not designed to be a protective environment. It is not a fantasy world. That's what Incubators are for.  
-
-Accelerators are about reality. 
-
-Therefore, the environment you build should be a representation of the outside world, not a utopian existence. Why? Because your objective is helping founders understand how to survive and prosper in the real world. Or, tangentially, to understand the harsh environment of reality is not the right environment for them to be pursuing their company.
-
-## Your mission
-
-Your mission as an accelerator is create a safe but stressful environment where cofounders can experience — and more effectively resolve — the [conflicts they'll experience in the real world](https://techcrunch.com/2017/02/18/co-founder-conflict/). Your job is to harden successful teams for the rigors of the real world and to expose the fissures that will rip failing teams apart. And this has to be done quickly, because if it isn't, you risk long term — potentially irreparable — emotional pain for your founders, wasting capital from your investors, and wasted time for everyone. A company that doesn't have a realistic chance of surviving in the real world should not survive your accelerator. If it does, you're doing something wrong.
-
-- - -
-### Mistakes were made
-
-Dodging conflict is the primary mistake we made with the first class of PIE. We didn't attempt to raise issues. We attempted to mitigate them. We didn't push the founders to expose the flaws in their businesses. We sought to highlight only the positive aspects of their pursuits. As such, we did our founders, our mentors, and our community a disservice. 
-- - - 
-
-## Order of progression
-
-When you're first starting, the progression should look something like this: 
-
-1. **Accelerator Founders** — or cofounders — which leads to securing
-2. **Funding**, which enables you to afford
-3. **Space** and 
-4. **Staff**, which allows you to recruit 
-5. **Mentors**, which become the primary means of attracting 
-6. **Startups**
-7. Which allows you to do this whole **Accelerator** thing 
-
-In terms of the amount of time you'll spend on each of these phases, the rank order looks more like this:
-
-1. Mentors
-2. Startups
-3. Funding
-4. Staff
-5. Space
-6. Founders 
-
-# Three critical components for any accelerator 
-
-In our experience, there are three critical components to supporting and maintaining a sustainable Accelerator: community, funding, and promotion. 
-
-Without **Community**, there will be no resources upon which to draw. You don't use an Accelerator to create a Community. You use a Community to create an Accelerator.
-
-Without **Funding**, there will be no operating capital for the Accelerator, whether that Accelerator chooses to invest in its startups or not. There needs to be capital for the space, the staff, and the infrastructure to support the Accelerator. 
-
-Finally, and often most overlooked, is **Promotion**. Without promotional efforts, the applicant pool will suffer, the caliber of mentoring resources may be impacted, the interest from Venture Capital may be lackluster, and the potential for startup success may be diminished. 
-
-So let's take a look at each of these critical elements in more detail. 
-
-## Community
-
-While we've defined a generic form of Community, each particular Community is different. Some are collaborative. Some are competitive. Some have an embarrassment of riches. Some struggle to make ends meet. Some have a wealth of knowledge. Some lack the expertise they need.
-
-None of these aspects of the Community ensures your success nor dooms you to failure. They're just aspects of your Community. That said, you need to know those facets of your Community so that you can leverage the resources you have and accommodate for the strengths you lack.
-
-A lot of these details will be anecdotal. As a participant in the Community, you'll have a good feel for the composition of the Community. But again, an Environmental Scan will help you better understand the opportunities and challenges within your Community. 
-
-Some questions to ask about your Community:
-
-- How do you define your community? 
-- What are the objectives?
-	- Shared
-	- Conflicting
-- What is the expertise (if any)?
-- What are the weaknesses?
-- What are the silos?
-- What are the issues?
-- What are the gaps?
-- How can they help (if at all)?
-
-## Funding
-
-At PIE, we get a lot of questions about how to fund accelerator operations and investments. It makes sense. Finding the money that matches up with the opportunity is a challenge. It’s never easy. No matter how compelling the pitch. 
-
-Like a Community, these benefactors will have certain goals that motivate them to engage with your Community. Some of these may be in line with the Community objectives. Some of them may not be in line. You may find some benefactors who have capital to contribute but are at odds with the Community. And you may find potential benefactors who don't even realize the opportunity availed by supporting an Accelerator.
-
-Whatever the case, your job is to find the value equation that provides value for your Community and the benefactor(s) while providing the financial wherewithal for supporting your Accelerator activities.
-
-Again, some questions to ask: 
-
-- What are the objectives of the potential benefactors?
-- What is their expertise?
-- How can they help? Is it only financial or are there other opportunities for collaboration?
-
-A benefactor can take any number of flavors — or potentially several flavors. (Note: This isn’t an exhaustive list. But it gives you a pretty good idea of where to look.)
-
-In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall: Patron, Sponsor, Partner, Investor.
-
-### Patron
-
-As defined above, a Patron is a benefactor who engages with an Accelerator without a specific outcome in mind or in an effort to better understand the Accelerator's given community.
-
-In PIE's case, our primary Patron was Wieden+Kennedy, a global creative firm. The motivation for W+K to provide operating capital and in-kind resources for the Accelerator was motivated by a desire to gain a deeper understanding of the startup community and the creative process of early stage founders.
-
-Later in the project, we discovered other ways to engage with W+K. Some of these went beyond patronage, like when they became early stage investors in our accelerator companies. Some of them were an extension of patronage, like when we engaged with members of the creative  team to provide services for our startups. 
-
-However, throughout the course of the project, the main motivation remained one of patronage, a desire to engage and learn from early stage tech startups.
-
-To the Accelerator, a relationship with a Patron provides much needed operating capital, another party who is interested in the success of the Accelerator and its residents, and a sounding board for the management of the Accelerator. It is important to note, however, that defining a Patron's goals and metrics for success require assistance from the Accelerator, as well.  
-
-The most important consideration with a Patron is not mistaking another type of benefactor as a Patron. It's critical that you have a clear understanding of the expectations of any benefactor with whom you engage.
-
-### Sponsor
-
-A Sponsor provides financial resources for the Accelerator in exchange for specific outcomes. These outcomes are usually defined as objectives prior to the sponsorship occurring. 
-
-Sponsor dollars are used to support operating costs of the Accelerator. They are not generally used to make equity investments in Startups.
-
-In PIE's case, we generally worked with corporate Sponsors to help underwrite the costs of PIE. Some of these Sponsors collaborated with PIE to manage events that facilitated collaboration between the Sponsor and the startup  community. Other sponsors took an active role in the Accelerator as Mentors. 
-
-Choosing the right Sponsors can be a challenge for Accelerators. Like any investor, it is important that a Sponsor's desired outcomes are in line with the objectives of the accelerator and that achieving those outcomes has a high likelihood of success during the normal operations of the accelerator.
-
-A great example of an effective sponsor relationship is the "Powered by Techstars" model that Techstars employee with corporate sponsors. With this sponsorship arrangement, Techstars and the corporation collaborate to ensure that the Accelerator program is meeting the needs of the corporate sponsor. In addition to capital, the corporate sponsor provides validation and market expertise for the Techstars program. 
-
-### Partner
-
-Partners are organizations that support the Accelerator program with resources rather than direct capital. This is a mutually beneficial arrangement that is generally used as a loss-leader for Partners.
-
-It is important that Accelerators are careful with partnerships, because poorly constructed partnerships could be detrimental to startups going through the accelerator program. 
-
-Even in situations where the Partner is tightly integrated into the Accelerator, it is important that there are other entities to balance the influence of the Partner. An example of this is the Techstars "Powered by" programs, where the Partner and the Sponsor are often one and the same. In this situation, Techstars provides the balance that balances the Accelerator. 
-
-One of the most prevalent examples of an Accelerator partnership is the [Amazon Web Services Activate program](https://aws.amazon.com/activate/). With this partnership, AWS provides an allotment of free credits to each company in the Accelerator. This allows startups to build on Amazon infrastructure without any out-of-pocket costs. In return, AWS has a higher likelihood of converting those startups into paying customers once the credits are exhausted. 
-
-### Investor 
-
-Investors collaborate and fund Accelerator activity in an effort to improve deal flow, identify companies that have a better chance of succeeding, and gain additional validation of product market fit. The filtering that Accelerators provide, therefore, can result in a very symbiotic relationship for both parties. 
-
-Given the similarities of VC behavior and Accelerator behavior, however, it is critical that these arrangements only occur between parties whose goals are completely aligned. It does an Accelerator absolutely no good to accept funding from a VC whose investment thesis does not match the Accelerator's. And it does a VC no good to invest in an Accelerator that does not provide beneficial deal flow or services.  
-
-On the upside, venture capital can be a very effective means of funding Accelerator activity, because they are used to playing in the space of startups.
-
-- Used to spending money on risky efforts
-- Have a time horizon that is in line with company maturation
-- Have the potential to provide follow on investment.
-- Ongoing portfolio management can be super valuable for the continued success of your companies.
-
-On the downside, this funding mechanism can curtail the experimental nature of an accelerator if VC is the only backing. 
-
-- VCs are in the business of making money. 
-- The relationship will be driven by financial motivations. Will likely be only interested in investing in. Companies that have the highest likelihood of returning capital to the fund. Companies that best match their investment thesis.
-
-This sort of focus can hamstring accelerators and incubators who may see promise or opportunity in verticals or companies that are outside of the fund’s purview. 
-
-Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
-
-- - -
-
-**500 Startups hybrid model**
-
-While we don't advocate for making Founders pay to participate in an Accelerator program, we are fans of the creative collaboration between Investors and Program that the [500](http://500.co) Program ([Don't call 500 an Accelerator](http://500.co/the-artist-formerly-known-as-accelerator/)!) has put together. 
-
-In the 500 model, the fund invests in the company. Then the Seed Program charges for participation in their Program. This ensures that the Startup has working capital and a cleaner cap table, the fund has an equity investment, and the program has operating capital. 
-
-> We invest $150k in exchange for 6%. We charge a $37.5k fee for participation in the 500 Seed Program.
-
-- - -
-
-
-## Promotion 
-
-aka Soapbox(es) or bullhorn(s) or campfire(s) or promotional platforms or whatever you want to call them
-
-One of the things that dawned on us in hindsight was the value of having  platforms for sharing opinions, promoting our efforts, and conversing with our community. 
-
-It seems straightforward and obvious, but it's often overlooked. 
-
-You need a soapbox. Or a bully pulpit. Or a bullhorn. 
-
-You need some way of amplifying your signal. And some way of communicating effectively with the community you're engaging. 
-
-There are any number of examples of these kinds of platforms. It could be an email list or a blog. It could be a series of events. It doesn't even necessarily need to be something you "own." It can be a social network presence. It could be a local publication that assists with your communications. It could be a blog run by someone else who wants to cover your community. 
-
-But whatever the case, you need that promotional and conversational outlet. To engage.
-
-At PIE, we used [Silicon Florist](http://siliconflorist.com/) as our initial platform, because it already had a following in the community with whom we were interested in engaging. Twitter, which had an early following in Portland, was also an extremely beneficial platform in this regard. First with personal accounts, then with a PIE account. Eventually, we adopted email, a PIE blog, Facebook, Instagram, and Medium, as well. We also used the space, itself, as a promotional platform by creating our own events and hosting others. Now, Github has become a critical component of our platform, thanks to the PIE Cookbook. And we've added Slack to the mix, as well.
-
-Admittedly, things were much more simple we started. We didn't have a great deal from which to choose. There were blogs and Twitter. And had the opportunity to watch new platforms come online, assess how they were being used, and then choose to adopt those platforms if and only if they showed promise in our community. 
-
-You, my friend, have got a much wider and frenetic breadth of options from which to choose, these days. And they all have their idiosyncrasies and communities. 
-
-So we encourage you to approach your platform choices with these questions:
-
-- Where does your community go for information and conversation, today?
-- What publications or organizations talk to the same communities you do?
-- Are there certain platforms that your team simply enjoys using more than others? (If you don't like writing, starting a blog is the wrong idea. But maybe a podcast or a YouTube channel would be appropriate?)
-- What are the one or two platforms which would be most successful with the least amount of effort? Just because all of the platforms are there doesn't mean you need to be on all of them. Look for efficiencies.
-
-## Other critical components
-
-There are a number of other critical components — often subcomponents of the ones mentioned above — that will play an important role in helping to ensure the success of the accelerator program.
-
-### Mentors
-
-The most critical of these critical components will be your mentors. These are the assets that will actually make your Accelerator work — or fail. So we'll spend a great deal of time on this topic. 
-
-It is important to understand that there are different types of mentors, different ways to apply each mentor, and different motivations for the mentors to participate in the program. It's also important that you understand the best ways to recruit, manage, and reward your mentors for their participation in your program.
-
-Let's start by outlining the general categories of Mentors, bearing in mind that Mentors can often fall into multiple categories. We'll get into recruiting mentors later in the Cookbook.
- 
-#### Non-resident Mentors
-
-Non-resident mentors are the most common mentors for an Accelerator. They engage with the Accelerator on an as-needed basis. They do not reside in the Accelerator space. Rather, they are invited by staff to present or meet with Founders. 
-
-Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, PIE holds the firm belief that anyone can be an effective mentor. So we will continue to emphasize that it is **experience**, not **expertise** that helps qualify a Mentor. Anyone has the potential to be a Mentor if applied properly.
-
-**Role and expectations**
-
-Non-resident mentors will do the bulk of the mentoring within your Accelerator. After all, they comprise the bulk of the "network" to which your startups are seeking access. And they are the asset your organization will put to work, most often. 
-
-That said, your Accelerator should have very low expectations for the amount of time that these mentors will be able to contribute to the organization. They should be used for efforts that can be completed in under an hour. And those efforts should be fairly remedial from the mentor's perspective. 
-
-You should expect that these mentors can answer questions off the cuff from the startups. They should not be engaged on issues which may take additional effort or meetings with this type of mentor. 
- 
-**Value to the accelerator**
-
-These mentors provide any number of benefits to the Accelerator, but among the most prominent are:
-
-- Providing guidance and feedback to the Startups within the Accelerator
-- Helping to promote the Accelerator and its offerings
-- Helping to recruit Startups for each program
-- Helping to recruit additional Mentors for the Accelerator
-- Assisting in the selection process
-- Bringing an outside perspective to the Founders
-- Providing objective feedback to the Accelerator about both the startups and the Accelerator, itself
-
-**Value to the mentor**
-
-While the accelerator and startups are gaining value from the mentor, it is equally important that you understand the value the mentor derives from participating. 
-
-- Strong connection to startup community
-- A feeling of giving back to the community
-- Recognition as an important asset to the community
-- Reaffirms experience and expertise
-- Connections with other mentors
-- Dealflow and due diligence for potential Angel investments
-
-**Value to the startups**
-
-These mentors, by and large, are the reason that the startups joined your accelerator, whether they know it or not. It is the advice, criticism, and connections that these individuals provide which will enable these companies to succeed — or help the startups determine that there is no chance of succeeding.
-
-**Typical percentage of the mentor pool**
-
-Non-resident mentors should comprise the vast majority of your Mentor pool. Likewise, this category of mentor should serve as the initial means of "test driving" mentors for other types of mentor roles.
-
-#### Lead mentors
-
-Lead mentors are individuals who take a particular interest in one of the companies in the cohort. That level of interest motivates the mentor to meet with companies on a regular basis and suggest other mentors who could provide valuable feedback to the startups.
-
-We have found that it is difficult to pick or establish lead mentors at the outset of the program. Rather, Accelerators have to monitor the potential for lead mentors and when appropriate, suggest to both the startup and the mentor that both would benefit from more regular meetings.
-
-**Role and expectations**
-
-These mentors will make up a small subsegment of your mentor pool. And they're very hard to assign. It's almost a "catch as catch can" arrangement. 
-
-You engage mentors with startups and founders. You observe their behavior and camaraderie. And if the timing and relationship seem right, you pull the mentor aside and talk about taking a larger role in a single startup's growth and direction. Should the mentor agree, you then talk to the startup about the potential of having a lead mentor.
-
-This relationship is somewhere between mentor and advisor. The lead mentor is still playing a role of imparting advice. But it is on a more regular and consistent basis than other mentors. 
-
-It should be noted that this becomes a much more significant time commitment for both mentor and founder. The lead mentor should be meeting with the startup on a weekly basis for the remainder of the accelerator class. 
-
-**Value to the accelerator**
-
-Lead mentors provide a great deal of value to the accelerator by:
-
-- Augmenting the accelerator staff in the management of the startups
-- Providing another vantage point for assessing the startups and their progress
-- Serving as an example to other mentors in a "lead by example" way
-- Establishing a stronger connection to the accelerator
-- Establishing a stronger connection to the startups
-- Enhancing the accelerator's ability to foster community connections
-
-**Value to the mentor**
-
-Serving as lead mentors can be a more rewarding experience for mentors if they have the time to commit to the arrangement. Many lead mentors gain the benefit of:
-
-- Having a measurable and demonstrable impact on a company's progression during the accelerator
-- Determining the potential for ongoing mentorship or advisorship following the accelerator
-- Gaining valuable insights on early stage business issues that can highlight and inform how the mentor deals with their own business pursuits
-- Establishing a tighter bond in the startup community
-- Raising the visibility of their contribution to the community
-
-**Value to the startups**
-
-Startups can always use more people in their respective corners. A lead mentor can be a valuable by:
-
-- Ensuring the founders have a confidante beyond the accelerator staff
-- Providing additional mentor resources that may not be obvious/accessible to the accelerator staff
-- Making introductions to investors
-- Helping with hiring
-- Providing candid feedback in a private setting
-- Working with each founder over an extended period of timing
-
-**Typical percentage of the mentor pool**
-
-Lead mentors generally make up a very small percentage of the mentor pool. At the very best, there will be one lead mentor per startup in each cohort. 
-
-#### Mentors in residence
-
-We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, as an accelerator, has been the concept of free desks for “mentors in residence.” 
-
-This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
-
-These companies were familiar with the PIE process, having observed any number of classes. But we also invited PIE alums to remain in the space — or come back — so that they could assist as hands on mentors, as well.
-
-Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
-
-**Role and expectations**
-
-First and foremost, mentors in residence are expected to work on their respective businesses. Mentoring is secondary to that. That said, we do expect them to spend some time mentoring. 
-
-Most mentoring by mentors in residences is ad hoc. The mentors will observe something or hear something that motivates them to take a startup aside and provide feedback. Other times, staff will direct a mentor in residence to work with a startup, especially if it is a problem with which the mentor is familiar. 
-
-Other times, mentors in residence may help with making connections or judgment calls for startups going through the program.
-
-**Value to the accelerator**
-
-Mentors in residence serve as adjunct staff, enabling the organization to scale more effectively by:
-
-- Serving as eyes and ears with a different vantage point than the staff
-- Serving as confidantes when staff is absent or unavailable
-- Keeping the staff "honest" by highlighting mentors or programmatic elements that were helpful to their startups
-- Providing peer feedback and review from someone who has "been there and done that"
-- Highlighting which mentors are critical and how to best engage them
-
-**Value to the mentor**
-
-There are any numbers of benefits to the mentor in residence. They include:
-
-- Receiving free office space and perks for providing mentorship
-- Enabling the mentors to keep tabs on the latest trends in the startup community
-- Providing reciprocal peer mentoring
-- Gaining insights to different mentors and investors
-
-**Value to the startups**
-
-For the startups, the benefits of having a seasoned resource at their disposal are innumerable, but notable benefits include:
-
-- Being able to get objective feedback from a peer
-- Ensuring they gain a clear understanding of the challenges facing companies, post accelerator
-- Providing valuable insights into working with PIE and mentors
-- Providing tips and tricks for getting the most out of the progra
-- Helping startups "work the system"
-
-
-Partners
-			52. Objectives
-			53. Outcomes
-		54. Media
-
-# Culture
 ## Establish a thesis
 
 Even if you're not planning to invest capital in your Startups, you should still do one thing like an investor: have a thesis. 
@@ -966,12 +576,341 @@ PIE mentor and Techstars Seattle Managing Director, Chris DeVore, provides a [co
 While your list might not be as long as Chris' — Seattle has been at this for a while — it's important that you take the time to assess what strengths your staff, mentors, startups, and regional expertise bring to the mix. 
 
 If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
+
+# Establishing the framework for the accelerator
+Let's start with this. First and foremost, the primary objective of any Accelerator should be to **create an environment of trust that accelerates creative output**. That is the most basic way to describe it.
+
+Founders trust you to help them make sense of this whole startup thing. To be honest with them. To say the hard things that need to be said. To connect them with the expertise that helps them continue. Or the insight that helps them to quit. 
+
+But it's not just startups. Mentors trust you to engage them, if and only if, it will be worth their time. Investors trust you as a filter to help them mitigate their risk. Media trusts you as a means of identifying interesting companies and trends. People who dream of starting a company one day trust you as a resource to support them. 
+
+It's a whole bunch of people looking for something in which to trust. And that trust is hard earned. And easily lost. But that is your role. To be the trusted — and fairly objective — third party. To be the trusted advisor. To everyone.
+ 
+A close second to an Accelerator's role of establishing trust? Reality. 
+
+As we've highlighted in the definitions, an Accelerator is not designed to be a protective environment. It is not a fantasy world. That's what Incubators are for.  
+
+Accelerators are about reality. 
+
+Therefore, the environment you build should be a representation of the outside world, not a utopian existence. Why? Because your objective is helping founders understand how to survive and prosper in the real world. Or, tangentially, to understand the harsh environment of reality is not the right environment for them to be pursuing their company.
+
+## Your mission
+Your mission as an accelerator is create a safe but stressful environment where cofounders can experience — and more effectively resolve — the [conflicts they'll experience in the real world](https://techcrunch.com/2017/02/18/co-founder-conflict/). Your job is to harden successful teams for the rigors of the real world and to expose the fissures that will rip failing teams apart. And this has to be done quickly, because if it isn't, you risk long term — potentially irreparable — emotional pain for your founders, wasting capital from your investors, and wasted time for everyone. A company that doesn't have a realistic chance of surviving in the real world should not survive your accelerator. If it does, you're doing something wrong.
+
+- - -
+### Mistakes were made
+Dodging conflict is the primary mistake we made with the first class of PIE. We didn't attempt to raise issues. We attempted to mitigate them. We didn't push the founders to expose the flaws in their businesses. We sought to highlight only the positive aspects of their pursuits. As such, we did our founders, our mentors, and our community a disservice. 
+- - - 
+
+## Order of progression
+When you're first starting, the progression should look something like this: 
+
+1. **Accelerator Founders** — or cofounders — which leads to securing
+2. **Funding**, which enables you to afford
+3. **Space** and 
+4. **Staff**, which allows you to recruit 
+5. **Mentors**, which become the primary means of attracting 
+6. **Startups**
+7. Which allows you to do this whole **Accelerator** thing 
+
+In terms of the amount of time you'll spend on each of these phases, the rank order looks more like this:
+
+1. Mentors
+2. Startups
+3. Funding
+4. Staff
+5. Space
+6. Founders 
+
+## Three critical components for any accelerator 
+In our experience, there are three critical components to supporting and maintaining a sustainable Accelerator: community, funding, and promotion. 
+
+Without **Community**, there will be no resources upon which to draw. You don't use an Accelerator to create a Community. You use a Community to create an Accelerator.
+
+Without **Funding**, there will be no operating capital for the Accelerator, whether that Accelerator chooses to invest in its startups or not. There needs to be capital for the space, the staff, and the infrastructure to support the Accelerator. 
+
+Finally, and often most overlooked, is **Promotion**. Without promotional efforts, the applicant pool will suffer, the caliber of mentoring resources may be impacted, the interest from Venture Capital may be lackluster, and the potential for startup success may be diminished. 
+
+So let's take a look at each of these critical elements in more detail. 
+
+### Community
+While we've defined a generic form of Community, each particular Community is different. Some are collaborative. Some are competitive. Some have an embarrassment of riches. Some struggle to make ends meet. Some have a wealth of knowledge. Some lack the expertise they need.
+
+None of these aspects of the Community ensures your success nor dooms you to failure. They're just aspects of your Community. That said, you need to know those facets of your Community so that you can leverage the resources you have and accommodate for the strengths you lack.
+
+A lot of these details will be anecdotal. As a participant in the Community, you'll have a good feel for the composition of the Community. But again, an Environmental Scan will help you better understand the opportunities and challenges within your Community. 
+
+Some questions to ask about your Community:
+
+- How do you define your community? 
+- What are the objectives?
+	- Shared
+	- Conflicting
+- What is the expertise (if any)?
+- What are the weaknesses?
+- What are the silos?
+- What are the issues?
+- What are the gaps?
+- How can they help (if at all)?
+
+### Funding
+At PIE, we get a lot of questions about how to fund accelerator operations and investments. It makes sense. Finding the money that matches up with the opportunity is a challenge. It’s never easy. No matter how compelling the pitch. 
+
+Like a Community, these benefactors will have certain goals that motivate them to engage with your Community. Some of these may be in line with the Community objectives. Some of them may not be in line. You may find some benefactors who have capital to contribute but are at odds with the Community. And you may find potential benefactors who don't even realize the opportunity availed by supporting an Accelerator.
+
+Whatever the case, your job is to find the value equation that provides value for your Community and the benefactor(s) while providing the financial wherewithal for supporting your Accelerator activities.
+
+Again, some questions to ask: 
+
+- What are the objectives of the potential benefactors?
+- What is their expertise?
+- How can they help? Is it only financial or are there other opportunities for collaboration?
+
+A benefactor can take any number of flavors — or potentially several flavors. (Note: This isn’t an exhaustive list. But it gives you a pretty good idea of where to look.)
+
+In our observations, there are four types of folks who fund accelerators. Sometimes they’re actual, well, folks. Sometimes they’re companies. Sometimes they’re angels or venture capitalists. But here are the buckets into which they seem to fall: Patron, Sponsor, Partner, Investor.
+
+#### Patron
+As defined above, a Patron is a benefactor who engages with an Accelerator without a specific outcome in mind or in an effort to better understand the Accelerator's given community.
+
+In PIE's case, our primary Patron was Wieden+Kennedy, a global creative firm. The motivation for W+K to provide operating capital and in-kind resources for the Accelerator was motivated by a desire to gain a deeper understanding of the startup community and the creative process of early stage founders.
+
+Later in the project, we discovered other ways to engage with W+K. Some of these went beyond patronage, like when they became early stage investors in our accelerator companies. Some of them were an extension of patronage, like when we engaged with members of the creative  team to provide services for our startups. 
+
+However, throughout the course of the project, the main motivation remained one of patronage, a desire to engage and learn from early stage tech startups.
+
+To the Accelerator, a relationship with a Patron provides much needed operating capital, another party who is interested in the success of the Accelerator and its residents, and a sounding board for the management of the Accelerator. It is important to note, however, that defining a Patron's goals and metrics for success require assistance from the Accelerator, as well.  
+
+The most important consideration with a Patron is not mistaking another type of benefactor as a Patron. It's critical that you have a clear understanding of the expectations of any benefactor with whom you engage.
+
+#### Sponsor
+A Sponsor provides financial resources for the Accelerator in exchange for specific outcomes. These outcomes are usually defined as objectives prior to the sponsorship occurring. 
+
+Sponsor dollars are used to support operating costs of the Accelerator. They are not generally used to make equity investments in Startups.
+
+In PIE's case, we generally worked with corporate Sponsors to help underwrite the costs of PIE. Some of these Sponsors collaborated with PIE to manage events that facilitated collaboration between the Sponsor and the startup  community. Other sponsors took an active role in the Accelerator as Mentors. 
+
+Choosing the right Sponsors can be a challenge for Accelerators. Like any investor, it is important that a Sponsor's desired outcomes are in line with the objectives of the accelerator and that achieving those outcomes has a high likelihood of success during the normal operations of the accelerator.
+
+A great example of an effective sponsor relationship is the "Powered by Techstars" model that Techstars employee with corporate sponsors. With this sponsorship arrangement, Techstars and the corporation collaborate to ensure that the Accelerator program is meeting the needs of the corporate sponsor. In addition to capital, the corporate sponsor provides validation and market expertise for the Techstars program. 
+
+#### Partner
+Partners are organizations that support the Accelerator program with resources rather than direct capital. This is a mutually beneficial arrangement that is generally used as a loss-leader for Partners.
+
+It is important that Accelerators are careful with partnerships, because poorly constructed partnerships could be detrimental to startups going through the accelerator program. 
+
+Even in situations where the Partner is tightly integrated into the Accelerator, it is important that there are other entities to balance the influence of the Partner. An example of this is the Techstars "Powered by" programs, where the Partner and the Sponsor are often one and the same. In this situation, Techstars provides the balance that balances the Accelerator. 
+
+One of the most prevalent examples of an Accelerator partnership is the [Amazon Web Services Activate program](https://aws.amazon.com/activate/). With this partnership, AWS provides an allotment of free credits to each company in the Accelerator. This allows startups to build on Amazon infrastructure without any out-of-pocket costs. In return, AWS has a higher likelihood of converting those startups into paying customers once the credits are exhausted. 
+
+#### Investor 
+Investors collaborate and fund Accelerator activity in an effort to improve deal flow, identify companies that have a better chance of succeeding, and gain additional validation of product market fit. The filtering that Accelerators provide, therefore, can result in a very symbiotic relationship for both parties. 
+
+Given the similarities of VC behavior and Accelerator behavior, however, it is critical that these arrangements only occur between parties whose goals are completely aligned. It does an Accelerator absolutely no good to accept funding from a VC whose investment thesis does not match the Accelerator's. And it does a VC no good to invest in an Accelerator that does not provide beneficial deal flow or services.  
+
+On the upside, venture capital can be a very effective means of funding Accelerator activity, because they are used to playing in the space of startups.
+
+- Used to spending money on risky efforts
+- Have a time horizon that is in line with company maturation
+- Have the potential to provide follow on investment.
+- Ongoing portfolio management can be super valuable for the continued success of your companies.
+
+On the downside, this funding mechanism can curtail the experimental nature of an accelerator if VC is the only backing. 
+
+- VCs are in the business of making money. 
+- The relationship will be driven by financial motivations. Will likely be only interested in investing in. Companies that have the highest likelihood of returning capital to the fund. Companies that best match their investment thesis.
+
+This sort of focus can hamstring accelerators and incubators who may see promise or opportunity in verticals or companies that are outside of the fund’s purview. 
+
+Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
+
+- - -
+
+**500 Startups hybrid model**
+
+While we don't advocate for making Founders pay to participate in an Accelerator program, we are fans of the creative collaboration between Investors and Program that the [500](http://500.co) Program ([Don't call 500 an Accelerator](http://500.co/the-artist-formerly-known-as-accelerator/)!) has put together. 
+
+In the 500 model, the fund invests in the company. Then the Seed Program charges for participation in their Program. This ensures that the Startup has working capital and a cleaner cap table, the fund has an equity investment, and the program has operating capital. 
+
+> We invest $150k in exchange for 6%. We charge a $37.5k fee for participation in the 500 Seed Program.
+
+- - -
+
+
+## Promotion 
+*aka Soapbox(es) or bullhorn(s) or campfire(s) or promotional platforms or whatever you want to call them*
+
+One of the things that dawned on us in hindsight was the value of having  platforms for sharing opinions, promoting our efforts, and conversing with our community. 
+
+It seems straightforward and obvious, but it's often overlooked. 
+
+You need a soapbox. Or a bully pulpit. Or a bullhorn. 
+
+You need some way of amplifying your signal. And some way of communicating effectively with the community you're engaging. 
+
+There are any number of examples of these kinds of platforms. It could be an email list or a blog. It could be a series of events. It doesn't even necessarily need to be something you "own." It can be a social network presence. It could be a local publication that assists with your communications. It could be a blog run by someone else who wants to cover your community. 
+
+But whatever the case, you need that promotional and conversational outlet. To engage.
+
+At PIE, we used [Silicon Florist](http://siliconflorist.com/) as our initial platform, because it already had a following in the community with whom we were interested in engaging. Twitter, which had an early following in Portland, was also an extremely beneficial platform in this regard. First with personal accounts, then with a PIE account. Eventually, we adopted email, a PIE blog, Facebook, Instagram, and Medium, as well. We also used the space, itself, as a promotional platform by creating our own events and hosting others. Now, Github has become a critical component of our platform, thanks to the PIE Cookbook. And we've added Slack to the mix, as well.
+
+Admittedly, things were much more simple we started. We didn't have a great deal from which to choose. There were blogs and Twitter. And had the opportunity to watch new platforms come online, assess how they were being used, and then choose to adopt those platforms if and only if they showed promise in our community. 
+
+You, my friend, have got a much wider and frenetic breadth of options from which to choose, these days. And they all have their idiosyncrasies and communities. 
+
+So we encourage you to approach your platform choices with these questions:
+
+- Where does your community go for information and conversation, today?
+- What publications or organizations talk to the same communities you do?
+- Are there certain platforms that your team simply enjoys using more than others? (If you don't like writing, starting a blog is the wrong idea. But maybe a podcast or a YouTube channel would be appropriate?)
+- What are the one or two platforms which would be most successful with the least amount of effort? Just because all of the platforms are there doesn't mean you need to be on all of them. Look for efficiencies.
+
+## Other critical components
+There are a number of other critical components — often subcomponents of the ones mentioned above — that will play an important role in helping to ensure the success of the accelerator program.
+
+### Mentors
+The most critical of these critical components will be your mentors. These are the assets that will actually make your Accelerator work — or fail. So we'll spend a great deal of time on this topic. 
+
+It is important to understand that there are different types of mentors, different ways to apply each mentor, and different motivations for the mentors to participate in the program. It's also important that you understand the best ways to recruit, manage, and reward your mentors for their participation in your program.
+
+Let's start by outlining the general categories of Mentors, bearing in mind that Mentors can often fall into multiple categories. We'll get into recruiting mentors later in the Cookbook.
+ 
+#### Non-resident Mentors
+Non-resident mentors are the most common mentors for an Accelerator. They engage with the Accelerator on an as-needed basis. They do not reside in the Accelerator space. Rather, they are invited by staff to present or meet with Founders. 
+
+Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, PIE holds the firm belief that anyone can be an effective mentor. So we will continue to emphasize that it is **experience**, not **expertise** that helps qualify a Mentor. Anyone has the potential to be a Mentor if applied properly.
+
+**Role and expectations**
+Non-resident mentors will do the bulk of the mentoring within your Accelerator. After all, they comprise the bulk of the "network" to which your startups are seeking access. And they are the asset your organization will put to work, most often. 
+
+That said, your Accelerator should have very low expectations for the amount of time that these mentors will be able to contribute to the organization. They should be used for efforts that can be completed in under an hour. And those efforts should be fairly remedial from the mentor's perspective. 
+
+You should expect that these mentors can answer questions off the cuff from the startups. They should not be engaged on issues which may take additional effort or meetings with this type of mentor. 
+ 
+**Value to the accelerator**
+These mentors provide any number of benefits to the Accelerator, but among the most prominent are:
+
+- Providing guidance and feedback to the Startups within the Accelerator
+- Helping to promote the Accelerator and its offerings
+- Helping to recruit Startups for each program
+- Helping to recruit additional Mentors for the Accelerator
+- Assisting in the selection process
+- Bringing an outside perspective to the Founders
+- Providing objective feedback to the Accelerator about both the startups and the Accelerator, itself
+
+**Value to the mentor**
+While the accelerator and startups are gaining value from the mentor, it is equally important that you understand the value the mentor derives from participating. 
+
+- Strong connection to startup community
+- A feeling of giving back to the community
+- Recognition as an important asset to the community
+- Reaffirms experience and expertise
+- Connections with other mentors
+- Dealflow and due diligence for potential Angel investments
+
+**Value to the startups**
+These mentors, by and large, are the reason that the startups joined your accelerator, whether they know it or not. It is the advice, criticism, and connections that these individuals provide which will enable these companies to succeed — or help the startups determine that there is no chance of succeeding.
+
+**Typical percentage of the mentor pool**
+Non-resident mentors should comprise the vast majority of your Mentor pool. Likewise, this category of mentor should serve as the initial means of "test driving" mentors for other types of mentor roles.
+
+#### Lead mentors
+Lead mentors are individuals who take a particular interest in one of the companies in the cohort. That level of interest motivates the mentor to meet with companies on a regular basis and suggest other mentors who could provide valuable feedback to the startups.
+
+We have found that it is difficult to pick or establish lead mentors at the outset of the program. Rather, Accelerators have to monitor the potential for lead mentors and when appropriate, suggest to both the startup and the mentor that both would benefit from more regular meetings.
+
+**Role and expectations**
+These mentors will make up a small subsegment of your mentor pool. And they're very hard to assign. It's almost a "catch as catch can" arrangement. 
+
+You engage mentors with startups and founders. You observe their behavior and camaraderie. And if the timing and relationship seem right, you pull the mentor aside and talk about taking a larger role in a single startup's growth and direction. Should the mentor agree, you then talk to the startup about the potential of having a lead mentor.
+
+This relationship is somewhere between mentor and advisor. The lead mentor is still playing a role of imparting advice. But it is on a more regular and consistent basis than other mentors. 
+
+It should be noted that this becomes a much more significant time commitment for both mentor and founder. The lead mentor should be meeting with the startup on a weekly basis for the remainder of the accelerator class. 
+
+**Value to the accelerator**
+Lead mentors provide a great deal of value to the accelerator by:
+
+- Augmenting the accelerator staff in the management of the startups
+- Providing another vantage point for assessing the startups and their progress
+- Serving as an example to other mentors in a "lead by example" way
+- Establishing a stronger connection to the accelerator
+- Establishing a stronger connection to the startups
+- Enhancing the accelerator's ability to foster community connections
+
+**Value to the mentor**
+Serving as lead mentors can be a more rewarding experience for mentors if they have the time to commit to the arrangement. Many lead mentors gain the benefit of:
+
+- Having a measurable and demonstrable impact on a company's progression during the accelerator
+- Determining the potential for ongoing mentorship or advisorship following the accelerator
+- Gaining valuable insights on early stage business issues that can highlight and inform how the mentor deals with their own business pursuits
+- Establishing a tighter bond in the startup community
+- Raising the visibility of their contribution to the community
+
+**Value to the startups**
+Startups can always use more people in their respective corners. A lead mentor can be a valuable by:
+
+- Ensuring the founders have a confidante beyond the accelerator staff
+- Providing additional mentor resources that may not be obvious/accessible to the accelerator staff
+- Making introductions to investors
+- Helping with hiring
+- Providing candid feedback in a private setting
+- Working with each founder over an extended period of timing
+
+**Typical percentage of the mentor pool**
+Lead mentors generally make up a very small percentage of the mentor pool. At the very best, there will be one lead mentor per startup in each cohort. 
+
+#### Mentors in residence
+We’ve tried any number of models: paid desks, free desks, desks in trade. What has worked best for us, as an accelerator, has been the concept of free desks for “mentors in residence.” 
+
+This is usually reserved for people who have been through the program, but it’s also been used for companies like Sprintly, Automattic (WordPress), and Upworthy. We established a soft baseline for participation (“You have to be actively engaged in mentoring startups in the space.”) And assessed and judged that participation anecdotally. Those not meeting our expectation were counseled to up their mentoring game or encouraged to leave the space. We gave them a few warnings.
+
+These companies were familiar with the PIE process, having observed any number of classes. But we also invited PIE alums to remain in the space — or come back — so that they could assist as hands on mentors, as well.
+
+Why do we believe this is an effective model for PIE and other accelerators? At the core, accelerators are about knowledge transfer. Retaining class participants beyond their cohort allows us to more efficiently transfer that knowledge (“You shouldn’t miss that mentor talk,” “You definitely need to connect with so and so,” and “I couldn’t help hearing you were having an issue with x. Here’s how we dealt with that.”)
+
+**Role and expectations**
+First and foremost, mentors in residence are expected to work on their respective businesses. Mentoring is secondary to that. That said, we do expect them to spend some time mentoring. 
+
+Most mentoring by mentors in residences is ad hoc. The mentors will observe something or hear something that motivates them to take a startup aside and provide feedback. Other times, staff will direct a mentor in residence to work with a startup, especially if it is a problem with which the mentor is familiar. 
+
+Other times, mentors in residence may help with making connections or judgment calls for startups going through the program.
+
+**Value to the accelerator**
+Mentors in residence serve as adjunct staff, enabling the organization to scale more effectively by:
+
+- Serving as eyes and ears with a different vantage point than the staff
+- Serving as confidantes when staff is absent or unavailable
+- Keeping the staff "honest" by highlighting mentors or programmatic elements that were helpful to their startups
+- Providing peer feedback and review from someone who has "been there and done that"
+- Highlighting which mentors are critical and how to best engage them
+
+**Value to the mentor**
+There are any numbers of benefits to the mentor in residence. They include:
+
+- Receiving free office space and perks for providing mentorship
+- Enabling the mentors to keep tabs on the latest trends in the startup community
+- Providing reciprocal peer mentoring
+- Gaining insights to different mentors and investors
+
+**Value to the startups**
+For the startups, the benefits of having a seasoned resource at their disposal are innumerable, but notable benefits include:
+
+- Being able to get objective feedback from a peer
+- Ensuring they gain a clear understanding of the challenges facing companies, post accelerator
+- Providing valuable insights into working with PIE and mentors
+- Providing tips and tricks for getting the most out of the progra
+- Helping startups "work the system"
+
+**Typical percentage of the mentor pool**
+The number of mentors in residence will be dictated by the available space in your accelerator. There is no definitive percentage
  
 ## Food
+With a name like PIE, it only stands to reason that we would include food as one of our critical components. 
 
-With a name like PIE, it only stands to reason that we would include food as one of our critical offerings. 
+We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different.
 
-We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
+Furthermore, it's a form of hospitality. And making it a welcoming and supportive environment.
 
 Providing food for your founders lessens stress, keeps them healthier, and ensures that they're actually eating from time to time. And all of that ensures that they're getting the most out of the other accelerator offerings. 
 
@@ -995,14 +934,14 @@ At PIE, we chose to cater three meals per week, on average — one dinner and tw
 
 This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
 
- 
+## Diversity and inclusion
+Admittedly, PIE did a relatively poor job with a diverse set of mentors and startup founders. 
 
+We were lucky to have a number of women in each of our classes, from the coworking days through the accelerator. Nearly half of our mentors were women. This was not intentional. It just happened to work out that way. 
 
-			56. Hospitality
-				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
-				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
-			57. Diversity and Inclusion
-	52. Oven
+That said, we had very little variety in terms of colors, ethnicities, orientations, backgrounds, and beliefs.
+
+This was a mistake. One that we are actively working to correct. One that we are being intentional about improving as we continue to work on PIE. Given the opportunity to start over, we would make this one of the critical components of our accelerator foundation. So that's why we're including it here. 
 
 # Budget
 Early on, one of the most challenging aspects of standing up an accelerator or coworking environment can be projecting — guessing, really — how much it will cost to run the project.
