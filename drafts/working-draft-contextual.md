@@ -555,3 +555,9 @@ You see, we knew we couldn’t recreate the perceived effectiveness of either of
 So rather than selecting one program after which to pattern ourselves in a cookie-cutter fashion we chose to instead dissect each program and take only the elements which we felt best resonated with our audience — and that we had a chance of effectively emulating.
 
 That is, it did us no good to strive to set up the program up as the onramp to the Silicon Valley elite and a bevy of investors—because we didn’t have the access that would have enabled this. Instead, we took only the parts of each program we had the ingredients to effectively recreate. 
+
+## So which is speed dating or matchmaking? Both.
+
+Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
+
+Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  

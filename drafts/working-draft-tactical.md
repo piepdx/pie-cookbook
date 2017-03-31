@@ -2347,10 +2347,13 @@ We encouraged folks to keep updates short, but we would never cut anyone off who
 
 Perhaps the highlight of all Family Dinners — and a nod to how valuable they were — was when Founders who were on the road would take time to call into Family Dinner. (Orchestrate was especially good at this.) If they were on video conference, we would make sure that everyone got face time with the founder calling in. 
 
-Following the first Family Dinner (I know, it was awkward right?), you'll start to get into the cadence. Let's take a look at what that might look like. 	
+Following the first Family Dinner… 
+
+I know, it was awkward right? Don't worry. it will get better. I promise. 
+
+… you'll start to get into the cadence. Let's take a look at what that might look like. 	
 
 ## Typical week in PIE
-
 We often get asked, "What's a typical week like in your accelerator?" And while the term "typical week" is an oxymoron for PIE, there are some things that occur with enough regularity — and provide enough structure for participants — that we can describe them.
 
 So here's an imperfect look at a typical week at PIE:
@@ -2460,9 +2463,16 @@ Founders who clicked with the investor meet up to continue the conversation
 Staff and startups in space sporadically. No scheduled events.
 
 # Engaging mentors in an accelerator class
+So that all makes sense. But there's an awful lot of mentoring in there. How does that stuff start to happen? 
+
 At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
 
-We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
+We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor:
+
+- Presentation with Q&A
+- Workshops
+- Speed dating
+- Matchmaking
 
 ## Presentation with Q&A
 Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.
@@ -2470,7 +2480,6 @@ Often the least taxing — but still incredibly valuable — way to engage mento
 ### For the mentor
 
 #### Preparing mentors to speak to a class
-
 One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the entire class. For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
 
 At PIE, we found a cadence of two talks — where a single mentor addresses the entire class — per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. 
@@ -2722,11 +2731,6 @@ With matchmaking, the connections between mentors and startups are less serendip
 
 There is no set day or timeframe. Staff introduces the startup and mentor and leaves it the startup to schedule the meeting. Staff then follows up with both mentor and startup to understand the outcomes of the meeting and to help decide next steps. 
 
-## So which is it? Both.
-
-Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
-
-Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
 
 ### For the mentor
 ### For the founders
