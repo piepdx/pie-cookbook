@@ -902,15 +902,13 @@ For the startups, the benefits of having a seasoned resource at their disposal a
 
 **Typical percentage of the mentor pool**
 The number of mentors in residence will be dictated by the available space in your accelerator. There is no definitive percentage
-
-
-# Culture
  
 ## Food
+With a name like PIE, it only stands to reason that we would include food as one of our critical components. 
 
-With a name like PIE, it only stands to reason that we would include food as one of our critical offerings. 
+We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different.
 
-We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different. 
+Furthermore, it's a form of hospitality. And making it a welcoming and supportive environment.
 
 Providing food for your founders lessens stress, keeps them healthier, and ensures that they're actually eating from time to time. And all of that ensures that they're getting the most out of the other accelerator offerings. 
 
@@ -933,15 +931,6 @@ And please be conscious, aware, and diligent of founders', mentors', and staff d
 At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. 
 
 This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
-
- 
-
-
-			56. Hospitality
-				57. "Have hospitality be a focus and core value of the accelerator.  be welcoming and let people know it…  at meetups do we welcome new people, in the accelerator do we communicate in a way that  is respectful and heard by all…  and are we authentic and appreciate authenticity in others" (via Shane Johnson)
-				58. There is some hospitality content in this post https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.ahsv3suf1
-			57. Diversity and Inclusion
-	52. Oven
 
 # Budget
 Early on, one of the most challenging aspects of standing up an accelerator or coworking environment can be projecting — guessing, really — how much it will cost to run the project.
