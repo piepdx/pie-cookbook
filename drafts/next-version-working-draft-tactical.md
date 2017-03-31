@@ -378,3 +378,33 @@ https://github.com/piepdx/pie-cookbook/issues/2
 
 
 
+
+			33. Managing mentors
+				34. Scheduling should occur at the mentor’s convenience, not yours
+				35. Always make mentors aware that things change
+				36. Be prepared for pop-ins — and always take advantage of them
+			32. Unused mentors
+			33. Mentor value beyond the accelerator
+			35. Mentors referencing the accelerator
+				36. Online profiles
+				37. Spokespeople
+				38. Speakers
+		34. Startups
+			35. Do they have to be traditional startups?
+			35. Focus
+			36. Stage
+			37. Needs
+		38. Investors
+			39. Objectives
+			40. Outcomes  
+			39. Investor as mentor
+			40. Homegrown or imported?
+				41. Travel to them or bring them to you?
+			40. Focus
+			41. Stages
+		42. Sponsors
+			43. Objectives
+			44. Outcomes
+	
+
+
