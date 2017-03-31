@@ -576,7 +576,7 @@ While your list might not be as long as Chris' — Seattle has been at this for 
 
 If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
 
-# Establishing the framework for the accelerator
+# Building your accelerator framework
 Let's start with this. First and foremost, the primary objective of any Accelerator should be to **create an environment of trust that accelerates creative output**. That is the most basic way to describe it.
 
 Founders trust you to help them make sense of this whole startup thing. To be honest with them. To say the hard things that need to be said. To connect them with the expertise that helps them continue. Or the insight that helps them to quit. 
