@@ -232,6 +232,15 @@ Ideally, you'll sympathize with your Founders. At the very least, you must empat
 
 If you need help getting your head in the right place, read "[Why Y Combinator made all the difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)."
 
+## Encourage bonding among peers 
+This is an important part of our program and one that we feel is often overlooked by others.  We believe that we aren’t just graduating individual companies from our program, but collaborative groups who will improve and enhance our existing community. 
+
+But this doesn't necessarily happen organically. It takes effort. And intent. That's why we've learned to put time into creating opportunities that enable those peer bonds to form, even on a short timescale. 
+
+We've also learned that it’s important to use a range of bonding activities. A beer or cocktail is fine every once in a while, but it's important to break out of the startup stereotype. Plan activities that don’t just involve drinking. Heck, maybe even plan some activities that are healthy (gasp) or educational. 
+
+The basic rule is: Be inclusive. And provide a range of options. Not every option will work for every participant. 
+
 # Three months
 PIE chose to run our program for a three month intensive period. 
 
@@ -2866,21 +2875,8 @@ And with this happy accident it dawned on us that these founders were going to e
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
 
-**Encouraging bonding among peers** 
-
-This is an important part of our program and one that we feel is often overlooked by others.  We believe that we aren’t just graduating individual companies from our program, but collaborative groups who will improve and enhance our existing community. 
-
-But this doesn't necessarily happen organically. It takes effort. And intent. That's why we've learned to put time into creating opportunities that enable those peer bonds to form, even on a short timescale. 
-
-We've also learned that it’s important to use a range of bonding activities. A beer or cocktail is fine every once in a while, but it's important to break out of the startup stereotype. Plan activities that don’t just involve drinking. Heck, maybe even plan some activities that are healthy (gasp) or educational. 
-
-The basic rule is: Be inclusive. And provide a range of options. Not every option will work for every participant. 
-
 				
-# Demo Day 
-## To Demo Day or not to Demo Day?
-## Graduating from the program 
-
+# Graduating from the program: Demo Day 
 Graduation requirements can be modified to fit your programs needs or specialities. Most, if not all, programs culminate with a demo day. Companies give a 6-8 minute pitches of their product in front of an audience that can be made up of a combination of stakeholders, investors, mentors, media, and/or community. 
 
 We believe that the focus of demo day should be about gaining attention, not funding. Check don’t get written at demo days, but conversations get started. Your demo day can be as large or small, open or private, as makes sense for your program.  
