@@ -900,7 +900,8 @@ For the startups, the benefits of having a seasoned resource at their disposal a
 - Providing tips and tricks for getting the most out of the progra
 - Helping startups "work the system"
 
-
+**Typical percentage of the mentor pool**
+The number of mentors in residence will be dictated by the available space in your accelerator. There is no definitive percentage
 
 Partners
 			52. Objectives
