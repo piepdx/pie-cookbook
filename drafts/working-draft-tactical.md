@@ -1615,21 +1615,25 @@ If budget and available management resources allow, accelerators may also choose
 			22. Identifying potential mentors
 			23. Recruiting potential mentors
 			23. Qualifying potential mentors
-			24. Alums as mentors
-			24. Onboarding
-			
-			In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
+			24. Test driving mentors
+			27. Assessing skill fit
+			28. Assessing personality fit
+			29. Actively engaged pool
+			30. Passively engaged pool
+			30. Overlap
+			31. Alums as mentors
+
+# Onboarding mentors
+In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
 
 For example, if you want a mentor to assist as a subject matter expert, make sure they are given the appropriate platform for conveying that knowledge. Don't make them present if a workshop is a more appropriate format. Don't make them take 1:1 meetings if their knowledge is relevant to every company — and will result in them repeating the same advice to 10 different companies. 
 - - - 
 > **tl;dr Be thoughtful and respectful of how you use a Mentor's time.** 
 - - - 
-# Time commitment
-
+## Time commitment
 Once you’ve chosen to work with a mentor, your most important job is to understand that mentor’s level of time commitment. Some mentors will want to help but have absolutely no time. Other mentors will be willing to show up for office hours several times a week. It runs the gamut. Your challenge is making the best use of the time they are willing to commit so that they are deriving value from their participation.
 
-## Sliding scale
-
+### Sliding scale
 At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowbar. 
 
 Just as importantly, we used other well know Mentors as examples of time commitment bands — "Mentor X generally presents onetime per class; Mentor Y holds regular office hours at PIE every week" — which provided even more context for their potential engagement. Plus, when a Mentor hears that one of their peers or someone they recognize — "[Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors" — they are given more context for how others are volunteering to do.
@@ -1646,23 +1650,10 @@ In many cases, we were lucky and humbled to have Mentors consistently increase t
 - - - 
 > **tl;dr Mentoring is addictive. Mentors will often find they enjoy it more than they thought.**  
 - - - 
-## Mutual respect
-
+### Mutual respect
 And if you do it right? You’ll find they’ll be a lot more willing to commit more time to the program in future class. Culture of trust and all that. 
 
 Respect mentors’ time and they will repay that respect with more time.
-
-Where to recruit mentors
-
-# How to activate mentors
-
-At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
-
-We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
-
-But before you engage mentors with startups — whether they've had the opportunity to mentor before or not — it's important to give them a little mentoring, too. 
-
-We recommend onboarding folks with some context for mentoring, itself.
 
 ## Mentoring the mentors
 
@@ -1807,7 +1798,6 @@ You’re not just here to give. You’re here to get. It’s a two-way street. S
 And be equally willing to listen when another mentor wants to impart their knowledge to you.
 
 ## Mentoring, like many accelerator things, is messy
-
 As a mentor, it's important to understand that "accelerator" is often a misnomer. Accelerators are actually about slowing down, making connections, and contributing to community. They're about making busy people focus. About creating lines where there are only dots. 
 
 If they accelerate anything, they accelerate connection. For both those mentors who choose to participate. As well as for the founders who are selected. 
@@ -1845,13 +1835,14 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 ### Learn Openly (via @eighteyes)
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
-Test driving mentors
-			27. Assessing skill fit
-			28. Assessing personality fit
-			29. Actively engaged pool
-			30. Passively engaged pool
-			30. Overlap
 
+# How to activate mentors
+
+At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
+
+We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
+
+But before you engage mentors with startups — whether they've had the opportunity to mentor before or not — it's important to give them a little mentoring, too. 
 
 # Running an Accelerator Class
 
