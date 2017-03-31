@@ -2668,7 +2668,6 @@ Just don't.
 When it comes to mentor engagement, no topic is more ripe for discussion — and more likely to rile opinions — than the pros and cons of speed dating and matchmaking. But before we get into that, let's explain what we mean by the terms.
 
 ## Speed dating
-
 With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
 
 There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
@@ -2714,8 +2713,10 @@ These drawbacks, which we'll cover in more detail, include but are not limited t
 - Perceived lack of tangible results
 - A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
 
-## Matchmaking 
+### For the mentor
+### For the founders
 
+## Matchmaking 
 While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
 
 In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
@@ -2731,11 +2732,10 @@ With matchmaking, the connections between mentors and startups are less serendip
 
 There is no set day or timeframe. Staff introduces the startup and mentor and leaves it the startup to schedule the meeting. Staff then follows up with both mentor and startup to understand the outcomes of the meeting and to help decide next steps. 
 
-
-### For the mentor
-### For the founders
-
-## Hands on
+We define three different formats for matchmaking:
+- 1:1
+- 1:Company
+- Many:Company 
 
 ### 1:1
 
