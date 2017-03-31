@@ -1835,15 +1835,6 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 ### Learn Openly (via @eighteyes)
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
-
-# How to activate mentors
-
-At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
-
-We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
-
-But before you engage mentors with startups — whether they've had the opportunity to mentor before or not — it's important to give them a little mentoring, too. 
-
 # Running an Accelerator Class
 
 				78. Setting expectations
@@ -1968,15 +1959,17 @@ To qualify Enchantment, we ask questions like:
 				91. Background checks
 				92. Paperwork
 
-
 # Engaging mentors in an accelerator class
+At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
 
+We’ll take you through each of these elements from least amount of engagement to most engagement between founder and mentor.
 
 ## Presentation with Q&A
+Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.
 
 ### For the mentor
 
-## Preparing mentors to speak to a class
+#### Preparing mentors to speak to a class
 
 One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the entire class. For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
 
