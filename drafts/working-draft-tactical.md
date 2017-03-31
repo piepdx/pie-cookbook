@@ -903,10 +903,6 @@ For the startups, the benefits of having a seasoned resource at their disposal a
 **Typical percentage of the mentor pool**
 The number of mentors in residence will be dictated by the available space in your accelerator. There is no definitive percentage
 
-Partners
-			52. Objectives
-			53. Outcomes
-		54. Media
 
 # Culture
  

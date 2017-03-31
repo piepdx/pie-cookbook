@@ -211,6 +211,12 @@ Kind of like borrowing a cup of sugar from your neighbor.
 						27. Value to the organization
 						28. Value to the mentor
 						29. Special challenges of staff as mentors
+						
+		Partners
+			52. Objectives
+			53. Outcomes
+		54. Media
+
 # Space
 
 				63. Fishbowl
