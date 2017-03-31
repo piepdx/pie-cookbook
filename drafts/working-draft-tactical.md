@@ -208,7 +208,6 @@ Again, this isn't the right way to do anything. This just happens to be how PIE 
 Whatever you choose to do — start a long journey or jump into the deep end of the pool — just remember that, in the long run, you're not building an accelerator. You're building a community.
 
 ## Coworking and Community Development are not complementary
-
 When we started PIE, we were working under the assumption that "coworking" — the concept of a variety of companies and individual contributors sharing a common workspace — and "community" were synonymous. Get a bunch of people sitting and working in the same space and viola! Community. 
 
 Nope. Coworking and Community are not synonymous. In fact, at times, they may even be at odds with one another. So even if you've got a thriving coworking business, don't assume you have a community. If your coworking business is thriving, that actually may be an indicator that you don't have a community. Conversely, if your coworking space is struggling to make ends meet, that may also be an indicator that you're doing okay with community development. 
@@ -219,8 +218,12 @@ It seems counterintuitive but we’ve learned that giving startups desks for fre
 
 Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream. And whatever the case, don't assume the health — or lack thereof — of a business pursuit like coworking is a direct or even relevant indicator of the health of your community. We've seen many a healthy community without the financial health to sustain a coworking space.
 
-## Empathize with Founders
+## Create a culture of hospitality
+Your accelerator should serves as a welcoming hub for the community. It should be a safe place where ideas are exchanged. Where concepts are challenged. And where productive discussions occur. 
 
+This is critical to your ability to create a culture of trust and an environment where founders and mentors can be open and engaged.
+
+## Empathize with Founders
 Finally and most importantly, before you do anything, put yourself in the Founders' shoes. Empathize with them. And continue to return to that viewpoint. Founders are your customers. Treat them accordingly.
 
 This is why we encourage you to immerse yourself in the community before you try  to do anything else. And why we encourage you to start your own companies. So you know what it's like. 
@@ -231,7 +234,6 @@ If you need help getting your head in the right place, read "[Why Y Combinator m
 
 
 # Start small
-
 Where you start is where you start. Don't let the current state of things or the amount of effort required prevent you from taking action. Start small. Start today. It might not be where you want to start. But you've got to start somewhere.
 
 Just start.
