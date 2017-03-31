@@ -232,13 +232,12 @@ Ideally, you'll sympathize with your Founders. At the very least, you must empat
 
 If you need help getting your head in the right place, read "[Why Y Combinator made all the difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)."
 
-
 # Start small
 Where you start is where you start. Don't let the current state of things or the amount of effort required prevent you from taking action. Start small. Start today. It might not be where you want to start. But you've got to start somewhere.
 
 Just start.
 
-# Before you begin
+# Laying the groundwork 
 This is like a cookbook of false starts, isn't it? Bear with us.
 
 It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say, "We're an accelerator. That's not always a positive thing. We have the potential to help accelerate your success, but we can just as easily accelerate your company right into the ground."
