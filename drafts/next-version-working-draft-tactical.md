@@ -406,5 +406,22 @@ https://github.com/piepdx/pie-cookbook/issues/2
 			43. Objectives
 			44. Outcomes
 	
+	
+	## So which is speed dating or matchmaking? Both.
+
+Unfortunately, there is no easy answer. It's a balance of both types of mentoring.
+
+Why? Well, in our experience, we've learned that each model has its pros and cons. That is why we have always opted to run a hybrid model. Most accelerators try to do the same.  
+
+				99. Mentor engagement
+					100. Formal
+						101. Presentation with Q&A
+							102. As we mention above, founders only care about the problem they’re experiencing today, right now. To further the disconnect, even if a mentor provides step-by-step instructions with excruciating details, the founder will never be able to recreate the steps, moments in time, or luck that founder had. 
+							103. For this reason, we suggest that mentor presentations primarily be used as an anecdotal learning experience. Not a teaching one.
+							104. Your primary objective with this format is to convince your founders that they, like the mentor, are capable of succeeding. 
+							104. Mentors, therefore, should avoid chest thumping. They should be comfortable sharing stories of failure, mistakes, and missteps. Things the mentors wish they had done differently. Stories about how they got lucky. And things they wish they had known during their journey. 
+							105. This allows the founders to extract the content that is important and relevant to their current frame of mind and ask clarifying questions as needed.
+						100. Workshops
+
 
 
