@@ -2292,7 +2292,7 @@ These dinners are always open to founders who are alums of the PIE program, and 
  
 We recommend hosting your dinners on-site rather than at a restaurant, unless you can get a private room. Having the meal catered means it’s easier for folks to get up from their desk and join, rather than being tempted to go home and stay there before joining you at restaurant.
  
-Consider family dinner mandatory.
+Consider family dinner mandatory. And rest assured that it will take a while for you to find your Family Dinner groove. At PIE, we made a bunch of errors with the format before we honed in on what worked for our companies.
 
 ## Family Dinner 0.9 Beta (Coworking version)
 The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. 
@@ -2306,7 +2306,6 @@ There were a few regular attendees. But the mix changed and morphed from week to
 Then something interesting began to happen. Rather than simply sitting around and engaging in small talk, folks began to share issues and problems they were having. They began to explore the stress and emotions of running a startup. And they began to shed the "entrepreneurial veneer" of "Everything is awesome! We're killing it!" to reveal what was really happening. And to start to ask for help.
 
 ## Family Dinner 1.0 (Coworking version)
-
 As Family Dinner moved from Happy Hour to Reality Hour, something interesting began to happen. More folks attended. More folks participated. More folks shared. And more folks were encouraged to share. 
   
 > Rather than opting for voluntary participation, the weekly event became an exercise in peer mentoring. 
@@ -2322,7 +2321,6 @@ Family Dinner problems began to take three distinct forms:
 But it wasn't without its flaws. Some folks begin commanding more airtime than others. So we put a time limit on it. And enforced a requirement for everyone to talk. We tried to create a culture of collaboration. Where everyone was getting value out of the gathering. Not just a few squeaky wheels.
 
 ## Family Dinner 2.0 (Accelerator)
-
 When we decided to shift from coworking space to accelerator, we felt that Family Dinner was one of the more valuable activities that should make the transition, as well. But, in so doing, we failed to retain some of the parameters that had made it successful previously.
 
 First of all, we let folks talk about whatever they wanted to talk about. More often than not — being founders — this resulted in discussions on "what went well this week" or, even worse, with chest thumping.
@@ -2332,7 +2330,6 @@ Inevitably, one startup or founder would be having a good week. They would highl
 Rather than being something positive for peer mentoring, it became competitive and weird. We recognized this and tried to correct some of those bugs.
 
 ## Family Dinner 2.5 (Accelerator)
-
 This was the final model for Family Dinner in the accelerator environment. These were the guiding principles:
 
 - No bragging.
