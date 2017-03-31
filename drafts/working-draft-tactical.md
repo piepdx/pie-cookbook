@@ -232,6 +232,27 @@ Ideally, you'll sympathize with your Founders. At the very least, you must empat
 
 If you need help getting your head in the right place, read "[Why Y Combinator made all the difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)."
 
+# Three months
+PIE chose to run our program for a three month intensive period. 
+
+We ran the first class for four and half months, and it seemed to be too long. So we shortened the program. Later, we'll get into why it seemed long. 
+
+## Three months is a very short time
+Most corporations, governments, and larger organization often question how we can possibly get anything effective done in three months. "Three months seems so short," they say. 
+
+And it is. It's a short intensive period of incredibly stressful work. Piled on top of — or in the middle of — the long period of incredibly stressful and arduous work that is building a startup. (In all honesty, the accelerator period is the least stressful — and most supportive — of any of it.)
+
+And if companies aren't careful, the three months can slip by very quickly. Too quickly. Without much to show for it. A few skipped mentor meetings. A talk or two. And suddenly it's Demo Day. Just like that. 
+
+## Three months is a very long time
+But fact of the matter is, when you're in the thick of it, three months is an incredibly long time. Especially when you're breaking it into minutes. 
+
+![PIE's infamous countdown clock](/source/images/pie-countdown-clock.jpg)
+
+From the time the first day of PIE starts until we bring the house lights down and Demo Day begins is about 130,000 minutes. And each one is critical. 
+
+But no matter how motivated the founder, no matter how real the opportunity, no matter how passionate the team, it's a challenge to keep the momentum going. It's nearly impossible, over that length of time, to keep a sustained sprint going. It's like running toward a goal somewhere off in the distance. Like trying to realize a strategy without any tactics. 
+
 # Start small
 Where you start is where you start. Don't let the current state of things or the amount of effort required prevent you from taking action. Start small. Start today. It might not be where you want to start. But you've got to start somewhere.
 
@@ -1959,6 +1980,74 @@ To qualify Enchantment, we ask questions like:
 				91. Background checks
 				92. Paperwork
 
+## Onboarding 
+With the growing prevalence of Accelerators and the popularity of programs like Y Combinator, Techstars, and 500 startups, it has become common to assume that people are cognizant, if not deeply knowledgeable, about Accelerators, what they are designed to do, how they operate, and how to make the most of being a participant in one.
+
+Nothing could be further from the truth. 
+
+In fact, one of the biggest mistakes most accelerators make — and we've made it a few times — is with onboarding. Or, to put it another way, assuming that participants realize what the accelerator is designed to do, what resources are available, and how to make best use of those resources.
+
+If you're building an early stage tech accelerator, you can sometimes skate by without doing a great deal of onboarding. And just get lucky. We wouldn't recommend it, but you could do that.
+
+Why? Because most early stage tech companies are familiar with the concept of accelerators. They know what they are designed to do. And they understand, at a high level, what they're supposed to get out of the accelerator.
+
+Other industries? Not so much. The accelerator is not a common concept. So  we've found that assuming folks will know how to engage is a huge mistake. You have to tell them.
+
+Tech founder or not, fact of the matter is that most Founders — regardless of their familiarity with Accelerator model — have a limited understanding of how an Accelerator works, how to make use with the resources being offered, or how to effectively engage with the firehose of connections to which they're being exposed.
+
+Granted, learning to deal with these issues is part of the educational process of being in the Accelerator. But part of it is just an unnecessary waste of Founders' and Mentors' time and Accelerators' resources. So give your startups the best chance of succeeding by preparing them with some Accelerator 101 onboarding. 
+
+
+# Give the startups context
+It’s important to recognize that joining an Accelerator program — despite the potential upside for the company in the long run — is a huge, immediate disruption for the Founders. And the transition from a typical startup day-to-day of "building a company at your own pace" and "being in charge of your own schedule" into the Accelerator environment can be jarring, at best. And going from working out of a coffee shop or a kitchen to a structured accelerator program is a big transition.
+
+Some individuals may have relocated to participate in your program. Entire companies may have pulled up and moved to your town. Even people who call your town home may soon be spending time in a part of town that's unfamiliar. Or that they're not used to visiting, day in and day out.   
+
+So we recommend that you do what you can to help mitigate this feeling of displacement by making them feel at home. 
+
+Some suggested welcome wagon items that you can provide ahead of time may include:
+ 
+- Housing suggestions, referrals, or Airbnb listings
+- Maps of the city
+- Information on public transportation
+- Places to buy groceries and shop
+- Available on-demand services like Instacart, Postmates, and Lyft
+- Restaurants
+- Coffeeshops
+- Bars
+
+Again, those are just a few examples. We just encourage Accelerator staff to put themselves in the Founders' shoes. What would you want to know if you were moving to a new city or a new office? What kind of information would you find valuable about your town or the Accelerator's neighborhood. Start there. Because your startups will want to know that too.
+
+We recommend providing documentation and creating some sort of reference for startups so they know what to expect as the program becomes more structured. It’ll also help them be clear on deadlines for deliverables and the expectations for them.
+
+Here are some examples of letters we’ve used:
+
+- [What you’re getting yourself in to](/notes/logistics/onboarding-what-youre-getting-in-to.md) 
+- [Woohoo! Here’s what to expect on your first day](/notes/logistics/onboarding-what-to-expect.md). (Along with acceptance letter)
+
+Consider providing these docs along with a welcome basket of swag.  Again, it’s about making folks feel welcome. The more comfortable your startups feel in the space, the sooner they’ll be feel the motivation to work — and begin building up the trust that will enable them to succeed in this environment.
+
+We recommend an intake survey for participants, so you can get a better feel for them as individuals, before they're in the space. Make these questions more personal for the founders:
+
+- Do you have any dietary requirements?
+- Do you have any allergies?
+- Are you an early bird or a night owl?
+
+## Day 0
+				92. Setting expectations
+					93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
+					94. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-to-expect.md
+					95. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-youre-getting-in-to.md
+## Day 1
+
+## Take it slow
+
+We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
+
+				93. Touring the space
+				94. Introducing startups to one another
+
+
 # Engaging mentors in an accelerator class
 At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
 
@@ -2296,83 +2385,8 @@ Best of all, it occurred in a safe environment. Somewhere that the founders coul
 And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
 
 And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
-	
-
-## Onboarding 
-
-With the growing prevalence of Accelerators and the popularity of programs like Y Combinator, Techstars, and 500 startups, it has become common to assume that people are cognizant, if not deeply knowledgeable, about Accelerators, what they are designed to do, how they operate, and how to make the most of being a participant in one.
-
-Nothing could be further from the truth. 
-
-In fact, one of the biggest mistakes most accelerators make — and we've made it a few times — is with onboarding. Or, to put it another way, assuming that participants realize what the accelerator is designed to do, what resources are available, and how to make best use of those resources.
-
-If you're building an early stage tech accelerator, you can sometimes skate by without doing a great deal of onboarding. And just get lucky. We wouldn't recommend it, but you could do that.
-
-Why? Because most early stage tech companies are familiar with the concept of accelerators. They know what they are designed to do. And they understand, at a high level, what they're supposed to get out of the accelerator.
-
-Other industries? Not so much. The accelerator is not a common concept. So  we've found that assuming folks will know how to engage is a huge mistake. You have to tell them.
-
-Tech founder or not, fact of the matter is that most Founders — regardless of their familiarity with Accelerator model — have a limited understanding of how an Accelerator works, how to make use with the resources being offered, or how to effectively engage with the firehose of connections to which they're being exposed.
-
-Granted, learning to deal with these issues is part of the educational process of being in the Accelerator. But part of it is just an unnecessary waste of Founders' and Mentors' time and Accelerators' resources. So give your startups the best chance of succeeding by preparing them with some Accelerator 101 onboarding. 
-
-
-# Give the startups context
-
-It’s important to recognize that joining an Accelerator program — despite the potential upside for the company in the long run — is a huge, immediate disruption for the Founders. And the transition from a typical startup day-to-day of "building a company at your own pace" and "being in charge of your own schedule" into the Accelerator environment can be jarring, at best. And going from working out of a coffee shop or a kitchen to a structured accelerator program is a big transition.
-
-Some individuals may have relocated to participate in your program. Entire companies may have pulled up and moved to your town. Even people who call your town home may soon be spending time in a part of town that's unfamiliar. Or that they're not used to visiting, day in and day out.   
-
-So we recommend that you do what you can to help mitigate this feeling of displacement by making them feel at home. 
-
-Some suggested welcome wagon items that you can provide ahead of time may include:
- 
-- Housing suggestions, referrals, or Airbnb listings
-- Maps of the city
-- Information on public transportation
-- Places to buy groceries and shop
-- Available on-demand services like Instacart, Postmates, and Lyft
-- Restaurants
-- Coffeeshops
-- Bars
-
-Again, those are just a few examples. We just encourage Accelerator staff to put themselves in the Founders' shoes. What would you want to know if you were moving to a new city or a new office? What kind of information would you find valuable about your town or the Accelerator's neighborhood. Start there. Because your startups will want to know that too.
-
-We recommend providing documentation and creating some sort of reference for startups so they know what to expect as the program becomes more structured. It’ll also help them be clear on deadlines for deliverables and the expectations for them.
-
-Here are some examples of letters we’ve used:
-
-- [What you’re getting yourself in to](/notes/logistics/onboarding-what-youre-getting-in-to.md) 
-- [Woohoo! Here’s what to expect on your first day](/notes/logistics/onboarding-what-to-expect.md). (Along with acceptance letter)
-
-Consider providing these docs along with a welcome basket of swag.  Again, it’s about making folks feel welcome. The more comfortable your startups feel in the space, the sooner they’ll be feel the motivation to work — and begin building up the trust that will enable them to succeed in this environment.
-
-We recommend an intake survey for participants, so you can get a better feel for them as individuals, before they're in the space. Make these questions more personal for the founders:
-
-- Do you have any dietary requirements?
-- Do you have any allergies?
-- Are you an early bird or a night owl?
-
-## Day 0
-
-## Day 1
-
-## Take it slow
-
-We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
-
-
-
-				92. Setting expectations
-					93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
-					94. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-to-expect.md
-					95. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-youre-getting-in-to.md
-				93. Touring the space
-				94. Introducing startups to one another
-			91. First day
-			
+				
 # Family Dinner
-
 Arguably, Family Dinner is one of the most important parts of the program. As the name implies, Family Dinner is a weekly gathering — over dinner — designed to be an exclusive opportunity for our company founders to come together, share status updates, and give guidance to one another. Think of it as it a support group with food.
 
 Having a gathering like this is crucial to the health of your program — and the mental well-being of your founders — that will deepen the connections among companies participating in the class. Peer mentoring is not something that can be forced, but in a setting like family dinner, it is only natural that folks will offer help to their fellow founders.
@@ -2394,7 +2408,6 @@ We recommend hosting your dinners on-site rather than at a restaurant, unless yo
 Consider family dinner mandatory.
 
 ## Family Dinner 0.9 Beta (Coworking version)
-
 The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. 
 
 We called it Family Dinner because [that's what Y Combinator called their gathering](https://www.fastcompany.com/3040961/the-y-combinator-chronicles/giddiness-terror-cornbread-heres-what-a-y-combinator-dinner-is-r). And we liked the implications of family and strengthening the connections among the members of the PIE folks.
@@ -2449,30 +2462,6 @@ Again, Realizing that sharing successes tends to discourage any folks who are fu
 We encouraged folks to keep updates short, but we would never cut anyone off who was digging into some deep issues. And we would specifically call out founders who we believed to have expertise that would be helpful to other founders. 
 
 Perhaps the highlight of all Family Dinners — and a nod to how valuable they were — was when Founders who were on the road would take time to call into Family Dinner. (Orchestrate was especially good at this.) If they were on video conference, we would make sure that everyone got face time with the founder calling in. 
-
-# Three months
-
-PIE chose to run our program for a three month intensive period. 
-
-We ran the first class for four and half months, and it seemed to be too long. So we shortened the program. Later, we'll get into why it seemed long. 
-
-## Three months is a very short time
-
-Most corporations, governments, and larger organization often question how we can possibly get anything effective done in three months. "Three months seems so short," they say. 
-
-And it is. It's a short intensive period of incredibly stressful work. Piled on top of — or in the middle of — the long period of incredibly stressful and arduous work that is building a startup. (In all honesty, the accelerator period is the least stressful — and most supportive — of any of it.)
-
-And if companies aren't careful, the three months can slip by very quickly. Too quickly. Without much to show for it. A few skipped mentor meetings. A talk or two. And suddenly it's Demo Day. Just like that. 
-
-## Three months is a very long time
-
-But fact of the matter is, when you're in the thick of it, three months is an incredibly long time. Especially when you're breaking it into minutes. 
-
-![PIE's infamous countdown clock](/source/images/pie-countdown-clock.jpg)
-
-From the time the first day of PIE starts until we bring the house lights down and Demo Day begins is about 130,000 minutes. And each one is critical. 
-
-But no matter how motivated the founder, no matter how real the opportunity, no matter how passionate the team, it's a challenge to keep the momentum going. It's nearly impossible, over that length of time, to keep a sustained sprint going. It's like running toward a goal somewhere off in the distance. Like trying to realize a strategy without any tactics. 
 
 ## Typical week in PIE
 
