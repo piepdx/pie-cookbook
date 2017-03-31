@@ -1677,7 +1677,6 @@ And if you do it right? You’ll find they’ll be a lot more willing to commit 
 Respect mentors’ time and they will repay that respect with more time.
 
 ## Mentoring the mentors
-
 Around the time [PIE](http://piepdx.com/ "PIE") was starting the accelerator phase of this ongoing experiment, [David Cohen](http://twitter.com/davidcohen), cofounder of [TechStars](http://techstars.com/ "TechStars"), shared the [TechStars Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/ "TechStars Mentor Manifesto"). And it served as an inspiration for me. [A post by Micah Baldwin](http://archive.learntoduck.net/techstars/good-mentor/ "8 Rules To Being A Good Techstars Mentor"), a former TechStars mentor , provided a similar nudge for me.
 
 I’m often reminded to go back and reread both of these posts. And am inspired, again and again. So I thought I’d take the opportunity to augment the PIE mentor guidance a bit with some things that we’ve learned from observing PIE startups and mentors over the years.
@@ -1691,7 +1690,6 @@ If you’re thinking about becoming a mentor for startups — either in a fo
 ### 10 tips for mentoring startups
 
 #### 1) Common sense is not common.
-
 Mentors often worry that they need to come up with some earth-shattering insights to be of value. This couldn’t be further from the truth. Fact of the matter is that you spend day-in, day-out working in your area of expertise.
 
 > You make intuitive leaps that are all but impossible without having had the experiences you’ve had.
@@ -1724,7 +1722,6 @@ Like it or not, we are all victims of the “curse of knowledge.” And that’s
 And that’s why, be it for business or mentoring or whatever, I am constantly challenged — and fail regularly — to do two things:
 
 ##### a) Stop assuming intuitive leaps have been made.
-
 I have a really bad tendency to assume that everyone has already thought about what I’m thinking about. As such, I assume that they’re making the same intuitive leaps I am. So I don’t say anything. Or share thoughts.
 
 The problem with this is that — more often than not — they aren’t making those leaps. It’s not because I’m smarter. (That, I can guarantee.) It’s just because I’m working with my set of common sense. So, even if it feels like I’m backtracking, I’m working to start with the reasoning behind my thinking. To ensure that everyone is on the same page.
@@ -1732,7 +1729,6 @@ The problem with this is that — more often than not — they aren’t 
 What’s more, I’m really trying to focus on beginning at the introductory level — the 101 — and go from there. Without being pedantic or dismissive. Because you can’t just jump into the deep end of the pool and assume that everyone knows how to swim.
 
 ##### b) Over-communicating what I think I know.
-
 If I’m not sure where my peers stand, then the onus is on me to be more effective at communicating. And I need to be more conscious and deliberate about sharing my opinions. No matter how small our company or our organization, we should be over-communicating when telling one another what is important, how we think things should be done, and how we have learned to get there.
 
 Even better? We should be documenting what we know to provide a common lexicon for those discussions and a foundation for new folks entering the fray.
@@ -1745,7 +1741,6 @@ You know more about what you do than I do, or he does, or she does, or they do. 
 > That thing that seems so completely obvious to you? It isn’t to the rest of us. Your common sense isn’t common.
 
 #### 2) Your mistakes are often more valuable than your successes.
-
 While sharing your victories can be motivating for startups and entrepreneurs, being open about your failures and mistakes can often be more helpful. The stumbles and downfalls are the things that caused you to lose sleep, to stress, and to doubt. Share those. So that everyone can learn from them.
 
 > Mistakes are why you changed what you were doing. Failures are the things that taught you how to do your job.
@@ -1753,7 +1748,6 @@ While sharing your victories can be motivating for startups and entrepreneurs, b
 We always say that PIE is about “making new mistakes.” There are two reasons: 1) If startups are repeating mistakes our mentors have already made, we’re failing them and 2) If the startups go out and make new mistakes, then they can come back as mentors to prevent others from making those mistakes.
 
 #### 3) You don’t have to know everything.
-
 You were asked to mentor because of your experience. And because you’re awesome. But that doesn’t mean you need to know everything. Nor does it mean the onus is on you to know everything.
 
 > You know what you know. Share that.
@@ -1761,7 +1755,6 @@ You were asked to mentor because of your experience. And because you’re awesom
 You’ll be surprised at how seemingly simple things can drastically improve a startup’s potential and perspective.
 
 #### 4) You are more than your role or profession.
-
 This one became especially clear with our corporate mentors. Sometimes, you have to take off your “brand hat” and put away your business card.
 
 > Sometimes, your most valuable feedback comes not from what your company would say but from what **_you_** would say.
@@ -1769,7 +1762,6 @@ This one became especially clear with our corporate mentors. Sometimes, you have
 You are an incredibly talented individual who has made it to the position you’re in because of the decisions you’ve made. And its your insight and intellect that guided those decisions — that brought you to your current role. Sometimes, just being you and providing personal advice can be incredibly beneficial.
 
 #### 5) Know your limitations.
-
 Don’t over promise. Don’t under deliver. And don’t get yourself into a mentoring situation that has you feeling stressed. An hour of your time is valuable. If that’s all you have to give, that’s all we’re asking you to give.
 
 > Don’t make this a chore. Mentoring is a reward.
@@ -1777,7 +1769,6 @@ Don’t over promise. Don’t under deliver. And don’t get yourself into a men
 It’s the opportunity to share what you’ve learned. And to prevent others from making the mistakes you’ve made. It should be seen as such.
 
 #### 6) Advise as if you were an employee.
-
 Mentors are often driven individuals who have attained their position through sheer determination and hard work. They’re often people who take the wheel and try to steer others in the right direction. And they’re used to leading.
 
 > But your role here is not to lead. Your role is to advise.
@@ -1787,7 +1778,6 @@ And fact of the matter is that — no matter how vehemently you support or o
 We take this from the vantage of an employee or consultant advising his or her superiors. “This is my opinion on what should be done, but you’re the boss.” Mostly because I’m fairly sure I’ll be working for one these entrepreneurs one day.
 
 #### **7) Be honest.**
-
 While mentoring can be a lot about bolstering the outlook for new entrepreneurs and motivating them to change the world, that’s not the goal of mentoring. The goal of mentoring is positive. But the path may not be.
 
 > The most valuable mentoring comes from being honest. Not nice. But honest.
@@ -1795,7 +1785,6 @@ While mentoring can be a lot about bolstering the outlook for new entrepreneurs 
 Sometimes, your feedback will be negative. Sometimes, your feedback will be difficult. But it should always be honest and critical — in both the positive and negative sense of the word.
 
 #### **8) You can’t fix everything. Nor should you.**
-
 You’re not here to rescue anyone. You’re here to provide startups with feedback. And you’re here to challenge them. That’s all we ask. If you want to take an entrepreneur under your wing, please feel free. But don’t feel obligated to solve their problems.
 
 > Your job is to push startups to solve problems themselves.
@@ -1803,7 +1792,6 @@ You’re not here to rescue anyone. You’re here to provide startups with feedb
 More often than not, the problems you see haven’t even dawned on them yet. So tell them. But don’t try to fix the problems for them.
 
 #### **9) Take it personally.**
-
 We want you to be invested. We want you to be happy and frustrated and proud and confounded. We want you along for the rollercoaster ride. We need you to take this personally.
 
 > As a mentor, what comes from your gut and your heart is often more important than what comes from your brain.
@@ -1811,7 +1799,6 @@ We want you to be invested. We want you to be happy and frustrated and proud and
 At times, it will be completely aggravating. But that means you’re taking it personally. And that’s what these entrepreneurs need.
 
 #### **10) Mentor one another.**
-
 You’re not just here to give. You’re here to get. It’s a two-way street. So talk to other mentors. Get advice from the startups. Get advice from your peers. Get advice from anyone in the community.
 
 > If you see another mentor in need of guidance — in need of your common sense — then pull them aside and share it.
@@ -1887,9 +1874,17 @@ One of the amazing things about people is that everyone sees their own connectio
 				84. Fringe benefits of applications: Market research
 					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
 					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
+					
+									85. Written responses
+				86. Follow up questions
+				87. Face to face Interviews
+					88. Travel
+					88. Objective
+					89. Tells
+				90. [Expect founders to be dubious](https://hackernoon.com/i-used-to-be-a-skeptic-but-the-first-two-weeks-of-techstars-boulder-have-blown-my-mind-d05c6fc55c91#.y40yakq93) 
+
 
 # Selection
-
 Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
 
 It only makes sense. Because it's honestly the most challenging part of this whole process. 
@@ -1898,9 +1893,7 @@ What's more, to the outside world, it's the metric on which the "success" of you
 
 And everyone is interested in this topic. Other programs want to make sure that they're picking the best candidates. And candidates want to be sure they're providing the details that make it more likely for them to get picked.
 
-
 ## Grading criteria
-
 Over the course of the programs PIE ran, we came up with a way of grading startups on a series of weighted factors. And we know this will come as a shock, but we made those factors into an acronym. 
 
 We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
@@ -1914,9 +1907,7 @@ PIE has a proven and refined methodology for selecting participants in its progr
 - **Idea** (2.0x): Staff, partners, and mentors are asked to analyze the potential of the business idea, the market(s) to which the idea may be attractive, the feasibility of developing a product for that market(s), and whether the product is appropriately timed for the intended market(s).
 - **Enchantment** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
 
-
 ### People
-
 People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
 - - - 
 > **tl;dr The only thing that matters is picking good Founders.**
@@ -1939,9 +1930,7 @@ So we ask questions like:
 - What would happen if you were stuck in an airport overnight with this Founder?
 - Will this Founder be a good Mentor for future PIE companies? 
 
-
 ### Idea
-
 After People, the next grading criteria is the Idea. Not the product, mind you, because that will change over the course of the Accelerator. It's the Idea. 
 
 So we ask questions like:
@@ -1953,7 +1942,6 @@ So we ask questions like:
 - Is there significant competition? (Not a a disqualifier, at all.)
 
 ### Enchantment
-
 This is kind of our catch all category. It can serve as a tiebreaker. Or as a multiplier. Or simply as a way to reaffirm what we believe the other two categories have told us. 
 
 Okay. To be honest, we actually call this category "Serendipity." But we didn't like that acronym. So we changed it to "Enchantment." Because it's a little bit magic. And gut. And luck.
@@ -1969,16 +1957,10 @@ To qualify Enchantment, we ask questions like:
 - Do they have a product that matches the thesis of our closest investors?
 - Is this just interesting for some odd reason?
 
-				85. Written responses
-				86. Follow up questions
-				87. Face to face Interviews
-					88. Travel
-					88. Objective
-					89. Tells
-				90. [Expect founders to be dubious](https://hackernoon.com/i-used-to-be-a-skeptic-but-the-first-two-weeks-of-techstars-boulder-have-blown-my-mind-d05c6fc55c91#.y40yakq93) 
 			90. Prep
 				91. Background checks
 				92. Paperwork
+				93. Acceptance https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
 
 ## Onboarding 
 With the growing prevalence of Accelerators and the popularity of programs like Y Combinator, Techstars, and 500 startups, it has become common to assume that people are cognizant, if not deeply knowledgeable, about Accelerators, what they are designed to do, how they operate, and how to make the most of being a participant in one.
@@ -1997,8 +1979,7 @@ Tech founder or not, fact of the matter is that most Founders — regardless of
 
 Granted, learning to deal with these issues is part of the educational process of being in the Accelerator. But part of it is just an unnecessary waste of Founders' and Mentors' time and Accelerators' resources. So give your startups the best chance of succeeding by preparing them with some Accelerator 101 onboarding. 
 
-
-# Give the startups context
+### Day 0: Give the startups context
 It’s important to recognize that joining an Accelerator program — despite the potential upside for the company in the long run — is a huge, immediate disruption for the Founders. And the transition from a typical startup day-to-day of "building a company at your own pace" and "being in charge of your own schedule" into the Accelerator environment can be jarring, at best. And going from working out of a coffee shop or a kitchen to a structured accelerator program is a big transition.
 
 Some individuals may have relocated to participate in your program. Entire companies may have pulled up and moved to your town. Even people who call your town home may soon be spending time in a part of town that's unfamiliar. Or that they're not used to visiting, day in and day out.   
@@ -2033,14 +2014,9 @@ We recommend an intake survey for participants, so you can get a better feel for
 - Do you have any allergies?
 - Are you an early bird or a night owl?
 
-## Day 0
-				92. Setting expectations
-					93. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
-					94. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-to-expect.md
-					95. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-what-youre-getting-in-to.md
-## Day 1
+### Day 1
 
-## Take it slow
+#### Take it slow
 
 We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
 
