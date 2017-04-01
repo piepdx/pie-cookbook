@@ -2124,15 +2124,7 @@ Let's get started by walking through the application and selection process by:
 				84. Events
 				82. Tchotchkes
 								
-### Once the application period closes
-#### First cut
-Written responses
-#### Second cut
-Follow up questions
-### Final cut
-Face to face Interviews
-
-# Selection
+## Selection process
 Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
 
 It only makes sense. Because it's honestly the most challenging part of this whole process. 
@@ -2141,7 +2133,7 @@ What's more, to the outside world, it's the metric on which the "success" of you
 
 And everyone is interested in this topic. Other programs want to make sure that they're picking the best candidates. And candidates want to be sure they're providing the details that make it more likely for them to get picked.
 
-## Grading criteria
+### Grading criteria
 Over the course of the programs PIE ran, we came up with a way of grading startups on a series of weighted factors. And we know this will come as a shock, but we made those factors into an acronym. 
 
 We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
@@ -2155,7 +2147,7 @@ PIE has a proven and refined methodology for selecting participants in its progr
 - **Idea** (2.0x): Staff, partners, and mentors are asked to analyze the potential of the business idea, the market(s) to which the idea may be attractive, the feasibility of developing a product for that market(s), and whether the product is appropriately timed for the intended market(s).
 - **Enchantment** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
 
-### People
+#### People
 People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
 - - - 
 > **tl;dr The only thing that matters is picking good Founders.**
@@ -2178,7 +2170,7 @@ So we ask questions like:
 - What would happen if you were stuck in an airport overnight with this Founder?
 - Will this Founder be a good Mentor for future PIE companies? 
 
-### Idea
+#### Idea
 After People, the next grading criteria is the Idea. Not the product, mind you, because that will change over the course of the Accelerator. It's the Idea. 
 
 So we ask questions like:
@@ -2189,7 +2181,7 @@ So we ask questions like:
 - What will it take to engage that market?
 - Is there significant competition? (Not a a disqualifier, at all.)
 
-### Enchantment
+#### Enchantment
 This is kind of our catch all category. It can serve as a tiebreaker. Or as a multiplier. Or simply as a way to reaffirm what we believe the other two categories have told us. 
 
 Okay. To be honest, we actually call this category "Serendipity." But we didn't like that acronym. So we changed it to "Enchantment." Because it's a little bit magic. And gut. And luck.
@@ -2204,6 +2196,15 @@ To qualify Enchantment, we ask questions like:
 - Do they present an interesting collaborative opportunity or creative challenge for our Patrons or Sponsors?
 - Do they have a product that matches the thesis of our closest investors?
 - Is this just interesting for some odd reason?
+
+### Stages of the selection process
+#### First cut
+Written responses
+#### Second cut
+Follow up questions
+#### Final cut
+Face to face Interviews
+
 
 			90. Prep
 				91. Background checks
