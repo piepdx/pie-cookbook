@@ -2112,6 +2112,9 @@ Those phases were:
 
 ### Applications
 Our first phase of the process was a Web-based application — Google Form or the like — that allowed us to capture some basic information about the team, the product, and why the applicant was interested in PIE. 
+- - -
+PRO TIP: Select an application format that provides a confirmation upon form submission. This will ensure that applicants know the form has been submitted and will save you from strings of follow up emails.
+- - -
 
 As part of the experiment, we would set the deadline as close as two weeks or as far as six weeks from the application opening date. No matter how long or short the application period, we generally received around 400 separate company applications. 
 
@@ -2203,26 +2206,6 @@ official application.**
 ##### MORE INFO?
 Feel free to contact us at info@piepdx.com, follow us on Twitter at http://twitter.com/piepdx, like us on Facebook at http://facebook.com/piepdx, or follow us on AngelList at http://angel.co/piepdx.
 
-### Triaging initial responses
-Following the close of the initial applications, PIE staff and selected mentors would go through our initial selection process, reviewing all of the applications with a triage mentality. 
-
-That consisted of three buckets:
-
-- Keep: Companies that seemed like a good fit for PIE
-- Question: More details required to determine if the company was a good fit
-- Cut: Companies that did not seem like a good fit for PIE
-
-This triage process usually resulted in us eliminating 50% of the applicants (Cut) and continuing to work through due diligence with the remaining 50% (Keep and Question).
-
-### Written follow up questions
-Candidates who fell into the "Question" category received follow-up questions via email. We used this technique to dig into the details that may have required more explanation or areas that we felt were nebulous or unclear. 
-
-At times, we would question some of the Keep candidates. Specifically if they were working in areas where staff or mentors had specific expertise. 
-
-The questions allowed us to test assumptions or get additional data. 
-
-We generally gave the startups a week to respond to our questions. They were kept or cut based on our analysis of their responses.
-
 ## Selection process
 Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
 
@@ -2237,7 +2220,7 @@ Over the course of the programs PIE ran, we came up with a way of grading startu
 
 We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
 
-(Additional content on selection to be incorporated)
+Note: We used these criteria at each phase of the selection process. 
 
 **Participant selection**
 PIE has a proven and refined methodology for selecting participants in its programs. At a macro level, this methodology includes a weighted average of the following elements:
@@ -2300,11 +2283,53 @@ To qualify Enchantment, we ask questions like:
 
 ### Stages of the selection process
 #### First cut
-Written responses
+Following the close of the initial applications, PIE staff and selected mentors would each go through the applications by themselves — ranking them by the People, Idea, and Enchantment criteria — reviewing all of the applications with a triage mentality.
+
+That consisted of three buckets:
+
+- Keep: Companies that seemed like a good fit for PIE
+- Question: More details required to determine if the company was a good fit
+- Cut: Companies that did not seem like a good fit for PIE
+
+Once each reviewer had completed their personal assessment, the review committee would meet to compare notes, resolve differences, and agree upon the companies moving into the next round — and those companies that did not appear to be a good match for PIE based on their application responses. 
+
+This triage process usually resulted in us eliminating 50% of the applicants (Cut) and continuing to work through due diligence with the remaining 50% (Keep and Question).
+
+Cut companies were alerted immediately that they would not be continuing in the process. 
+
 #### Second cut
-Follow up questions
+Candidates who fell into the "Question" category received follow-up questions via email. We used this technique to dig into the details that may have required more explanation or areas that we felt were nebulous or unclear. 
+
+At times, we would question some of the Keep candidates. Specifically if they were working in areas where staff or mentors had specific expertise. 
+
+The questions allowed us to test assumptions or get additional data. 
+
+We generally gave the startups a week to respond to our questions.
+
+The review committee would then review and assess the responses from the applicants and decide whether the "Question" companies were be moved to "Keep" or "Cut" lists. 
+
+This generally eliminated 50-75% of the remaining companies, leaving us with up to 25% of our original applicants still being processed for inclusion in our accelerator class.
+
+Cut companies were alerted immediately that they would not be continuing in the process. Companies continuing along the selection process were contacted to arrange for face-to-face interviews. 
+
 #### Final cut
-Face to face Interviews
+The face-to-face interview is the final stage of the selection process. There is no more labor intensive — or insightful — method for selecting the startups in your class. 
+
+Interview teams consisted of PIE staff and — when warranted — mentors who had expressed interest in talking to the company. PIE encouraged all founders named in the application to attend, if not in person than by phone. If the startup was unable to travel, PIE would often opt to send one staff member to meet with the team in person, while the remaining interviewers called in by phone. Worst case was a phone meeting or video conference. 
+
+PIE planned 30-45 minutes for each interview, including time for founders to ask the interview team questions.
+
+Questions consisted subjective topics for the individual founders, digging into topics that could not be easily assessed via written responses, and determining progress and traction since the written response had been submitted, week earlier.
+
+For the most part, the in person interviews were a means of determining the working dynamic of the team and the potential coachability of the founders.
+
+Following this interview, staff members compared interview notes and individually ranked each of the candidate companies. Those lists were compared and normalized. 
+
+The final list was presented to the selection committee, critiqued, argued, and normalized to a rank order list of approximately 20 startups for the 8-10 spots in the PIE class. 
+
+A staff member — usually the Managing Director — then worked down the list, from first choice to last, calling each candidate on the phone to share the news and assess their willingness to participate in the program. Once 10 applicants had been verbally accepted, the calling ceased. 
+
+The remaining candidates were alerted by phone that they were not selected for the class. They were also informed that they were still under consideration for participation and, should any of the accepted candidates fall through, they would be offered a spot in the class. 
 
 
 			90. Prep
