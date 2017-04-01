@@ -2331,7 +2331,7 @@ A staff member — usually the Managing Director — then worked down the list,
 
 The remaining candidates were alerted by phone that they were not selected for the class. They were also informed that they were still under consideration for participation and, should any of the accepted candidates fall through, they would be offered a spot in the class. 
 
-
+## Acceptance
 			90. Prep
 				91. Background checks
 				92. Paperwork
