@@ -1479,9 +1479,18 @@ Be advised that the mail thing goes two ways. Not only will you be dealing with 
 The downside of all of this? Most of your startups will only share the space with you briefly, but you will be receiving mail for every single one of your startups for the rest of your life.
 
 # Staff
+Once you have your space sketched out, you're going to need some folks to run your accelerator. We say "folks" because we've determined that it's nearly impossible to run an accelerator with fewer than two full-time employees focused on the effort.
+
+It can be done, mind you. (PIE, for example, was staffed by one FTE supported by a bunch of volunteers for its first accelerator class.) But it will result in less value to your startups and more headaches for your staff.
+
+We recommend the following two roles as critical to the success of the accelerator: 
+
+- Managing Director/General Manager
+- Program Manager
+
+Let's take a look at their roles and responsibilities. 
 
 ## Managing Director (or General Manager)
-
 ### Role
 The Managing Director (sometimes referred to as "General Manager") works to ensure that current startups, mentors, alumni, investors, brand sponsors, and accelerator staff have a mutually rewarding experience that improves the perception and quality of entrepreneurial ventures associated with the program.
 
@@ -1519,7 +1528,6 @@ The Managing Director (sometimes referred to as "General Manager") works to ensu
 - Work with sponsors' and patrons' communications teams to promote the accelerator within their respective industries
 
 ## Program Manager
-
 ### Role
 The Program Manager works to ensure that the current class of startups has the most rewarding and beneficial experience while in the space. This role also serves as the primary startup liaison and ombudsman.
 
@@ -1561,9 +1569,9 @@ Obviously, the magic of the good cop, bad cop dynamic is that the two cops are i
 - - -
 
 # Optional roles
+If budget allows — or if the unique structure of your accelerator creates more work than two people can effectively manage — we recommend considering these nice to have roles, next. PIE experimented with each of these roles throughout the course of our program.
 
 ## Corporate/Brand Manager 
-
 ### Role
 The Brand Manager works to ensure that corporate/brand sponsors and patrons derive demonstrable value from their engagement with the accelerator. This role serves as the primary liaison and ombudsman for the accelerator's corporate/brand mentors.
 
@@ -1592,7 +1600,6 @@ The Brand Manager works to ensure that corporate/brand sponsors and patrons deri
 - Work with corporate/brand communications to promote brand sponsors within their respective industries
 
 ## Entrepreneur in Residence (EiR)
-
 ### Role
 The entrepreneur in residence role is designed to serve two critical functions. First, the role is designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with accelerator staff or mentors. Second, the EiR is charged with assessing and highlighting opportunities within the accelerator environment that may result in efficiencies or revenue generation.
 
@@ -1616,7 +1623,6 @@ The entrepreneur in residence role is designed to serve two critical functions. 
 	- Social
 
 ### Additional roles
-
 If budget and available management resources allow, accelerators may also choose to augment staff with roles like interns, associates, and the like. We will explore these roles in future editions of the PIE Cookbook. 
 
 ## How to hire
