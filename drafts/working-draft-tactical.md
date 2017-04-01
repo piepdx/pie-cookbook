@@ -2331,7 +2331,7 @@ A staff member — usually the Managing Director — then worked down the list,
 
 The remaining candidates were alerted by phone that they were not selected for the class. They were also informed that they were still under consideration for participation and, should any of the accepted candidates fall through, they would be offered a spot in the class. 
 
-
+## Acceptance
 			90. Prep
 				91. Background checks
 				92. Paperwork
@@ -2392,13 +2392,16 @@ We recommend an intake survey for participants, so you can get a better feel for
 ### Day 1: Take it slow
 We’ve found that too much scheduling the first few days can lead to a bumpy kickoff for companies starting the program. The first day of your program should be dedicated to introducing teams to one another, giving an office tour, letting people get settled and then finally, letting them get to work. 
 
-				93. Touring the space
-				94. Introducing startups to one another
+#### Introduce the startups the space
+Make sure to take some time introducing the founders to the space and lay some of the ground rules. We always made sure to let the founders know "This is your office now. You're welcome to use it however you choose. But please bear in mind that it is a shared environment."
+
+#### Introduce the startups to one another
+Don't assume that founders are going to get to know one another. Some will be outgoing and gregarious. Others will be shy. Make sure you take the opportunity to introduce everyone without putting anyone on the spot.
 				
-#### Introducing startups to the concept of working with mentors
+#### Introduce the startups to the concept of working with mentors
 Just as the startups will need context for what the accelerator is designed to do, they'll also need context on how to work with mentors. We feel it's best to do this sort of stuff in person, so we wait until the startups are in the space.
 
-Here's an example of one way we use to bring the startups up-to-speed
+Here's an example of one way we use to bring the startups up-to-speed:
 
 ##### Advice for startups: Working with mentors**
 Are you interested in engaging with mentors? Good. That's what we're here to do.
