@@ -234,6 +234,10 @@ PIE chose to run our program for a three month intensive period.
 
 We ran the first class for four and half months, and it seemed to be too long. So we shortened the program.  
 
+This version of the PIE Cookbook assumes that you are considering a similar format, so it is written from that vantage point. That said, many of the topics we'll cover are equally applicable to any number of accelerator models. 
+
+Long story short, we're starting with what we know by writing this from the PIE perspective. But we remain hopeful that, as this project goes on and the documentation continues to grow and expand, we're able to cover any number of models, timelines, and formats in the future. 
+
 ### Three months is a very short time
 Most corporations, governments, and larger organization often question how we can possibly get anything effective done in three months. "Three months seems so short," they say. 
 
