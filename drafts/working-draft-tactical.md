@@ -2102,7 +2102,25 @@ Let's get started by walking through the application and selection process by:
 - Selecting companies to participate
 
 ## Application and selection process
+We used three phases of inquiry as part of our information gathering. Fewer and fewer applicants would continue on to the next phase. 
+
+Those phases were:
+
+- Written application
+- Written follow up questions
+- Face-to-face interview
+
 ### Applications
+Our first phase of the process was a Web-based application — Google Form or the like — that allowed us to capture some basic information about the team, the product, and why the applicant was interested in PIE. 
+
+As part of the experiment, we would set the deadline as close as two weeks or as far as six weeks from the application opening date. No matter how long or short the application period, we generally received around 400 separate company applications. 
+
+This probably won't come as a shock to anyone, but the vast majority of your applications will be submitted within 24 hours of your deadline.
+
+So what kinds of questions should you ask? How many should you ask? We recommend keeping it as simple as you can. But you'll want to make sure you're getting all of the basic questions answered. 
+
+Here's an example of the types of things PIE wanted to know. 
+
 #### Sample PIE application 
 Thank you for your interest in PIE, the Portland Incubator Experiment. PIE is a partnership among leading brands, technology innovators, and Wieden+Kennedy — the largest privately held advertising and communications company in the world. It serves as a hub for community, entrepreneurship, and creative thinking.
 
@@ -2184,6 +2202,10 @@ official application.**
 
 ##### MORE INFO?
 Feel free to contact us at info@piepdx.com, follow us on Twitter at http://twitter.com/piepdx, like us on Facebook at http://facebook.com/piepdx, or follow us on AngelList at http://angel.co/piepdx.
+
+### Written questions
+Following our review of the initial applications, PIE staff and selected mentors would 
+
 				84. Communications
 					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
 					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
