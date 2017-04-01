@@ -255,7 +255,7 @@ Where you start is where you start. Don't let the current state of things or the
 
 Just start.
 
-# Laying the groundwork for your accelerator
+# Establishing the unique context for your accelerator
 This is like a cookbook of false starts, isn't it? Bear with us.
 
 It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say, "We're an accelerator. That's not always a positive thing. We have the potential to help accelerate your success, but we can just as easily accelerate your company right into the ground."
@@ -263,6 +263,8 @@ It is important to understand that an Accelerator is simply a tool. It is not in
 At PIE, we dove headlong into the effort with a bunch of assumptions. Among those assumptions was the ideas that when one of us used a particular word, we all had a similar concept for what that word meant. We were wrong. And it caused confusion and stress. 
 
 So we learned that it was important to diffuse those assumptions by taking some time to establish context and vocabulary for what you're trying to accomplish. Below, you'll find an example of the definitions we used to explain the different elements of the PIE community.
+
+In this day and age — with a bevy of accelerators from which to choose — it's more important than ever that you take the time to figure out what makes your accelerator unique and valuable. Rather than making it a me-too-also-ran. 
 
 ## Definitions
 Like many industries, the startup world is rife with terminology that holds special meaning to individuals who are well versed in its own cryptic lexicon. For that reason, we often fall into situations where we assume we’re on the same page as one of our similarly immersed counterparts. And — like most assumptions — that can cause problems. We believe that communication and clarity are vital, so we’re always looking for ways to get everyone speaking the same language.
@@ -1266,7 +1268,6 @@ Also prepare to take on the cost of supplies and maintenance for this unit. Beca
 If you want to be really nice, make sure that this device is networked. PIE never managed to accomplish this. It's still a dream that we will, one day.
 
 Finally, don't be tempted to charge per copy or anything silly like that. Just eat the cost as a cost of doing business. 
-			
 
 ## Restrooms/Locker rooms
 This is obvious but we don't want to ignore the obvious. You're going to need restrooms for your Accelerator residents. Preferably multiple facilities. 
@@ -1427,7 +1428,6 @@ Anything less, and you're compromising the opportunity to bond with your compani
 Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
 
 ## Ongoing build out
-
 The space you start with doesn't have to be perfect. It's like building any product. Start with what you have. Figure out what's working. Figure out what's needed. And improve from there. 
 
 When we started PIE, there were no conference rooms. Or phone booths. So people took calls in the space. Or out on the stoop. Or while walking laps around the block.
@@ -1439,7 +1439,6 @@ We had a pseudo conference room that allowed a small group of people to gather. 
 It was just a circle of high back leather chairs around an old Starbucks sign coffee table. But it provided enough of a conference room effect to be useful. In the short term.
  
 ### Conference room
-
 As time went on, we identified the need for an actual conference room. So we took another corner of the office space and walled it off to create a conference room space. 
 
 It was overly warm and stuffy. The chairs were uncomfortable. The electricity rarely worked. The whiteboard was difficult to erase. But it had a door. And it served its purpose. 
@@ -1449,7 +1448,6 @@ It is important to note that we did not start with a conference room. We started
 While it's fairly safe to assume you'll need a conference room, you might want to see how people make use of your existing space before you act on that assumption. Or see how they compensate for the lack of conference room. There might be some interesting learning there. 
 
 ### Meeting areas
-
 Whether you have a conference room in the space or not, you're going to wast to establish some meeting areas in your space. These can be as simple as a couch. Or they can have more structure to them.
 
 When we say "meeting areas," we mean open areas within the coworking area or nearby. These should be places where people can be overheard. And where privacy or confidentiality are secondary. 
@@ -1461,7 +1459,6 @@ Why? Because this sort of arrangement serves three very important functions:
 3. Last but not least, it helps create a sense of activity in the space. You want a dull roar. You want people collaborating. You want it being a little noisy. Don't try to eliminate that. This isn't a library in the 50s.
 
 ### Phone booths
-
 When we started PIE, one of the most obvious — and noisy — things about it was the lack of privacy. There was absolutely nowhere in the space where a person could take a phone call or have a private conversation without everyone hearing. 
 
 For this reason, most people started talking calls outside on the stoop. Or started taking walks around the block for private meetings.
@@ -1482,9 +1479,18 @@ Be advised that the mail thing goes two ways. Not only will you be dealing with 
 The downside of all of this? Most of your startups will only share the space with you briefly, but you will be receiving mail for every single one of your startups for the rest of your life.
 
 # Staff
+Once you have your space sketched out, you're going to need some folks to run your accelerator. We say "folks" because we've determined that it's nearly impossible to run an accelerator with fewer than two full-time employees focused on the effort.
+
+It can be done, mind you. (PIE, for example, was staffed by one FTE supported by a bunch of volunteers for its first accelerator class.) But it will result in less value to your startups and more headaches for your staff.
+
+We recommend the following two roles as critical to the success of the accelerator: 
+
+- Managing Director/General Manager
+- Program Manager
+
+Let's take a look at their roles and responsibilities. 
 
 ## Managing Director (or General Manager)
-
 ### Role
 The Managing Director (sometimes referred to as "General Manager") works to ensure that current startups, mentors, alumni, investors, brand sponsors, and accelerator staff have a mutually rewarding experience that improves the perception and quality of entrepreneurial ventures associated with the program.
 
@@ -1522,7 +1528,6 @@ The Managing Director (sometimes referred to as "General Manager") works to ensu
 - Work with sponsors' and patrons' communications teams to promote the accelerator within their respective industries
 
 ## Program Manager
-
 ### Role
 The Program Manager works to ensure that the current class of startups has the most rewarding and beneficial experience while in the space. This role also serves as the primary startup liaison and ombudsman.
 
@@ -1564,9 +1569,9 @@ Obviously, the magic of the good cop, bad cop dynamic is that the two cops are i
 - - -
 
 # Optional roles
+If budget allows — or if the unique structure of your accelerator creates more work than two people can effectively manage — we recommend considering these nice to have roles, next. PIE experimented with each of these roles throughout the course of our program.
 
 ## Corporate/Brand Manager 
-
 ### Role
 The Brand Manager works to ensure that corporate/brand sponsors and patrons derive demonstrable value from their engagement with the accelerator. This role serves as the primary liaison and ombudsman for the accelerator's corporate/brand mentors.
 
@@ -1595,7 +1600,6 @@ The Brand Manager works to ensure that corporate/brand sponsors and patrons deri
 - Work with corporate/brand communications to promote brand sponsors within their respective industries
 
 ## Entrepreneur in Residence (EiR)
-
 ### Role
 The entrepreneur in residence role is designed to serve two critical functions. First, the role is designed to be the “been there, done that” confidante for startups in the space, engaging in conversations that startups might not be comfortable broaching with accelerator staff or mentors. Second, the EiR is charged with assessing and highlighting opportunities within the accelerator environment that may result in efficiencies or revenue generation.
 
@@ -1619,10 +1623,7 @@ The entrepreneur in residence role is designed to serve two critical functions. 
 	- Social
 
 ### Additional roles
-
 If budget and available management resources allow, accelerators may also choose to augment staff with roles like interns, associates, and the like. We will explore these roles in future editions of the PIE Cookbook. 
-
-## How to hire
 
 # Recruiting mentors
 	
