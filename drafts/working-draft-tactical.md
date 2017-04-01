@@ -1268,7 +1268,6 @@ Also prepare to take on the cost of supplies and maintenance for this unit. Beca
 If you want to be really nice, make sure that this device is networked. PIE never managed to accomplish this. It's still a dream that we will, one day.
 
 Finally, don't be tempted to charge per copy or anything silly like that. Just eat the cost as a cost of doing business. 
-			
 
 ## Restrooms/Locker rooms
 This is obvious but we don't want to ignore the obvious. You're going to need restrooms for your Accelerator residents. Preferably multiple facilities. 
@@ -1429,7 +1428,6 @@ Anything less, and you're compromising the opportunity to bond with your compani
 Without getting too graphic, the staff belongs in the shit. They need to be down in the trenches or foxholes or ditches or whatever analogy you need. The staff needs to be side-by-side with the founders. Because they need to feel the pulse of what's happening in the space. Day by day. And minute by minute.
 
 ## Ongoing build out
-
 The space you start with doesn't have to be perfect. It's like building any product. Start with what you have. Figure out what's working. Figure out what's needed. And improve from there. 
 
 When we started PIE, there were no conference rooms. Or phone booths. So people took calls in the space. Or out on the stoop. Or while walking laps around the block.
@@ -1441,7 +1439,6 @@ We had a pseudo conference room that allowed a small group of people to gather. 
 It was just a circle of high back leather chairs around an old Starbucks sign coffee table. But it provided enough of a conference room effect to be useful. In the short term.
  
 ### Conference room
-
 As time went on, we identified the need for an actual conference room. So we took another corner of the office space and walled it off to create a conference room space. 
 
 It was overly warm and stuffy. The chairs were uncomfortable. The electricity rarely worked. The whiteboard was difficult to erase. But it had a door. And it served its purpose. 
@@ -1451,7 +1448,6 @@ It is important to note that we did not start with a conference room. We started
 While it's fairly safe to assume you'll need a conference room, you might want to see how people make use of your existing space before you act on that assumption. Or see how they compensate for the lack of conference room. There might be some interesting learning there. 
 
 ### Meeting areas
-
 Whether you have a conference room in the space or not, you're going to wast to establish some meeting areas in your space. These can be as simple as a couch. Or they can have more structure to them.
 
 When we say "meeting areas," we mean open areas within the coworking area or nearby. These should be places where people can be overheard. And where privacy or confidentiality are secondary. 
@@ -1463,7 +1459,6 @@ Why? Because this sort of arrangement serves three very important functions:
 3. Last but not least, it helps create a sense of activity in the space. You want a dull roar. You want people collaborating. You want it being a little noisy. Don't try to eliminate that. This isn't a library in the 50s.
 
 ### Phone booths
-
 When we started PIE, one of the most obvious — and noisy — things about it was the lack of privacy. There was absolutely nowhere in the space where a person could take a phone call or have a private conversation without everyone hearing. 
 
 For this reason, most people started talking calls outside on the stoop. Or started taking walks around the block for private meetings.
