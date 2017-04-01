@@ -596,7 +596,7 @@ While your list might not be as long as Chris' — Seattle has been at this for 
 
 If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
 
-# Building your accelerator framework
+# Building your accelerator's strategic framework
 Let's start with this. First and foremost, the primary objective of any Accelerator should be to **create an environment of trust that accelerates creative output**. That is the most basic way to describe it.
 
 Founders trust you to help them make sense of this whole startup thing. To be honest with them. To say the hard things that need to be said. To connect them with the expertise that helps them continue. Or the insight that helps them to quit. 
@@ -744,7 +744,6 @@ This sort of focus can hamstring accelerators and incubators who may see promise
 Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
 
 - - -
-
 **500 Startups hybrid model**
 
 While we don't advocate for making Founders pay to participate in an Accelerator program, we are fans of the creative collaboration between Investors and Program that the [500](http://500.co) Program ([Don't call 500 an Accelerator](http://500.co/the-artist-formerly-known-as-accelerator/)!) has put together. 
@@ -752,9 +751,7 @@ While we don't advocate for making Founders pay to participate in an Accelerator
 In the 500 model, the fund invests in the company. Then the Seed Program charges for participation in their Program. This ensures that the Startup has working capital and a cleaner cap table, the fund has an equity investment, and the program has operating capital. 
 
 > We invest $150k in exchange for 6%. We charge a $37.5k fee for participation in the 500 Seed Program.
-
 - - -
-
 
 ## Promotion 
 *aka Soapbox(es) or bullhorn(s) or campfire(s) or promotional platforms or whatever you want to call them*
@@ -961,6 +958,18 @@ We were lucky to have a number of women in each of our classes, from the coworki
 That said, we had very little variety in terms of colors, ethnicities, orientations, backgrounds, and beliefs.
 
 This was a mistake. One that we are actively working to correct. One that we are being intentional about improving as we continue to work on PIE. Given the opportunity to start over, we would make this one of the critical components of our accelerator foundation. So that's why we're including it here. 
+
+# Initial tactics
+Now that you have the context and strategy roughed out, it's time to start moving from the nebulous to the more tangible. From the strategic to the tactical. Like the accelerator, itself. 
+
+But before you dive into working with a startups, you're going to going to have to build the framework that will support that activity. So let's walk through some key elements:
+
+- Creating a **budget**
+- Selecting and appointing **space**
+- Hiring **staff**
+- Recruiting **mentors**
+- Establishing a **curriculum** or lack thereof
+- Understanding the **cadence** of an accelerator
 
 # Budget
 Early on, one of the most challenging aspects of standing up an accelerator or coworking environment can be projecting — guessing, really — how much it will cost to run the project.
@@ -1869,7 +1878,6 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
 # Curriculum
-
 As a program, PIE has worked to continually refine its highly intensive mentorship model — through both traditional mentors as well as peer mentorship —  in a way that can be customized on a company-by-company basis. We have continued to refine the model so that it even supports the program's ability to focus on the concerns and issues of single individuals, as needed. 
 
 We equate the curriculum of this program to an “independent study” model in a traditional learning environment. Every Founder in the class shares a collective experience with one another, but their individual learnings are tailored to each of their specific needs — be those needs be individualized by company or person — on a case-by-case basis.
@@ -1877,7 +1885,6 @@ We equate the curriculum of this program to an “independent study” model in 
 This high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
 
 ## More independent study than classroom
-
 Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
 
 PIE's high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
@@ -1893,7 +1900,6 @@ Rather, we suggest that Accelerator Staff and Mentors always be on the lookout f
 Some examples of these struggles that impact all founders simultaneously, follow.
 
 ## Common issues 
-
 Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. 
 
 That said, every entrepreneur and company will struggle with the following issues:
@@ -1909,7 +1915,6 @@ That said, every entrepreneur and company will struggle with the following issue
 9.  **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
 
 ## Timing
-
 In a perfect world, Accelerators would be able to schedule and deliver education on each of these topics in a very programmatic way. Unfortunately, the opportunities to do so are rare. 
 
 Every Founder will require education on the topics they all share in common, but there is very little likelihood that every Founder will all be experiencing these issues at the same time. It is up to Staff and Mentors to monitor these opportunities for shared learning as they arise. It is up to the Staff to be prepared to take advantage of these opportunities whenever possible, as a means of making the most efficient use of time for both Founders and Mentors. 
@@ -1924,8 +1929,7 @@ Over the years, we learned that you can use the Accelerator program format to ar
 
 Which is how we came upon the idea of creating a cadence and "The Three Ps."
 
-# Creating a cadence
-
+# Understanding the cadence of an accelerator
 One of the most critical efforts for the accelerator staff is that of managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
 
 There is no prescribed timing here. You add more pressure when it is needed. And you try to break the tension when needed. There is no schedule here. You just have to play it by ear. And act with your best instincts.
@@ -1953,7 +1957,6 @@ So with that caveat in mind, let's walk through the emotional rollercoaster that
 Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
 
 ### Pre-Accelerator
-
 It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number of leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
 
 We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
