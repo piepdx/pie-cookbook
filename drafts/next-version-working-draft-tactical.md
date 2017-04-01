@@ -292,6 +292,15 @@ Pressure/heat (Startups + Staff + Patron)
 			30. Overlap
 			31. Alums as mentors
 
+# Selection
+		86. 
+				87. Face-to-Face Interviews
+					88. Travel
+					88. Objective
+					89. Tells
+				90. [Expect founders to be dubious](https://hackernoon.com/i-used-to-be-a-skeptic-but-the-first-two-weeks-of-techstars-boulder-have-blown-my-mind-d05c6fc55c91#.y40yakq93) 
+
+
 # Class dynamics
 				97. Work time
 				98. Social time

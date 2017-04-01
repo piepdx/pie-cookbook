@@ -2092,22 +2092,17 @@ The last week is pretty much nonstop practice, where we not only continue to fin
 If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
 
 # Running an Accelerator Class
-Now that you have your initial strategy defined
+Now that you have your initial strategy defined, a space for your efforts, staff to implement the program, mentors lined up, and a a rough framework for the class, itself, we're finally ready to get down to the tactics of running the accelerator program. 
 
+Let's get started by walking through the application and selection process by:
 
+- Building your application
+- Recruiting applicants
+- Reviewing the applicants
+- Selecting companies to participate
 
-
-			81. Promotions
-				82. Media
-				83. Community
-					84. Mentors
-					85. Alums
-					86. Partners
-					87. Patrons
-					88. Sponsors
-				84. Events
-				82. Tchotchkes
-			82. Applications
+## Application and selection process
+### Applications
 				83. Example application (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
 				84. Communications
 					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
@@ -2117,15 +2112,25 @@ Now that you have your initial strategy defined
 				84. Fringe benefits of applications: Market research
 					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
 					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
-					
-									85. Written responses
-				86. Follow up questions
-				87. Face to face Interviews
-					88. Travel
-					88. Objective
-					89. Tells
-				90. [Expect founders to be dubious](https://hackernoon.com/i-used-to-be-a-skeptic-but-the-first-two-weeks-of-techstars-boulder-have-blown-my-mind-d05c6fc55c91#.y40yakq93) 
 
+### Promoting the application period
+				82. Media
+				83. Community
+					84. Mentors
+					85. Alums
+					86. Partners
+					87. Patrons
+					88. Sponsors
+				84. Events
+				82. Tchotchkes
+								
+### Once the application period closes
+#### First cut
+Written responses
+#### Second cut
+Follow up questions
+### Final cut
+Face to face Interviews
 
 # Selection
 Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
