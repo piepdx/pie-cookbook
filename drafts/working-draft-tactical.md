@@ -2088,13 +2088,8 @@ The last week is pretty much nonstop practice, where we not only continue to fin
 If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
 
 # Running an Accelerator Class
+Now that you have your initial strategy defined
 
-				78. Setting expectations
-				79. Communicating expectations
-			78. Time period
-			79. Number of classes per year
-			80. Number of companies per class
-			81. Continued coworking or not?
 
 
 

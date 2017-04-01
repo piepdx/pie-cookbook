@@ -34,6 +34,14 @@ Note: Your flavors of PIE will vary. In fact, they must vary. If they don’t, y
 
 When it comes right down to it, all we’ve done at PIE is figure out a way to create a protected and trusted environment for creative people to try new things — and potentially fail. It’s like any artist’s studio. 
 
+				78. Setting expectations
+				79. Communicating expectations
+			78. Time period
+			79. Number of classes per year
+			80. Number of companies per class
+			81. Continued coworking or not?
+
+
 ## Community
 [PLACEHOLDER] Provide analogies/examples of each of the communities above.
 
