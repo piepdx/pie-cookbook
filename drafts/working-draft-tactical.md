@@ -1626,7 +1626,11 @@ The entrepreneur in residence role is designed to serve two critical functions. 
 If budget and available management resources allow, accelerators may also choose to augment staff with roles like interns, associates, and the like. We will explore these roles in future editions of the PIE Cookbook. 
 
 # Recruiting mentors
-	
+Once you have space and staff, the next priority for your accelerator is recruiting the mentors who will help your startups. Mentors are the lifeblood of any good accelerator, but they're especially critical for new accelerators. 
+- - -
+> **tl;dr New accelerators are judged primarily by their mentor pool. Operating accelerators are only as good their last class.**
+- - - 
+
 			21. Anyone can (and should) be a mentor
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities
