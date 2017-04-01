@@ -1,5 +1,8 @@
 # TOPICS FOR PIE COOKBOOK 1.1
 
+We ran the first class for four and half months, and it seemed to be too long. So we shortened the program. Later, we'll get into why it seemed long. 
+
+
 ## Culture
 
 			56. Hospitality

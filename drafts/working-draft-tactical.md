@@ -1,5 +1,4 @@
 # Introduction
-
 The PIE methodology has been tested, refined, and proven in Portland over an eight-year period. During that time, the program implementing that methodology has fostered the growth of [a number of companies](http://www.piepdx.com/#press-section), such as AppFog, AppThwack, Cloudability, Little Bird, Lytics, Outdoor Project, Simple, Supportland/Placemaker, Switchboard, Uncorked Studios, and Urban Airship, to name a few. 
 
 Our alumni have collectively attracted hundreds of millions of dollars in venture capital and created more than 1,000 well-paying employment opportunities. Just as important, the program has helped educate a new generation of entrepreneurs — whether the businesses those entrepreneurs were originally pursuing have succeeded or not.
@@ -11,11 +10,9 @@ We sincerely hope that our mistakes, happy accidents, and successes prove valuab
 Welcome to the PIE Cookbook.
 
 ## What this is not
-
 Before we get into what the PIE Cookbook *is* it might be helpful to explain what the PIE Cookbook is not.
 
 ### This is not about creating or managing community
-
 As we have stated before, we are working under the assumption that you are already part of a well defined community. Furthermore, we are assuming that you, gentle reader, have a relevant role within that community — or are collaborating with folks who hold relevant roles within that community. Finally, we assume that you have identified that there is a very real need and opportunity for an Accelerator to improve and support that community. 
 
 Perhaps, you've already experimented with coworking or shared workspaces. Maybe you're already hosting events. Maybe you've been writing about the space. Or helping to make connections and strengthening the bonds within the community. Maybe you've been doing all of this.
@@ -25,7 +22,6 @@ Whatever the case, we're assuming you have a community. You may not yet complete
 With those assumptions in mind, it makes sense that we forego providing lengthy guidance on community development and community management in favor of focusing on the Accelerator, itself. Granted, we will lightly touch on community development from time to time. But we will try to avoid describing, in depth, how communities are defined, built, and maintained. That topic is another book — or library of books — in an of itself. And with this book, we would much rather focus on the Accelerator that serves that community.
 
 ### This is not about recreating PIE
-
 Let's make one thing clear. We're sharing the PIE Cookbook not as a roadmap, but as a starting point. The last thing we want is to inspire the creation of a bunch of generic technology startup accelerators. The world has enough of those. Trust us.
 
 What the world needs more of are the creative applications of the accelerator process. Of individuals activating the latent value of their respective communities. Of subject matter experts sharing their wealth of knowledge — and wealth of mistakes — with new founders. Of more people making more new mistakes. 
@@ -33,7 +29,6 @@ What the world needs more of are the creative applications of the accelerator pr
 We called this the PIE Cookbook for a reason. We'll give you the base ingredients. But we expect you to make each recipe your own.
 
 ## Want to start an accelerator? Don't start an accelerator
-
 You don't get to start in the middle. You have to start at the beginning.
 
 When we started the experiment with Wieden+Kennedy that would become PIE, we didn't set out to build an accelerator. We started with something to support the existing startup community. Something that would fill gaps that were preventing our community from growing and thriving. Something that would enable connections and random collisions and happily serendipitous events to occur. 
@@ -57,7 +52,6 @@ But to get the best results, you have to be similarly inclined to take risks, to
 If we had started with an accelerator, we're confident that PIE would have failed. Miserably. And that's why we're recommending that — if you're thinking about starting an accelerator — you do anything but that.
 
 ## Start at the beginning
-
 So if starting with an accelerator isn't the right place, where should folks begin? Well, if you skipped straight to the recipes, how about you go back and read the timeline of PIE's existence. Maybe it will give you some clues as to what's coming next. And maybe you'll find commonality in your community that gives you a more appropriate starting place.
 
 Or maybe, just maybe, you'll discover that you're one of the rare few who has already done all of the legwork. One who has completed all of the prerequisites. One of those lucky few strong communities that can, in fact, dive straight into the deep end of the pool. Because they've been ramping up all along. And now you're actually ready to take on that accelerator opportunity.
@@ -73,7 +67,6 @@ But if you're not there yet, please do not skip ahead. Do not pass go. There is 
 *Caveat: Please do not take this document as a step-by-step roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.*
 
 ### Step 1: Found your own company. Or at least work at a startup.
-
 Per [Brad Feld](http://feld.com/about)'s advice in [**Startup Communities**](https://www.amazon.com/dp/B008UV826U/), if you're going to truly succeed in building a vibrant startup community then "the leaders have to be entrepreneurs." Not politicians. Not corporations. Not agencies. Or economic development bodies. Entrepreneurs.
 
 With that in mind, we realize that PIE's journey started when the founders started working in startups. Sometimes as founders. Sometimes as employees of startups. But in startups. 
@@ -103,7 +96,6 @@ So you have to do the hard work at home. But you also have to be out and about. 
 So yeah. A little bit of work. But you can do it. 
 
 ### Step 2: Participate in the community.
-
 The most important part of beginning to build community isn't throwing the best parties or planning the biggest events. It isn't renting a massive space and inviting everyone to join you. It isn't bringing in dignitaries from around the globe and expecting the community to rally around you. 
 
 Although you may be tempted to try all of these things.  
@@ -131,7 +123,6 @@ But we did it. And we did it on the community's turf. Not ours. We tried to prov
 And in so doing — from that collaborative standpoint — we began to build the a network that would become the most critical component of PIE: a subset of an already vibrant community.
 
 ### Step 3: Talk about the community.
-
 There's something about a tree falling and no one hearing it. Community is the same way. You have to talk about it. And blog about it. And tweet about it. You have to connect it. And highlight what it's doing.
 
 Why? Because, for the most part, community is not immediately self-aware. As such, people don't just realize that there's "a community." Unless they're specifically looking for it. And this is true, even if they're deeply involved in that community. 
@@ -149,7 +140,6 @@ Yes, Virginia, there is a Portland startup community.
 Note: This step is ongoing. You don't get to stop talking about the community. Ever. Keep going. Keep talking.
 
 ### Step 4: Invite the community in.
-
 Now that your community is gaining definition. Now that it is starting to solidify and formalize. Now that you are taking an active role within that community. Only now can you start to host events. Shine a spotlight on talented community members. And invite people who would benefit from hearing those community members. Renny did this by having W+K serve as the inaugural host of Ignite Portland. And hosting events like Portland Lunch 2.0, among others.
 
 Without — and this is critical — expecting anything in return. At all.
@@ -163,7 +153,6 @@ With PIE, we were lucky enough to own space. Which had been generously donated b
 We made the PIE space a resource by the community, for the community. It became a platform on which other members of the community could build their events and programs. And, eventually, companies.
 
 ### Step 5: Create a common space.
-
 Events are great. But truly valuable community spaces are leveraged as a utility, all day, every day.
 
 For PIE, forming a coworking space was the way to go. In part because Wieden had given us the space to do it. And in part because we thought it was what our community needed. It ensured that the space was being used throughout the day while making it available for events in the evening. Plus it gave the space ongoing and sustainable energy. Everybody wins.
@@ -196,7 +185,6 @@ In short, we were on the constant lookout for interesting opportunities to bring
 And then, only then, were Renny and I ready to…
 
 ### Step 7: Start an accelerator.
-
 Now that you've done all of that work, you're ready. I mean, if it's even still needed.
 
 At PIE, we absolutely needed to start an accelerator. The community needed it. W+K needed it. Startups needed it. Individuals needed it. First a bullhorn. Then a coworking space. Then an accelerator. Because we needed it. As a community.
@@ -241,19 +229,19 @@ We've also learned that it’s important to use a range of bonding activities. A
 
 The basic rule is: Be inclusive. And provide a range of options. Not every option will work for every participant. 
 
-# Three months
+## Three months
 PIE chose to run our program for a three month intensive period. 
 
-We ran the first class for four and half months, and it seemed to be too long. So we shortened the program. Later, we'll get into why it seemed long. 
+We ran the first class for four and half months, and it seemed to be too long. So we shortened the program.  
 
-## Three months is a very short time
+### Three months is a very short time
 Most corporations, governments, and larger organization often question how we can possibly get anything effective done in three months. "Three months seems so short," they say. 
 
 And it is. It's a short intensive period of incredibly stressful work. Piled on top of — or in the middle of — the long period of incredibly stressful and arduous work that is building a startup. (In all honesty, the accelerator period is the least stressful — and most supportive — of any of it.)
 
 And if companies aren't careful, the three months can slip by very quickly. Too quickly. Without much to show for it. A few skipped mentor meetings. A talk or two. And suddenly it's Demo Day. Just like that. 
 
-## Three months is a very long time
+### Three months is a very long time
 But fact of the matter is, when you're in the thick of it, three months is an incredibly long time. Especially when you're breaking it into minutes. 
 
 ![PIE's infamous countdown clock](/source/images/pie-countdown-clock.jpg)
@@ -262,12 +250,12 @@ From the time the first day of PIE starts until we bring the house lights down a
 
 But no matter how motivated the founder, no matter how real the opportunity, no matter how passionate the team, it's a challenge to keep the momentum going. It's nearly impossible, over that length of time, to keep a sustained sprint going. It's like running toward a goal somewhere off in the distance. Like trying to realize a strategy without any tactics. 
 
-# Start small
+## Start small
 Where you start is where you start. Don't let the current state of things or the amount of effort required prevent you from taking action. Start small. Start today. It might not be where you want to start. But you've got to start somewhere.
 
 Just start.
 
-# Laying the groundwork 
+# Laying the groundwork for your accelerator
 This is like a cookbook of false starts, isn't it? Bear with us.
 
 It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say, "We're an accelerator. That's not always a positive thing. We have the potential to help accelerate your success, but we can just as easily accelerate your company right into the ground."
