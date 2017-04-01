@@ -255,7 +255,7 @@ Where you start is where you start. Don't let the current state of things or the
 
 Just start.
 
-# Laying the groundwork for your accelerator
+# Establishing the unique context for your accelerator
 This is like a cookbook of false starts, isn't it? Bear with us.
 
 It is important to understand that an Accelerator is simply a tool. It is not inherently positive. It is simply a means to an end. At PIE, we always say, "We're an accelerator. That's not always a positive thing. We have the potential to help accelerate your success, but we can just as easily accelerate your company right into the ground."
@@ -263,6 +263,8 @@ It is important to understand that an Accelerator is simply a tool. It is not in
 At PIE, we dove headlong into the effort with a bunch of assumptions. Among those assumptions was the ideas that when one of us used a particular word, we all had a similar concept for what that word meant. We were wrong. And it caused confusion and stress. 
 
 So we learned that it was important to diffuse those assumptions by taking some time to establish context and vocabulary for what you're trying to accomplish. Below, you'll find an example of the definitions we used to explain the different elements of the PIE community.
+
+In this day and age — with a bevy of accelerators from which to choose — it's more important than ever that you take the time to figure out what makes your accelerator unique and valuable. Rather than making it a me-too-also-ran. 
 
 ## Definitions
 Like many industries, the startup world is rife with terminology that holds special meaning to individuals who are well versed in its own cryptic lexicon. For that reason, we often fall into situations where we assume we’re on the same page as one of our similarly immersed counterparts. And — like most assumptions — that can cause problems. We believe that communication and clarity are vital, so we’re always looking for ways to get everyone speaking the same language.
