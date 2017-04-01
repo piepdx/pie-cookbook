@@ -273,6 +273,17 @@ Pressure/heat (Startups + Staff + Patron)
 
 ## How to hire
 
+## Recruiting mentors (more explanation)
+			23. Recruiting potential mentors
+			23. Qualifying potential mentors
+			24. Test driving mentors
+			27. Assessing skill fit
+			28. Assessing personality fit
+			29. Actively engaged pool
+			30. Passively engaged pool
+			30. Overlap
+			31. Alums as mentors
+
 
 ## Peer mentoring
 

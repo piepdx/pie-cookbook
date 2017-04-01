@@ -797,7 +797,7 @@ Let's start by outlining the general categories of Mentors, bearing in mind that
 #### Non-resident Mentors
 Non-resident mentors are the most common mentors for an Accelerator. They engage with the Accelerator on an as-needed basis. They do not reside in the Accelerator space. Rather, they are invited by staff to present or meet with Founders. 
 
-Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. Again, PIE holds the firm belief that anyone can be an effective mentor. So we will continue to emphasize that it is **experience**, not **expertise** that helps qualify a Mentor. Anyone has the potential to be a Mentor if applied properly.
+Non-resident mentors run the gamut of experience from founders to subject matter experts to potential customers. PIE holds the firm belief that anyone can be an effective mentor. So we will continue to emphasize that it is **experience**, not **expertise** that helps qualify a Mentor. Anyone has the potential to be a Mentor if applied properly.
 
 **Role and expectations**
 Non-resident mentors will do the bulk of the mentoring within your Accelerator. After all, they comprise the bulk of the "network" to which your startups are seeking access. And they are the asset your organization will put to work, most often. 
@@ -1631,20 +1631,43 @@ Once you have space and staff, the next priority for your accelerator is recruit
 > **tl;dr New accelerators are judged primarily by their mentor pool. Operating accelerators are only as good their last class.**
 - - - 
 
-			21. Anyone can (and should) be a mentor
-				22. It’s not just “experts”
-				23. Different viewpoints reveal flaws and opportunities
-		
-			22. Identifying potential mentors
-			23. Recruiting potential mentors
-			23. Qualifying potential mentors
-			24. Test driving mentors
-			27. Assessing skill fit
-			28. Assessing personality fit
-			29. Actively engaged pool
-			30. Passively engaged pool
-			30. Overlap
-			31. Alums as mentors
+## Identifying potential mentors
+As you start working with startups, you will be able to identify the skill sets that have the most impact on your founders. This will become an ongoing process as you identify opportunities.
+
+But at the outset, you need to work on recruiting a varied pool of founders, subject matter experts, and people who represent potential target markets.
+
+## Anyone can (and should) be a mentor
+As we've mentioned previously, PIE firmly believes that anyone has the potential to be a mentor. It’s not just “experts” who have the ability to do so. For that reason, we suggest that you try to recruit a variety of experience levels for your mentor pool. 
+
+By effectively leveraging these different viewpoints around a single problem or topic, you'll provide additional value to your startups and founders, by revealing flaws and opportunities that might not be obvious to experts or individuals with a wealth of experience.
+
+It takes all kinds of people to provide valuable mentorship to your startups. Don't be afraid to mix it up.
+
+## Start with who you know
+Portland is a community filled with any number of talented founders and potential mentors. Your community is no different. 
+
+When you begin recruiting mentors, start with who you know. Maybe you don't have a rolodex developed over fifteen years of working in the startup community. That's okay. If you've been active in the community, you'll have a handful of folks whom you can readily identify as potential mentors.
+
+## Intentionally recruit "known" mentors
+If you're a new accelerator, recruiting your first class of companies will be largely dependent on the perceived strength of your mentor pool. For that reason, it's important that you work to recruit a few mentors who are recognizable to the startup market you are targeting.
+
+At PIE, we were lucky to have the W+K name as part of the pursuit, but we were also lucky to have mentors from internationally recognized companies like Twitter, Kickstarter, and Techcrunch, among others; investors who had name recognition among our target audience; founders of local startups that held cache with our target audience; and known contributors from the open source community. 
+ - - - 
+NOTE: "Known" doesn't have to mean "famous." Some of your most well-known mentors may, in fact, be only well-known to the target market you're pursuing. Don't fall for celebrity. Seek well known. But if you can get a few celebrity mentors, then do that. 
+ - - -
+The pedigree of our original mentors enabled us to effectively recruit our first class. The success of that first class enabled us to both add those founders to our mentor pool and recruit a variety of new mentors. It becomes an ongoing process, a virtuous cycle.
+
+## Look for the busiest people
+While we stumbled into this technique, we often find that the busiest potential mentors are often the most likely to accept your invitation to mentor. Why? We found that the busiest people were already among the most giving and collaborative, hence their level of activity. But more importantly, we found that PIE's mentorship structure gave them two important things:
+
+1. Context that their mentorship was having significant impact, and 
+2. A construct for providing mentorship that helped them better organize their time.
+
+In future versions of the PIE Cookbook, we'll spend more time digging into recruiting techniques for mentors. But for now, you should use these tips to start recruiting your initial mentor pool. 
+
+As you effectively recruit and sign up mentors, you should spend time making sure they have context for what you're looking to accomplish. Even if they have mentored before. 
+
+So let's spend some time talking about onboarding. It's something we, at PIE, did incredibly poorly. And we don't want you to recreate our mistakes. 
 
 # Onboarding mentors
 In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
