@@ -2102,28 +2102,110 @@ Let's get started by walking through the application and selection process by:
 - Selecting companies to participate
 
 ## Application and selection process
-### Applications
-				83. Example application (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
-				84. Communications
-					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
-					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
-					87. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
-					88. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
-				84. Fringe benefits of applications: Market research
-					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
-					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
+We used three phases of inquiry as part of our information gathering. Fewer and fewer applicants would continue on to the next phase. 
 
-### Promoting the application period
-				82. Media
-				83. Community
-					84. Mentors
-					85. Alums
-					86. Partners
-					87. Patrons
-					88. Sponsors
-				84. Events
-				82. Tchotchkes
-								
+Those phases were:
+
+- Written application
+- Written follow up questions
+- Face-to-face interview
+
+### Applications
+Our first phase of the process was a Web-based application — Google Form or the like — that allowed us to capture some basic information about the team, the product, and why the applicant was interested in PIE. 
+- - -
+PRO TIP: Select an application format that provides a confirmation upon form submission. This will ensure that applicants know the form has been submitted and will save you from strings of follow up emails.
+- - -
+
+As part of the experiment, we would set the deadline as close as two weeks or as far as six weeks from the application opening date. No matter how long or short the application period, we generally received around 400 separate company applications. 
+
+This probably won't come as a shock to anyone, but the vast majority of your applications will be submitted within 24 hours of your deadline.
+
+So what kinds of questions should you ask? How many should you ask? We recommend keeping it as simple as you can. But you'll want to make sure you're getting all of the basic questions answered. 
+
+Here's an example of the types of things PIE wanted to know. 
+
+#### Sample PIE application 
+Thank you for your interest in PIE, the Portland Incubator Experiment. PIE is a partnership among leading brands, technology innovators, and Wieden+Kennedy — the largest privately held advertising and communications company in the world. It serves as a hub for community, entrepreneurship, and creative thinking.
+
+Each year, we invite startups to join us for nine months — three months for an accelerator program and an additional six months of office space as they gain their footing. To qualify, startups must go through a formal application process. 
+
+Applications are due [DATE]. Fields marked with an asterisk (*) are required. We will only accept applications submitted via the PIE application form or via AngelList.
+ 
+Let’s get started.
+
+##### PRODUCT
+We’re really interested in what you’re building and why it’s going to change the world. So let’s start there, shall we?
+
+- Name of your product*:
+- URL:
+- AngelList profile:
+- How are you telling the story of your product? Give us a link where we can experience that story. In whatever form you like. It could be a video or a demo walkthrough or an Instagram image of the sketch on the back of a napkin.
+- Dream big but write concisely. What will your product do? You’ve got 560 characters. C'mon. That's like four whole tweets, Tolstoy. (And yes, we will count each and every character.)*
+- Who are your current/future customers?
+- Who are your primary competitors?
+- What scares you most about your product?
+- Why does your product matter? Why are people going to love it? Why is the competition going to hate it?
+- Why are you and your co-founders the right team to make this happen? (This is what we call a “segue.”)
+
+##### PEOPLE 
+Tell us a little bit about the team that's going to be spending an incredibly stressful three months with us -- and a whole bunch of other startups. Because if we're going to be burning the midnight oil together building something awesome, we'd like some more details. (NOTE: The primary contact will be automatically added to the PIE email list.)
+
+###### Co-founder 1 (Primary Contact)
+- First*:
+- Last*:
+- Email*:
+- Role*:
+- Skills*:
+- Favorite online profile (e.g., AngelList, LinkedIn, Google+, personal blog, Github, about.me, Twitter)*:
+- Favorite brand*:
+- Have you applied to PIE previously (either with this idea or with another one)?*
+
+*PRO TIP: 	Please feel free to add additional founder profiles as necessary.*
+
+There will be room for four founders on the official application. 
+Only one founder is required.
+
+###### MORE TEAM
+Now that you've provided details about each of the founders as individuals, we’d love to hear about how you work together as a team.
+
+- Tell us a story. How did you team up?
+- You've got geek cred, right? Prove it.
+- We know you've screwed up before. Revel in it. Describe your most spectacular failure to date. 
+- Link to something on the web that depicts your team dynamic. Be creative. This could be a video where you show us your team in action. Or it could be a session of layer tennis among team members. Or it could be a dribbble account. Or a screenshot of your latest IRC exchange. Or you could just treat us to something that already exists on the Web which captures your team dynamic. We, for example, when asked this question would probably just send you a link to Grumpy Cat or whaling (the human version, not the terrible Blackfish version) — or a bunch of Grumpy Cats whaling.  Did we mention “be creative”? 
+
+##### MISCELLANEOUS COMPANY CRAP
+- Are you incorporated?
+- Have you raised money? If so, how much?
+- Are you currently raising? If so, how much?
+- Have you been through another accelerator program?
+
+##### WHY PIE?
+We like PIE a whole bunch. And we love expanding the PIE family. But we'd love to know why you think PIE is the right place for you.
+
+- Well, why PIE?*
+- Clearly, you’re going to be the next big thing. I mean, you’re kind of a big deal already. But why else should we pick you?
+- One of the most crucial elements of PIE is the opportunity to work with other startups in your class to mutual benefit. We call it peer mentoring. Startups call it a support group. So what do you hope to bring to PIE to help everyone succeed?
+- PIE has an added benefit of collaborating with Wieden+Kennedy — an agency recognized as one of the most creative in the world. That means, when we see an opportunity, we get to work together on projects. Does the prospect of collaborating with W+K excite you, frighten you, or is it just “meh”?
+- Why?
+- If you could pick one mentor—living or dead—who would it be? Why?
+- Anything else we should know about you, your team, your product, or your amalgamated awesomeness?
+
+##### REFERENCES (optional)
+PIE is a growing family of amazing companies, mentors, and investors. We look to this group to provide us with guidance on our selection process. So if you can name a PIE alum, mentor, or investor who will vouch for you, that can go a long way with us. A long, long way. 
+
+*PRO TIP: 	Even though it’s optional, it’s very, very highly valued 
+by the selection committee.*
+
+… and you’re done! 
+
+That wasn’t so bad was it? 
+
+**NOTE: This is a rhetorical question. It is not a question on the 
+official application.**
+
+##### MORE INFO?
+Feel free to contact us at info@piepdx.com, follow us on Twitter at http://twitter.com/piepdx, like us on Facebook at http://facebook.com/piepdx, or follow us on AngelList at http://angel.co/piepdx.
+
 ## Selection process
 Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
 
@@ -2138,7 +2220,7 @@ Over the course of the programs PIE ran, we came up with a way of grading startu
 
 We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
 
-(Additional content on selection to be incorporated)
+Note: We used these criteria at each phase of the selection process. 
 
 **Participant selection**
 PIE has a proven and refined methodology for selecting participants in its programs. At a macro level, this methodology includes a weighted average of the following elements:
@@ -2146,6 +2228,8 @@ PIE has a proven and refined methodology for selecting participants in its progr
 - **People** (5.0x): We analyze the entrepreneurs to determine their level of coachability, the extent of their experience in business and/or the market they are pursuing, their existing knowledge and learning to be had, their ability to work in a collaborative space, and their willingness to participate in the program as a mentor to other members of their cohort (peer mentoring), as well as their potential to assist future members of the program (ongoing mentoring).
 - **Idea** (2.0x): Staff, partners, and mentors are asked to analyze the potential of the business idea, the market(s) to which the idea may be attractive, the feasibility of developing a product for that market(s), and whether the product is appropriately timed for the intended market(s).
 - **Enchantment** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
+
+Let's take a moment to dive into each of these topics.
 
 #### People
 People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
@@ -2199,11 +2283,53 @@ To qualify Enchantment, we ask questions like:
 
 ### Stages of the selection process
 #### First cut
-Written responses
+Following the close of the initial applications, PIE staff and selected mentors would each go through the applications by themselves — ranking them by the People, Idea, and Enchantment criteria — reviewing all of the applications with a triage mentality.
+
+That consisted of three buckets:
+
+- Keep: Companies that seemed like a good fit for PIE
+- Question: More details required to determine if the company was a good fit
+- Cut: Companies that did not seem like a good fit for PIE
+
+Once each reviewer had completed their personal assessment, the review committee would meet to compare notes, resolve differences, and agree upon the companies moving into the next round — and those companies that did not appear to be a good match for PIE based on their application responses. 
+
+This triage process usually resulted in us eliminating 50% of the applicants (Cut) and continuing to work through due diligence with the remaining 50% (Keep and Question).
+
+Cut companies were alerted immediately that they would not be continuing in the process. 
+
 #### Second cut
-Follow up questions
+Candidates who fell into the "Question" category received follow-up questions via email. We used this technique to dig into the details that may have required more explanation or areas that we felt were nebulous or unclear. 
+
+At times, we would question some of the Keep candidates. Specifically if they were working in areas where staff or mentors had specific expertise. 
+
+The questions allowed us to test assumptions or get additional data. 
+
+We generally gave the startups a week to respond to our questions.
+
+The review committee would then review and assess the responses from the applicants and decide whether the "Question" companies were be moved to "Keep" or "Cut" lists. 
+
+This generally eliminated 50-75% of the remaining companies, leaving us with up to 25% of our original applicants still being processed for inclusion in our accelerator class.
+
+Cut companies were alerted immediately that they would not be continuing in the process. Companies continuing along the selection process were contacted to arrange for face-to-face interviews. 
+
 #### Final cut
-Face to face Interviews
+The face-to-face interview is the final stage of the selection process. There is no more labor intensive — or insightful — method for selecting the startups in your class. 
+
+Interview teams consisted of PIE staff and — when warranted — mentors who had expressed interest in talking to the company. PIE encouraged all founders named in the application to attend, if not in person than by phone. If the startup was unable to travel, PIE would often opt to send one staff member to meet with the team in person, while the remaining interviewers called in by phone. Worst case was a phone meeting or video conference. 
+
+PIE planned 30-45 minutes for each interview, including time for founders to ask the interview team questions.
+
+Questions consisted subjective topics for the individual founders, digging into topics that could not be easily assessed via written responses, and determining progress and traction since the written response had been submitted, week earlier.
+
+For the most part, the in person interviews were a means of determining the working dynamic of the team and the potential coachability of the founders.
+
+Following this interview, staff members compared interview notes and individually ranked each of the candidate companies. Those lists were compared and normalized. 
+
+The final list was presented to the selection committee, critiqued, argued, and normalized to a rank order list of approximately 20 startups for the 8-10 spots in the PIE class. 
+
+A staff member — usually the Managing Director — then worked down the list, from first choice to last, calling each candidate on the phone to share the news and assess their willingness to participate in the program. Once 10 applicants had been verbally accepted, the calling ceased. 
+
+The remaining candidates were alerted by phone that they were not selected for the class. They were also informed that they were still under consideration for participation and, should any of the accepted candidates fall through, they would be offered a spot in the class. 
 
 
 			90. Prep

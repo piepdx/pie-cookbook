@@ -292,6 +292,28 @@ Pressure/heat (Startups + Staff + Patron)
 			30. Overlap
 			31. Alums as mentors
 
+# Application promotions
+				84. Communications
+					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
+					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
+					87. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
+					88. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
+				84. Fringe benefits of applications: Market research
+					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
+					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
+### Promoting the application period
+				82. Media
+				83. Community
+					84. Mentors
+					85. Alums
+					86. Partners
+					87. Patrons
+					88. Sponsors
+				84. Events
+				82. Tchotchkes
+
+
+
 # Selection
 		86. 
 				87. Face-to-Face Interviews
