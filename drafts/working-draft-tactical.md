@@ -2332,10 +2332,17 @@ A staff member — usually the Managing Director — then worked down the list,
 The remaining candidates were alerted by phone that they were not selected for the class. They were also informed that they were still under consideration for participation and, should any of the accepted candidates fall through, they would be offered a spot in the class. 
 
 ## Acceptance
-			90. Prep
-				91. Background checks
-				92. Paperwork
-				93. Acceptance https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md
+No matter what format your accelerator takes — whether you're investing or not — accepting a startup into your program generally means one thing: paperwork. 
+
+We started the process with a [formal acceptance letter](https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/onboarding-acceptance-letter.md) which included a formal offer and a request for cap table details. The most important part of this letter is the details about when the class starts. 
+
+Following the formal acceptance, we proceeded to request permission and conduct background checks on each of the founders. Purely a precautionary measure, but one that we felt necessary. 
+
+If the startup chose to forego acceptance or the background check raised concerns, we would formally terminate the offer. We would then contact the first company on the alternate list to determine their desire to participate in the program, continuing the process until we had a full complement of companies for our class.
+
+With acceptance letter and a background check complete, we considered the startup to be a formal participant in the accelerator class, enabling them to participate in the program.  
+
+NOTE: It's not unusual for the completion of the paperwork to drag out past the official start date of the class. We allowed startups to participate in the program on day one. But we did not cut checks until paperwork was complete.
 
 ## Onboarding 
 With the growing prevalence of Accelerators and the popularity of programs like Y Combinator, Techstars, and 500 startups, it has become common to assume that people are cognizant, if not deeply knowledgeable, about Accelerators, what they are designed to do, how they operate, and how to make the most of being a participant in one.
@@ -2441,7 +2448,7 @@ https://docs.google.com/forms/d/1vwn3OQRAiZbGaDNYUt38BOkdPVqnmMG77qRLJMXFnW0/vie
 ### Getting into the flow		
 Once the startups get settled, it's important to get into the typical flow as quickly as possible. Don't let this take more than 48 hours or so. Otherwise, your startups will settle into a routine and breaking them from that routine will be difficult. 
 
-As the first activity, we recommend starting with Family Dinner. 
+As the first true accelerator activity, we recommend starting with Family Dinner. 
 
 #### Family Dinner
 Arguably, Family Dinner is one of the most important parts of the program. As the name implies, Family Dinner is a weekly gathering — over dinner — designed to be an exclusive opportunity for our company founders to come together, share status updates, and give guidance to one another. Think of it as it a support group with food.
