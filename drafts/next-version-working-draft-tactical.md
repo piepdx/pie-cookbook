@@ -284,6 +284,34 @@ Pressure/heat (Startups + Staff + Patron)
 			30. Overlap
 			31. Alums as mentors
 
+# Class dynamics
+				97. Work time
+				98. Social time
+					99. Coffee hour
+					99. Happy hour
+				97. Care and feeding of startups
+					98. Stress reliever
+					99. Keeps them healthy
+					100. Develops social bonds
+					101. To Lunch and Learn or not Lunch and Learn
+				98. Care and feeding of mentors
+					99. Not every engagement needs to be "work"
+				100. Keeping the conversation going
+					101. Chat
+					102. Email
+					103. Status reporting
+					104. Weekly 1:1
+					105. Office hours
+					
+## Shared experiences
+						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
+						114. Family Dinner
+						115. Lunch
+						112. Pitch Practice
+					108. Status reporting
+					109. Check-ins
+					110. Weekly reports
+
 
 ## Peer mentoring
 

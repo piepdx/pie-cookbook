@@ -1938,8 +1938,7 @@ That said, there are some clear guardrails to help guide your efforts.
 
 First off, it's very important to understand the emotional rollercoaster of the accelerator. 
 
-## The emotional ebb and flow of a stressful startup accelerator 
-
+## The emotional ebb and flow of a startup accelerator 
 We've all heard it. "Going through an accelerator is an emotional rollercoaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
 
 But what, exactly, does that rollercoaster look like?
@@ -1971,7 +1970,6 @@ We're not going to claim that we can predict every up and down, but let's take a
 6. **"Maybe we've made a mistake. Is this the right move for us?"** While the period of euphoria may last for some, most Founders will experience a return to a more calm outlook prior to their beginning the program. This may also manifest itself as having second thoughts or cold feet about joining the Accelerator program at all. Be prepared for questions and Founders seeking reassurance.
 
 ### Month 1 
-
 Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions. 
 
 As we mentioned above, PIE generally worked with founders who were confident with building product. Your founders may be similar. Or you may attract founders with different points of confidence. 
@@ -1988,7 +1986,6 @@ Whatever the case, it is important that you begin the accelerator program focusi
 6. **"And folks here seem to get what we do."** We recommend that the first month be wholly focused on an area of strength for the Founders — since the bulk of PIE Founders were product-centric, we focused on product — the opportunity to share that strength is an uplifting one. While Founders rarely have a cohesive story about their Startup at this point, other Founders can intuit motivations and functions, giving the companies a sense of belonging. This reinforces the feeling that the Startup idea has merit. And it helps reinforce the Founders' feeling of belonging in the Accelerator program. 
 
 ### Month 2 
-
 This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
 
 And there's really no way to fix this or prevent this. If you've done your job correctly as an Accelerator, you've put your Founders under a significant amount of pressure in the first month in a new environment — and so much has changed about their business — that your Founders will be feeling pretty beat up. And they'll feel like they're bumping along the bottom of the tank of despair. 
@@ -2004,7 +2001,6 @@ Some of your Founders will have higher amplitude in their spikes and troughs. Ot
 3. **"We don't seem any worse off than anyone else."** Not only does confidence build, but Month 2 is the month where founders gain the most empathy for their cofounders and peers. They start to recognize that everyone is struggling. And that even the most confident and capable Founders in the cohort have their weaknesses. So when you introduce subject matter with which everyone struggles — and everyone recognizes that one another is struggling — you enforce a tendency toward collaboration, support, and peer mentorship. Which, in turn, fortifies the connections and feeling of community among the participants. 
 
 ### Month 3 
-
 This will be the most rewarding month for your startups. Not only will you see them making significant progress, they will make *tangible* progress that the Founders, themselves, will recognize. That progress, in turn, will directly impact the future of their companies. 
 
 ![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
@@ -2018,7 +2014,6 @@ This will be the most rewarding month for your startups. Not only will you see t
 Now that you have some generic context of the rollercoaster, let's break down those three months in terms of the subjects PIE used to educate Founders of tech Startups.
 
 ### The Three Ps
-
 So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
 
 By class three (Coconut Creme), we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
@@ -2028,7 +2023,6 @@ Throughout the course of these stages and gates, we tailor the mentor talks to m
 Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
 
 #### Product (Month 1)
-
 Because PIE classes generally consisted of groups of developers who understood how to build products, we started in a place of strength and confidence: product development. 
 
 The challenge? Be ready to demo the current version of the company's product in front of the others startups in the class. The deadline was one month into the class. And it was a required activity. 
@@ -2046,7 +2040,6 @@ So month one, get the product momentum going. And reward those who are making pr
 It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
 
 #### Projections (Month 2)
-
 Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
 
 Now that we've stressed out the developers, we put the stress on the business people. Who, more often than not, are developers learning how to business. 
@@ -2070,7 +2063,6 @@ A second month of stress induced collaboration has heightened the trust among pe
 But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
 
 #### Pitch (Month 3)
-
 Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
 
 It's important to note that many programs choose to pitch throughout the course of the entire class. We've found this to have diminishing returns if run for longer than a month. It's also a good chunk of time which we feel is better focused on things like product and projections.
@@ -2095,32 +2087,6 @@ The last week is pretty much nonstop practice, where we not only continue to fin
 
 If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
 
-				97. Work time
-				98. Social time
-					99. Coffee hour
-					99. Happy hour
-				97. Care and feeding of startups
-					98. Stress reliever
-					99. Keeps them healthy
-					100. Develops social bonds
-					101. To Lunch and Learn or not Lunch and Learn
-				98. Care and feeding of mentors
-					99. Not every engagement needs to be "work"
-				100. Keeping the conversation going
-					101. Chat
-					102. Email
-					103. Status reporting
-					104. Weekly 1:1
-					105. Office hours
-					
-## Shared experiences
-						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
-						114. Family Dinner
-						115. Lunch
-						112. Pitch Practice
-					108. Status reporting
-					109. Check-ins
-					110. Weekly reports
 # Running an Accelerator Class
 
 				78. Setting expectations
