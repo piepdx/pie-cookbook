@@ -2203,17 +2203,8 @@ official application.**
 ##### MORE INFO?
 Feel free to contact us at info@piepdx.com, follow us on Twitter at http://twitter.com/piepdx, like us on Facebook at http://facebook.com/piepdx, or follow us on AngelList at http://angel.co/piepdx.
 
-### Written questions
-Following our review of the initial applications, PIE staff and selected mentors would 
-
-				84. Communications
-					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
-					86. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-two-weeks.md
-					87. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-application-one-week.md
-					88. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-technical-issues.md
-				84. Fringe benefits of applications: Market research
-					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
-					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
+### Written follow up questions
+Following our review of the initial applications, PIE staff and selected mentors would go through all of the applications with a triage mentality. We would keep companies that looked promising, save companies that required additional information, and reject companies that did not seem to be a good fit for our accelerator. 
 
 ### Promoting the application period
 				82. Media
@@ -2225,7 +2216,7 @@ Following our review of the initial applications, PIE staff and selected mentors
 					88. Sponsors
 				84. Events
 				82. Tchotchkes
-								
+
 ## Selection process
 Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
 
