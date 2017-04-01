@@ -234,6 +234,10 @@ PIE chose to run our program for a three month intensive period.
 
 We ran the first class for four and half months, and it seemed to be too long. So we shortened the program.  
 
+This version of the PIE Cookbook assumes that you are considering a similar format, so it is written from that vantage point. That said, many of the topics we'll cover are equally applicable to any number of accelerator models. 
+
+Long story short, we're starting with what we know by writing this from the PIE perspective. But we remain hopeful that, as this project goes on and the documentation continues to grow and expand, we're able to cover any number of models, timelines, and formats in the future. 
+
 ### Three months is a very short time
 Most corporations, governments, and larger organization often question how we can possibly get anything effective done in three months. "Three months seems so short," they say. 
 
@@ -596,7 +600,7 @@ While your list might not be as long as Chris' — Seattle has been at this for 
 
 If you've been part of your startup community for a significant amount of time, you may be able to rattle off these strengths, anecdotally. If not, you should return to your findings from your environmental scan to help you identify strengths that will benefit your accelerator and community. 
 
-# Building your accelerator framework
+# Building your accelerator's strategic framework
 Let's start with this. First and foremost, the primary objective of any Accelerator should be to **create an environment of trust that accelerates creative output**. That is the most basic way to describe it.
 
 Founders trust you to help them make sense of this whole startup thing. To be honest with them. To say the hard things that need to be said. To connect them with the expertise that helps them continue. Or the insight that helps them to quit. 
@@ -744,7 +748,6 @@ This sort of focus can hamstring accelerators and incubators who may see promise
 Long story short, you don’t get to “experiment” with VC money. You get to make money. An Investor will only be motivated to engage with your Accelerator if it results in return on that investment. 
 
 - - -
-
 **500 Startups hybrid model**
 
 While we don't advocate for making Founders pay to participate in an Accelerator program, we are fans of the creative collaboration between Investors and Program that the [500](http://500.co) Program ([Don't call 500 an Accelerator](http://500.co/the-artist-formerly-known-as-accelerator/)!) has put together. 
@@ -752,9 +755,7 @@ While we don't advocate for making Founders pay to participate in an Accelerator
 In the 500 model, the fund invests in the company. Then the Seed Program charges for participation in their Program. This ensures that the Startup has working capital and a cleaner cap table, the fund has an equity investment, and the program has operating capital. 
 
 > We invest $150k in exchange for 6%. We charge a $37.5k fee for participation in the 500 Seed Program.
-
 - - -
-
 
 ## Promotion 
 *aka Soapbox(es) or bullhorn(s) or campfire(s) or promotional platforms or whatever you want to call them*
@@ -961,6 +962,18 @@ We were lucky to have a number of women in each of our classes, from the coworki
 That said, we had very little variety in terms of colors, ethnicities, orientations, backgrounds, and beliefs.
 
 This was a mistake. One that we are actively working to correct. One that we are being intentional about improving as we continue to work on PIE. Given the opportunity to start over, we would make this one of the critical components of our accelerator foundation. So that's why we're including it here. 
+
+# Initial tactics
+Now that you have the context and strategy roughed out, it's time to start moving from the nebulous to the more tangible. From the strategic to the tactical. Like the accelerator, itself. 
+
+But before you dive into working with a startups, you're going to going to have to build the framework that will support that activity. So let's walk through some key elements:
+
+- Creating a **budget**
+- Selecting and appointing **space**
+- Hiring **staff**
+- Recruiting **mentors**
+- Establishing a **curriculum** or lack thereof
+- Understanding the **cadence** of an accelerator
 
 # Budget
 Early on, one of the most challenging aspects of standing up an accelerator or coworking environment can be projecting — guessing, really — how much it will cost to run the project.
@@ -1869,7 +1882,6 @@ Entrepreneurship often involves the challenge of connecting discrete ideas, so d
 One of the amazing things about people is that everyone sees their own connections and brings their own experiences. Young people especially, are more fluid in their thoughts, and have more free time to deeply pursue interests. Make time to listen, when you're scheduling time to talk. 
 
 # Curriculum
-
 As a program, PIE has worked to continually refine its highly intensive mentorship model — through both traditional mentors as well as peer mentorship —  in a way that can be customized on a company-by-company basis. We have continued to refine the model so that it even supports the program's ability to focus on the concerns and issues of single individuals, as needed. 
 
 We equate the curriculum of this program to an “independent study” model in a traditional learning environment. Every Founder in the class shares a collective experience with one another, but their individual learnings are tailored to each of their specific needs — be those needs be individualized by company or person — on a case-by-case basis.
@@ -1877,7 +1889,6 @@ We equate the curriculum of this program to an “independent study” model in 
 This high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
 
 ## More independent study than classroom
-
 Founders are extremely creative and driven, but they  are also intently focused on the immediate problem at hand. To them, nothing else matters but the problem they are working on right now today. Which, of course, tends to differ from startup to startup. And while those startups may _eventually_ all experience the same problem, they will not intuit that the problem exists until they encounter it. Therefore, it is our opinion that it is  nearly impossible to teach at scale in a classroom environment on an ongoing basis.
 
 PIE's high-touch, intensive, and collaborative approach has been proven to be a far more effective means of working with, educating, and accelerating companies than a traditional “one track” curriculum based approach. Why? We have learned that entrepreneurs are interested in solving the most painful problem they are currently encountering, before moving on to the next problem. Our methodology has been adapted to the way an entrepreneur’s mind works, rather than attempting to force fit those entrepreneurs into a system.
@@ -1893,7 +1904,6 @@ Rather, we suggest that Accelerator Staff and Mentors always be on the lookout f
 Some examples of these struggles that impact all founders simultaneously, follow.
 
 ## Common issues 
-
 Entrepreneurs come into our program with a wide of variety of experiences, which more often than not, requires us to provide assistance on a variety of different subjects at entirely different times for each entrepreneur. 
 
 That said, every entrepreneur and company will struggle with the following issues:
@@ -1909,7 +1919,6 @@ That said, every entrepreneur and company will struggle with the following issue
 9.  **Marketing**: Once companies have established a product market fit, entrepreneurs need to understand how to engage with that market. With PIE’s history in marketing and advertising, one of our strongest offerings is helping entrepreneurs learn how to market their product more effectively.
 
 ## Timing
-
 In a perfect world, Accelerators would be able to schedule and deliver education on each of these topics in a very programmatic way. Unfortunately, the opportunities to do so are rare. 
 
 Every Founder will require education on the topics they all share in common, but there is very little likelihood that every Founder will all be experiencing these issues at the same time. It is up to Staff and Mentors to monitor these opportunities for shared learning as they arise. It is up to the Staff to be prepared to take advantage of these opportunities whenever possible, as a means of making the most efficient use of time for both Founders and Mentors. 
@@ -1924,8 +1933,7 @@ Over the years, we learned that you can use the Accelerator program format to ar
 
 Which is how we came upon the idea of creating a cadence and "The Three Ps."
 
-# Creating a cadence
-
+# Understanding the cadence of an accelerator
 One of the most critical efforts for the accelerator staff is that of managing the cadence of the class. Both in terms of introducing stressors and pulling pressure-release valves, as necessary. 
 
 There is no prescribed timing here. You add more pressure when it is needed. And you try to break the tension when needed. There is no schedule here. You just have to play it by ear. And act with your best instincts.
@@ -1934,8 +1942,7 @@ That said, there are some clear guardrails to help guide your efforts.
 
 First off, it's very important to understand the emotional rollercoaster of the accelerator. 
 
-## The emotional ebb and flow of a stressful startup accelerator 
-
+## The emotional ebb and flow of a startup accelerator 
 We've all heard it. "Going through an accelerator is an emotional rollercoaster." And we'd be the first to agree. It's not an easy or smooth experience. For anyone.
 
 But what, exactly, does that rollercoaster look like?
@@ -1953,7 +1960,6 @@ So with that caveat in mind, let's walk through the emotional rollercoaster that
 Right? That's a lot to take in. Let's break it into sections so that we can deal with all of this mayhem you're putting your founders through.
 
 ### Pre-Accelerator
-
 It's highly likely that your startups have had some existence prior to their experience with your accelerator. During that time, they've had a series of highs and lows where they've experienced any number of leaps forward and, likely, an equal number of setbacks. I mean, that's why they're looking for some help, right?
 
 We're not going to claim that we can predict every up and down, but let's take a look at some of the key moments in the experience, prior to joining your Accelerator program.
@@ -1968,7 +1974,6 @@ We're not going to claim that we can predict every up and down, but let's take a
 6. **"Maybe we've made a mistake. Is this the right move for us?"** While the period of euphoria may last for some, most Founders will experience a return to a more calm outlook prior to their beginning the program. This may also manifest itself as having second thoughts or cold feet about joining the Accelerator program at all. Be prepared for questions and Founders seeking reassurance.
 
 ### Month 1 
-
 Now that the company has been accepted to the program and is starting the accelerator process, they'll go through some severe swings of emotions. 
 
 As we mentioned above, PIE generally worked with founders who were confident with building product. Your founders may be similar. Or you may attract founders with different points of confidence. 
@@ -1985,7 +1990,6 @@ Whatever the case, it is important that you begin the accelerator program focusi
 6. **"And folks here seem to get what we do."** We recommend that the first month be wholly focused on an area of strength for the Founders — since the bulk of PIE Founders were product-centric, we focused on product — the opportunity to share that strength is an uplifting one. While Founders rarely have a cohesive story about their Startup at this point, other Founders can intuit motivations and functions, giving the companies a sense of belonging. This reinforces the feeling that the Startup idea has merit. And it helps reinforce the Founders' feeling of belonging in the Accelerator program. 
 
 ### Month 2 
-
 This is by far the worst month for most startups in an Accelerator program. The winter of our discontent? A staggering understatement. You'll find companies remaining well below the midline for this entire month. It's rare to see them even begin to approach it. 
 
 And there's really no way to fix this or prevent this. If you've done your job correctly as an Accelerator, you've put your Founders under a significant amount of pressure in the first month in a new environment — and so much has changed about their business — that your Founders will be feeling pretty beat up. And they'll feel like they're bumping along the bottom of the tank of despair. 
@@ -2001,7 +2005,6 @@ Some of your Founders will have higher amplitude in their spikes and troughs. Ot
 3. **"We don't seem any worse off than anyone else."** Not only does confidence build, but Month 2 is the month where founders gain the most empathy for their cofounders and peers. They start to recognize that everyone is struggling. And that even the most confident and capable Founders in the cohort have their weaknesses. So when you introduce subject matter with which everyone struggles — and everyone recognizes that one another is struggling — you enforce a tendency toward collaboration, support, and peer mentorship. Which, in turn, fortifies the connections and feeling of community among the participants. 
 
 ### Month 3 
-
 This will be the most rewarding month for your startups. Not only will you see them making significant progress, they will make *tangible* progress that the Founders, themselves, will recognize. That progress, in turn, will directly impact the future of their companies. 
 
 ![Startup Accelerator Month 3](/source/images/pieAcceleratorEmotionalRollerCoasterMonth03Detail.png)
@@ -2015,7 +2018,6 @@ This will be the most rewarding month for your startups. Not only will you see t
 Now that you have some generic context of the rollercoaster, let's break down those three months in terms of the subjects PIE used to educate Founders of tech Startups.
 
 ### The Three Ps
-
 So even those three seemingly short months have to be broken down into smaller chunks. To manage the cadence of the class. To manage the stress. To ensure — and endure — momentum. And perhaps, most importantly, to give the startups a sense of progress over the course of the class. 
 
 By class three (Coconut Creme), we had learned to break the class into three marathons, each about a month a piece. A series of stages and gates that culminated in the performance at Demo Day. 
@@ -2025,7 +2027,6 @@ Throughout the course of these stages and gates, we tailor the mentor talks to m
 Here's how we broke it out. We refer to it as "the three Ps": product, projections, and pitch. 
 
 #### Product (Month 1)
-
 Because PIE classes generally consisted of groups of developers who understood how to build products, we started in a place of strength and confidence: product development. 
 
 The challenge? Be ready to demo the current version of the company's product in front of the others startups in the class. The deadline was one month into the class. And it was a required activity. 
@@ -2043,7 +2044,6 @@ So month one, get the product momentum going. And reward those who are making pr
 It's a safe place to start. Because we choose companies that have a solid developer or development team. And its gives both the developer and business cofounders the chance to show off what they're doing to a trusted group of peers. (After one month of accelerator stress, those bonds have already formed.)  
 
 #### Projections (Month 2)
-
 Product development, of course, continues throughout the course of the class — and for the life of the company. But we reduce the focus on that activity in month one. Giving the CTO/developer breathing room to resolve issues raised during the first month and work through the issues list as they prepare to release beta. 
 
 Now that we've stressed out the developers, we put the stress on the business people. Who, more often than not, are developers learning how to business. 
@@ -2067,7 +2067,6 @@ A second month of stress induced collaboration has heightened the trust among pe
 But this is generally a crushing demonstration, leaving the founders feeling exposed and confused. But it's a critical part of figuring out their business. And the strengthening of the class relationship, alone, is worth the friction.  
 
 #### Pitch (Month 3)
-
 Both product and projection development continue in month three. But now that we've established the context of what the team is building and what they need to do to succeed financially, we have established the focus of their pitch and the presentation they will be delivering at Demo Day. 
 
 It's important to note that many programs choose to pitch throughout the course of the entire class. We've found this to have diminishing returns if run for longer than a month. It's also a good chunk of time which we feel is better focused on things like product and projections.
@@ -2092,54 +2091,18 @@ The last week is pretty much nonstop practice, where we not only continue to fin
 
 If you can, take the opportunity to have the presenters practice in the venue. We've had difficulty doing this because of competing auditorium schedules. So for us, it's rare for startups to get the chance to practice on stage prior to day-of. We compensate two ways: We use the W+K auditorium space to practice and we get to the venue early on Demo Dy and do a few dry runs before the audience arrives. 
 
-				97. Work time
-				98. Social time
-					99. Coffee hour
-					99. Happy hour
-				97. Care and feeding of startups
-					98. Stress reliever
-					99. Keeps them healthy
-					100. Develops social bonds
-					101. To Lunch and Learn or not Lunch and Learn
-				98. Care and feeding of mentors
-					99. Not every engagement needs to be "work"
-				100. Keeping the conversation going
-					101. Chat
-					102. Email
-					103. Status reporting
-					104. Weekly 1:1
-					105. Office hours
-					
-## Shared experiences
-						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
-						114. Family Dinner
-						115. Lunch
-						112. Pitch Practice
-					108. Status reporting
-					109. Check-ins
-					110. Weekly reports
 # Running an Accelerator Class
+Now that you have your initial strategy defined, a space for your efforts, staff to implement the program, mentors lined up, and a a rough framework for the class, itself, we're finally ready to get down to the tactics of running the accelerator program. 
 
-				78. Setting expectations
-				79. Communicating expectations
-			78. Time period
-			79. Number of classes per year
-			80. Number of companies per class
-			81. Continued coworking or not?
+Let's get started by walking through the application and selection process by:
 
+- Building your application
+- Recruiting applicants
+- Reviewing the applicants
+- Selecting companies to participate
 
-
-			81. Promotions
-				82. Media
-				83. Community
-					84. Mentors
-					85. Alums
-					86. Partners
-					87. Patrons
-					88. Sponsors
-				84. Events
-				82. Tchotchkes
-			82. Applications
+## Application and selection process
+### Applications
 				83. Example application (https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/pie-application-cheat-sheet.md)
 				84. Communications
 					85. https://github.com/piepdx/pie-cookbook/blob/master/notes/logistics/letter-applications-open.md
@@ -2149,17 +2112,19 @@ If you can, take the opportunity to have the presenters practice in the venue. W
 				84. Fringe benefits of applications: Market research
 					85. We often referenced trends and indicators based on the anonymous aggregate results of our application periods. And with 400+ applicants per class, those insights had the potential to be statistically relevant.
 					86. http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
-					
-									85. Written responses
-				86. Follow up questions
-				87. Face to face Interviews
-					88. Travel
-					88. Objective
-					89. Tells
-				90. [Expect founders to be dubious](https://hackernoon.com/i-used-to-be-a-skeptic-but-the-first-two-weeks-of-techstars-boulder-have-blown-my-mind-d05c6fc55c91#.y40yakq93) 
 
-
-# Selection
+### Promoting the application period
+				82. Media
+				83. Community
+					84. Mentors
+					85. Alums
+					86. Partners
+					87. Patrons
+					88. Sponsors
+				84. Events
+				82. Tchotchkes
+								
+## Selection process
 Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
 
 It only makes sense. Because it's honestly the most challenging part of this whole process. 
@@ -2168,7 +2133,7 @@ What's more, to the outside world, it's the metric on which the "success" of you
 
 And everyone is interested in this topic. Other programs want to make sure that they're picking the best candidates. And candidates want to be sure they're providing the details that make it more likely for them to get picked.
 
-## Grading criteria
+### Grading criteria
 Over the course of the programs PIE ran, we came up with a way of grading startups on a series of weighted factors. And we know this will come as a shock, but we made those factors into an acronym. 
 
 We've created a mnemonic device for helping your remember the components of our grading system. Our grading system for PIE is PIE. Ta dah! But in this case, PIE stands for People, Idea, and Enchantment. So let's go into detail on each of those things.
@@ -2182,7 +2147,7 @@ PIE has a proven and refined methodology for selecting participants in its progr
 - **Idea** (2.0x): Staff, partners, and mentors are asked to analyze the potential of the business idea, the market(s) to which the idea may be attractive, the feasibility of developing a product for that market(s), and whether the product is appropriately timed for the intended market(s).
 - **Enchantment** (1.5x): Staff, mentors, and partners assess the less tangible elements of the team and the product they are pursuing. Is it intriguing? Will it benefit other companies in the cohort? Are the founders likely to be helpful to their peers? Are there mentors who could have a meaningful impact on the entrepreneurs and their businesses? Is there a value to the community or other sponsors?
 
-### People
+#### People
 People — or in this context "Founders" — is by far the most heavily weighted aspect of this decision. Because good Founders — who are collaborative Cofounders and respect one another — can work their way out of any problem. Even if "working their way out of a problem" means killing the company they set out to build.
 - - - 
 > **tl;dr The only thing that matters is picking good Founders.**
@@ -2205,7 +2170,7 @@ So we ask questions like:
 - What would happen if you were stuck in an airport overnight with this Founder?
 - Will this Founder be a good Mentor for future PIE companies? 
 
-### Idea
+#### Idea
 After People, the next grading criteria is the Idea. Not the product, mind you, because that will change over the course of the Accelerator. It's the Idea. 
 
 So we ask questions like:
@@ -2216,7 +2181,7 @@ So we ask questions like:
 - What will it take to engage that market?
 - Is there significant competition? (Not a a disqualifier, at all.)
 
-### Enchantment
+#### Enchantment
 This is kind of our catch all category. It can serve as a tiebreaker. Or as a multiplier. Or simply as a way to reaffirm what we believe the other two categories have told us. 
 
 Okay. To be honest, we actually call this category "Serendipity." But we didn't like that acronym. So we changed it to "Enchantment." Because it's a little bit magic. And gut. And luck.
@@ -2231,6 +2196,15 @@ To qualify Enchantment, we ask questions like:
 - Do they present an interesting collaborative opportunity or creative challenge for our Patrons or Sponsors?
 - Do they have a product that matches the thesis of our closest investors?
 - Is this just interesting for some odd reason?
+
+### Stages of the selection process
+#### First cut
+Written responses
+#### Second cut
+Follow up questions
+#### Final cut
+Face to face Interviews
+
 
 			90. Prep
 				91. Background checks

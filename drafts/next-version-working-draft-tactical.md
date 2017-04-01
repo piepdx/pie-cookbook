@@ -34,6 +34,14 @@ Note: Your flavors of PIE will vary. In fact, they must vary. If they don’t, y
 
 When it comes right down to it, all we’ve done at PIE is figure out a way to create a protected and trusted environment for creative people to try new things — and potentially fail. It’s like any artist’s studio. 
 
+				78. Setting expectations
+				79. Communicating expectations
+			78. Time period
+			79. Number of classes per year
+			80. Number of companies per class
+			81. Continued coworking or not?
+
+
 ## Community
 [PLACEHOLDER] Provide analogies/examples of each of the communities above.
 
@@ -283,6 +291,43 @@ Pressure/heat (Startups + Staff + Patron)
 			30. Passively engaged pool
 			30. Overlap
 			31. Alums as mentors
+
+# Selection
+		86. 
+				87. Face-to-Face Interviews
+					88. Travel
+					88. Objective
+					89. Tells
+				90. [Expect founders to be dubious](https://hackernoon.com/i-used-to-be-a-skeptic-but-the-first-two-weeks-of-techstars-boulder-have-blown-my-mind-d05c6fc55c91#.y40yakq93) 
+
+
+# Class dynamics
+				97. Work time
+				98. Social time
+					99. Coffee hour
+					99. Happy hour
+				97. Care and feeding of startups
+					98. Stress reliever
+					99. Keeps them healthy
+					100. Develops social bonds
+					101. To Lunch and Learn or not Lunch and Learn
+				98. Care and feeding of mentors
+					99. Not every engagement needs to be "work"
+				100. Keeping the conversation going
+					101. Chat
+					102. Email
+					103. Status reporting
+					104. Weekly 1:1
+					105. Office hours
+					
+## Shared experiences
+						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
+						114. Family Dinner
+						115. Lunch
+						112. Pitch Practice
+					108. Status reporting
+					109. Check-ins
+					110. Weekly reports
 
 
 ## Peer mentoring
