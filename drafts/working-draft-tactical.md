@@ -2203,19 +2203,25 @@ official application.**
 ##### MORE INFO?
 Feel free to contact us at info@piepdx.com, follow us on Twitter at http://twitter.com/piepdx, like us on Facebook at http://facebook.com/piepdx, or follow us on AngelList at http://angel.co/piepdx.
 
-### Written follow up questions
-Following our review of the initial applications, PIE staff and selected mentors would go through all of the applications with a triage mentality. We would keep companies that looked promising, save companies that required additional information, and reject companies that did not seem to be a good fit for our accelerator. 
+### Triaging initial responses
+Following the close of the initial applications, PIE staff and selected mentors would go through our initial selection process, reviewing all of the applications with a triage mentality. 
 
-### Promoting the application period
-				82. Media
-				83. Community
-					84. Mentors
-					85. Alums
-					86. Partners
-					87. Patrons
-					88. Sponsors
-				84. Events
-				82. Tchotchkes
+That consisted of three buckets:
+
+- Keep: Companies that seemed like a good fit for PIE
+- Question: More details required to determine if the company was a good fit
+- Cut: Companies that did not seem like a good fit for PIE
+
+This triage process usually resulted in us eliminating 50% of the applicants (Cut) and continuing to work through due diligence with the remaining 50% (Keep and Question).
+
+### Written follow up questions
+Candidates who fell into the "Question" category received follow-up questions via email. We used this technique to dig into the details that may have required more explanation or areas that we felt were nebulous or unclear. 
+
+At times, we would question some of the Keep candidates. Specifically if they were working in areas where staff or mentors had specific expertise. 
+
+The questions allowed us to test assumptions or get additional data. 
+
+We generally gave the startups a week to respond to our questions. They were kept or cut based on our analysis of their responses.
 
 ## Selection process
 Without question, the most common query we receive — from both Founders and other Accelerator programs — is "How do you choose your startups?" 
