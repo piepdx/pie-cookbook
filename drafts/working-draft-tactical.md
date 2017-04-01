@@ -1625,8 +1625,6 @@ The entrepreneur in residence role is designed to serve two critical functions. 
 ### Additional roles
 If budget and available management resources allow, accelerators may also choose to augment staff with roles like interns, associates, and the like. We will explore these roles in future editions of the PIE Cookbook. 
 
-## How to hire
-
 # Recruiting mentors
 	
 			21. Anyone can (and should) be a mentor
