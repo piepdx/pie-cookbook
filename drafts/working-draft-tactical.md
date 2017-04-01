@@ -1631,20 +1631,12 @@ Once you have space and staff, the next priority for your accelerator is recruit
 > **tl;dr New accelerators are judged primarily by their mentor pool. Operating accelerators are only as good their last class.**
 - - - 
 
-			21. Anyone can (and should) be a mentor
+## Identifying potential mentors
+As you start working with startups, you will be able to identify the skill sets that have the most impact on your founders. But at the outset, you need to start with a varied pool of founders, subject matter experts, and people who represent potential target markets.
+
+## Anyone can (and should) be a mentor
 				22. It’s not just “experts”
 				23. Different viewpoints reveal flaws and opportunities
-		
-			22. Identifying potential mentors
-			23. Recruiting potential mentors
-			23. Qualifying potential mentors
-			24. Test driving mentors
-			27. Assessing skill fit
-			28. Assessing personality fit
-			29. Actively engaged pool
-			30. Passively engaged pool
-			30. Overlap
-			31. Alums as mentors
 
 # Onboarding mentors
 In order to make the experience most valuable for the mentor and most valuable for your founders, it is important that you define the mentor role and the expectations you have for that mentor before they are introduced to Founders.
