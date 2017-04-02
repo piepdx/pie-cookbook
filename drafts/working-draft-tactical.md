@@ -2445,12 +2445,12 @@ Once you’re introduced…
 - Fill out the mentor feedback form
 https://docs.google.com/forms/d/1vwn3OQRAiZbGaDNYUt38BOkdPVqnmMG77qRLJMXFnW0/viewform
 
-### Getting into the flow		
+## Getting into the flow		
 Once the startups get settled, it's important to get into the typical flow as quickly as possible. Don't let this take more than 48 hours or so. Otherwise, your startups will settle into a routine and breaking them from that routine will be difficult. 
 
 As the first true accelerator activity, we recommend starting with Family Dinner. 
 
-#### Family Dinner
+### Family Dinner
 Arguably, Family Dinner is one of the most important parts of the program. As the name implies, Family Dinner is a weekly gathering — over dinner — designed to be an exclusive opportunity for our company founders to come together, share status updates, and give guidance to one another. Think of it as it a support group with food.
 
 Having a gathering like this is crucial to the health of your program — and the mental well-being of your founders — that will deepen the connections among companies participating in the class. Peer mentoring is not something that can be forced, but in a setting like family dinner, it is only natural that folks will offer help to their fellow founders.
@@ -2471,7 +2471,7 @@ We recommend hosting your dinners on-site rather than at a restaurant, unless yo
  
 Consider family dinner mandatory. And rest assured that it will take a while for you to find your Family Dinner groove. At PIE, we made a bunch of errors with the format before we honed in on what worked for our companies.
 
-## Family Dinner 0.9 Beta (Coworking version)
+#### Family Dinner 0.9 Beta (Coworking version)
 The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. 
 
 We called it Family Dinner because [that's what Y Combinator called their gathering](https://www.fastcompany.com/3040961/the-y-combinator-chronicles/giddiness-terror-cornbread-heres-what-a-y-combinator-dinner-is-r). And we liked the implications of family and strengthening the connections among the members of the PIE folks.
@@ -2482,7 +2482,7 @@ There were a few regular attendees. But the mix changed and morphed from week to
 
 Then something interesting began to happen. Rather than simply sitting around and engaging in small talk, folks began to share issues and problems they were having. They began to explore the stress and emotions of running a startup. And they began to shed the "entrepreneurial veneer" of "Everything is awesome! We're killing it!" to reveal what was really happening. And to start to ask for help.
 
-## Family Dinner 1.0 (Coworking version)
+#### Family Dinner 1.0 (Coworking version)
 As Family Dinner moved from Happy Hour to Reality Hour, something interesting began to happen. More folks attended. More folks participated. More folks shared. And more folks were encouraged to share. 
   
 > Rather than opting for voluntary participation, the weekly event became an exercise in peer mentoring. 
@@ -2497,7 +2497,7 @@ Family Dinner problems began to take three distinct forms:
 
 But it wasn't without its flaws. Some folks begin commanding more airtime than others. So we put a time limit on it. And enforced a requirement for everyone to talk. We tried to create a culture of collaboration. Where everyone was getting value out of the gathering. Not just a few squeaky wheels.
 
-## Family Dinner 2.0 (Accelerator)
+#### Family Dinner 2.0 (Accelerator)
 When we decided to shift from coworking space to accelerator, we felt that Family Dinner was one of the more valuable activities that should make the transition, as well. But, in so doing, we failed to retain some of the parameters that had made it successful previously.
 
 First of all, we let folks talk about whatever they wanted to talk about. More often than not — being founders — this resulted in discussions on "what went well this week" or, even worse, with chest thumping.
@@ -2506,7 +2506,7 @@ Inevitably, one startup or founder would be having a good week. They would highl
 
 Rather than being something positive for peer mentoring, it became competitive and weird. We recognized this and tried to correct some of those bugs.
 
-## Family Dinner 2.5 (Accelerator)
+#### Family Dinner 2.5 (Accelerator)
 This was the final model for Family Dinner in the accelerator environment. These were the guiding principles:
 
 - No bragging.
@@ -2535,7 +2535,7 @@ We often get asked, "What's a typical week like in your accelerator?" And while 
 
 So here's an imperfect look at a typical week at PIE:
 
-## Monday
+### Monday
 
 **8:00AM** 
 Staff arrives and meets with one another about the week's upcoming events. Some startups are already working.
@@ -2552,7 +2552,7 @@ Family Dinner ends. Startups return to workspace and continue working. Staff ret
 **8:00PM** 
 Workspace is about half full with the founders who prefer the late shift. Staff remains online in the chat room or accessible via email.
 
-## Tuesday
+### Tuesday
 
 **8:00AM** 
 Staff arrives. Continues making mentor connections for startups based on issues raised during family dinner. *Note: It may take as many as two or three mentors with subject matter expertise to help each startup resolve each issue. Your job, from a staff perspective, is to help make this process as efficient as possible.*  
@@ -2575,7 +2575,7 @@ Return to work. Mentors often remain behind to continue the conversation with a 
 **7:00PM** 
 Staff and startups start to thin out in the workspace. Staff remains online in the chat room or accessible via email.
 
-## Wednesday
+### Wednesday
 
 **8:00AM** 
 Work day for startups and staff. Staff arrives. Checks in on progress. Spends day meeting with mentors, potential mentors, alums, and future recruits. 
@@ -2598,7 +2598,7 @@ Startups encouraged to attend a targeted community event and spend time networki
 **8:00PM** 
 Startups return to space and continue working and discuss event. Or opt to grab drinks with the random visitor.
 
-## Thursday
+### Thursday
 
 **8:00AM** 
 Staff arrives. Startups start to roll in.
@@ -2615,7 +2615,7 @@ Startups return to work. Small groups break off to work on issues that arose dur
 **7:00PM** 
 Staff departs. Space starts to clear out. 
 
-## Friday
+### Friday
 
 **8:00AM** 
 Staff arrives. Startups start to roll in.
@@ -2635,11 +2635,11 @@ Happy Hour winds down. Startups go back to work.
 **8:00PM** 
 Founders who clicked with the investor meet up to continue the conversation
 
-## Saturday and Sunday
+### Saturday and Sunday
 
 Staff and startups in space sporadically. No scheduled events.
 
-# Engaging mentors in an accelerator class
+## Engaging mentors in an accelerator class
 So that all makes sense. But there's an awful lot of mentoring in there. How does that stuff start to happen? 
 
 At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
@@ -2652,75 +2652,19 @@ We’ll take you through each of these elements from least amount of engagement 
 - Matchmaking
 - Office hours
 
-## Presentation with Q&A
+### Presentation with Q&A
 Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.
 
-### For the mentor
 
-#### Preparing mentors to speak to a class
+
+#### For the mentor
+
+##### Preparing mentors to speak to a class
 One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the entire class. For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
 
 At PIE, we found a cadence of two talks — where a single mentor addresses the entire class — per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. 
 
 Variety, am I right?
-
-### Misconceptions about mentor presentations
-In our experience, we've found that there are a few misconceptions some communities have about mentors presentations. So we wanted to dispel those immediately.
-
-#### 1) Mentors who want to speak are the mentors that should speak
-Despite rumors to the contrary, there will likely be a large contingent of your community that actually enjoys presenting in front of an audience. They enjoy the stage. And they enjoy public speaking. And as your program — or programming — becomes more prominent and recognized, these folks will seek out your program for speaking opportunities. 
-
-Sometimes they're amazing speakers. Sometimes they're not. There is value in each of those outcomes. 
-
-Amazing speakers really help the startups. Not so amazing speakers can provide great conversation points for the startups and staff. 
-
-But don't think you have to take all comers. Like so many things that happen in the chaotic environment of the accelerator, you have to determine if the timing is right. For the content. For the personality. And for the startups. 
-
-Because wasting a good speaker at the wrong time is just as bad as having an off topic speaker at the right time.
-
-#### 2) Mentors who don't want to speak shouldn't speak
-While shouldn't you take all comers, the converse is also true. Sometimes, you have to seek out the mentor who doesn't want to present in front of the class. Because they have valuable insight. Or interesting stories. Or the startups simply need to have a little boost.
-
-Act accordingly.
-
-While it may take more cajoling and prepping, it is critically important that you always find the right speakers. Not just the speakers to which you have immediate access. And not just the folks who want to speak.
-
-You're here to help your founders. And your mentors want to help founders. Sometimes that's awkward and uncomfortable.
-
-#### 3) Mentors need to be experts
-Another misconception is the idea that mentors need to be expert in their field. 
-
-We believe that anyone and everyone has the potential to be a mentor. Likewise, anyone and everyone has the potential to speak as a mentor. And to provide valuable insights to your founders.
-
-Your challenge as a staff member is to figure out how to apply those mentors. 
-
-Expertise is not a prerequisite. Insights, willingness to share, and relatable stories are. So find the people who can talk honestly about their experiences and share relevant feedback. Whether they are considered "experts" or not.
-
-CAVEAT: Most of your speakers will be either founders or experts. But your entire mentor pool can have a ton of variety and levels of expertise — or lack thereof.
-
-#### 4) Speaking is more important than listening
-Sometimes, being a good speaker isn't what startups need. They need someone who listens. 
-
-We find that some of our best mentor speakers are those who spend less time presenting and more time chatting — or just listening. So make sure to find folks who are comfortable with that dynamic. 
-
-You're much better off to have a so-so presentation with a lively Q&A session than to have a polished oratory followed by crickets. 
-
-Startups are in your program to explore opportunities, question assumptions, and get their hands dirty. They are seeking opportunities to learn about practical applications and unique insights. Not to revel in theory. So make sure founders have speakers who draw that conversation out.
-
-#### 5) You need a formal setting for presentations
-We've pretty much covered this in the space design. But to hit it one more time… 
-
-We talk to a lot of folks who dodge the whole speaker thing with, "Well, we don't have anywhere to do it."
-
-Bullshit.
-
-PIE's mentors had, arguably, one of the most thankless presentation platforms ever. A cavernous concrete room. With huge columns. And a scattered litany of desks. 
-
-Tough room, as the comedians say. We made due. 
-
-And I would argue that the very nature of the raw space lent itself to more candid discussions. That by forcing founders to pull back from their desks and wheel their chairs away from obstructions caused them to be more engaged. That even those founders who remained intently typing away throughout the presentation gained something. Because they were immersed in the moment.
-
-The best stage is the stage you have. Make due. 
 
 ### Prepping mentors for speaking to your founders
 
