@@ -2653,7 +2653,11 @@ We’ll take you through each of these elements from least amount of engagement 
 - Office hours
 
 ### Presentation with Q&A
-Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.
+Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
+
+At PIE, we found a cadence of two talks — where a single mentor addresses the entire class — per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. 
+
+Variety, am I right?
 
 #### Potential staff misconceptions about mentor presentations
 In our experience, we've found that there are a few misconceptions some communities have about mentors presentations. So we wanted to dispel those immediately.
@@ -2714,16 +2718,6 @@ And I would argue that the very nature of the raw space lent itself to more cand
 The best stage is the stage you have. Make due. 
 
 #### For the mentor
-
-##### Preparing mentors to speak to a class
-One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the entire class. For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
-
-At PIE, we found a cadence of two talks — where a single mentor addresses the entire class — per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. 
-
-Variety, am I right?
-
-### Prepping mentors for speaking to your founders
-
 Once you've selected a mentor to speak, it will benefit both the community and your program if you adequately prepare them for the talk. 
 
 Even the most seasoned CEO with a completely polished pitch can become a babbling idiot when trying to describe how they built the business — or how they failed. But those are the stories that provide the most value to the startups you're trying to help.
