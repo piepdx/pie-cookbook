@@ -2655,7 +2655,63 @@ We’ll take you through each of these elements from least amount of engagement 
 ### Presentation with Q&A
 Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.
 
+#### Potential staff misconceptions about mentor presentations
+In our experience, we've found that there are a few misconceptions some communities have about mentors presentations. So we wanted to dispel those immediately.
 
+##### 1) Mentors who want to speak are the mentors that should speak
+Despite rumors to the contrary, there will likely be a large contingent of your community that actually enjoys presenting in front of an audience. They enjoy the stage. And they enjoy public speaking. And as your program — or programming — becomes more prominent and recognized, these folks will seek out your program for speaking opportunities. 
+
+Sometimes they're amazing speakers. Sometimes they're not. There is value in each of those outcomes. 
+
+Amazing speakers really help the startups. Not so amazing speakers can provide great conversation points for the startups and staff. 
+
+But don't think you have to take all comers. Like so many things that happen in the chaotic environment of the accelerator, you have to determine if the timing is right. For the content. For the personality. And for the startups. 
+
+Because wasting a good speaker at the wrong time is just as bad as having an off topic speaker at the right time.
+
+##### 2) Mentors who don't want to speak shouldn't speak
+While shouldn't you take all comers, the converse is also true. Sometimes, you have to seek out the mentor who doesn't want to present in front of the class. Because they have valuable insight. Or interesting stories. Or the startups simply need to have a little boost.
+
+Act accordingly.
+
+While it may take more cajoling and prepping, it is critically important that you always find the right speakers. Not just the speakers to which you have immediate access. And not just the folks who want to speak.
+
+You're here to help your founders. And your mentors want to help founders. Sometimes that's awkward and uncomfortable.
+
+##### 3) Mentors need to be experts
+Another misconception is the idea that mentors need to be expert in their field. 
+
+We believe that anyone and everyone has the potential to be a mentor. Likewise, anyone and everyone has the potential to speak as a mentor. And to provide valuable insights to your founders.
+
+Your challenge as a staff member is to figure out how to apply those mentors. 
+
+Expertise is not a prerequisite. Insights, willingness to share, and relatable stories are. So find the people who can talk honestly about their experiences and share relevant feedback. Whether they are considered "experts" or not.
+
+CAVEAT: Most of your speakers will be either founders or experts. But your entire mentor pool can have a ton of variety and levels of expertise — or lack thereof.
+
+##### 4) Speaking is more important than listening
+Sometimes, being a good speaker isn't what startups need. They need someone who listens. 
+
+We find that some of our best mentor speakers are those who spend less time presenting and more time chatting — or just listening. So make sure to find folks who are comfortable with that dynamic. 
+
+You're much better off to have a so-so presentation with a lively Q&A session than to have a polished oratory followed by crickets. 
+
+Startups are in your program to explore opportunities, question assumptions, and get their hands dirty. They are seeking opportunities to learn about practical applications and unique insights. Not to revel in theory. So make sure founders have speakers who draw that conversation out.
+
+##### 5) You need a formal setting for presentations
+We've pretty much covered this in the space design. But to hit it one more time… 
+
+We talk to a lot of folks who dodge the whole speaker thing with, "Well, we don't have anywhere to do it."
+
+Bullshit.
+
+PIE's mentors had, arguably, one of the most thankless presentation platforms ever. A cavernous concrete room. With huge columns. And a scattered litany of desks. 
+
+Tough room, as the comedians say. We made due. 
+
+And I would argue that the very nature of the raw space lent itself to more candid discussions. That by forcing founders to pull back from their desks and wheel their chairs away from obstructions caused them to be more engaged. That even those founders who remained intently typing away throughout the presentation gained something. Because they were immersed in the moment.
+
+The best stage is the stage you have. Make due. 
 
 #### For the mentor
 
