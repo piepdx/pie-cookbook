@@ -3010,11 +3010,19 @@ Mentors need context for the meeting, especially if its the staff arranging the 
 ##### For the founders
 They already know. Trust us.
 
-### Many:Company
-A number of mentors meeting with an entire company is often a very 
+#### Many:Company
+This is a typical format for investors to engage with startups in the cohort, like an associate and a partner or multiple angels from an angel group. A number of mentors meeting with an entire company is often a very casual and comfortable mentor meeting. This can be both good and bad. 
 
-#### For the mentor
-#### For the founders
+It's important to ensure that everyone is getting value out of the format, and that it's not just a chat. 
+
+##### For the staff
+It's highly advised that you make time to sit in on these meetings. Without proper guidance, they can devolve to chitchat. It's fine if the group wants to go out later to chat, but during the time in the space, this should be focused on deriving value from the meeting.
+
+##### For the mentor
+This can be the easiest meeting to have and the most difficult meeting from which to quantify value. Mentors will be more comfortable with peers in the room. 
+ 
+##### For the founders
+Make sure the founders understand that they need to be focused on getting something out of the meeting — even if it's a follow up that is more laid back and social. 
 
 - - -
 # A note about bad actors
