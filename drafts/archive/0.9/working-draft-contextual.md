@@ -1,4 +1,4 @@
-## Preface 
+# Preface 
 > It's hard for people to realize now how inconsequential YC seemed at the time. I can't blame people who didn't take us seriously, because we ourselves didn't take that first summer program seriously in the very beginning. But as the summer progressed we were increasingly impressed by how well the startups were doing.… When people came to YC to speak at the dinners that first summer, they came in the spirit of someone coming to address a Boy Scout troop. By the time they left the building they were all saying some variant of "Wow, these companies might actually succeed."
 
 > - Paul Graham, [How Y Combinator Started](http://old.ycombinator.com/start.html)
@@ -19,14 +19,21 @@ Because the best thing about experiments is that whether you succeed or fail you
 
 Welcome to the PIE Cookbook.
 
-### Caveats
+## Open Source
+We are releasing this information as an open source project for a reason. Because we want this to be a conversation. 
 
+This isn't a broadcast or soliloquy. It's a collaboration among communities. That's why it is equally important that your provide feedback. What was helpful? What worked? What didn't work? What was complete malarkey? Where was PIE’s experience a matter of timing and luck, rather than repeatable? How did you do things differently?
+
+> “So with the PIE Cookbook, getting the chance to actually help lead an open source project…? That’s been a long time coming for me. I’m looking forward to learning — and probably making some mistakes. But no matter what, I’m really interested in seeing where the community takes this project.”
+
+> - [Unnecessarily proprietary](https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.97oi6moii)
+
+## Caveats
 I have always been a fan of books that start with a caveat or two. Because inevitably, you, gentle reader, have just started down this path. And given that you've already started to get a feel for where this is going, you're inevitably jumping to the question: Is this book for me?
 
 The answer is yes. But with a few caveats.
 
-#### 1. This is not a problem technology can solve. 
-
+### 1) This is not a problem technology can solve. 
 If technology could solve this problem, we would have built it. Trust us. But it can't. This isn't about algorithms or dynamically connecting dots. This is about getting to know people. And what makes them tick. And what pisses them off. And what scares them. This is about seeing non-obvious connections. It is about using what artists refer to as "negative space." Finding opportunity in what is absent or invisible.   
   
 > Negative space, in art, is the space around and between the subject(s) of an image. Negative space may be most evident when the space around a subject, not the subject itself, forms an interesting or artistically relevant shape, and such space occasionally is used to artistic effect as the "real" subject of an image.  
@@ -35,12 +42,9 @@ If technology could solve this problem, we would have built it. Trust us. But it
   
 > - ["Negative space" in Wikipedia](https://en.wikipedia.org/wiki/Negative_space)  
   
-So if you're looking for a way to throw technology at the problem and avoid the messy feels and stuff, it's probably best to stop reading here and starting searching the web for what you think you need.
-
-![All the feels](/source/images/all-the-feels.jpg "All the feels")
+So if you're looking for a way to throw technology at the problem and avoid the messy feels and stuff, it's probably best to stop reading here and starting to search the web for what you think you need.
  
-#### 2. This is not a scalable solution. 
-
+### 2) This is not a scalable solution. 
 This is the very reason we're not seeking to stamp out a ton of cookie cutter versions of PIE. Because our way of doing this doesn't scale. Well, that and "cookie cutter" and "PIE" is a mixed metaphor. We don't believe you can recreate what we created to solve Portland, Oregon's technology startup problem late in the first decade of this century. Nor would we want you to.     
   
 It's not that we haven't tried. We have. But each time, it comes out differently. Because the community the each accelerator model supports needs it to be different. 
@@ -49,27 +53,24 @@ Again, if your hope is to find some easily repeatable way of doing this, the way
 
 ![The way is shut](/source/images/way-is-shut.gif "The way is shut")
 
-#### 3. This is not an efficient solution. 
-
+### 3) This is not an efficient solution. 
 Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, that one of how time consuming this is. It doesn't scale. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build the best accelerator for your community — no matter what that community happens to be.
 
-#### 4. Be intentional
-
+### 4) Be intentional
 So much of what occurs in an accelerator environment appears to happen organically and dynamically. But appearances, as they say, can be deceiving. And can belie all of the prior effort that has been invested prior to the accelerator environment.
 
 To be successful, you must be intentional. And work with the intent of making stuff happen. Not just letting stuff happen.
 
-#### 5. This is not about creating a community
-
+### 5) This is not about creating a community
 With the PIE Cookbook, we have to start with a series of assumptions about you and your community. These assumptions are:
-* You are already part of a well defined community. 
-* You have a relevant role in that community. 
-* You have identified an opportunity for an Accelerator within that community. 
+
+- You are already part of a well defined community. 
+- You have a relevant role in that community. 
+- You have identified an opportunity for an Accelerator within that community. 
 
 With these assumptions in mind, please understand that we may lightly touch on community management and development from time to time. However, the PIE Cookbook is not designed to educate you on how communities are defined, built, and maintained. This guide is a resource for helping existing communities take build Accelerators to support their members.
 
 ## PIE as an example
-
 > My hope is that you do not view the use of Boulder here as "Boulder tooting its own horn." I use Boulder as an example of a lasting and vibrant startup community because I know it extremely well (at least one segment). This approach is called synecdoche, where the part stands for the whole. There are many things the Boulder startup community can do better and many more for it to discovers we continue on our journey; my hope is that by exploring it in depth it helps you with your journey in your startup community.
 
 > - Brad Feld in Startup Communities
@@ -99,15 +100,13 @@ But our context for this experimentation has always been PIE. And in order for P
 While we’ll get into specific elements of the program, its composition, and its multiple iterations throughout the book, here is some grounding in where this whole thing started.
 
 - - - -
+**[No interest in building a startup accelerator like PIE? Good.](https://medium.com/portland-incubator-experiment/no-interest-in-building-a-startup-accelerator-like-pie-good-f31ecbd14e05)** 
 
-## [SIDEBAR] No interest in building a startup accelerator like PIE? Good. 
-[Source](https://medium.com/portland-incubator-experiment/no-interest-in-building-a-startup-accelerator-like-pie-good-f31ecbd14e05 "Permalink to No interest in building a startup accelerator like PIE? Good. — Portland Incubator Experiment — Medium")
+*Our motivation to share the PIE Cookbook isn't to convince you to recreate PIE. It's to inspire you to create something new — and better.*
 
-### Our motivation to[ share the _PIE Cookbook_][10] isn't to convince you to recreate[ PIE][11]. It's to inspire you to create something new — and better.
+I was having a conversation with a friend, recently. Given that we're both startup types, the topic of conversation eventually gravitated to the PIE Cookbook project.
 
-I was having a conversation with a friend, recently. Given that we're both startup types, the topic of conversation eventually gravitated to the [_PIE Cookbook_][10] project.
-
-His response? An unadulterated "**Meh.**"
+His response? An unadulterated "Meh."
 
 I paused.
 
@@ -129,18 +128,16 @@ But at first blush, I realize that's _exactly_ what it looks like we were trying
 
 That's our fault. So I'd like to ask you to **please take a moment to look deeper.**
 
-### PIE is actually an experiment in accelerating creativity
-
-When[ Renny][12] reached out to me to start the conversation that would eventually become PIE, he had one very clear hypothesis he was interested in testing:
+**PIE is actually an experiment in accelerating creativity**
+When Renny reached out to me to start the conversation that would eventually become PIE, he had one very clear hypothesis he was interested in testing:
 
 > Entrepreneurs and technologists are a new creative class, and their problem-solving toolkit will be increasingly important to solve the emerging brand challenges we tackle at Wieden+Kennedy. But words and images don't always seem to play well with code. And folks great at one craft may not recognize another as "creative." But in a world of distributed software and hardware, it's important to find ways to work together. Entrepreneurs and technologists are inspired creatives who've chosen technology as their medium for creative expression. We should be able to find ways to do cool stuff, together.
 
 And that hypothesis has remained a guiding principle for PIE for nearly a decade. First as a coworking space then as a startup accelerator then as a means of effecting more compelling collaborations between corporations and startups. But through and through, we've always been about **creating innovation communities** and **accelerating creative output**.
 
-The _PIE Cookbook_ is no different.
+The PIE Cookbook is no different.
 
-### It's your job to improve upon the learnings from PIE
-
+**It's your job to improve upon the learnings from PIE**
 With that in mind, **please don't try to recreate PIE**. In fact, we would hate for you to do that. This is your opportunity to build something different. And better. 
 
 This is about rolling up your sleeves and getting your hands dirty. Making this model yours. Experimenting, manipulating, iterating, exploring, and improving.
@@ -151,50 +148,22 @@ Therefore, we'd like to ask: How might the PIE learnings be adapted to meet your
 
 Maybe you could…
 
-* Use the PIE learnings to create an environment that focuses on companies engaged in services-based businesses — read "not candidates for equity investment." Maybe you could create ways to better meet their unique business needs? And maybe you could create entirely new ways of investing in and evaluating these companies? You could. Because that's exactly what[ **Oregon Story Board**][13] is doing with the PIE recipe, as it accelerates companies in the world of digital storytelling. All of which enabled them to be among Carnegie Mellon, Dartmouth, UC Berkeley, and Virginia Tech as an[ early stage grantee for Microsoft HoloLens][14].
-* Leverage the PIE model to focus on issues that are adversely impacting your community. Like lack of inclusion. And ineffective support for women founders. Maybe you could use it to raise the visibility of a whole ton of awesome founders from communities of color? Maybe this effort could be part of a broader economic plan to make your entire community a better place to live? You could. Because that's how the [Portland Development Commission][15] is adapting the PIE recipe to guide and accelerate companies in the[ **Startup PDX Challenge**][16].
-* Identify the compelling knowledge and resources your community has accumulated. And look for ways to activate that knowledge by using an a PIE-flavored accelerator to focus that energy. That expertise could be geographical. It could be cultural. It could be the business environment, itself. You could. Because that's exactly what the town of Newberg, Oregon — the gateway to the Willamette Valley wine country — is doing with the[ **Newberg Innovation Accelerator**][17], a project that will focus efforts on agricultural technology projects and businesses that directly impact the wine industry.
-* Use the PIE insights as means of changing the way employees approach, attack, and resolve problems _within_ a corporation. You could bring a cross-functional team of folks from throughout the company to a shared communal workspace that resembles an accelerator. To work for three months on an entrenched problem, free from the typical approval cycles and sacred cows of corporate life. To get them out of the building and get them engaged with real customers. To hear, firsthand, how they can fix things. You could. Because that's exactly what[ **Daimler**][18]** did with their SPIN program**, by using the PIE recipe to create an internal accelerator. For employees.
-* Or maybe you could **come up with something completely unique**. Maybe you could use the PIE Cookbook to build new curricula at a college. Or to create a nonprofit accelerator. Or to change the dynamic of an R&D shop. Or to rethink craft brewing. Or to create agencies. Or to help Kickstarter projects survive, post funding. Or to change the world of VR. Or to help bloggers build better business models. Or to give artists an environment to create. Or to help a diverse slice of indie game developers change the face of gaming. Or to build a maker space. Or to help lifestyle companies succeed more efficiently. Or or or or…
+- Use the PIE learnings to create an environment that focuses on companies engaged in services-based businesses — read "not candidates for equity investment." Maybe you could create ways to better meet their unique business needs? And maybe you could create entirely new ways of investing in and evaluating these companies? You could. Because that's exactly what **Oregon Story Board** is doing with the PIE recipe, as it accelerates companies in the world of digital storytelling. All of which enabled them to be among Carnegie Mellon, Dartmouth, UC Berkeley, and Virginia Tech as an early stage grantee for Microsoft HoloLens.
+- Leverage the PIE model to focus on issues that are adversely impacting your community. Like lack of inclusion. And ineffective support for women founders. Maybe you could use it to raise the visibility of a whole ton of awesome founders from communities of color? Maybe this effort could be part of a broader economic plan to make your entire community a better place to live? You could. Because that's how the Portland Development Commission is adapting the PIE recipe to guide and accelerate companies in the **Startup PDX Challenge**.
+- Identify the compelling knowledge and resources your community has accumulated. And look for ways to activate that knowledge by using an a PIE-flavored accelerator to focus that energy. That expertise could be geographical. It could be cultural. It could be the business environment, itself. You could. Because that's exactly what the town of Newberg, Oregon — the gateway to the Willamette Valley wine country — is doing with the **Chehalem Valley Innovation Accelerator**, a project that will focus efforts on agricultural technology projects and businesses that directly impact the wine industry.
+- Use the PIE insights as means of changing the way employees approach, attack, and resolve problems _within_ a corporation. You could bring a cross-functional team of folks from throughout the company to a shared communal workspace that resembles an accelerator. To work for three months on an entrenched problem, free from the typical approval cycles and sacred cows of corporate life. To get them out of the building and get them engaged with real customers. To hear, firsthand, how they can fix things. You could. Because that's exactly what **Daimler** did with their SPIN program, by using the PIE recipe to create an internal accelerator. For employees.
+- Or maybe you could **come up with something completely unique**. Maybe you could use the PIE Cookbook to build new curricula at a college. Or to create a nonprofit accelerator. Or to change the dynamic of an R&D shop. Or to rethink craft brewing. Or to create agencies. Or to help Kickstarter projects survive, post funding. Or to change the world of VR. Or to help bloggers build better business models. Or to give artists an environment to create. Or to help a diverse slice of indie game developers change the face of gaming. Or to build a maker space. Or to help lifestyle companies succeed more efficiently. Or or or or…
 
-The point is that the _PIE Cookbook_ is designed **to inspire you to do something**. To help you frame up your organization, your community, and yourself. To give you a pattern for what success might look like. And how to budget for chaos, random constructive collisions, and innovation. **To get creative. Not repetitive.**
+The point is that the PIE Cookbook is designed **to inspire you to do something**. To help you frame up your organization, your community, and yourself. To give you a pattern for what success might look like. And how to budget for chaos, random constructive collisions, and innovation. **To get creative. Not repetitive.**
 
-The _PIE Cookbook_ is designed to help provide a framework and some confidence. To give you courage. [To provide suggestions][19] and inspiration. It's designed to help you understand — or to educate your superiors — that it's actually okay to try this stuff. To show them it's not just _acceptable_ to participate, but it's exciting and critical to survival as well. **The _PIE Cookbook_ is our way of telling you to step off that cliff and go for it.**
+The PIE Cookbook is designed to help provide a framework and some confidence. To give you courage. To provide suggestions and inspiration. It's designed to help you understand — or to educate your superiors — that it's actually okay to try this stuff. To show them it's not just _acceptable_ to participate, but it's exciting and critical to survival as well. **The PIE Cookbook is our way of telling you to step off that cliff and go for it.**
 
-Not interested in building a generic tech startup accelerator? Good. Please don't. [Go do something more interesting than that][10].
+Not interested in building a generic tech startup accelerator? Good. Please don't. **Go do something more interesting than that.**
 
 And, by all means, please keep us in the loop. We're looking forward to learning from — and with — you.
-
-
-[1]: https://medium.com/
-
-[10]: https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce
-[11]: http://piepdx.com
-[12]: http://medium.com/@rgleeson
-[13]: http://oregonstoryboard.org
-[14]: https://blogs.windows.com/devices/2015/11/11/meet-the-award-recipients-of-the-first-microsoft-hololens-academic-research-grants/
-[15]: http://pdc.us
-[16]: http://www.pdc.us/startuppdxchallenge.aspx
-[17]: http://www.chehalemvalley.org/portland-incubator-experience-cookbook-live-kickstarter/
-[18]: http://www.daimler-trucksnorthamerica.com/
-[19]: https://medium.com/portland-incubator-experiment/want-to-start-an-accelerator-don-t-start-an-accelerator-fa88e457be0b#.i9ekkje3p
-[20]: http://twitter.com/turoczy "Twitter profile for @turoczy"
-[21]: http://siliconflorist.com/
-[22]: http://wk.com
-[23]: http://oregonstoryboard.org/
-[24]: https://medium.com/tag/startup?source=post
-[25]: https://medium.com/tag/mentorship?source=post
-[26]: https://medium.com/tag/inspiration?source=post
-[27]: https://cdn-images-1.medium.com/fit/c/60/60/1*H688u3sqINlBFkWiZLZ3kQ.jpeg
-[28]: https://medium.com/@turoczy "Go to the profile of Rick Turoczy"
-[29]: http://twitter.com/siliconflorist "Twitter profile for @siliconflorist"
-[30]: http://twitter.com/PIEpdx "Twitter profile for @PIEpdx"
-[31]: http://twitter.com/orstoryboard "Twitter profile for @orstoryboard"
-
-- - - - -
+- - -
 
 ## Motivations
-
 It seems a lot of folks want to build an accelerator to somehow create a startup community from scratch. Unfortunately, that's not really how this thing works. 
 
 An accelerator can attract a community. An accelerator can codify a community. An accelerator can even import a community. But an accelerator has to have a community. 
@@ -206,7 +175,6 @@ The best accelerators spring up from communities. Great communities can form aro
 If you don't have an existing community, keep this in mind when you're deciding on the focus of your accelerator. Because if you don't have a community then your accelerator needs to be attractive enough to recruit a community around it.
 
 ## Understanding — and working within — the existing culture of the community
-
 Every accelerator needs a community. Every community does not need an accelerator.
 
 Communities exist on a spectrum. Some communities don't even realize that they're communities. Others are a loosely assembled group of individuals who identify with peers and members of their community through a feeling of commonality and affinity, even though they lack definition, infrastructure, and process for formalizing that community. Still other communities are well defined, organized, and managed as communities.
@@ -224,7 +192,6 @@ What we're saying is that the community doesn't have to be a certain kind of com
 If you, as the accelerator perceive something that behaves like community — no matter how ill defined — then there's enough there to begin.
 
 ### Accelerators function within communities
-
 Accelerators can be a means of bringing an existing — but nebulous and ill defined — community together. Or accelerating the momentum of an organized community.
 
 But make no mistakes. Accelerators are not a means of creating a community from scratch. And this is an assumption that most people make. Many potential accelerator founders are enamored of the concept of creating an accelerator that will somehow result in the creation of an amazing and vibrant community. It's actually the converse that is true.
@@ -234,7 +201,6 @@ Community first. Accelerator second.
 To be successful, you must work within the context and culture of your existing community. You're not going to be successful trying to build something that flies in the face of the community in which you're trying to build it.
 
 ## Current state of accelerators 
-
 While PIE will speak from its vantage point on its experience as coworking space, a community hub, and an early stage tech startup accelerator, the PIE Cookbook is not meant to be tech specific. Nor is it meant to be a guide that only applies to startups.
  
 We believe that the accelerator model is a powerful and efficient educational construct to can be applied to a variety of markets, businesses, and communities. 
@@ -250,7 +216,6 @@ Using higher education as an analogy, accelerators have our Harvard and Stanford
 As far as accelerators go, we have our Ivy Leagues and our Stanford, but we have barely begun to scratch the surface for this educational model. Where is the Georgia Tech of accelerators? Where is the RISD? Where is the Reed or Whitman? Better yet, where is the state school or community college or junior college? Where is the vocational school of accelerators? There’s still plenty of room to explore this educational model. We have a long way to go before we’ve even leveraged the existing model, let alone begun to inflate the bubble. https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.qjyagrd3p
 
 ## Spoiler alert
-
 This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most every case, it may not be wise — or downright foolhardy — to start where PIE ended. You should start where PIE started. And try to end where you want to end. 
 
 There is inherent value in the journey, itself.
@@ -280,30 +245,28 @@ And this has come into sharp relief as we've moved away from PIE being a physica
 
 Long story short, we greatly underestimated the positive impact and community benefits of having an actual physical place. That's why we're working to correct that. To return to PIE being less virtual and more physical. Because our community needs that physical space.
 
-#### Community, then accelerator
-
+### Community, then accelerator
 Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure. For that reason, we'll cover ways to discover, identify, engage with, and collaborate with your community prior to beginning your accelerator effort.
 
-#### Just enough
+### Just enough
 You can go too far.
-* In design
-* In environment
-* In structure
-* In goals
-* In trying to over architect the experience
-* In over planning and under participating
+- In design
+- In environment
+- In structure
+- In goals
+- In trying to over architect the experience
+- In over planning and under participating
 
 This is meant to be a little messy.
 
-#### There is no pause button
+### There is no pause button
 
 Once you start, you cannot stop. Ever.
 
 ## How to use this cookbook
-
 Like many cookbooks, there’s no one way to use this book. But we have designed it with two particular use cases in mind:
 
-1. If you are intrigued by the idea of starting an accelerator but have absolutely no idea where to start—or, worse yet, are paralyzed by a fear of failure that’s preventing you from taking the leap—this book will guide you step-by-step through the iterations that PIE followed, highlighting mistakes we made along the way and culminating with the process we use to run our accelerator today.  
+1. If you are intrigued by the idea of starting an accelerator but have absolutely no idea where to start — or, worse yet, are paralyzed by a fear of failure that’s preventing you from taking the leap — this book will guide you step-by-step through the iterations that PIE followed, highlighting mistakes we made along the way and culminating with the process we use to run our accelerator today.  
 2. If you have already started an accelerator but are feeling like you could be doing better, this book will allow you to jump to sections that apply to specific areas of your program that you’re looking to improve. 
 
 Like any cookbook, this book provides the instructions that worked for PIE. They may or may not work for your organization. And your special adaptations are what make the recipe work for you. 
@@ -314,23 +277,13 @@ With that in mind, it is our intention to:
 - Give you enough insight into our process for you to internalize it, change it, and create your own way of doing things.
 - Encourage you to communicate back to us what worked and what didn’t. So that we can create a more compelling cookbook for everyone that is just as crazy as we are.
 
+### Jump around as needed. Choose your own adventure.
+This isn’t a book you read cover to cover. Some of this will seem obvious to you. If it is? Skip it. Sometimes you’ll need to start later in the book and work your way backwards.
 
-## Open Source
+Start with what you have. Go from there.
 
-We are releasing this information as an open source project for a reason. Because we want this to be a conversation. 
-
-This isn't a broadcast or soliloquy. It's a collaboration among communities. That's why it is equally important that your provide feedback. What was helpful? What worked? What didn't work? What was complete malarkey? Where was PIE’s experience a matter of timing and luck, rather than repeatable? How did you do things differently?
-
-(Footnote: https://medium.com/portland-incubator-experiment/no-interest-in-building-a-startup-accelerator-like-pie-good-f31ecbd14e05#.7ybyv2grm)
-
-
-> “So with the PIE Cookbook, getting the chance to actually help lead an open source project…? That’s been a long time coming for me. I’m looking forward to learning — and probably making some mistakes. But no matter what, I’m really interested in seeing where the community takes this project.”
-
-> - [Unnecessarily proprietary](https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.97oi6moii)
-
-## History
-
-In that same vein, we are providing the PIE history as an example or parable, not a step-by-step, cookie cutter process for you to follow to achieve the same ends. 
+# History
+We are providing the PIE history as an example or parable, not a step-by-step, cookie cutter process for you to follow to achieve the same ends. 
 
 It is important to note that, like many things in the world of startups, PIE worked at a moment in time, because of the people involved, and the way the world happened to be going in Portland, Oregon, with open source, technology, startups, blogging, and creative agencies. 
 
@@ -340,28 +293,14 @@ That said, your community is likely at a different place. Maybe there are simila
 
 Whatever the case, we are hopeful that our history with PIE provides reference points that allow you to better identify — and take advantage of — potential opportunities in your community, today.
 
-### Jump around as needed. Choose your own adventure.
-
-This isn’t a book you read cover to cover. 
-
-Some of this will seem obvious to you. If it is? Skip it. 
-
-Sometimes you’ll need to start later in the book and work your way backwards.
-
-Start with what you have. Go from there.
-
-# History of PIE
-
-## Overview
-
+## History of PIE
 PIE began as a collaborative experiment between award-winning, global advertising firm Wieden+Kennedy and the Portland high-tech startup community. Now, PIE has evolved into an intensive three-month mentorship program designed to identify, recruit, capitalize, accelerate, and promote early stage high-tech startups which are highly efficient with investment capital, establish corporate headquarters in Oregon, create high paying jobs for Oregonians, and raise the visibility of the state on an international stage. 
 
 The PIE model has been tested, refined, and proven over a three-year period. During that time, the program has fostered the growth of companies that have attracted more than $50 million in venture capital and created more than 150 Oregon jobs with wages averaging nearly double the baseline of the average Oregon family wage of $40,486. In addition, PIE has had the opportunity to work with corporations like Intel, Target, Coca-Cola, and Google raising the visibility of both the State of Oregon and its innovative technology community to international acclaim. 
 
 Like the startups the program serves, PIE is extremely efficient with capital. All activity to date has been accomplished with minimal capital investment. This is thanks in part to the creative efforts of the PIE team to leverage volunteer resources, actively seek and secure in-kind contributions, and create and manage additional revenue-generating programs beyond its incubation activities.
 
-## A melding of hypotheses
-
+### A melding of hypotheses
 > Portland, Oregon, boasts more microbreweries, restaurants, food carts, batch distilleries, mobile startups, and open source user groups per capita than any city in the world. Some call it the most entrepreneurial city, ever. It's determined to be the most green, friendly, sustainable, bike commutable, soccer loving, and livable town you'll ever encounter. And if that's not good enough for you, it's 90 minutes from the ocean and 90 minutes from skiing and snowboarding, year round.
 
 > But most importantly, it's the best place in the world for you to build your startup dream into a reality. To make your startup work. To make it.
@@ -387,7 +326,6 @@ So we took those complementary hypotheses and started testing them. Carving off 
 Our hope was that by building better founders and enabling creatives to collide, we had the potential to artificially accelerate the startup community in Portland. And to make it easier to build a company in the city that had long been seen as a flyover town between the larger, more active startup scenes in the Bay Area and Seattle. 
 
 ## A timeline
-
 The PIE accelerator, unbeknownst to us, started in 1995, 15 years before PIE officially became an accelerator. It started when members of the startup community started careers and built networks of peers in the dotcom days. Where classmates at our universities explored technology together. Where agencies and creative community grew in strength and numbers. Where companies had been founded and demolished. Where the open source community had created connections and collaborations. 
 
 It took all of those things — and a growing sense of community — to start conversations. Conversations about "What if…?" What is the community had a collaborative workspace? What if there were a way for the community to have a more physical and tangible presence? What if we had a community hub that gave more gravity to what we sensed was happening?
@@ -402,7 +340,9 @@ So funding the effort was going to be a challenge. And with no active early stag
 
 Enter [Wieden+Kennedy](http://wk.com/).
 
-Wieden+Kennedy — which we may also refer to as W+K or Wieden, throughout the PIE Cookbook — is the largest privately held creative agency in the world, perhaps best known for creative efforts such as Nike’s “[Just Do It](http://www.adweek.com/adfreak/happy-25th-birthday-nikes-just-do-it-last-great-advertising-slogan-150947),” the [Old Spice Guy](https://www.youtube.com/watch?v=owGykVbfgUE), and Chrysler’s “[Imported from Detroit](https://www.youtube.com/watch?v=SKL254Y_jtc),” among others. The worldwide headquarters of the agency are located not in New York, Chicago, or London, but in Portland’s Pearl District, where a former Fuller Brush Company warehouse holds more than 500 of their employees. The remainder of their creative talent lives around the world, gathering in offices in Amsterdam, Delhi, London, New York, Sao Paulo, Shanghai, and Tokyo.  
+Wieden+Kennedy — which we may also refer to as W+K or Wieden, throughout the PIE Cookbook — is the largest privately held creative agency in the world, perhaps best known for creative efforts such as Nike’s “[Just Do It](http://www.adweek.com/adfreak/happy-25th-birthday-nikes-just-do-it-last-great-advertising-slogan-150947)” and the [Old Spice Guy](https://www.youtube.com/watch?v=owGykVbfgUE)” among others. 
+
+The worldwide headquarters of the agency are located not in New York, Chicago, or London, but in Portland’s Pearl District, where a former Fuller Brush Company warehouse holds more than 500 of their employees. The remainder of their creative talent lives around the world, gathering in offices in Amsterdam, Delhi, London, New York, Sao Paulo, Shanghai, and Tokyo.  
 
 And in 2009 — thanks to economic doldrums and a horrible real estate market — W+K had an empty retail space sitting vacant on the first floor. 
 
@@ -430,9 +370,7 @@ Without ever actually doing anything.
 
 And that became the primary selection criteria for the coworking space when people approached us. "What are you building?"
 
-> **Why are we doing this**? 
-
-> Because we don’t have all the answers. Because we believe that the people who collaborate to innovate will win. And innovation is core to the business at W+K and for our brand partners. The brand and technology mentors that have come together around PIE, the ability to scale an idea across multiple brands with massive reach and off-the-chart awareness scores, interaction with other startups and W+K involvement is something you can’t get anywhere else but here, and that’s the result of a lot of people who believe PIE represents something truly unique, both for the industry and for Portland.
+> Why are we doing this? Because we don’t have all the answers. Because we believe that the people who collaborate to innovate will win. And innovation is core to the business at W+K and for our brand partners. The brand and technology mentors that have come together around PIE, the ability to scale an idea across multiple brands with massive reach and off-the-chart awareness scores, interaction with other startups and W+K involvement is something you can’t get anywhere else but here, and that’s the result of a lot of people who believe PIE represents something truly unique, both for the industry and for Portland.
 
 > “[Filling in some more details on PIE](http://siliconflorist.com/2011/07/28/filling-details-pie/)” Silicon Florist (July 28, 2011)
 
@@ -482,58 +420,10 @@ Wary of organizations that talked and talked and never did, PIE was designed to 
 
 At least in theory. 
 
-> We thought filling the space and starting to engage with W+K account teams was something. And so we started talking about it. 
+What we wanted was something that helped Portland startups — and by that, we meant revenue generating ventures — get going as quickly as possible. Less a coworking space and more an incubator. Something that helped people get going and then booted the project out of the nest to fly on its own. Something Y Combinator like. Something like TechStars. And yet, something uniquely Portland.
 
-> What we wanted was something that helped Portland startups—and by that, we meant revenue generating ventures—get going as quickly as possible. Less a coworking space and more an incubator. Something that helped people get going and then booted the project out of the nest to fly on its own. Something Y Combinator like. Something like TechStars. And yet, something uniquely Portland.
-
-{[sidebar-getting-even-more-creative.md](sidebar-getting-even-more-creative.md)}
-
-
-It wasn’t well received. Which wasn't necessarily a bad thing. But it wasn't necessarily a good thing, either. There was some appropriate cynicism. And a healthy amount of questioning. With a few folks going so far as to categorize it as some carpetbagging or war profiteering move by Wieden+Kennedy. A way of the agency capitalizing on some grassroots activity in the Portland market. 
-
-In short, the community immediately assumed that W+K was taking advantage of an opportunistic situation. 
-
-I mean, the ire was somewhat understandable. Maybe not the unmitigated hate. But at least the ire. What the hell was this global creative agency doing dabbling in the world of startups? And why the sudden interest in Portland in particular? 
-
-It didn’t help that, at the time, we were shallow on facts. And didn’t really have much detail to provide. Because we didn’t exactly know what we were doing. 
-
-There simply wasn’t much there there.
-
-We were naive in the most rudimentary sense of the term. But we continued the experiment anyway. And we went completely dark from a promotions and public relations standpoint. Until we had something more meaningful to say.
-
-{[sidebar-fresh-pie.md](sidebar-fresh-pie.md)}
-
-But perhaps most importantly, W+K had not been a significant part of the Portland startup community. And their sudden and intentional engagement — although seemingly ginger from the perspective of PIE participants — still ruffled feathers. 
-
-Because W+K didn't engage the community where they were. They brought the community in. Before they were part of that community. Before the hospitality made sense. 
-
-It was a mistake. But we worked as quickly and as diligently as we could to correct it.
-
-We invited all kinds of random folks into the space — from interesting technology people to solo founders to early stage startups to individual contributors at companies like Automattic, Kickstarter, and Twitter. Heck, we even worked with a few early stage agencies. 
-
-Just as important to the experiment we invited all kinds of people from Wieden+Kennedy to collaborate. 
-
-We also invited the community to use the space. For hackathons. For events. For meetups. 
-
-After roughly a year of observing the community, interacting with the PIE startups, observing their hardships, understanding their needs, and recognizing their opportunities, we stepped back and reassessed what we had accomplished. Or in our minds, what we had completely failed to accomplish. 
-
-{[sidebar-pie-from-side-project-to-startup.md](sidebar-pie-from-side-project-to-startup.md)}
-
-And so, with the blessing and backing of W+K, PIE transitioned from coworking space to accelerator, as a means of taking a more active role in the growth and development of these promising companies.
-
-This book documents the learnings of that journey. A journey which, as of this writing, has resulted in a portfolio of more than 40 companies which have created more than 600 jobs and put more than $150 million to work in the Portland startup scene. Making PIE one of the more successful startup accelerators in the world.
-
-By sharing the learnings from PIE, we have had the opportunity to work with a number of other accelerators around the world—corporate accelerators, innovation centers, R&D shops, for-profits, nonprofits, private, public, and everything in between—all of which have their own unique ways of managing their programs. 
-
-We even took our learnings and cofounded a sister accelerator focused on the world of digital storytelling called Oregon Story Board. Story Board has served as a way for us to test our PIE learnings within a different target market. With a different type of creative. And to explore new ways of accelerating creative output.
-
-Not bad for an experiment. 
-
-Now let’s get you working on your own. And hopefully doing this whole accelerator thing way better than we have.
-		
-
-# Drawing inspiration from other programs
-
+- - -
+**Drawing inspiration from other programs**
 There are a benefits to starting something after people have already tested the waters. You’re getting the chance to take advantage of learnings from predecessors to inform the organization you’re trying to build. 
 
 We tried to do the same thing. But when we started thinking about PIE as an accelerator, we weren’t quite as lucky. Much like when we started the coworking space, there were few models from which to select — and none of them had proven whether the model would actually pencil out. (Many of them still haven’t.) 
@@ -554,6 +444,46 @@ You see, we knew we couldn’t recreate the perceived effectiveness of either of
 
 So rather than selecting one program after which to pattern ourselves in a cookie-cutter fashion we chose to instead dissect each program and take only the elements which we felt best resonated with our audience — and that we had a chance of effectively emulating.
 
-That is, it did us no good to strive to set up the program up as the onramp to the Silicon Valley elite and a bevy of investors—because we didn’t have the access that would have enabled this. Instead, we took only the parts of each program we had the ingredients to effectively recreate. 
+That is, it did us no good to strive to set up the program up as the onramp to the Silicon Valley elite and a bevy of investors — because we didn’t have the access that would have enabled this. Instead, we took only the parts of each program we had the ingredients to effectively recreate. 
+- - -
 
+It wasn’t well received. Which wasn't necessarily a bad thing. But it wasn't necessarily a good thing, either. There was some appropriate cynicism. And a healthy amount of questioning. With a few folks going so far as to categorize it as some carpetbagging or war profiteering move by Wieden+Kennedy. A way of the agency capitalizing on some grassroots activity in the Portland market. 
+
+In short, the community immediately assumed that W+K was taking advantage of an opportunistic situation. 
+
+I mean, the ire was somewhat understandable. Maybe not the unmitigated hate. But at least the ire. What the hell was this global creative agency doing dabbling in the world of startups? And why the sudden interest in Portland in particular? 
+
+It didn’t help that, at the time, we were shallow on facts. And didn’t really have much detail to provide. Because we didn’t exactly know what we were doing. 
+
+There simply wasn’t much there there.
+
+We were naive in the most rudimentary sense of the term. But we continued the experiment anyway. And we went completely dark from a promotions and public relations standpoint. Until we had something more meaningful to say.
+
+But perhaps most importantly, W+K had not been a significant part of the Portland startup community. And their sudden and intentional engagement — although seemingly ginger from the perspective of PIE participants — still ruffled feathers. 
+
+Because W+K didn't engage the community where they were. They brought the community in. Before they were part of that community. Before the hospitality made sense. 
+
+It was a mistake. But we worked as quickly and as diligently as we could to correct it.
+
+We invited all kinds of random folks into the space — from interesting technology people to solo founders to early stage startups to individual contributors at companies like Automattic, Kickstarter, and Twitter. Heck, we even worked with a few early stage agencies. 
+
+Just as important to the experiment we invited all kinds of people from Wieden+Kennedy to collaborate. 
+
+We also invited the community to use the space. For hackathons. For events. For meetups. 
+
+After roughly a year of observing the community, interacting with the PIE startups, observing their hardships, understanding their needs, and recognizing their opportunities, we stepped back and reassessed what we had accomplished. Or in our minds, what we had completely failed to accomplish. 
+
+And so, with the blessing and backing of W+K, PIE transitioned from coworking space to accelerator, as a means of taking a more active role in the growth and development of these promising companies.
+
+This book documents the learnings of that journey. A journey which, as of this writing, has resulted in a portfolio of more than 40 companies which have created more than 1000 jobs and put hundreds of millions of dollars to work. 
+
+At the time, that made PIE one of the more successful startup accelerators in the world.
+
+By sharing the learnings from PIE, we have had the opportunity to work with a number of other accelerators around the world—corporate accelerators, innovation centers, R&D shops, for-profits, nonprofits, private, public, and everything in between—all of which have their own unique ways of managing their programs. 
+
+We even took our learnings and cofounded a sister accelerator focused on the world of digital storytelling called Oregon Story Board. Story Board has served as a way for us to test our PIE learnings within a different target market. With a different type of creative. And to explore new ways of accelerating creative output.
+
+Not bad for an experiment. 
+
+Now let’s get you working on your own. And hopefully doing this whole accelerator thing way better than we have.
 
