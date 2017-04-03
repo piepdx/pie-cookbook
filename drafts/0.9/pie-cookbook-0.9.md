@@ -3682,8 +3682,7 @@ Rest easy. Had you told them any earlier, they wouldn’t have heard you. They w
 Don’t believe us? Try telling your next class earlier and see what happens.
 
 # Conclusion
-
-One of the primary motivations for writing the PIE Cookbook was the firm belief that this programmatic model for assisting founders and companies could inform the development of additional accelerator models. Or entirely new ways of managing this sort of mentorship.
+To reiterate what we said at the start, one of the primary motivations for writing the PIE Cookbook was the firm belief that this programmatic model for assisting founders and companies could inform the development of additional accelerator models. Or entirely new ways of managing this sort of mentorship.
 
 For that reason, we want you to take this guide as inspiration, rather than fact. Our motivation to share the PIE Cookbook isn’t to convince you to recreate PIE. It’s to inspire you to create something new — and better.
 
@@ -3691,24 +3690,13 @@ Because, let's be honest, no matter how much you love tech and innovation and al
 - - - 
 > **tl;dr It’s your job to improve upon the PIE recipe, not simply repeat it.**
 - - - 
-With that in mind, please don’t try to recreate PIE. In fact, we would hate for you to bake our flavor of PIE. This isn’t a sleeve of prepared cookie dough that you halfheartedly slice onto a cookie sheet. This is a “Bake your own” proposition. This is a recipe. And everyone has their own unique ingredients.
-This is about rolling up your sleeves and getting your hands in the mix. Making the recipe yours. Experimenting, manipulating, iterating, exploring, and improving.
+With that in mind, please don’t try to recreate PIE. The world needs more variety — not less. And together, we all get better.
 
-The world needs more variety — not less. And together, we all get better.
-Therefore, we’d like to ask: How might the PIE recipe be adapted to meet your community’s needs?
+Maybe you could come up with something completely unique. Maybe you could use the PIE recipe to build new curricula at a college. Or to create a nonprofit accelerator. Or to change the dynamic of an R&D shop. Or to rethink craft brewing. Or to create agencies. Or to help Kickstarter projects survive, post funding. Or to change the world of VR. Or to help bloggers build better business models. Or to give artists an environment to create. Or to help a diverse slice of indie game developers change the face of gaming. Or to build a maker space. Or to help lifestyle companies succeed more efficiently. Or or or or…
 
-Maybe you could…
-- Use the PIE recipe to create an environment that focuses on companies engaged in services-based businesses — read “not candidates for equity investment.” Maybe you could create ways to better meet their unique business needs? And maybe you could create entirely new ways of investing in and evaluating these companies? You could. Because that’s exactly what Oregon Story Board is doing with the PIE recipe, as it accelerates companies in the world of digital storytelling. All of which enabled them to be among Carnegie Mellon, Dartmouth, UC Berkeley, and Virginia Tech as an early stage grantee for Microsoft HoloLens.
-- Leverage the PIE model to focus on issues that are adversely impacting your community. Like lack of inclusion. And ineffective support for women founders. Maybe you could use it to raise the visibility of a whole ton of awesome founders from communities of color? Maybe this effort could be part of a broader economic plan to make your entire community a better place to live? You could. Because that’s how the Portland Development Commission is adapting the PIE recipe to guide and accelerate companies in the Startup PDX Challenge.
-- Identify the compelling knowledge and resources your community has accumulated. And look for ways to activate that knowledge by using an a PIE-flavored accelerator to focus that energy. That expertise could be geographical. It could be cultural. It could be the business environment, itself. You could. Because that’s exactly what the town of Newberg, Oregon — the gateway to the Willamette Valley wine country — is doing with the Newberg Innovation Accelerator, a project that will focus efforts on agricultural technology projects and businesses that directly impact the wine industry.
-- Use the PIE recipe as means of changing the way employees approach, attack, and resolve problems within a corporation. You could bring a cross-functional team of folks from throughout the company to a shared communal workspace that resembles an accelerator. To work for three months on an entrenched problem, free from the typical approval cycles and sacred cows of corporate life. To get them out of the building and get them engaged with real customers. To hear, firsthand, how they can fix things. You could. Because that’s exactly what Daimler did with their SPIN program, by using the PIE recipe to create an internal accelerator. For employees.
+The point is that the PIE Cookbook is designed to inspire you to do something. To get creative. Not repetitive. To give you courage. To provide suggestions and inspiration. It’s designed to help you understand — or to educate your superiors — that it’s actually okay to try this stuff. To show them it’s not just acceptable to participate, but it’s exciting and critical to survival as well. 
 
-Or maybe you could come up with something completely unique. Maybe you could use the PIE recipe to build new curricula at a college. Or to create a nonprofit accelerator. Or to change the dynamic of an R&D shop. Or to rethink craft brewing. Or to create agencies. Or to help Kickstarter projects survive, post funding. Or to change the world of VR. Or to help bloggers build better business models. Or to give artists an environment to create. Or to help a diverse slice of indie game developers change the face of gaming. Or to build a maker space. Or to help lifestyle companies succeed more efficiently. Or or or or…
-
-The point is that the PIE Cookbook is designed to inspire you to do something. To help you frame up your organization, your community, and yourself. To give you a pattern for what success might look like. And how to budget for chaos, random constructive collisions, and innovation. To get creative. Not repetitive.
-The PIE Cookbook is designed to help provide a framework and some confidence. To give you courage. To provide suggestions and inspiration. It’s designed to help you understand — or to educate your superiors — that it’s actually okay to try this stuff. To show them it’s not just acceptable to participate, but it’s exciting and critical to survival as well. The PIE Cookbook is our way of telling you to step off that cliff and go for it.
-
-Not interested in building a generic tech startup accelerator? Good. Please don’t. Go do something more interesting than that.
+Not interested in building a generic tech startup accelerator? **Good. Please don’t. Go do something more interesting than that.**
 
 And, by all means, please keep us in the loop. We’re looking forward to learning from — and with — you.
 
