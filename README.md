@@ -2,13 +2,14 @@
 
 Howdy. We're [PIE](http://piepdx.com/), an ongoing experiment between the Portland, Oregon, startup community and [Wieden+Kennedy](http://wk.com/), the largest privately held creative agency in the world. Throughout its history, PIE has served as a coworking space, a hub for community, and an early stage startup accelerator. Now, we're sharing all that we've learned over nearly a decade of working with startups and collaborating with corporations. We're calling it, the **PIE Cookbook**. 
 
-## Current focus (Updated April 2, 2017)
+## Current focus (Updated April 3, 2017)
 
-**We are currently working to incorporate all of the notes on Accelerator operations and management into the [tactical working draft.](https://github.com/piepdx/pie-cookbook/blob/master/drafts/archive/0.9/working-draft-tactical.md)** Once we complete that draft, we will return to the contextual working draft, a document that captures more of the motivations and context for an Accelerator. 
+**CURRENT VERSION: [PIE COOKBOOK 0.9 BETA](https://github.com/piepdx/pie-cookbook/blob/master/docs/pie-cookbook-0.9.md)**
 
-As we work to release [PIE Cookbook 0.9](https://github.com/piepdx/pie-cookbook/milestone/9), we have been focusing our efforts on two things:
-1. Identifying and resolving "[showstopper](https://github.com/piepdx/pie-cookbook/issues?q=is%3Aopen+is%3Aissue+label%3Ashowstopper)" bugs that are preventing us from releasing the content.
-2. Moving "nice to have" content that is not required for PIE Cookbook 0.9 BETA to the roadmap for PIE Cookbook 1.0.
+We are currently focused on:
+
+1. Getting the content to play nicely with Read the Docs so that it is more easily digestible.
+2. Revising, editing, and adding to the document in preparation for the PIE Cookbook 1.0 release.
 
 ## Creating the PIE Cookbook
 
