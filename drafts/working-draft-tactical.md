@@ -2845,7 +2845,16 @@ Ideally, you have a location within your space that works for this type of conve
 
 Participants should leave any workshop session with homework to complete. Workshops are called workshops for a reason. They create work for the participants. Make sure there is an assignment after each one.
 
+#### For the staff
+In this format, staff should be looking to engage subject matter expert mentors.  This is an incredibly scaleable and efficient way for those types of mentors to share their knowledge, en masse. 
+
+These mentors should be comfortable with a conversational teaching environment. 
+
 ### For the mentor
+Encourage mentors to set the context of the workshop, provide background on their experience or expertise, and then actively make examples of the startups or founders. This should be an engaging and dynamic process designed to help all participants learn the subject matter.
+
+Make sure the mentors understand that they should be assigning homework. And make sure that they realize that the assignment should drive the teachings home or take participants to the next stage of developing the concepts explored during the workshop — and this is important — as they apply to the founder and/or their startup. They need to make the assignment applicable, not just educational. 
+
 ### For the founders
 
  - - -
