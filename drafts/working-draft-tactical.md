@@ -2850,18 +2850,18 @@ In this format, staff should be looking to engage subject matter expert mentors.
 
 These mentors should be comfortable with a conversational teaching environment. 
 
-### For the mentor
+#### For the mentor
 Encourage mentors to set the context of the workshop, provide background on their experience or expertise, and then actively make examples of the startups or founders. This should be an engaging and dynamic process designed to help all participants learn the subject matter.
 
 Make sure the mentors understand that they should be assigning homework. And make sure that they realize that the assignment should drive the teachings home or take participants to the next stage of developing the concepts explored during the workshop — and this is important — as they apply to the founder and/or their startup. They need to make the assignment applicable, not just educational. 
 
-### For the founders
+#### For the founders
 Encourage participants to be as open and participatory as they can during the session. They should bring up real problems, rather than hypothetical ones, enabling the mentor to help them resolve their issues in real time. 
 
 Like the mentor presentations, encourage the founders to do their own homework on each of the workshops. 
 
  - - -
-### Experimenting with the format: Lunch and Learns
+#### Experimenting with the format: Lunch and Learns
 Sometimes a mentor talk, other times a workshop, sometimes led by peers, lunch and learns are scheduled twice a week during the three month program during the lunch hour. Speakers can range from founders with anecdotal “war stories” to subject matter experts. We often bring our higher profiled mentors in for these talks, as it is easier to schedule for them. These are some of the most valuable learning opportunities of the program.
  
 Despite how straightforward these sessions sound, we’ve discovered a few snags. There is a chance that any given topic, might not be something a company is dealing with that particular day or week, but trust us, they will – and when they are dealing with it, they might not have a chance to meet with that mentor again. This is one of those; take advantage of the opportunity while you have it, moments.
@@ -2879,12 +2879,7 @@ Example topics:
 - Pricing Model roundtable – multiple mentors
 - The importance of documentation  	
 - Minimum “Valuable” Product
-- Founder Talks
-- Business Development 101
-- Presenting 101 
-- PR 101
 - - -
-
 
 ## Speed dating or running the gauntlet
 
