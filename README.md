@@ -4,7 +4,7 @@ Howdy. We're [PIE](http://piepdx.com/), an ongoing experiment between the Portla
 
 ## Current focus (Updated April 2, 2017)
 
-**We are currently working to incorporate all of the notes on Accelerator operations and management into the [tactical working draft.](https://github.com/piepdx/pie-cookbook/blob/master/drafts/working-draft-tactical.md)** Once we complete that draft, we will return to the contextual working draft, a document that captures more of the motivations and context for an Accelerator. 
+**We are currently working to incorporate all of the notes on Accelerator operations and management into the [tactical working draft.](https://github.com/piepdx/pie-cookbook/blob/master/drafts/archive/0.9/working-draft-tactical.md)** Once we complete that draft, we will return to the contextual working draft, a document that captures more of the motivations and context for an Accelerator. 
 
 As we work to release [PIE Cookbook 0.9](https://github.com/piepdx/pie-cookbook/milestone/9), we have been focusing our efforts on two things:
 1. Identifying and resolving "[showstopper](https://github.com/piepdx/pie-cookbook/issues?q=is%3Aopen+is%3Aissue+label%3Ashowstopper)" bugs that are preventing us from releasing the content.
