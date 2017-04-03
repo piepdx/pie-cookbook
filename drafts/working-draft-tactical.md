@@ -2856,6 +2856,9 @@ Encourage mentors to set the context of the workshop, provide background on thei
 Make sure the mentors understand that they should be assigning homework. And make sure that they realize that the assignment should drive the teachings home or take participants to the next stage of developing the concepts explored during the workshop — and this is important — as they apply to the founder and/or their startup. They need to make the assignment applicable, not just educational. 
 
 ### For the founders
+Encourage participants to be as open and participatory as they can during the session. They should bring up real problems, rather than hypothetical ones, enabling the mentor to help them resolve their issues in real time. 
+
+Like the mentor presentations, encourage the founders to do their own homework on each of the workshops. 
 
  - - -
 ### Experimenting with the format: Lunch and Learns
