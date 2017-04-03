@@ -2989,15 +2989,29 @@ The staff has introduced you to this founder because they believe your experienc
 
 Nowhere does the guidance on mentoring become more important than this format. 
 
-#### For the founders
+##### For the founders
 The staff has introduced you to this mentor because they believe that the mentor may have relevant advice for your current issues. They do not have the answer or a resolution. They have advice.  
 
-### 1:Company
+#### 1:Company
+One mentor meeting with the entire company is either the most difficult format for both mentor and participating startup or the easiest. There is no in between. 
 
-#### For the mentor
-#### For the founders
+These meetings may occur naturally throughout the course of the program, as mentors and founders create relationships with one another. Or when a visiting mentor has expertise that is useful for an entire company. Staff may join these meetings to ensure that both parties are getting the most out of the engagement.
+
+Staff should only force this format to resolve the most steadfast and entrenched company problems; problems that cannot be solved through 1:1 mentoring sessions.  This is a closed door meeting. Staff should not attend, in this case. Allow the mentor to consult with the company directly.
+
+A good example of the appropriate use for this format is ongoing conflict between cofounders.
+
+##### For the staff
+You'll know when you need this. It will be obvious. Have the courage to actually make it happen. Don't avoid the issue.
+
+##### For the mentor
+Mentors need context for the meeting, especially if its the staff arranging the meeting. These aren't easy. Make sure to prep them as best you can.
+
+##### For the founders
+They already know. Trust us.
 
 ### Many:Company
+A number of mentors meeting with an entire company is often a very 
 
 #### For the mentor
 #### For the founders
