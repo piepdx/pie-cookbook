@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # PIE Cookbook documentation build configuration file, created by
-# sphinx-quickstart on Mon Apr  3 10:32:13 2017.
+# sphinx-quickstart on Mon Apr  3 10:39:59 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -39,7 +39,7 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 #
 # source_suffix = ['.rst', '.md']
-source_suffix = '.rst'
+source_suffix = '.md'
 
 # The master toctree document.
 master_doc = 'index'
