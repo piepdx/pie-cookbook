@@ -2652,6 +2652,57 @@ We’ll take you through each of these elements from least amount of engagement 
 - Matchmaking
 - Office hours
 
+- - -
+**A note about bad actors**
+One of the most challenging things about attempting to manage community — and then activating that community in the form of an accelerator — is the presence of bad actors. 
+
+No matter how well you curate and cultivate your mentor pool, it's bound to happen.
+
+When we say "bad actors," we mean individuals who are more interested in personal gain than the gain of the community or the founders in your program. It happens. Sometimes it's intentional. Often it's not. 
+
+So how do you deal with it? 
+
+Well, we recommend follow Brad's advice in Startup Communities. The community has to be open to everyone. You have to welcome everyone. And you have to build the type of community that rewards good behavior. And discourages bad behavior. 
+
+But even with all of that working, bad actors still enter the fray. So what to do?
+
+Honestly, from an accelerator standpoint, sometimes bad actors are more beneficial than one would think.
+
+Let's provide an example. 
+
+One class of PIE, we had arranged to have a serial founder come into to present to the class. The founder was currently employed by another company and, as such, took our invitation to mean we were interested in hearing about that company and its product offering. And not the founder's journey with previous companies.
+
+Shame on us for not setting the context correctly. Lesson learned.
+
+With that misunderstanding as the impetus, things went from bad to worse. With a swirling schedule and multiple overlapping commitments, the founder canceled at the last minute. But rather than leaving us hanging, the founder decided to send an alternate speaker. The person the founder sent was a salesperson for the company.
+
+So through no fault of the founder and no fault of the salesperson, we wound up in a bad actor situation. 
+
+Our founders showed up dutifully to hear a founder talk about their experiences, challenges, and failures. But what they got, instead, found was a sales pitch for a product they neither wanted nor, honestly, needed.
+
+And no matter how much staff would try to redirect the speaker — "Hey that's great. Maybe you can talk a little bit about what it's like to be in a sales role for this kind of company…?" — the sales pitch continued. "What do you do when an audience isn't receptive to your sales pitch?" Still continuing. "When do you walk away from a pitch?" And on and on. 
+
+There was no derailing it. 
+
+So when it was over, the staff scurried to tie it off and hustle the speaker out the door.
+
+The Founders were, understandably, miffed. And any number of conversations were sparked by that experience. Some were critical of the program for allowing it to happen. Some were critical of the company and the former founder for sending that presenter. And some were upset that the presenter did not clue into the environment. 
+
+It became a running gag for the remainder of the class.
+
+But you know what? It resulted in a lot of good conversations. A lot. Like an irritant creating a pearl, the poorly placed and unintentional bad actor had not only created a context for interesting discussion, the salesperson had unintentionally become a common enemy against which every one of the founders in that class could rail. 
+
+It went from a negative moment to a teaching moment.
+
+Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. And discuss why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
+- - - 
+> **tl;dr Every moment of an Accelerator has the potential to be a teaching moment. Act accordingly.**
+- - - 
+And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
+
+And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
+- - -
+
 ### Presentation with Q&A
 Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
 
@@ -2861,7 +2912,7 @@ Encourage participants to be as open and participatory as they can during the se
 Like the mentor presentations, encourage the founders to do their own homework on each of the workshops. 
 
  - - -
-#### Experimenting with the format: Lunch and Learns
+**Experimenting with the format: Lunch and Learns**
 Sometimes a mentor talk, other times a workshop, sometimes led by peers, lunch and learns are scheduled twice a week during the three month program during the lunch hour. Speakers can range from founders with anecdotal “war stories” to subject matter experts. We often bring our higher profiled mentors in for these talks, as it is easier to schedule for them. These are some of the most valuable learning opportunities of the program.
  
 Despite how straightforward these sessions sound, we’ve discovered a few snags. There is a chance that any given topic, might not be something a company is dealing with that particular day or week, but trust us, they will – and when they are dealing with it, they might not have a chance to meet with that mentor again. This is one of those; take advantage of the opportunity while you have it, moments.
@@ -2881,15 +2932,12 @@ Example topics:
 - Minimum “Valuable” Product
 - - -
 
-## Speed dating or running the gauntlet
+### Speed dating (aka running the gauntlet)
+With the speed dating format, either a startup or a mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the startup founders, the accelerator participants. The other party — in this case, the mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
 
-# Speed dating vs Matchmaking
-When it comes to mentor engagement, no topic is more ripe for discussion — and more likely to rile opinions — than the pros and cons of speed dating and matchmaking. But before we get into that, let's explain what we mean by the terms.
+At PIE, we would use this format with individual mentors, sending a volley of startups to meet with them in short succession. This worked well for our space. Less often, we would use multiple mentors or groups of mentors with which each of the startups would engage, round robin style. 
 
-## Speed dating
-With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
-
-There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
+The round robin style can be even more difficult to manage. There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. With large groups, it often defaults to a "we'll take who we can get on this day" approach. 
 
 The process is designed to make efficient use of time for both mentors and startups, giving each party the chance to briefly meet the other. And to give mentors a general lay of the land for the cohort as a whole. It also avails the opportunity for each party to identify folks with whom they would like to be working.
 
@@ -2909,7 +2957,7 @@ So as you can see, the best number of mentors to schedule for a speed dating ses
 
 But what if you have three times as many mentors wanting to participate as you have startups? That's right. You schedule separate sessions. In this case, you schedule three separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best. 
 - - - 
-> **tl;dr Speed dating works best when the Mentor to Startup ratio is 1:1.**
+> **tl;dr Speed dating works best when the mentor to startup ratio is 1:1.**
 - - - 
 Don't try to have multiple mentors sit down with each Startup. That can be awkward for both the Startups and the Mentors. Unless… they already know one another well.
 
@@ -2921,7 +2969,7 @@ Where we have found this permutation effective is with Angel groups and Venture 
 - - - 
 In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
 
-### The dark side of speed dating
+#### The dark side of speed dating
 While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
 
 These drawbacks, which we'll cover in more detail, include but are not limited to:
@@ -2931,10 +2979,22 @@ These drawbacks, which we'll cover in more detail, include but are not limited t
 - Perceived lack of tangible results
 - A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
 
-### For the mentor
-### For the founders
+#### For the staff
+It is imperative that the staff management this round robin of engagement. Keep folks moving. Don't let folks run over time or other startups suffer. 
 
-## Matchmaking 
+Without a doubt, these sessions are the most staff intensive. 
+
+#### For the mentor
+Ensure that the mentors are familiar with the format and the expectations. If they have not participate in this format before, spend some time bringing them up-to-speed with the dynamic. 
+
+Most important for mentors, encourage them to come to the session with a few questions they plan to ask every startup. 
+
+#### For the founders
+Help the founders understand how taxing this format will be for them. Ensure that they have a quick intro and then encourage them to get into questions with the mentor. 
+
+Like other formats, it is imperative that the founders take the time to do their homework on the mentor(s) with whom they are meeting. 
+
+### Matchmaking 
 While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
 
 In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
@@ -2955,69 +3015,80 @@ We define three different formats for matchmaking:
 - 1:Company
 - Many:Company 
 
-### 1:1
+#### 1:1
+This format is the typical "meet for coffee" sort of meeting between a founder and a mentor. It can be used for anything from specific founder issues to companywide guidance. 
 
-#### For the mentor
-#### For the founders
+These sessions can go from anywhere from 20 minutes to an hour.
 
-### 1:Company
+For PIE, this comprised the vast majority of our mentor meetings. And we would have as many of these going in rapid succession for each startup as the staff could handle. This is where the work gets done.
+ 
+##### For the staff
+It is imperative that you use this format for problems you have identified with a participating company, be they at the founder level or the business level. Using this format poorly can result in significant mentor burnout. 
 
-#### For the mentor
-#### For the founders
+This is not a "chat." This is talking through a problem. 
 
-### Many:Company
+Make sure the founder understands what problem or issue prompted the introduction to the particular mentor. Make sure the mentor understands the problems with which the startup is currently wrestling. 
 
-#### For the mentor
-#### For the founders
+Just as important is your role of understanding the personality of the founder and the mentor you are introducing. Do your best to create connections between folks who are likely to hit it off. Otherwise, you'll be frustrating both mentor and founder.
 
-- - -
-# A note about bad actors
-One of the most challenging things about attempting to manage community — and then activating that community in the form of an accelerator — is the presence of bad actors.
+It does you no good to introduce folks who will annoy one another. 
 
-When we say "bad actors," we mean individuals who are more interested in personal gain than the gain of the community or the founders in your program. It happens. Sometimes it's intentional. Often it's not. 
+##### For the mentor
+Recognize that you will be engaging with founders who are frustrated that they have not been able to resolve something on their own. This causes founders to be more guarded and less trusting. It's your job to break through that veneer. 
 
-So how do you deal with it? 
+The staff has introduced you to this founder because they believe your experience and expertise can be an effective means of resolving a founders problems. Even if it's not obvious to you at first, trust that the staff has made this connection for a reason. 
 
-Well, we recommend follow Brad's advice in Startup Communities. The community has to be open to everyone. You have to welcome everyone. And you have to build the type of community that rewards good behavior. And discourages bad behavior. 
+Nowhere does the guidance on mentoring become more important than this format. 
 
-But even with all of that working, bad actors still enter the fray. So what to do?
+##### For the founders
+The staff has introduced you to this mentor because they believe that the mentor may have relevant advice for your current issues. They do not have the answer or a resolution. They have advice.  
 
-Honestly, from an accelerator standpoint, sometimes bad actors are more beneficial than one would think.
+#### 1:Company
+One mentor meeting with the entire company is either the most difficult format for both mentor and participating startup or the easiest. There is no in between. 
 
-Let's provide an example. 
+These meetings may occur naturally throughout the course of the program, as mentors and founders create relationships with one another. Or when a visiting mentor has expertise that is useful for an entire company. Staff may join these meetings to ensure that both parties are getting the most out of the engagement.
 
-One class of PIE, we had arranged to have a serial founder come into to present to the class. The founder was currently employed by another company and, as such, took our invitation to mean we were interested in hearing about that company and its product offering. And not the founder's journey with previous companies.
+Staff should only force this format to resolve the most steadfast and entrenched company problems; problems that cannot be solved through 1:1 mentoring sessions.  This is a closed door meeting. Staff should not attend, in this case. Allow the mentor to consult with the company directly.
 
-Shame on us for not setting the context correctly. Lesson learned.
+A good example of the appropriate use for this format is ongoing conflict between cofounders.
 
-With that misunderstanding as the impetus, things went from bad to worse. With a swirling schedule and multiple overlapping commitments, the founder canceled at the last minute. But rather than leaving us hanging, the founder decided to send an alternate speaker. The person the founder sent was a salesperson for the company.
+##### For the staff
+You'll know when you need this. It will be obvious. Have the courage to actually make it happen. Don't avoid the issue.
 
-So through no fault of the founder and no fault of the salesperson, we wound up in a bad actor situation. 
+##### For the mentor
+Mentors need context for the meeting, especially if its the staff arranging the meeting. These aren't easy. Make sure to prep them as best you can.
 
-Our founders showed up dutifully to hear a founder talk about their experiences, challenges, and failures. But what they got, instead, found was a sales pitch for a product they neither wanted nor, honestly, needed.
+##### For the founders
+They already know. Trust us.
 
-And no matter how much staff would try to redirect the speaker — "Hey that's great. Maybe you can talk a little bit about what it's like to be in a sales role for this kind of company…?" — the sales pitch continued. "What do you do when an audience isn't receptive to your sales pitch?" Still continuing. "When do you walk away from a pitch?" And on and on. 
+#### Many:Company
+This is a typical format for investors to engage with startups in the cohort, like an associate and a partner or multiple angels from an angel group. A number of mentors meeting with an entire company is often a very casual and comfortable mentor meeting. This can be both good and bad. 
 
-There was no derailing it. 
+It's important to ensure that everyone is getting value out of the format, and that it's not just a chat. 
 
-So when it was over, the staff scurried to tie it off and hustle the speaker out the door.
+##### For the staff
+It's highly advised that you make time to sit in on these meetings. Without proper guidance, they can devolve to chitchat. It's fine if the group wants to go out later to chat, but during the time in the space, this should be focused on deriving value from the meeting.
 
-The Founders were, understandably, miffed. And any number of conversations were sparked by that experience. Some were critical of the program for allowing it to happen. Some were critical of the company and the former founder for sending that presenter. And some were upset that the presenter did not clue into the environment. 
+##### For the mentor
+This can be the easiest meeting to have and the most difficult meeting from which to quantify value. Mentors will be more comfortable with peers in the room. 
+ 
+##### For the founders
+Make sure the founders understand that they need to be focused on getting something out of the meeting — even if it's a follow up that is more laid back and social. 
 
-It became a running gag for the remainder of the class.
+### Office hours
+One of the benefits of having a collaborative coworking space is that sometimes the most engaged mentors will offer to hold office hours at the space on a regular basis. This can be hugely valuable for your startups and incredibly rewarding for the mentor.
 
-But you know what? It resulted in a lot of good conversations. A lot. Like an irritant creating a pearl, the poorly placed and unintentional bad actor had not only created a context for interesting discussion, the salesperson had unintentionally become a common enemy against which every one of the founders in that class could rail. 
+But it takes a great deal of time commitment. 
 
-It went from a negative moment to a teaching moment.
+So we don't recommend presenting this as an option to all mentors. Play it by ear. If a mentor seems to be working with all of the startups in the cohort and enjoys hanging out in the space. Offer up the concept. And some desk space. 
 
-Best of all, it occurred in a safe environment. Somewhere that the founders could discuss what happened. And discuss why it happened. And why it was bad. And that made it incredibly valuable on any number of fronts.
-- - - 
-> **tl;dr Every moment of an Accelerator has the potential to be a teaching moment. Act accordingly.**
-- - - 
-And with this happy accident it dawned on us that these founders were going to encounter these situations out in the wild — in the real world. And now, thanks to this awkward and aggravating experience, they would be better equipped to handle similar situations when they occurred after these startups were released into the wild. 
+But don't force it.
 
-And so we started introducing bad actors intentionally. To recreate those interesting moments of conversation and learning.
+When we had mentors who provided office hours it would generally consist of a set time period (generally four hours) held once a week on the same day. Like a professor at college. 
 
+Founders were engaged on a first come, first served basis. Sometimes, one founder would exhaust the entire time period. Other times, the mentor would simply sit in the space and work, because no founder expressed a pressing need to meet with the mentor.
+
+This can be a great way of mixing up the dynamic of the space, so if the opportunity avails itself, we encourage you to experiment with it.   
 				
 # Graduating from the program: Demo Day 
 Graduation requirements can be modified to fit your programs needs or specialities. Most, if not all, programs culminate with a demo day. Companies give a 6-8 minute pitches of their product in front of an audience that can be made up of a combination of stakeholders, investors, mentors, media, and/or community. 
