@@ -2881,13 +2881,11 @@ Example topics:
 - Minimum “Valuable” Product
 - - -
 
-## Speed dating or running the gauntlet
+### Speed dating (ask running the gauntlet)
 
-# Speed dating vs Matchmaking
-When it comes to mentor engagement, no topic is more ripe for discussion — and more likely to rile opinions — than the pros and cons of speed dating and matchmaking. But before we get into that, let's explain what we mean by the terms.
 
 ## Speed dating
-With the speed dating format, either startup or mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the Startup Founders. The other party — in this case, the Mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
+With the speed dating format, either a startup or a mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the startup founders, the accelerator participants. The other party — in this case, the mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
 
 There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
 
@@ -2909,7 +2907,7 @@ So as you can see, the best number of mentors to schedule for a speed dating ses
 
 But what if you have three times as many mentors wanting to participate as you have startups? That's right. You schedule separate sessions. In this case, you schedule three separate sessions. They could all occur on the same day. But divide the mentors evenly among your startups. It just works best. 
 - - - 
-> **tl;dr Speed dating works best when the Mentor to Startup ratio is 1:1.**
+> **tl;dr Speed dating works best when the mentor to startup ratio is 1:1.**
 - - - 
 Don't try to have multiple mentors sit down with each Startup. That can be awkward for both the Startups and the Mentors. Unless… they already know one another well.
 

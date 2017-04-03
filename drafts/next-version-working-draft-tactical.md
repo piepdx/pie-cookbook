@@ -341,6 +341,10 @@ Pressure/heat (Startups + Staff + Patron)
 					103. Status reporting
 					104. Weekly 1:1
 					105. Office hours
+
+# Speed dating vs Matchmaking
+When it comes to mentor engagement, no topic is more ripe for discussion — and more likely to rile opinions — than the pros and cons of speed dating and matchmaking. But before we get into that, let's explain what we mean by the terms.
+
 					
 ## Shared experiences
 						113. So much of what occurs in a startup accelerator is "independent study" where each company — and often each founder — has a unique experience in the accelerator.
