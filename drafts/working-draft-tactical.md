@@ -2943,7 +2943,7 @@ Help the founders understand how taxing this format will be for them. Ensure tha
 
 Like other formats, it is imperative that the founders take the time to do their homework on the mentor(s) with whom they are meeting. 
 
-## Matchmaking 
+### Matchmaking 
 While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
 
 In our experience, matchmaking provides a far more beneficial and rewarding experience for both the mentors and the startups. That said, matchmaking requires far more effort and engagement from accelerator staff.
@@ -2964,10 +2964,33 @@ We define three different formats for matchmaking:
 - 1:Company
 - Many:Company 
 
-### 1:1
+#### 1:1
+This format is the typical "meet for coffee" sort of meeting between a founder and a mentor. It can be used for anything from specific founder issues to companywide guidance. 
 
-#### For the mentor
+These sessions can go from anywhere from 20 minutes to an hour.
+
+For PIE, this comprised the vast majority of our mentor meetings. And we would have as many of these going in rapid succession for each startup as the staff could handle. This is where the work gets done.
+ 
+##### For the staff
+It is imperative that you use this format for problems you have identified with a participating company, be they at the founder level or the business level. Using this format poorly can result in significant mentor burnout. 
+
+This is not a "chat." This is talking through a problem. 
+
+Make sure the founder understands what problem or issue prompted the introduction to the particular mentor. Make sure the mentor understands the problems with which the startup is currently wrestling. 
+
+Just as important is your role of understanding the personality of the founder and the mentor you are introducing. Do your best to create connections between folks who are likely to hit it off. Otherwise, you'll be frustrating both mentor and founder.
+
+It does you no good to introduce folks who will annoy one another. 
+
+##### For the mentor
+Recognize that you will be engaging with founders who are frustrated that they have not been able to resolve something on their own. This causes founders to be more guarded and less trusting. It's your job to break through that veneer. 
+
+The staff has introduced you to this founder because they believe your experience and expertise can be an effective means of resolving a founders problems. Even if it's not obvious to you at first, trust that the staff has made this connection for a reason. 
+
+Nowhere does the guidance on mentoring become more important than this format. 
+
 #### For the founders
+The staff has introduced you to this mentor because they believe that the mentor may have relevant advice for your current issues. They do not have the answer or a resolution. They have advice.  
 
 ### 1:Company
 
