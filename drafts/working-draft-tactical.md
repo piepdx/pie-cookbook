@@ -2653,7 +2653,7 @@ We’ll take you through each of these elements from least amount of engagement 
 - Office hours
 
 - - -
-# A note about bad actors
+**A note about bad actors**
 One of the most challenging things about attempting to manage community — and then activating that community in the form of an accelerator — is the presence of bad actors. 
 
 No matter how well you curate and cultivate your mentor pool, it's bound to happen.
@@ -2912,7 +2912,7 @@ Encourage participants to be as open and participatory as they can during the se
 Like the mentor presentations, encourage the founders to do their own homework on each of the workshops. 
 
  - - -
-#### Experimenting with the format: Lunch and Learns
+**Experimenting with the format: Lunch and Learns**
 Sometimes a mentor talk, other times a workshop, sometimes led by peers, lunch and learns are scheduled twice a week during the three month program during the lunch hour. Speakers can range from founders with anecdotal “war stories” to subject matter experts. We often bring our higher profiled mentors in for these talks, as it is easier to schedule for them. These are some of the most valuable learning opportunities of the program.
  
 Despite how straightforward these sessions sound, we’ve discovered a few snags. There is a chance that any given topic, might not be something a company is dealing with that particular day or week, but trust us, they will – and when they are dealing with it, they might not have a chance to meet with that mentor again. This is one of those; take advantage of the opportunity while you have it, moments.
@@ -2932,7 +2932,7 @@ Example topics:
 - Minimum “Valuable” Product
 - - -
 
-### Speed dating (ask running the gauntlet)
+### Speed dating (aka running the gauntlet)
 With the speed dating format, either a startup or a mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the startup founders, the accelerator participants. The other party — in this case, the mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
 
 At PIE, we would use this format with individual mentors, sending a volley of startups to meet with them in short succession. This worked well for our space. Less often, we would use multiple mentors or groups of mentors with which each of the startups would engage, round robin style. 
