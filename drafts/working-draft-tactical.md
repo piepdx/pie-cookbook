@@ -2826,6 +2826,17 @@ The caveat here is that the workshop format can be helped by slides. But the vas
 Just don't.
 
 #### For the founders
+Founders will need to experience a few of these talks before they will learn how to effectively engage and get the most out of the format. This is to be expected. Even the most seasoned startup founder can find this format difficult, at first. It's open and awkward. By design.
+
+Encourage participants to do their due diligence on the speaker — and this is critically important — on their own. 
+
+For the first few talks, give the participants substantial context on the speaker when scheduling the talk. And try to give participants as much warning and prep time as possible. Provide context again as you're introducing speaker. (If it's a pop-in speaker, we encourage you to spend extra time setting the stage during the introduction.) And then, when the talk is over, encourage the founders to follow up with a thank you.
+
+Again, this is only for the first few talks. The idea is to start training your founders to do their homework ahead of every meeting. And to follow up effectively after every meeting. 
+
+Feel free to accept questions like "Who is this?" or "What should I know about this person?" for the first few talks. Provide information and context. As the class goes on, we encourage you to respond to those questions with questions of your own, like "What can *you* tell *me* about this person?" and "What kind of questions do you have prepared for this speaker?"
+
+This is an accelerator. Not an incubator. Teach your founders how to survive in the real world. 
 
 ### Workshops
 
