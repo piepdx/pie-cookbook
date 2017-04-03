@@ -22,7 +22,7 @@ By joining this project, you’ll gain access to everything we’ve learned from
 
 ## Getting started
 
-New to Github? @MugofPaul has created [a guide to help you get your bearings and learn how to contribute to the project](https://github.com/piepdx/pie-cookbook/blob/master/docs/howto-github.md).
+New to Github? @MugofPaul has created [a guide to help you get your bearings and learn how to contribute to the project](https://github.com/piepdx/pie-cookbook/blob/master/notes/github/howto-github.md).
 
 ## Feedback
 
