@@ -1,8 +1,3 @@
-.. PIE Cookbook documentation master file, created by
-   sphinx-quickstart on Mon Apr  3 09:33:10 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 # PIE Cookbook
 An open source guide to starting and managing your own early stage startup accelerator — or any accelerator, for that matter.
 
