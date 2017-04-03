@@ -1,3 +1,88 @@
+# PIE Cookbook
+An open source guide to starting and managing an early stage startup accelerator.
+
+## Table of contents
+- Preface
+	- Open Source
+	- Caveats
+	- PIE as an example
+	- Motivations
+	- Understanding — and working within — the existing culture of the community
+	- How to use this cookbook
+	- History of PIE
+- Introduction
+	- What this is not
+	- Want to start an accelerator? Don't start an accelerator
+	- Start at the beginning
+	- Coworking and Community Development are not complementary
+	- Create a culture of hospitality
+	- Empathize with Founders
+	- Encourage bonding among peers
+	- Three months
+	- Start small
+- Establishing the unique context for your accelerator
+	- Definitions
+	- So why did we force you to work through all of that?
+	- Environmental scan
+	- Establish a thesis
+	- Know where you suck
+	- But also know what your strengths are
+- Building your accelerator's strategic framework
+	- Your mission
+	- Mistakes were made
+	- Order of progression
+	- Three critical components for any accelerator
+		- Community
+		- Funding
+		- Promotion
+	- Other critical components
+- Initial tactics
+	- Budget
+		- Considerations
+		- Ballpark figures
+		- Sample pro forma
+	- Space
+		- Create a Minimally Valuable Space
+		- Physical dimensions
+		- Infrastructure
+		- IKEA is your friend
+		- Arranging the desks in the office space
+		- Ongoing build out
+	- Staff
+		- Managing Director (or General Manager)
+		- Program Manager
+		- Optional roles
+		- Additional roles
+- Recruiting mentors
+- Onboarding mentors
+- Curriculum
+	- Common issues
+	- Understanding the cadence of an accelerator
+	- The Three Ps
+- Running an Accelerator Class
+	- Application and selection process
+	- Acceptance
+	- Onboarding
+	- Getting into the flow
+		- Family Dinner
+		- Typical week in PIE
+	- Engaging mentors in an accelerator class
+		- Presentation with Q&A
+		- Workshops
+		- Speed dating (aka running the gauntlet)
+		- Matchmaking
+			- 1:1
+			- 1:Company
+			- Many:Company
+		- Office hours
+- Graduating from the program (Demo Day)
+	- Objectives
+	- Logistics
+	- Post show reception (1.5 hours)
+	- Denouement: Repair to dinner
+- Post mortem
+- Conclusion
+
 # Preface 
 > It's hard for people to realize now how inconsequential YC seemed at the time. I can't blame people who didn't take us seriously, because we ourselves didn't take that first summer program seriously in the very beginning. But as the summer progressed we were increasingly impressed by how well the startups were doing.… When people came to YC to speak at the dinners that first summer, they came in the spirit of someone coming to address a Boy Scout troop. By the time they left the building they were all saying some variant of "Wow, these companies might actually succeed."
 
@@ -161,6 +246,7 @@ The PIE Cookbook is designed to help provide a framework and some confidence. To
 Not interested in building a generic tech startup accelerator? Good. Please don't. **Go do something more interesting than that.**
 
 And, by all means, please keep us in the loop. We're looking forward to learning from — and with — you.
+
 - - -
 
 ## Motivations
@@ -209,11 +295,11 @@ We believe that no one has perfected it yet. So you should feel free to adapt an
 
 We believe that the accelerator market is currently like the search engine market pre-Google. There are lots of well meaning people sort of doing things right but no one has really hit upon a repeatable and successful formula for doing this.
 
-Remember pre-Google Web? Well if you don’t, suffice it to say that there were a few choices for searching the Web, back in the day. Like hundreds. And no single one had significant traction. Mostly because they were all variations on a theme. Some were directories. Some were aggregators. Some were really, really smart algorithms. Many of them were wildly successful at the time. But none of them had really nailed the way to find the most relevant information on the Web. That’s kind of where we are with accelerators, today. And I’m hopeful that getting more smart people thinking about the model will help us find a better way of doing this. For everyone. https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.qjyagrd3p
+Remember pre-Google Web? Well if you don’t, suffice it to say that there were a few choices for searching the Web, back in the day. Like hundreds. And no single one had significant traction. Mostly because they were all variations on a theme. Some were directories. Some were aggregators. Some were really, really smart algorithms. Many of them were wildly successful at the time. But none of them had really nailed the way to find the most relevant information on the Web. That’s kind of where we are with accelerators, today. And I’m hopeful that getting more smart people thinking about the model will help us find a better way of doing this. For everyone. 
 
 Using higher education as an analogy, accelerators have our Harvard and Stanford. We have our Oxford. But where our state schools? Our small private liberal arts colleges? Where are our vocational schools and community colleges? We haven’t even begun to scratch the surface for this educational model.
 
-As far as accelerators go, we have our Ivy Leagues and our Stanford, but we have barely begun to scratch the surface for this educational model. Where is the Georgia Tech of accelerators? Where is the RISD? Where is the Reed or Whitman? Better yet, where is the state school or community college or junior college? Where is the vocational school of accelerators? There’s still plenty of room to explore this educational model. We have a long way to go before we’ve even leveraged the existing model, let alone begun to inflate the bubble. https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.qjyagrd3p
+As far as accelerators go, we have our Ivy Leagues and our Stanford, but we have barely begun to scratch the surface for this educational model. Where is the Georgia Tech of accelerators? Where is the RISD? Where is the Reed or Whitman? Better yet, where is the state school or community college or junior college? Where is the vocational school of accelerators? There’s still plenty of room to explore this educational model. We have a long way to go before we’ve even leveraged the existing model, let alone begun to inflate the bubble. 
 
 ## Spoiler alert
 This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most every case, it may not be wise — or downright foolhardy — to start where PIE ended. You should start where PIE started. And try to end where you want to end. 
@@ -282,7 +368,7 @@ This isn’t a book you read cover to cover. Some of this will seem obvious to y
 
 Start with what you have. Go from there.
 
-# History
+# History of PIE
 We are providing the PIE history as an example or parable, not a step-by-step, cookie cutter process for you to follow to achieve the same ends. 
 
 It is important to note that, like many things in the world of startups, PIE worked at a moment in time, because of the people involved, and the way the world happened to be going in Portland, Oregon, with open source, technology, startups, blogging, and creative agencies. 
@@ -293,14 +379,14 @@ That said, your community is likely at a different place. Maybe there are simila
 
 Whatever the case, we are hopeful that our history with PIE provides reference points that allow you to better identify — and take advantage of — potential opportunities in your community, today.
 
-## History of PIE
+## Beginnings
 PIE began as a collaborative experiment between award-winning, global advertising firm Wieden+Kennedy and the Portland high-tech startup community. Now, PIE has evolved into an intensive three-month mentorship program designed to identify, recruit, capitalize, accelerate, and promote early stage high-tech startups which are highly efficient with investment capital, establish corporate headquarters in Oregon, create high paying jobs for Oregonians, and raise the visibility of the state on an international stage. 
 
 The PIE model has been tested, refined, and proven over a three-year period. During that time, the program has fostered the growth of companies that have attracted more than $50 million in venture capital and created more than 150 Oregon jobs with wages averaging nearly double the baseline of the average Oregon family wage of $40,486. In addition, PIE has had the opportunity to work with corporations like Intel, Target, Coca-Cola, and Google raising the visibility of both the State of Oregon and its innovative technology community to international acclaim. 
 
 Like the startups the program serves, PIE is extremely efficient with capital. All activity to date has been accomplished with minimal capital investment. This is thanks in part to the creative efforts of the PIE team to leverage volunteer resources, actively seek and secure in-kind contributions, and create and manage additional revenue-generating programs beyond its incubation activities.
 
-### A melding of hypotheses
+## A melding of hypotheses
 > Portland, Oregon, boasts more microbreweries, restaurants, food carts, batch distilleries, mobile startups, and open source user groups per capita than any city in the world. Some call it the most entrepreneurial city, ever. It's determined to be the most green, friendly, sustainable, bike commutable, soccer loving, and livable town you'll ever encounter. And if that's not good enough for you, it's 90 minutes from the ocean and 90 minutes from skiing and snowboarding, year round.
 
 > But most importantly, it's the best place in the world for you to build your startup dream into a reality. To make your startup work. To make it.
