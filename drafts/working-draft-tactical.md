@@ -3075,7 +3075,20 @@ This can be the easiest meeting to have and the most difficult meeting from whic
 ##### For the founders
 Make sure the founders understand that they need to be focused on getting something out of the meeting — even if it's a follow up that is more laid back and social. 
 
+### Office hours
+One of the benefits of having a collaborative coworking space is that sometimes the most engaged mentors will offer to hold office hours at the space on a regular basis. This can be hugely valuable for your startups and incredibly rewarding for the mentor.
 
+But it takes a great deal of time commitment. 
+
+So we don't recommend presenting this as an option to all mentors. Play it by ear. If a mentor seems to be working with all of the startups in the cohort and enjoys hanging out in the space. Offer up the concept. And some desk space. 
+
+But don't force it.
+
+When we had mentors who provided office hours it would generally consist of a set time period (generally four hours) held once a week on the same day. Like a professor at college. 
+
+Founders were engaged on a first come, first served basis. Sometimes, one founder would exhaust the entire time period. Other times, the mentor would simply sit in the space and work, because no founder expressed a pressing need to meet with the mentor.
+
+This can be a great way of mixing up the dynamic of the space, so if the opportunity avails itself, we encourage you to experiment with it.   
 				
 # Graduating from the program: Demo Day 
 Graduation requirements can be modified to fit your programs needs or specialities. Most, if not all, programs culminate with a demo day. Companies give a 6-8 minute pitches of their product in front of an audience that can be made up of a combination of stakeholders, investors, mentors, media, and/or community. 
