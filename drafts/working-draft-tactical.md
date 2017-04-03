@@ -2445,12 +2445,12 @@ Once you’re introduced…
 - Fill out the mentor feedback form
 https://docs.google.com/forms/d/1vwn3OQRAiZbGaDNYUt38BOkdPVqnmMG77qRLJMXFnW0/viewform
 
-### Getting into the flow		
+## Getting into the flow		
 Once the startups get settled, it's important to get into the typical flow as quickly as possible. Don't let this take more than 48 hours or so. Otherwise, your startups will settle into a routine and breaking them from that routine will be difficult. 
 
 As the first true accelerator activity, we recommend starting with Family Dinner. 
 
-#### Family Dinner
+### Family Dinner
 Arguably, Family Dinner is one of the most important parts of the program. As the name implies, Family Dinner is a weekly gathering — over dinner — designed to be an exclusive opportunity for our company founders to come together, share status updates, and give guidance to one another. Think of it as it a support group with food.
 
 Having a gathering like this is crucial to the health of your program — and the mental well-being of your founders — that will deepen the connections among companies participating in the class. Peer mentoring is not something that can be forced, but in a setting like family dinner, it is only natural that folks will offer help to their fellow founders.
@@ -2471,7 +2471,7 @@ We recommend hosting your dinners on-site rather than at a restaurant, unless yo
  
 Consider family dinner mandatory. And rest assured that it will take a while for you to find your Family Dinner groove. At PIE, we made a bunch of errors with the format before we honed in on what worked for our companies.
 
-## Family Dinner 0.9 Beta (Coworking version)
+#### Family Dinner 0.9 Beta (Coworking version)
 The original PIE Family Dinner had very little to do with dinner. It was held on a weekly basis — usually a Thursday around 4:00PM — and consisted of a group of folks grabbing a beer and sitting around chatting about what they were experiencing. 
 
 We called it Family Dinner because [that's what Y Combinator called their gathering](https://www.fastcompany.com/3040961/the-y-combinator-chronicles/giddiness-terror-cornbread-heres-what-a-y-combinator-dinner-is-r). And we liked the implications of family and strengthening the connections among the members of the PIE folks.
@@ -2482,7 +2482,7 @@ There were a few regular attendees. But the mix changed and morphed from week to
 
 Then something interesting began to happen. Rather than simply sitting around and engaging in small talk, folks began to share issues and problems they were having. They began to explore the stress and emotions of running a startup. And they began to shed the "entrepreneurial veneer" of "Everything is awesome! We're killing it!" to reveal what was really happening. And to start to ask for help.
 
-## Family Dinner 1.0 (Coworking version)
+#### Family Dinner 1.0 (Coworking version)
 As Family Dinner moved from Happy Hour to Reality Hour, something interesting began to happen. More folks attended. More folks participated. More folks shared. And more folks were encouraged to share. 
   
 > Rather than opting for voluntary participation, the weekly event became an exercise in peer mentoring. 
@@ -2497,7 +2497,7 @@ Family Dinner problems began to take three distinct forms:
 
 But it wasn't without its flaws. Some folks begin commanding more airtime than others. So we put a time limit on it. And enforced a requirement for everyone to talk. We tried to create a culture of collaboration. Where everyone was getting value out of the gathering. Not just a few squeaky wheels.
 
-## Family Dinner 2.0 (Accelerator)
+#### Family Dinner 2.0 (Accelerator)
 When we decided to shift from coworking space to accelerator, we felt that Family Dinner was one of the more valuable activities that should make the transition, as well. But, in so doing, we failed to retain some of the parameters that had made it successful previously.
 
 First of all, we let folks talk about whatever they wanted to talk about. More often than not — being founders — this resulted in discussions on "what went well this week" or, even worse, with chest thumping.
@@ -2506,7 +2506,7 @@ Inevitably, one startup or founder would be having a good week. They would highl
 
 Rather than being something positive for peer mentoring, it became competitive and weird. We recognized this and tried to correct some of those bugs.
 
-## Family Dinner 2.5 (Accelerator)
+#### Family Dinner 2.5 (Accelerator)
 This was the final model for Family Dinner in the accelerator environment. These were the guiding principles:
 
 - No bragging.
@@ -2535,7 +2535,7 @@ We often get asked, "What's a typical week like in your accelerator?" And while 
 
 So here's an imperfect look at a typical week at PIE:
 
-## Monday
+### Monday
 
 **8:00AM** 
 Staff arrives and meets with one another about the week's upcoming events. Some startups are already working.
@@ -2552,7 +2552,7 @@ Family Dinner ends. Startups return to workspace and continue working. Staff ret
 **8:00PM** 
 Workspace is about half full with the founders who prefer the late shift. Staff remains online in the chat room or accessible via email.
 
-## Tuesday
+### Tuesday
 
 **8:00AM** 
 Staff arrives. Continues making mentor connections for startups based on issues raised during family dinner. *Note: It may take as many as two or three mentors with subject matter expertise to help each startup resolve each issue. Your job, from a staff perspective, is to help make this process as efficient as possible.*  
@@ -2575,7 +2575,7 @@ Return to work. Mentors often remain behind to continue the conversation with a 
 **7:00PM** 
 Staff and startups start to thin out in the workspace. Staff remains online in the chat room or accessible via email.
 
-## Wednesday
+### Wednesday
 
 **8:00AM** 
 Work day for startups and staff. Staff arrives. Checks in on progress. Spends day meeting with mentors, potential mentors, alums, and future recruits. 
@@ -2598,7 +2598,7 @@ Startups encouraged to attend a targeted community event and spend time networki
 **8:00PM** 
 Startups return to space and continue working and discuss event. Or opt to grab drinks with the random visitor.
 
-## Thursday
+### Thursday
 
 **8:00AM** 
 Staff arrives. Startups start to roll in.
@@ -2615,7 +2615,7 @@ Startups return to work. Small groups break off to work on issues that arose dur
 **7:00PM** 
 Staff departs. Space starts to clear out. 
 
-## Friday
+### Friday
 
 **8:00AM** 
 Staff arrives. Startups start to roll in.
@@ -2635,11 +2635,11 @@ Happy Hour winds down. Startups go back to work.
 **8:00PM** 
 Founders who clicked with the investor meet up to continue the conversation
 
-## Saturday and Sunday
+### Saturday and Sunday
 
 Staff and startups in space sporadically. No scheduled events.
 
-# Engaging mentors in an accelerator class
+## Engaging mentors in an accelerator class
 So that all makes sense. But there's an awful lot of mentoring in there. How does that stuff start to happen? 
 
 At PIE, we experimented with a number of different means of activating mentors as they engaged with startups. How we worked with the mentors depended on both the mentor preference as well as the startup's or founder's immediate needs.
@@ -2652,22 +2652,17 @@ We’ll take you through each of these elements from least amount of engagement 
 - Matchmaking
 - Office hours
 
-## Presentation with Q&A
-Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.
-
-### For the mentor
-
-#### Preparing mentors to speak to a class
-One of the most important — and regularly occurring — activities of any shared coworking space accelerator is a mentor speaking to the entire class. For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
+### Presentation with Q&A
+Often the least taxing — but still incredibly valuable — way to engage mentors is to have them present in front of the class of startups in a lecture format, followed by substantial time for questions after the presentation.For some accelerators, this can happen sporadically. For others, it can take place several times a week. 
 
 At PIE, we found a cadence of two talks — where a single mentor addresses the entire class — per week seemed to be the best. But if there were serendipitous opportunities — for example, a random mentor popping into the space or visiting Portland — we took the opportunity to have them speak. 
 
 Variety, am I right?
 
-### Misconceptions about mentor presentations
+#### Potential staff misconceptions about mentor presentations
 In our experience, we've found that there are a few misconceptions some communities have about mentors presentations. So we wanted to dispel those immediately.
 
-#### 1) Mentors who want to speak are the mentors that should speak
+##### 1) Mentors who want to speak are the mentors that should speak
 Despite rumors to the contrary, there will likely be a large contingent of your community that actually enjoys presenting in front of an audience. They enjoy the stage. And they enjoy public speaking. And as your program — or programming — becomes more prominent and recognized, these folks will seek out your program for speaking opportunities. 
 
 Sometimes they're amazing speakers. Sometimes they're not. There is value in each of those outcomes. 
@@ -2678,7 +2673,7 @@ But don't think you have to take all comers. Like so many things that happen in 
 
 Because wasting a good speaker at the wrong time is just as bad as having an off topic speaker at the right time.
 
-#### 2) Mentors who don't want to speak shouldn't speak
+##### 2) Mentors who don't want to speak shouldn't speak
 While shouldn't you take all comers, the converse is also true. Sometimes, you have to seek out the mentor who doesn't want to present in front of the class. Because they have valuable insight. Or interesting stories. Or the startups simply need to have a little boost.
 
 Act accordingly.
@@ -2687,7 +2682,7 @@ While it may take more cajoling and prepping, it is critically important that yo
 
 You're here to help your founders. And your mentors want to help founders. Sometimes that's awkward and uncomfortable.
 
-#### 3) Mentors need to be experts
+##### 3) Mentors need to be experts
 Another misconception is the idea that mentors need to be expert in their field. 
 
 We believe that anyone and everyone has the potential to be a mentor. Likewise, anyone and everyone has the potential to speak as a mentor. And to provide valuable insights to your founders.
@@ -2698,7 +2693,7 @@ Expertise is not a prerequisite. Insights, willingness to share, and relatable s
 
 CAVEAT: Most of your speakers will be either founders or experts. But your entire mentor pool can have a ton of variety and levels of expertise — or lack thereof.
 
-#### 4) Speaking is more important than listening
+##### 4) Speaking is more important than listening
 Sometimes, being a good speaker isn't what startups need. They need someone who listens. 
 
 We find that some of our best mentor speakers are those who spend less time presenting and more time chatting — or just listening. So make sure to find folks who are comfortable with that dynamic. 
@@ -2707,7 +2702,7 @@ You're much better off to have a so-so presentation with a lively Q&A session th
 
 Startups are in your program to explore opportunities, question assumptions, and get their hands dirty. They are seeking opportunities to learn about practical applications and unique insights. Not to revel in theory. So make sure founders have speakers who draw that conversation out.
 
-#### 5) You need a formal setting for presentations
+##### 5) You need a formal setting for presentations
 We've pretty much covered this in the space design. But to hit it one more time… 
 
 We talk to a lot of folks who dodge the whole speaker thing with, "Well, we don't have anywhere to do it."
@@ -2722,8 +2717,7 @@ And I would argue that the very nature of the raw space lent itself to more cand
 
 The best stage is the stage you have. Make due. 
 
-### Prepping mentors for speaking to your founders
-
+#### For the mentor
 Once you've selected a mentor to speak, it will benefit both the community and your program if you adequately prepare them for the talk. 
 
 Even the most seasoned CEO with a completely polished pitch can become a babbling idiot when trying to describe how they built the business — or how they failed. But those are the stories that provide the most value to the startups you're trying to help.
@@ -2732,7 +2726,7 @@ So give your mentors some guidance before they wind up on stage.
 
 Here are some of the ways we tried to do that in PIE.
 
-#### Give them guidance on the room
+##### Give them guidance on the room
 With PIE's mentors, most folks had visited the space before they presented there. But if they were visitors or hadn't been in the space, we made sure they were aware of how difficult the room was. 
 
 If they were giving a founder talk or doing a Q&A session, they got different prep than a workshop format.
@@ -2743,12 +2737,12 @@ If they were doing a workshop, we'd make sure that they were well armed with whi
 
 And we made it clear that we didn't have any audio equipment. No matter what the format. 
 
-#### If you plan to record, get permission
+##### If you plan to record, get permission
 As time went on, we started recording the presentations. Not for public consumption. But so that founders could return to previous content as needed. Or in case they missed a mentor session.
 
 If you choose to record your sessions, get permission from the mentor ahead of time. 
 
-### Trying to use this format as an educational platform is extremely challenging, if not ripe for failure (and not the kind of failure we want)
+##### Trying to use this format as an educational platform is extremely challenging, if not ripe for failure (and not the kind of failure we want)
 Let's be completely blunt here. It will be extremely rare that all of your founders are all experiencing the same problem simultaneously. And even if they are? A lecture based format is about the worst format for them to be dealing with the problem.
 
 So save these sorts of educational sessions for workshops or one-on-one meetings. 
@@ -2757,7 +2751,7 @@ Founders don't want to hear about the problems they're having. They want to fix 
 
 That's why…
 
-#### Founder stories are the best
+##### Founder stories are the best
 The best use of the lecture format is putting a founder in front of your class of founders. So whenever possible choose speakers who are founders.
 
 Founders love the stories from the trenches. Because they're not actually stories about failure, at all. They're stories about perseverance. To talk about how they battled against all odds to win. About how they managed to string things together and come out on top.
@@ -2770,7 +2764,7 @@ But you might need to prep them for the parts of the story that are most valuabl
 
 NOTE: Workshops get a pass here. Most workshops, you'll want a subject matter expert whether they happen to be a founder or not.
 
-#### Encourage mentors to tell stories of mistakes and failure 
+##### Encourage mentors to tell stories of mistakes and failure 
 Talking about naive decisions and stumbles and screw ups. Sharing awful fucking mistakes. And heartbreaking failures. They aren’t pretty. But to other entrepreneurs they are way more important than recounting the completely random lucky set of circumstances that landed you where you are today.
 
 Because unlike that celebrated and yet unrepeatable path to success, avoiding those failures and mistakes can be critical to your peers.
@@ -2797,7 +2791,7 @@ Because failure is a different story. Knowing the story of failure will enable y
 
 Ask mentors to talk about mistakes and failures? Won’t that be difficult? No. It won’t. And if it is? Then that’s likely a red flag that you have chosen poorly with that mentor. Or the wounds are still too fresh. In which case, you should save that mentor for sometime in the future. 
 
-#### Be prepared for Q&A to be awkward
+##### Be prepared for Q&A to be awkward
 Most early stage founders don't have enough experience to ask good questions. Don't worry. They'll get better as class goes on.
 
 To exacerbate matters, most founders aren't used to standing on stage and revealing all of their errors. 
@@ -2810,7 +2804,7 @@ But we also began to put more and more pressure on the startups to ask questions
 
 And guess what? Our best speakers did an equal amount of prep and due diligence on the companies in the cohort. Before they took the stage.
 
-#### Being engaged is better than being polished
+##### Being engaged is better than being polished
 Try as they might, some founders are just really bad in front of a crowd. (I can say this because I happen to be one of them.) But fact of the matter is that they can be even more engaged by being awkward.
 
 It's more authentic. More genuine. And more engaging if they've let their guard down.
@@ -2821,25 +2815,53 @@ Even if it's a workshop. It should still feel more natural than forced.
 
 So encourage speakers to be real. Because that will help them have more impact on your startups.
 
-#### Don't sweat the slides
+##### Don't sweat the slides
 Some folks need slides. Some don't. Some are better with slides. Some are worse.
 
 Long story short, don't require speakers to have slides to speak. In fact, more often than not, you might want to ask them to leave the slides behind.
 
 The caveat here is that the workshop format can be helped by slides. But the vast majority of your talks won't be workshops.
 
-#### Don't make it a sales pitch
+##### Don't make it a sales pitch
 Just don't.
 
-### For the founders
+#### For the founders
+Founders will need to experience a few of these talks before they will learn how to effectively engage and get the most out of the format. This is to be expected. Even the most seasoned startup founder can find this format difficult, at first. It's open and awkward. By design.
 
-## Workshops
+Encourage participants to do their due diligence on the speaker — and this is critically important — on their own. 
 
-### For the mentor
-### For the founders
+For the first few talks, give the participants substantial context on the speaker when scheduling the talk. And try to give participants as much warning and prep time as possible. Provide context again as you're introducing speaker. (If it's a pop-in speaker, we encourage you to spend extra time setting the stage during the introduction.) And then, when the talk is over, encourage the founders to follow up with a thank you.
+
+Again, this is only for the first few talks. The idea is to start training your founders to do their homework ahead of every meeting. And to follow up effectively after every meeting. 
+
+Feel free to accept questions like "Who is this?" or "What should I know about this person?" for the first few talks. Provide information and context. As the class goes on, we encourage you to respond to those questions with questions of your own, like "What can *you* tell *me* about this person?" and "What kind of questions do you have prepared for this speaker?"
+
+This is an accelerator. Not an incubator. Teach your founders how to survive in the real world. 
+
+### Workshops
+At times, it will be more valuable for participating founders to engage, as a group, with mentors in a workshop format. These are most effective when all of the participants are struggling with the same issue, so topics like projections, pricing, public relations, story telling, speech coaching, and raising money all work well in this format. 
+
+Ideally, you have a location within your space that works for this type of conversation. Since there is often a lot of conversation and interaction. Usually with a great deal of whiteboard scribbling. If not, make due. 
+
+Participants should leave any workshop session with homework to complete. Workshops are called workshops for a reason. They create work for the participants. Make sure there is an assignment after each one.
+
+#### For the staff
+In this format, staff should be looking to engage subject matter expert mentors.  This is an incredibly scaleable and efficient way for those types of mentors to share their knowledge, en masse. 
+
+These mentors should be comfortable with a conversational teaching environment. 
+
+#### For the mentor
+Encourage mentors to set the context of the workshop, provide background on their experience or expertise, and then actively make examples of the startups or founders. This should be an engaging and dynamic process designed to help all participants learn the subject matter.
+
+Make sure the mentors understand that they should be assigning homework. And make sure that they realize that the assignment should drive the teachings home or take participants to the next stage of developing the concepts explored during the workshop — and this is important — as they apply to the founder and/or their startup. They need to make the assignment applicable, not just educational. 
+
+#### For the founders
+Encourage participants to be as open and participatory as they can during the session. They should bring up real problems, rather than hypothetical ones, enabling the mentor to help them resolve their issues in real time. 
+
+Like the mentor presentations, encourage the founders to do their own homework on each of the workshops. 
 
  - - -
-### Experimenting with the format: Lunch and Learns
+#### Experimenting with the format: Lunch and Learns
 Sometimes a mentor talk, other times a workshop, sometimes led by peers, lunch and learns are scheduled twice a week during the three month program during the lunch hour. Speakers can range from founders with anecdotal “war stories” to subject matter experts. We often bring our higher profiled mentors in for these talks, as it is easier to schedule for them. These are some of the most valuable learning opportunities of the program.
  
 Despite how straightforward these sessions sound, we’ve discovered a few snags. There is a chance that any given topic, might not be something a company is dealing with that particular day or week, but trust us, they will – and when they are dealing with it, they might not have a chance to meet with that mentor again. This is one of those; take advantage of the opportunity while you have it, moments.
@@ -2857,12 +2879,7 @@ Example topics:
 - Pricing Model roundtable – multiple mentors
 - The importance of documentation  	
 - Minimum “Valuable” Product
-- Founder Talks
-- Business Development 101
-- Presenting 101 
-- PR 101
 - - -
-
 
 ## Speed dating or running the gauntlet
 
