@@ -2,7 +2,7 @@
 An open source guide to starting and managing an early stage startup accelerator.
 
 ## Table of contents
-- Preface
+- [Preface](#preface)
 	- Open Source
 	- Caveats
 	- PIE as an example
