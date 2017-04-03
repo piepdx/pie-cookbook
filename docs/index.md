@@ -5,14 +5,14 @@ Thank you to all of our [Kickstarter backers](https://www.kickstarter.com/projec
 
 **Table of contents**
 
-- [Preface](pie-cookbook-0.9.md#preface)
-	- [Open Source](pie-cookbook-0.9.md#open-source)
-	- [Caveats](pie-cookbook-0.9.md#caveats)
-	- [PIE as an example](pie-cookbook-0.9.md#pie-as-an-example)
-	- [Motivations](pie-cookbook-0.9.md#motivations)
-	- [Understanding — and working within — the existing culture of the community](pie-cookbook-0.9.md#understanding--and-working-within--the-existing-culture-of-the-community)
-	- [Current state of accelerators](pie-cookbook-0.9.md#current-state-of-accelerators)
-	- [Spoiler alert](pie-cookbook-0.9.md#spoiler-alert)
+- [Preface](preface.md#preface)
+	- [Open Source](preface.md#open-source)
+	- [Caveats](preface.md#caveats)
+	- [PIE as an example](preface.md#pie-as-an-example)
+	- [Motivations](preface.md#motivations)
+	- [Understanding — and working within — the existing culture of the community](preface.md#understanding--and-working-within--the-existing-culture-of-the-community)
+	- [Current state of accelerators](preface.md#current-state-of-accelerators)
+	- [Spoiler alert](preface.md#spoiler-alert)
 	- [How to use this cookbook](pie-cookbook-0.9.md#how-to-use-this-cookbook)
 	- [History of PIE](pie-cookbook-0.9.md#history-of-pie)
 - [Introduction](pie-cookbook-0.9.md#introduction)
