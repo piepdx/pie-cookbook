@@ -2882,12 +2882,11 @@ Example topics:
 - - -
 
 ### Speed dating (ask running the gauntlet)
-
-
-## Speed dating
 With the speed dating format, either a startup or a mentor is assigned an area within the accelerator, usually a conference room or section of a larger worker area. For this example, let's say it's the startup founders, the accelerator participants. The other party — in this case, the mentor — is assigned the task of moving from station to station to meet with the other party. This usually occurs on a very short timeframe, most commonly between 10 and 30 minutes. 
 
-There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. It's often a "we'll take who we can get" approach. 
+At PIE, we would use this format with individual mentors, sending a volley of startups to meet with them in short succession. This worked well for our space. Less often, we would use multiple mentors or groups of mentors with which each of the startups would engage, round robin style. 
+
+The round robin style can be even more difficult to manage. There is usually a smattering of mentor types, expertise, and skills in these situations, given people's busy schedules. With large groups, it often defaults to a "we'll take who we can get on this day" approach. 
 
 The process is designed to make efficient use of time for both mentors and startups, giving each party the chance to briefly meet the other. And to give mentors a general lay of the land for the cohort as a whole. It also avails the opportunity for each party to identify folks with whom they would like to be working.
 
@@ -2919,7 +2918,7 @@ Where we have found this permutation effective is with Angel groups and Venture 
 - - - 
 In our mentoring experience with other Accelerators, we have found that many programs lean heavily on speed dating. This can have its drawbacks.
 
-### The dark side of speed dating
+#### The dark side of speed dating
 While speed dating seems to be the most efficient way to engage mentors and startups, in PIE's experience, it does have its drawbacks. So we encourage folks to use the speed dating model in addition to other means of engaging mentors, rather than relying on speed dating as the only means of introducing mentors and startups. 
 
 These drawbacks, which we'll cover in more detail, include but are not limited to:
@@ -2929,8 +2928,20 @@ These drawbacks, which we'll cover in more detail, include but are not limited t
 - Perceived lack of tangible results
 - A feeling of "missed opportunities" or time wasted by both Mentors and Startups 
 
-### For the mentor
-### For the founders
+#### For the staff
+It is imperative that the staff management this round robin of engagement. Keep folks moving. Don't let folks run over time or other startups suffer. 
+
+Without a doubt, these sessions are the most staff intensive. 
+
+#### For the mentor
+Ensure that the mentors are familiar with the format and the expectations. If they have not participate in this format before, spend some time bringing them up-to-speed with the dynamic. 
+
+Most important for mentors, encourage them to come to the session with a few questions they plan to ask every startup. 
+
+#### For the founders
+Help the founders understand how taxing this format will be for them. Ensure that they have a quick intro and then encourage them to get into questions with the mentor. 
+
+Like other formats, it is imperative that the founders take the time to do their homework on the mentor(s) with whom they are meeting. 
 
 ## Matchmaking 
 While speed dating can be an effective way of engaging multiple mentors with multiple startups, simultaneously. It does, as we have highlighted, have its drawbacks. 
