@@ -1,3 +1,88 @@
+# PIE Cookbook
+An open source guide to starting and managing your own early stage startup accelerator — or any accelerator, for that matter.
+
+Thank you to all of our [Kickstarter backers](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce/community) and all of our alums, mentors, contributors, sponsors, patrons, and staff for making this possible.
+
+## Table of contents
+- [Preface](#preface)
+	- [Open Source](#open-source)
+	- [Caveats](#caveats)
+	- [PIE as an example](#pie-as-an-example)
+	- [Motivations](#motivations)
+	- [Understanding — and working within — the existing culture of the community](#understanding--and-working-within--the-existing-culture-of-the-community)
+	- [Current state of accelerators](#current-state-of-accelerators)
+	- [Spoiler alert](#spoiler-alert)
+	- [How to use this cookbook](#how-to-use-this-cookbook)
+	- [History of PIE](#history-of-pie)
+- [Introduction](#introduction)
+	- [What this is not](#what-this-is-not)
+	- [Want to start an accelerator? Don't start an accelerator](#want-to-start-an-accelerator-dont-start-an-accelerator)
+	- [Coworking and Community Development are not complementary](#coworking-and-community-development-are-not-complementary)
+	- [Culture](#culture)
+	- [Three months](#three-months)
+	- [Start small](#start-small)
+- [Establishing the unique context for your accelerator](#establishing-the-unique-context-for-your-accelerator)
+	- [Definitions](#definitions)
+	- [Environmental scan](#environmental-scan)
+	- [Establish a thesis](#establish-a-thesis)
+- [Building your accelerator's strategic framework](#building-your-accelerators-strategic-framework)
+	- [Your mission](#your-mission)
+	- [Three critical components for any accelerator](#three-critical-components-for-any-accelerator)
+		- [Community](#community-1)
+		- [Funding](#funding)
+		- [Promotion](#promotion)
+	- [Other critical components](#other-critical-components)
+		- [Mentors](#mentors)
+		- [Food](#food)
+		- [Diversity and inclusion](#diversity-and-inclusion)
+- [Initial tactics](#initial-tactics)
+	- [Budget](#budget)
+		- [Considerations](#considerations)
+		- [Ballpark figures](#ballpark-figures)
+		- [Sample pro forma](#sample-pro-forma)
+	- [Space](#space-1)
+		- [Physical dimensions](#physical-dimensions)
+		- [Infrastructure](#infrastructure)
+		- [IKEA is your friend](#ikea-is-your-friend)
+		- [Arranging the desks in the office space](#arranging-the-desks-in-the-office-space)
+		- [Ongoing build out](#ongoing-build-out)
+	- [Staff](#staff-1)
+		- [Managing Director (or General Manager)](#managing-director-or-general-manager)
+		- [Program Manager](#program-manager)
+		- [Optional roles](#optional-roles)
+		- [Additional roles](#additional-roles)
+	- [Recruiting mentors](#recruiting-mentors)
+	- [Onboarding mentors](#onboarding-mentors)
+	- [Curriculum](#curriculum)
+		- [Common issues](#common-issues)
+		- [Understanding the cadence of an accelerator](#understanding-the-cadence-of-an-accelerator)
+		- [The Three Ps](#the-three-ps)
+- [Running an Accelerator Class](#running-an-accelerator-class)
+	- [Application and selection process](#application-and-selection-process)
+	- [Acceptance](#acceptance)
+	- [Onboarding](#onboarding)
+	- [Getting into the flow](#getting-into-the-flow)
+		- [Family Dinner](#family-dinner)
+		- [Typical week in PIE](#typical-week-in-pie)
+	- [Engaging mentors in an accelerator class](#engaging-mentors-in-an-accelerator-class)
+		- [Presentation with Q&A](#presentation-with-qa)
+		- [Workshops](#workshops)
+		- [Speed dating (aka running the gauntlet)](#speed-dating-aka-running-the-gauntlet)
+		- [Matchmaking](#matchmaking)
+			- [1:1](#11)
+			- [1:Company](#1company)
+			- [Many:Company](#manycompany)
+		- [Office hours](#office-hours-1)
+- [Graduating from the program (Demo Day)](#graduating-from-the-program-demo-day)
+	- [Objectives](#objectives)
+	- [Logistics](#logistics)
+	- [Post show reception (1.5 hours)](#post-show-reception-15-hours)
+	- [Denouement: Repair to dinner](#denouement-repair-to-dinner)
+- [Post mortem](#post-mortem)
+- [Conclusion](#conclusion)
+
+- - -
+
 # Preface 
 > It's hard for people to realize now how inconsequential YC seemed at the time. I can't blame people who didn't take us seriously, because we ourselves didn't take that first summer program seriously in the very beginning. But as the summer progressed we were increasingly impressed by how well the startups were doing.… When people came to YC to speak at the dinners that first summer, they came in the spirit of someone coming to address a Boy Scout troop. By the time they left the building they were all saying some variant of "Wow, these companies might actually succeed."
 
@@ -161,6 +246,7 @@ The PIE Cookbook is designed to help provide a framework and some confidence. To
 Not interested in building a generic tech startup accelerator? Good. Please don't. **Go do something more interesting than that.**
 
 And, by all means, please keep us in the loop. We're looking forward to learning from — and with — you.
+
 - - -
 
 ## Motivations
@@ -209,11 +295,11 @@ We believe that no one has perfected it yet. So you should feel free to adapt an
 
 We believe that the accelerator market is currently like the search engine market pre-Google. There are lots of well meaning people sort of doing things right but no one has really hit upon a repeatable and successful formula for doing this.
 
-Remember pre-Google Web? Well if you don’t, suffice it to say that there were a few choices for searching the Web, back in the day. Like hundreds. And no single one had significant traction. Mostly because they were all variations on a theme. Some were directories. Some were aggregators. Some were really, really smart algorithms. Many of them were wildly successful at the time. But none of them had really nailed the way to find the most relevant information on the Web. That’s kind of where we are with accelerators, today. And I’m hopeful that getting more smart people thinking about the model will help us find a better way of doing this. For everyone. https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.qjyagrd3p
+Remember pre-Google Web? Well if you don’t, suffice it to say that there were a few choices for searching the Web, back in the day. Like hundreds. And no single one had significant traction. Mostly because they were all variations on a theme. Some were directories. Some were aggregators. Some were really, really smart algorithms. Many of them were wildly successful at the time. But none of them had really nailed the way to find the most relevant information on the Web. That’s kind of where we are with accelerators, today. And I’m hopeful that getting more smart people thinking about the model will help us find a better way of doing this. For everyone. 
 
 Using higher education as an analogy, accelerators have our Harvard and Stanford. We have our Oxford. But where our state schools? Our small private liberal arts colleges? Where are our vocational schools and community colleges? We haven’t even begun to scratch the surface for this educational model.
 
-As far as accelerators go, we have our Ivy Leagues and our Stanford, but we have barely begun to scratch the surface for this educational model. Where is the Georgia Tech of accelerators? Where is the RISD? Where is the Reed or Whitman? Better yet, where is the state school or community college or junior college? Where is the vocational school of accelerators? There’s still plenty of room to explore this educational model. We have a long way to go before we’ve even leveraged the existing model, let alone begun to inflate the bubble. https://medium.com/portland-incubator-experiment/unnecessarily-proprietary-a709e850d8f4#.qjyagrd3p
+As far as accelerators go, we have our Ivy Leagues and our Stanford, but we have barely begun to scratch the surface for this educational model. Where is the Georgia Tech of accelerators? Where is the RISD? Where is the Reed or Whitman? Better yet, where is the state school or community college or junior college? Where is the vocational school of accelerators? There’s still plenty of room to explore this educational model. We have a long way to go before we’ve even leveraged the existing model, let alone begun to inflate the bubble. 
 
 ## Spoiler alert
 This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most every case, it may not be wise — or downright foolhardy — to start where PIE ended. You should start where PIE started. And try to end where you want to end. 
@@ -282,7 +368,7 @@ This isn’t a book you read cover to cover. Some of this will seem obvious to y
 
 Start with what you have. Go from there.
 
-# History
+# History of PIE
 We are providing the PIE history as an example or parable, not a step-by-step, cookie cutter process for you to follow to achieve the same ends. 
 
 It is important to note that, like many things in the world of startups, PIE worked at a moment in time, because of the people involved, and the way the world happened to be going in Portland, Oregon, with open source, technology, startups, blogging, and creative agencies. 
@@ -293,14 +379,14 @@ That said, your community is likely at a different place. Maybe there are simila
 
 Whatever the case, we are hopeful that our history with PIE provides reference points that allow you to better identify — and take advantage of — potential opportunities in your community, today.
 
-## History of PIE
+## Beginnings
 PIE began as a collaborative experiment between award-winning, global advertising firm Wieden+Kennedy and the Portland high-tech startup community. Now, PIE has evolved into an intensive three-month mentorship program designed to identify, recruit, capitalize, accelerate, and promote early stage high-tech startups which are highly efficient with investment capital, establish corporate headquarters in Oregon, create high paying jobs for Oregonians, and raise the visibility of the state on an international stage. 
 
 The PIE model has been tested, refined, and proven over a three-year period. During that time, the program has fostered the growth of companies that have attracted more than $50 million in venture capital and created more than 150 Oregon jobs with wages averaging nearly double the baseline of the average Oregon family wage of $40,486. In addition, PIE has had the opportunity to work with corporations like Intel, Target, Coca-Cola, and Google raising the visibility of both the State of Oregon and its innovative technology community to international acclaim. 
 
 Like the startups the program serves, PIE is extremely efficient with capital. All activity to date has been accomplished with minimal capital investment. This is thanks in part to the creative efforts of the PIE team to leverage volunteer resources, actively seek and secure in-kind contributions, and create and manage additional revenue-generating programs beyond its incubation activities.
 
-### A melding of hypotheses
+## A melding of hypotheses
 > Portland, Oregon, boasts more microbreweries, restaurants, food carts, batch distilleries, mobile startups, and open source user groups per capita than any city in the world. Some call it the most entrepreneurial city, ever. It's determined to be the most green, friendly, sustainable, bike commutable, soccer loving, and livable town you'll ever encounter. And if that's not good enough for you, it's 90 minutes from the ocean and 90 minutes from skiing and snowboarding, year round.
 
 > But most importantly, it's the best place in the world for you to build your startup dream into a reality. To make your startup work. To make it.
@@ -540,7 +626,7 @@ But to get the best results, you have to be similarly inclined to take risks, to
 
 If we had started with an accelerator, we're confident that PIE would have failed. Miserably. And that's why we're recommending that — if you're thinking about starting an accelerator — you do anything but that.
 
-## Start at the beginning
+### Start at the beginning
 So if starting with an accelerator isn't the right place, where should folks begin? Well, if you skipped straight to the recipes, how about you go back and read the timeline of PIE's existence. Maybe it will give you some clues as to what's coming next. And maybe you'll find commonality in your community that gives you a more appropriate starting place.
 
 Or maybe, just maybe, you'll discover that you're one of the rare few who has already done all of the legwork. One who has completed all of the prerequisites. One of those lucky few strong communities that can, in fact, dive straight into the deep end of the pool. Because they've been ramping up all along. And now you're actually ready to take on that accelerator opportunity.
@@ -549,13 +635,13 @@ Don't start patting yourself on the back yet. There's still a ton of hard work a
 
 But if you're not there yet, please do not skip ahead. Do not pass go. There is no shortcut. It takes time.
 
-## Building a startup accelerator in seven easy steps
+### Building a startup accelerator in seven easy steps
 - - -
 > **tl;dr You're not starting an accelerator. You're helping to aggregate and strengthen an existing community.**
 - - -
 *Caveat: Please do not take this document as a step-by-step roadmap to try to recreate PIE. This is just an allegory. To serve as an example of one potential path.*
 
-### Step 1: Found your own company. Or at least work at a startup.
+#### Step 1: Found your own company. Or at least work at a startup.
 Per [Brad Feld](http://feld.com/about)'s advice in [**Startup Communities**](https://www.amazon.com/dp/B008UV826U/), if you're going to truly succeed in building a vibrant startup community then "the leaders have to be entrepreneurs." Not politicians. Not corporations. Not agencies. Or economic development bodies. Entrepreneurs.
 
 With that in mind, we realize that PIE's journey started when the founders started working in startups. Sometimes as founders. Sometimes as employees of startups. But in startups. 
@@ -584,7 +670,7 @@ So you have to do the hard work at home. But you also have to be out and about. 
 
 So yeah. A little bit of work. But you can do it. 
 
-### Step 2: Participate in the community.
+#### Step 2: Participate in the community.
 The most important part of beginning to build community isn't throwing the best parties or planning the biggest events. It isn't renting a massive space and inviting everyone to join you. It isn't bringing in dignitaries from around the globe and expecting the community to rally around you. 
 
 Although you may be tempted to try all of these things.  
@@ -611,7 +697,7 @@ But we did it. And we did it on the community's turf. Not ours. We tried to prov
 
 And in so doing — from that collaborative standpoint — we began to build the a network that would become the most critical component of PIE: a subset of an already vibrant community.
 
-### Step 3: Talk about the community.
+#### Step 3: Talk about the community.
 There's something about a tree falling and no one hearing it. Community is the same way. You have to talk about it. And blog about it. And tweet about it. You have to connect it. And highlight what it's doing.
 
 Why? Because, for the most part, community is not immediately self-aware. As such, people don't just realize that there's "a community." Unless they're specifically looking for it. And this is true, even if they're deeply involved in that community. 
@@ -628,7 +714,7 @@ Yes, Virginia, there is a Portland startup community.
 
 Note: This step is ongoing. You don't get to stop talking about the community. Ever. Keep going. Keep talking.
 
-### Step 4: Invite the community in.
+#### Step 4: Invite the community in.
 Now that your community is gaining definition. Now that it is starting to solidify and formalize. Now that you are taking an active role within that community. Only now can you start to host events. Shine a spotlight on talented community members. And invite people who would benefit from hearing those community members. Renny did this by having W+K serve as the inaugural host of Ignite Portland. And hosting events like Portland Lunch 2.0, among others.
 
 Without — and this is critical — expecting anything in return. At all.
@@ -641,7 +727,7 @@ With PIE, we were lucky enough to own space. Which had been generously donated b
 
 We made the PIE space a resource by the community, for the community. It became a platform on which other members of the community could build their events and programs. And, eventually, companies.
 
-### Step 5: Create a common space.
+#### Step 5: Create a common space.
 Events are great. But truly valuable community spaces are leveraged as a utility, all day, every day.
 
 For PIE, forming a coworking space was the way to go. In part because Wieden had given us the space to do it. And in part because we thought it was what our community needed. It ensured that the space was being used throughout the day while making it available for events in the evening. Plus it gave the space ongoing and sustainable energy. Everybody wins.
@@ -658,7 +744,7 @@ For us, the space in the Wieden+Kennedy building afforded us opportunities for c
 2. It provided a vantage point for us — the startup community and our patron — to better understand the dynamics of the community, where the momentum was, and where the gaps were. At times, it also provided us with an opportunity to simply observe, as an objective third party.
 3. It served as a physical representation of the community, as a whole. So when folks were visiting town or were new to town, they had a place to land. And that space enabled others to discover and engage with the community more readily.
 
-### Step 6: Keep doing all of that stuff. But do more of it. Faster.
+#### Step 6: Keep doing all of that stuff. But do more of it. Faster.
 Now that you've got some momentum, you've got a working space, and you've started to define your role in the community, you have to really get to work. Or maybe you have to build something else. But you get the gist.
 
 There's more to do.
@@ -673,7 +759,7 @@ In short, we were on the constant lookout for interesting opportunities to bring
 
 And then, only then, were Renny and I ready to…
 
-### Step 7: Start an accelerator.
+#### Step 7: Start an accelerator.
 Now that you've done all of that work, you're ready. I mean, if it's even still needed.
 
 At PIE, we absolutely needed to start an accelerator. The community needed it. W+K needed it. Startups needed it. Individuals needed it. First a bullhorn. Then a coworking space. Then an accelerator. Because we needed it. As a community.
@@ -695,13 +781,17 @@ It seems counterintuitive but we’ve learned that giving startups desks for fre
 
 Long story short, we feel we’ve gotten exponentially more value out of giving desks away than we ever would have by adding a few more dollars to the revenue stream. And whatever the case, don't assume the health — or lack thereof — of a business pursuit like coworking is a direct or even relevant indicator of the health of your community. We've seen many a healthy community without the financial health to sustain a coworking space.
 
-## Create a culture of hospitality
+## Culture
 Your accelerator should serves as a welcoming hub for the community. It should be a safe place where ideas are exchanged. Where concepts are challenged. And where productive discussions occur. 
+
+- - -
+> **tl;dr Your primary objective is to create a culture of trust.**
+- - -
 
 This is critical to your ability to create a culture of trust and an environment where founders and mentors can be open and engaged.
 
-## Empathize with Founders
-Finally and most importantly, before you do anything, put yourself in the Founders' shoes. Empathize with them. And continue to return to that viewpoint. Founders are your customers. Treat them accordingly.
+### Empathize with Founders
+Before you do anything, put yourself in the Founders' shoes. Empathize with them. And continue to return to that viewpoint. Founders are your customers. Treat them accordingly.
 
 This is why we encourage you to immerse yourself in the community before you try  to do anything else. And why we encourage you to start your own companies. So you know what it's like. 
 
@@ -709,7 +799,7 @@ Ideally, you'll sympathize with your Founders. At the very least, you must empat
 
 If you need help getting your head in the right place, read "[Why Y Combinator made all the difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)."
 
-## Encourage bonding among peers 
+### Encourage bonding among peers 
 This is an important part of our program and one that we feel is often overlooked by others.  We believe that we aren’t just graduating individual companies from our program, but collaborative groups who will improve and enhance our existing community. 
 
 But this doesn't necessarily happen organically. It takes effort. And intent. That's why we've learned to put time into creating opportunities that enable those peer bonds to form, even on a short timescale. 
@@ -1015,7 +1105,7 @@ A good example of a Partner is a hosting service that provides a limited number 
 Check out the [Startup Fundraising Dictionary](https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e#.dhxa6l911), an open guide that helps define the terminology used in the industry.
 - - - 
 
-## So why did we force you to work through all of that?
+### So why did we force you to work through all of that?
 Why all of the definition setting at the outset? Because the more context you have going into the situation — the more clarity and the more consensus — the better you'll communicate. And the fewer misunderstandings you'll have. And the more likelihood you'll have of success.
 
 Now that we've defined the terms of the types of players in the ecosystem — or those completely absent from the ecosystem — it's important to describe and define the environment in which your accelerator will exist. Otherwise, how will you know what you've got at your disposal? Or what's missing?
@@ -1065,11 +1155,8 @@ At PIE, we hit upon the fact that we were really good at accelerating technology
 - Being founded in collaboration with a creative agency, We inherited some of the culture of the agency — a company built on the premise of helping other companies.
 - We started PIE just as both the SaaS and mobile markets were exploding
 
-## Know where you suck
-
-Know — don’t assume; know — what you are truly good at doing.
-
-And even more importantly? Be willing to admit where you suck.
+### Know where you suck
+Know — don’t assume; know — what you are truly good at doing.And even more importantly? Be willing to admit where you suck.
 
 At PIE, it quickly became obvious that we sucked at helping startups with fundraising. We were hamstrung by several things.
 
@@ -1081,8 +1168,7 @@ Third, we had not established adequate ties with investors in other regions. We 
 
 But you know what? Admitting we sucked at that — and being open with our applicants that we sucked at that — freed us up to be better at any number of other things. And made us way better and more focused on the things we were good at doing. Not only that, but it provided us with yet another measure by which to select the companies we chose.
 
-## But also know what your strengths are
-
+### But also know what your strengths are
 PIE mentor and Techstars Seattle Managing Director, Chris DeVore, provides a [compelling list of the things that Seattle is good at doing](http://crashdev.com/2017/01/what-is-seattle-best-at/). 
 
 While your list might not be as long as Chris' — Seattle has been at this for a while — it's important that you take the time to assess what strengths your staff, mentors, startups, and regional expertise bring to the mix. 
@@ -1114,7 +1200,7 @@ Your mission as an accelerator is create a safe but stressful environment where 
 Dodging conflict is the primary mistake we made with the first class of PIE. We didn't attempt to raise issues. We attempted to mitigate them. We didn't push the founders to expose the flaws in their businesses. We sought to highlight only the positive aspects of their pursuits. As such, we did our founders, our mentors, and our community a disservice. 
 - - - 
 
-## Order of progression
+### Order of progression
 When you're first starting, the progression should look something like this: 
 
 1. **Accelerator Founders** — or cofounders — which leads to securing
@@ -1414,7 +1500,7 @@ For the startups, the benefits of having a seasoned resource at their disposal a
 **Typical percentage of the mentor pool**
 The number of mentors in residence will be dictated by the available space in your accelerator. There is no definitive percentage
  
-## Food
+### Food
 With a name like PIE, it only stands to reason that we would include food as one of our critical components. 
 
 We firmly believe that feeding your founders is a critical part of supporting them. Plus, it's been proven time and time again, that you get into some very interesting conversations over meals. Startups are no different.
@@ -1443,7 +1529,7 @@ At PIE, we chose to cater three meals per week, on average — one dinner and tw
 
 This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
 
-## Diversity and inclusion
+### Diversity and inclusion
 Admittedly, PIE did a relatively poor job with a diverse set of mentors and startup founders. 
 
 We were lucky to have a number of women in each of our classes, from the coworking days through the accelerator. Nearly half of our mentors were women. This was not intentional. It just happened to work out that way. 
@@ -1703,14 +1789,14 @@ There are also fringe benefits to this sort of interior design. You, as an accel
 
 Potential investors walking into the space shouldn't see opulence. They should see a situation that they want to help your startups escape. The space should inspire one prevailing thought: "We need to get you out of here."  
 
-## The best space is the space you have
+### The best space is the space you have
 The best Accelerators tend to be the ones that make do with the space they have. It's not the space you want; it's the space you've got. So use it. Don't get hung up on it. Just get started.
 
 Conversely, many Accelerator projects stumble when trying to source "the perfect space" for their home. "It's not the right size," "It's not the right location," "It's not configured well." 
 
 It doesn't matter. Have you found a space? Is it available? Can you afford it? Good. Make it work. 
 
-### Physical dimensions
+## Physical dimensions
 For the actual physical dimensions of the space, you can approach the problem one of two ways:
 
 1. If you already have a space, figure out how many people you can wedge into that space.
@@ -1721,6 +1807,8 @@ Adjust accordingly.
 At PIE, our patrons, W+K, were granting us a space. It was roughly 3500 square feet (1000 square meters) of unimproved retail space. And it was oddly shaped. But it had its own entrance. And it's own kitchen area.  
 
 ![Sketch of the PIE space from initial walkthrough](https://github.com/piepdx/pie-cookbook/blob/master/source/images/PIE-sketch-2009.jpg)
+
+As a rule of thumb, we used — and continue to use — the ratio of 100 square feet (10 square meters) per founder when determining what a space will handle — or when deciding what sort of space to pursue.
 
 After some quick sketches of layouts and desks, we determined that we could fit roughly 30-40 Founders in an Accelerator cohort, while reserving some space for meeting areas and phone booths and whatnot. 
 
