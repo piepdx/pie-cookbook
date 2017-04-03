@@ -4,6 +4,7 @@ An open source guide to starting and managing your own early stage startup accel
 Thank you to all of our [Kickstarter backers](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce/community) and all of our alums, mentors, contributors, sponsors, patrons, and staff for making this possible.
 
 **Table of contents**
+
 - [Preface](pie-cookbook-0.9.md#preface)
 	- [Open Source](pie-cookbook-0.9.md#open-source)
 	- [Caveats](pie-cookbook-0.9.md#caveats)
