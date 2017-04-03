@@ -416,6 +416,17 @@ Admittedly we could do a better job of fostering the community among all of our 
 				114. Bring the pain
 
 # Additional Demo Day content
+
+## Audience
+- Investors
+- Media
+- Community
+- Mentors
+- Government
+- Peers
+- Partners
+- Sponsors
+
 				123. Demo format
 				124. Additional content
 				118. Venue

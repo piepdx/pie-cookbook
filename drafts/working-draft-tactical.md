@@ -3090,21 +3090,18 @@ Founders were engaged on a first come, first served basis. Sometimes, one founde
 
 This can be a great way of mixing up the dynamic of the space, so if the opportunity avails itself, we encourage you to experiment with it.   
 				
-# Graduating from the program: Demo Day 
-Graduation requirements can be modified to fit your programs needs or specialities. Most, if not all, programs culminate with a demo day. Companies give a 6-8 minute pitches of their product in front of an audience that can be made up of a combination of stakeholders, investors, mentors, media, and/or community. 
+# Graduating from the program (Demo Day) 
+Graduation requirements can be modified to fit your programs needs or specialities. Most, if not all, programs choose to culminate with a demo day. When we say "demo day," we mean a presentation format where one founder gives a 6-8 minute pitch about their company in front of an audience. 
 
-We believe that the focus of demo day should be about gaining attention, not funding. Check don’t get written at demo days, but conversations get started. Your demo day can be as large or small, open or private, as makes sense for your program.  
+We believe that the focus of demo day should be about gaining attention, not funding. Checks don’t get written at demo days, but conversations get started. Your demo day can be as large or small, open or private, as makes sense for your program.  
 
-But while all of the above is true, it is important to understand that demo days are regularly occurring events, meaning, you’re going to work very hard to get attention from the media and investors, and you still might not get it. Their dance cards are typically full. That doesn’t mean you shouldn’t have one, because it’s important to have something that signifies the culmination of the program.
+But while all of the above is true, it is important to understand that demo days are occur regularly, these days. They're not special. That means you’re going to have to work very hard to get attention from the media and investors — and you still might not get it. Their dance cards are typically full. 
 
-You should also consider the demo day goals of your teams and come up with ways to help them reach them.  Can you get the investors or potential new client they're courting at demo day?  Help them set up a dinner afterwards, or drinks even. 
+That doesn’t mean you shouldn’t have a demo day, because it’s important to have something that signifies the culmination of the program. It just means that you need to be considerate — and intentional.
 
 The hand holding doesn’t stop just because they’ve gone on stage.  
 
-But on to the planning! Here is a look at how we handle ours, some suggestions, and some stats for context:
-
-We believe it’s important to put just as much effort and energy into the event of demo day, as the companies put into their pitches. For many, this day signifies as their public launch and it is our responsibility to make their splash as big as it can be.  
-
+If you decide to proceed with a demo day, We believe it’s important to put just as much effort and energy into that event as the companies put into their pitches. For many, this day is "the big reveal," signifying their public launch. It is your responsibility to make their splash as big as it can be.  
 
 ## Objectives
 ## Audience
