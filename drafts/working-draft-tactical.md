@@ -2839,6 +2839,11 @@ Feel free to accept questions like "Who is this?" or "What should I know about t
 This is an accelerator. Not an incubator. Teach your founders how to survive in the real world. 
 
 ### Workshops
+At times, it will be more valuable for participating founders to engage, as a group, with mentors in a workshop format. These are most effective when all of the participants are struggling with the same issue, so topics like projections, pricing, public relations, story telling, speech coaching, and raising money all work well in this format. 
+
+Ideally, you have a location within your space that works for this type of conversation. Since there is often a lot of conversation and interaction. Usually with a great deal of whiteboard scribbling. If not, make due. 
+
+Participants should leave any workshop session with homework to complete. Workshops are called workshops for a reason. They create work for the participants. Make sure there is an assignment after each one.
 
 ### For the mentor
 ### For the founders
