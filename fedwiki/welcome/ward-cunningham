@@ -1,0 +1,184 @@
+{
+  "title": "Ward Cunningham",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6a106436b2bc3f1a",
+      "text": "Rick Turoczy writes, PIE is an experiment. We've been everything from a coworking space to a community hub to an early stage startup accelerator. Now, we're open sourcing everything we've learned from nearly a decade of helping startups."
+    },
+    {
+      "type": "paragraph",
+      "id": "01e2b572304c2ba8",
+      "text": "The Portland Incubator Experiment (PIE), has become an ongoing collaboration between the startup community and Wieden+Kennedy, the largest privately held creative advertising agency in the world. [http://www.piepdx.com/ site]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5e7a9b321dcdd312",
+      "text": "Now, we're sharing all that we've learned over nearly a decade of working with startups and collaborating with corporations. We're calling it, the PIE Cookbook. [https://github.com/WardCunningham/pie-cookbook github]"
+    },
+    {
+      "type": "pagefold",
+      "id": "0a7dd6b1e80773fb",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "05594920f24b8581",
+      "text": "I've had the pleasure of sharing his space in 2011 while I worked on the first versions of federated wiki. Now I am pleased to offer this creative commons work in the easily marked up and share format."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ward Cunningham",
+        "story": []
+      },
+      "date": 1491280312653
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a106436b2bc3f1a"
+      },
+      "id": "6a106436b2bc3f1a",
+      "type": "add",
+      "date": 1491280314258
+    },
+    {
+      "type": "edit",
+      "id": "6a106436b2bc3f1a",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106436b2bc3f1a",
+        "text": "PIE is an experiment. We've been everything from a coworking space to a community hub to an early stage startup accelerator. Now, we're open sourcing everything we've learned from nearly a decade of helping startups."
+      },
+      "date": 1491280335014
+    },
+    {
+      "type": "edit",
+      "id": "6a106436b2bc3f1a",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106436b2bc3f1a",
+        "text": "Rick Turoczy writes, PIE is an experiment. We've been everything from a coworking space to a community hub to an early stage startup accelerator. Now, we're open sourcing everything we've learned from nearly a decade of helping startups."
+      },
+      "date": 1491280382374
+    },
+    {
+      "type": "add",
+      "id": "05594920f24b8581",
+      "item": {
+        "type": "paragraph",
+        "id": "05594920f24b8581",
+        "text": "I've had the pleasure of sharing his space in 2011 while I worked on the first versions of federated wiki. Now I am pleased to offer this creative commons work in the easily marked up and share format."
+      },
+      "after": "6a106436b2bc3f1a",
+      "date": 1491280495640
+    },
+    {
+      "type": "add",
+      "id": "01e2b572304c2ba8",
+      "item": {
+        "type": "paragraph",
+        "id": "01e2b572304c2ba8",
+        "text": "Begun as a conversation eight years ago, the Portland Incubator Experiment — known more commonly as PIE — has become an ongoing collaboration between the startup community and Wieden+Kennedy, the largest privately held creative advertising agency in the world. "
+      },
+      "after": "05594920f24b8581",
+      "date": 1491280571035
+    },
+    {
+      "type": "edit",
+      "id": "01e2b572304c2ba8",
+      "item": {
+        "type": "paragraph",
+        "id": "01e2b572304c2ba8",
+        "text": "Begun as a conversation eight years ago, the Portland Incubator Experiment — known more commonly as PIE — has become an ongoing collaboration between the startup community and Wieden+Kennedy, the largest privately held creative advertising agency in the world. [http://www.piepdx.com/ site]"
+      },
+      "date": 1491280584018
+    },
+    {
+      "type": "edit",
+      "id": "01e2b572304c2ba8",
+      "item": {
+        "type": "paragraph",
+        "id": "01e2b572304c2ba8",
+        "text": "The Portland Incubator Experiment — known more commonly as PIE — has become an ongoing collaboration between the startup community and Wieden+Kennedy, the largest privately held creative advertising agency in the world. [http://www.piepdx.com/ site]"
+      },
+      "date": 1491280607659
+    },
+    {
+      "type": "edit",
+      "id": "01e2b572304c2ba8",
+      "item": {
+        "type": "paragraph",
+        "id": "01e2b572304c2ba8",
+        "text": "The Portland Incubator Experiment, known more commonly as PIE, has become an ongoing collaboration between the startup community and Wieden+Kennedy, the largest privately held creative advertising agency in the world. [http://www.piepdx.com/ site]"
+      },
+      "date": 1491280622017
+    },
+    {
+      "type": "edit",
+      "id": "01e2b572304c2ba8",
+      "item": {
+        "type": "paragraph",
+        "id": "01e2b572304c2ba8",
+        "text": "The Portland Incubator Experiment (PIE), has become an ongoing collaboration between the startup community and Wieden+Kennedy, the largest privately held creative advertising agency in the world. [http://www.piepdx.com/ site]"
+      },
+      "date": 1491280642670
+    },
+    {
+      "type": "add",
+      "id": "5e7a9b321dcdd312",
+      "item": {
+        "type": "paragraph",
+        "id": "5e7a9b321dcdd312",
+        "text": "Now, we're sharing all that we've learned over nearly a decade of working with startups and collaborating with corporations. We're calling it, the PIE Cookbook."
+      },
+      "after": "01e2b572304c2ba8",
+      "date": 1491280763366
+    },
+    {
+      "type": "edit",
+      "id": "5e7a9b321dcdd312",
+      "item": {
+        "type": "paragraph",
+        "id": "5e7a9b321dcdd312",
+        "text": "Now, we're sharing all that we've learned over nearly a decade of working with startups and collaborating with corporations. We're calling it, the PIE Cookbook. [https://github.com/WardCunningham/pie-cookbook github]"
+      },
+      "date": 1491280795678
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a7dd6b1e80773fb"
+      },
+      "id": "0a7dd6b1e80773fb",
+      "type": "add",
+      "after": "5e7a9b321dcdd312",
+      "date": 1491280811407
+    },
+    {
+      "type": "edit",
+      "id": "0a7dd6b1e80773fb",
+      "item": {
+        "type": "pagefold",
+        "id": "0a7dd6b1e80773fb",
+        "text": "."
+      },
+      "date": 1491280816536
+    },
+    {
+      "type": "move",
+      "order": [
+        "6a106436b2bc3f1a",
+        "01e2b572304c2ba8",
+        "5e7a9b321dcdd312",
+        "0a7dd6b1e80773fb",
+        "05594920f24b8581"
+      ],
+      "id": "05594920f24b8581",
+      "date": 1491280821230
+    }
+  ]
+}
