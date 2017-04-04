@@ -7,3 +7,7 @@ Welcome to PIE Cookbook
 
    *
 
+GitHub
+-------
+
+You can find this document on GitHub: https://github.com/piepdx/pie-cookbook
