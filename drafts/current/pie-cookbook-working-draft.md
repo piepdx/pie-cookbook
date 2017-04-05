@@ -1032,7 +1032,7 @@ When PIE started, corporations with venture arms would most often choose to make
 
 These days, strategics are investing in all stages as they seek out innovation and partnership where and when it makes the most sense.
 
-That said, it is likely accelerators will only work with corporate venture folks in the role of  mentors for Accelerator programs, given that corporate funds do not generally invest in early stage companies. Like traditional VC, it's better to establish these relationships before a capital need arises for the startup. 
+That said, it is likely accelerators will generally work with corporate venture folks in the role of mentors for accelerator programs. Like traditional VC, it's better to establish these relationships before a capital need arises for the startup. 
 
 #### Private Equity
 Private Equity firms provide a means of creating a liquidity event without an initial public offering or acquisition by another company. 
