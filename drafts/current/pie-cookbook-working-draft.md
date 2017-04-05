@@ -1028,9 +1028,11 @@ Most accelerators will only work with traditional venture capital in the role of
 What's more, it's always best to start these conversations sooner rather than later. And it's always nice to have conversations about money and expectations when neither party is currently in a position to engage with one another — rather than at the awkward point where the startup is in dire need of capital.
 
 #### Corporate Venture aka Strategics
-Corporations with venture arms most often choose to make strategic investments in companies at later rounds as a means of strengthening partnerships or market position. You often hear these investments referred to as "strategic investments." As such, Corporate Venture groups are sometimes referred to as "strategics."
+When PIE started, corporations with venture arms would most often choose to make strategic investments in companies at later rounds as a means of strengthening partnerships or market position. You often hear these investments referred to as "strategic investments." As such, Corporate Venture groups are sometimes referred to as "strategics."
 
-Most accelerators will only work with corporate venture folks in the role of  mentors for Accelerator programs, given that corporate funds do not generally invest in early stage companies. Like traditional VC, it's better to establish these relationships before a capital need arises for the startup. 
+These days, strategics are investing in all stages as they seek out innovation and partnership where and when it makes the most sense.
+
+That said, it is likely accelerators will only work with corporate venture folks in the role of  mentors for Accelerator programs, given that corporate funds do not generally invest in early stage companies. Like traditional VC, it's better to establish these relationships before a capital need arises for the startup. 
 
 #### Private Equity
 Private Equity firms provide a means of creating a liquidity event without an initial public offering or acquisition by another company. 
@@ -1290,7 +1292,7 @@ In PIE's case, we generally worked with corporate Sponsors to help underwrite th
 
 Choosing the right Sponsors can be a challenge for Accelerators. Like any investor, it is important that a Sponsor's desired outcomes are in line with the objectives of the accelerator and that achieving those outcomes has a high likelihood of success during the normal operations of the accelerator.
 
-A great example of an effective sponsor relationship is the "Powered by Techstars" model that Techstars employee with corporate sponsors. With this sponsorship arrangement, Techstars and the corporation collaborate to ensure that the Accelerator program is meeting the needs of the corporate sponsor. In addition to capital, the corporate sponsor provides validation and market expertise for the Techstars program. 
+A great example of an effective sponsor relationship is the "Powered by Techstars" model where Techstars partners with a corporation to create an accelerator. With this sponsorship arrangement, Techstars and the corporation collaborate to ensure that the accelerator program is meeting the needs of the corporate sponsor, be they educational, innovation, or financial return. In addition to capital, the corporate sponsor provides validation and market expertise for the Techstars program. 
 
 #### Partner
 Partners are organizations that support the Accelerator program with resources rather than direct capital. This is a mutually beneficial arrangement that is generally used as a loss-leader for Partners.
