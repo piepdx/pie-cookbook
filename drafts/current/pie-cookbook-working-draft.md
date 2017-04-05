@@ -1284,7 +1284,7 @@ The most important consideration with a Patron is not mistaking another type of 
 #### Sponsor
 A Sponsor provides financial resources for the Accelerator in exchange for specific outcomes. These outcomes are usually defined as objectives prior to the sponsorship occurring. 
 
-Sponsor dollars are used to support operating costs of the Accelerator. They are not generally used to make equity investments in Startups.
+When PIE started, sponsor dollars are used to support operating costs of the Accelerator. They were not generally used to make equity investments in Startups. This is no longer a hard and fast rule as folks have continued to refine both the accelerator model and the participation of sponsors, therein.
 
 In PIE's case, we generally worked with corporate Sponsors to help underwrite the costs of PIE. Some of these Sponsors collaborated with PIE to manage events that facilitated collaboration between the Sponsor and the startup  community. Other sponsors took an active role in the Accelerator as Mentors. 
 
