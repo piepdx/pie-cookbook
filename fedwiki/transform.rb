@@ -65,6 +65,10 @@ def markdown text
   add({'type' => 'markdown', 'text' => text, 'id' => random()})
 end
 
+def html text
+  add({'type' => 'html', 'text' => text, 'id' => random()})
+end
+
 def page title
   @story = []
   @journal = []
@@ -93,12 +97,13 @@ toc = ["We assemble this page while transforming the remainder of the work. The 
 while @lines.length > 0
   line = @lines.shift
   if m = line.match(/^# +(.*)$/)
-    toc << "[[#{m[1]}]], #{ref m[1]}"
+    toc << "# [[#{m[1]}]], #{ref m[1]}"
+    toc << @lines[0]
     pge = it[m[1]] = []
   elsif m = line.match(/^## +(.*)$/)
     sub = m[1]
     sub = "Original #{m[1]}" if m[1] == 'Table of contents'
-    toc << ". . [[#{sub}]], #{ref m[1]}"
+    toc << "[[#{sub}]], #{ref m[1]}"
     pge = it[sub] = []
   else
     pge << line
@@ -107,12 +112,16 @@ end
 
 it['Table of Contents'] = toc
 it.each do |title, story|
-  puts title
   page title do
     story.each do |line|
       line.gsub! /\[(.*?)\]\((.*?)\)/, '[\2 \1]'
-      if m = line.match(/^(#|>|\-|\*)/)
+      line.gsub! /\[#.*? (.*?)\]/, '[[\1]]'
+      if m = line.match(/^(#|\-|\*)/)
         markdown line
+      elsif m = line.match(/^>\s*(.*)$/)
+        html "<blockquote>#{m[1]}</blockquote>"
+      elsif m = line.match(/^!\[(\/.*?) .*?\]/)
+        html "<img src='https://raw.githubusercontent.com/WardCunningham/pie-cookbook/master/#{m[1]}' width=420>"
       else
         paragraph line
       end
