@@ -65,6 +65,10 @@ def markdown text
   add({'type' => 'markdown', 'text' => text, 'id' => random()})
 end
 
+def html text
+  add({'type' => 'html', 'text' => text, 'id' => random()})
+end
+
 def page title
   @story = []
   @journal = []
@@ -107,12 +111,16 @@ end
 
 it['Table of Contents'] = toc
 it.each do |title, story|
-  puts title
   page title do
     story.each do |line|
       line.gsub! /\[(.*?)\]\((.*?)\)/, '[\2 \1]'
-      if m = line.match(/^(#|>|\-|\*)/)
+      line.gsub! /\[#.*? (.*?)\]/, '[[\1]]'
+      if m = line.match(/^(#|\-|\*)/)
         markdown line
+      elsif m = line.match(/^>\s*(.*)$/)
+        html "<blockquote>#{m[1]}</blockquote>"
+      elsif m = line.match(/^!\[(\/.*?) .*?\]/)
+        html "<img src='https://raw.githubusercontent.com/WardCunningham/pie-cookbook/master/#{m[1]}' width=420>"
       else
         paragraph line
       end
