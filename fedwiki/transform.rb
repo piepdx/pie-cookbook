@@ -97,12 +97,13 @@ toc = ["We assemble this page while transforming the remainder of the work. The 
 while @lines.length > 0
   line = @lines.shift
   if m = line.match(/^# +(.*)$/)
-    toc << "[[#{m[1]}]], #{ref m[1]}"
+    toc << "# [[#{m[1]}]], #{ref m[1]}"
+    toc << @lines[0]
     pge = it[m[1]] = []
   elsif m = line.match(/^## +(.*)$/)
     sub = m[1]
     sub = "Original #{m[1]}" if m[1] == 'Table of contents'
-    toc << ". . [[#{sub}]], #{ref m[1]}"
+    toc << "[[#{sub}]], #{ref m[1]}"
     pge = it[sub] = []
   else
     pge << line
