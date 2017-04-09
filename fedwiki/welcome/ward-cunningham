@@ -14,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "5e7a9b321dcdd312",
-      "text": "Now, we're sharing all that we've learned over nearly a decade of working with startups and collaborating with corporations. We're calling it, the PIE Cookbook. [https://github.com/WardCunningham/pie-cookbook github]"
+      "text": "Now, we're sharing all that we've learned over nearly a decade of working with startups and collaborating with corporations. We're calling it, the PIE Cookbook. [https://github.com/piepdx/pie-cookbook github]"
     },
     {
       "type": "pagefold",
@@ -24,7 +24,22 @@
     {
       "type": "paragraph",
       "id": "05594920f24b8581",
-      "text": "I've had the pleasure of sharing his space in 2011 while I worked on the first versions of federated wiki. Now I am pleased to offer this creative commons work in the easily marked up and share format."
+      "text": "I've had the pleasure of sharing his space in 2011 while I worked on the first versions of federated wiki. Now I am pleased to offer this creative commons work in this easily marked up and shared format."
+    },
+    {
+      "type": "paragraph",
+      "id": "19c0a9c9f19d50cd",
+      "text": "I've added a mechanical translator from github flavored markdown to federated wiki json. We will occasionally refresh from this upstream. [https://github.com/WardCunningham/pie-cookbook/tree/master/fedwiki github]"
+    },
+    {
+      "type": "roster",
+      "id": "2da83bd6dd0ab53a",
+      "text": "pie.fed.wiki\npie.ward.asia.wiki.org"
+    },
+    {
+      "type": "paragraph",
+      "id": "038a9cca229079c6",
+      "text": "We maintain this Roster of sites devoted to enhancing and personalizing the original work. Roster additions accepted by github issue."
     }
   ],
   "journal": [
@@ -179,6 +194,133 @@
       ],
       "id": "05594920f24b8581",
       "date": 1491280821230
+    },
+    {
+      "type": "add",
+      "id": "19c0a9c9f19d50cd",
+      "item": {
+        "type": "paragraph",
+        "id": "19c0a9c9f19d50cd",
+        "text": "I've added a mechanical translator from github flavored markdown to federated wiki json. [https://github.com/WardCunningham/pie-cookbook/tree/master/fedwiki github]"
+      },
+      "after": "05594920f24b8581",
+      "date": 1491743076106
+    },
+    {
+      "type": "edit",
+      "id": "5e7a9b321dcdd312",
+      "item": {
+        "type": "paragraph",
+        "id": "5e7a9b321dcdd312",
+        "text": "Now, we're sharing all that we've learned over nearly a decade of working with startups and collaborating with corporations. We're calling it, the PIE Cookbook. [https://github.com/piepdx/pie-cookbook github]"
+      },
+      "date": 1491743092813
+    },
+    {
+      "type": "add",
+      "id": "038a9cca229079c6",
+      "item": {
+        "type": "paragraph",
+        "id": "038a9cca229079c6",
+        "text": "We will maintain a Roster of sites devoted to maintaining, enhancing and personalizing this work. Additions accepted by github issue."
+      },
+      "after": "19c0a9c9f19d50cd",
+      "date": 1491743555808
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2da83bd6dd0ab53a"
+      },
+      "id": "2da83bd6dd0ab53a",
+      "type": "add",
+      "after": "038a9cca229079c6",
+      "date": 1491743559466
+    },
+    {
+      "type": "edit",
+      "id": "2da83bd6dd0ab53a",
+      "item": {
+        "type": "roster",
+        "id": "2da83bd6dd0ab53a",
+        "text": "pie.fed.wiki"
+      },
+      "date": 1491743581832
+    },
+    {
+      "type": "move",
+      "order": [
+        "6a106436b2bc3f1a",
+        "01e2b572304c2ba8",
+        "5e7a9b321dcdd312",
+        "0a7dd6b1e80773fb",
+        "05594920f24b8581",
+        "19c0a9c9f19d50cd",
+        "2da83bd6dd0ab53a",
+        "038a9cca229079c6"
+      ],
+      "id": "2da83bd6dd0ab53a",
+      "date": 1491743605154
+    },
+    {
+      "type": "edit",
+      "id": "038a9cca229079c6",
+      "item": {
+        "type": "paragraph",
+        "id": "038a9cca229079c6",
+        "text": "We will maintain this Roster of sites devoted to maintaining, enhancing and personalizing this work. Additions accepted by github issue."
+      },
+      "date": 1491743791483
+    },
+    {
+      "type": "edit",
+      "id": "05594920f24b8581",
+      "item": {
+        "type": "paragraph",
+        "id": "05594920f24b8581",
+        "text": "I've had the pleasure of sharing his space in 2011 while I worked on the first versions of federated wiki. Now I am pleased to offer this creative commons work in the easily marked up and shared format."
+      },
+      "date": 1491745034757
+    },
+    {
+      "type": "edit",
+      "id": "05594920f24b8581",
+      "item": {
+        "type": "paragraph",
+        "id": "05594920f24b8581",
+        "text": "I've had the pleasure of sharing his space in 2011 while I worked on the first versions of federated wiki. Now I am pleased to offer this creative commons work in this easily marked up and shared format."
+      },
+      "date": 1491745051319
+    },
+    {
+      "type": "edit",
+      "id": "2da83bd6dd0ab53a",
+      "item": {
+        "type": "roster",
+        "id": "2da83bd6dd0ab53a",
+        "text": "pie.fed.wiki\npie.ward.asia.wiki.org"
+      },
+      "date": 1491745585632
+    },
+    {
+      "type": "edit",
+      "id": "19c0a9c9f19d50cd",
+      "item": {
+        "type": "paragraph",
+        "id": "19c0a9c9f19d50cd",
+        "text": "I've added a mechanical translator from github flavored markdown to federated wiki json. We will occasionally refresh from this upstream. [https://github.com/WardCunningham/pie-cookbook/tree/master/fedwiki github]"
+      },
+      "date": 1491745664671
+    },
+    {
+      "type": "edit",
+      "id": "038a9cca229079c6",
+      "item": {
+        "type": "paragraph",
+        "id": "038a9cca229079c6",
+        "text": "We maintain this Roster of sites devoted to enhancing and personalizing the original work. Roster additions accepted by github issue."
+      },
+      "date": 1491745718469
     }
   ]
 }
