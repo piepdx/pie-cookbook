@@ -1451,6 +1451,10 @@ At PIE, we chose to cater three meals per week, on average — one dinner and tw
 
 This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
 
+If your accelerator can’t afford to serve this many meals, that’s totally understandable. But figure out a way to feed your founders, even if it’s only once a month. It will help.
+
+Getting people together around food is one of the most tried and true ways of making connections, getting folks to open up, and creating bonds that last far longer than an accelerator class. Please don’t overlook this critical part of running a startup accelerator.
+
 ### Diversity and inclusion
 Admittedly, PIE did a relatively poor job with a diverse set of mentors and startup founders. 
 
