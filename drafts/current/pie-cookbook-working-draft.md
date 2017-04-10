@@ -1445,7 +1445,7 @@ Finally, you can have Ramen on hand as a snack. We get it. But it's not a meal. 
 
 Feed your founders real, nutritious food. Consistently. Make sure they're getting the fuel they need. 
 
-And please be conscious, aware, and diligent of founders', mentors', and staff dietary requirements. Maybe they're vegetarian. Maybe they have religious requirements. Maybe they have a food allergy. Maybe they're just particular. Whatever the case, listen and accommodate all of their needs. They're under enough pressure without having to deal with not having something they can eat.
+And please be conscious, aware, and diligent of founder, mentor, and staff dietary requirements. Maybe they're vegetarian. Maybe they have religious requirements. Maybe they have a food allergy. Maybe they're just particular. Whatever the case, listen and accommodate all of their needs. They're under enough pressure without having to deal with not having something they can eat.
 
 At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. 
 
