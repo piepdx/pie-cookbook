@@ -11,12 +11,16 @@ Install wiki for local preview.
 ```
 npm install -g wiki
 ```
-Transform and preview result at localhost:3010
+Transform, preview and possibly edit result at localhost:3010
 ```
 ruby transform.rb
 sh preview.sh
 ```
-Publish with sufficent ssh credentials.
+Preserve local edits to welcome pages in source control.
+```
+sh preserve.sh
+```
+Publish to the federation with sufficent ssh credentials.
 ```
 sh publish.sh
 ```

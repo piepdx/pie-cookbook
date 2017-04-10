@@ -86,7 +86,7 @@ end
 
 def ref title
   doc = 'https://github.com/WardCunningham/pie-cookbook/blob/master/docs/pie-cookbook-0.9.md'
-  "[#{doc}##{slug(title)} ref]"
+  "[#{doc}##{slug(title)} .]"
 end
 
 `rm pages/*`
@@ -97,14 +97,14 @@ toc = ["We assemble this page while transforming the remainder of the work. The 
 while @lines.length > 0
   line = @lines.shift
   if m = line.match(/^# +(.*)$/)
-    toc << "# [[#{m[1]}]], #{ref m[1]}"
+    toc << "# [[#{titalize m[1]}]] #{ref m[1]}"
     toc << @lines[0]
-    pge = it[m[1]] = []
+    pge = it[titalize m[1]] = []
   elsif m = line.match(/^## +(.*)$/)
     sub = m[1]
     sub = "Original #{m[1]}" if m[1] == 'Table of contents'
-    toc << "[[#{sub}]], #{ref m[1]}"
-    pge = it[sub] = []
+    toc << "[[#{titalize sub}]] #{ref m[1]}"
+    pge = it[titalize sub] = []
   else
     pge << line
   end
