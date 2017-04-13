@@ -62,16 +62,11 @@ def pagefold text, id = random()
 end
 
 def markdown text
-  lines = text.split /(\r?\n)+/m
-  lines.each do |line|
-    line.gsub! /```(.+?)```/, '<b>\1</b>'
-    line.gsub! /`(.+?)`/, '<b>\1</b>'
-    line.gsub! /https?:\/\/\S+/, '[\0 \0]'
-    line.gsub! /WardCunningham\/\S+?#\d+/, '[https://github.com/\0 \0]'
-    line.gsub! /([0-9a-f]{7})[0-9a-f]{9,}/, '[https://github.com/wardcunningham/wiki/commit/\0 \1]'
-    line.gsub! /##+/, '<h3>'
-    paragraph line unless line[0,1] == '>'
-  end
+  add({'type' => 'markdown', 'text' => text, 'id' => random()})
+end
+
+def html text
+  add({'type' => 'html', 'text' => text, 'id' => random()})
 end
 
 def page title
@@ -89,26 +84,49 @@ end
 
 # transformation
 
+def ref title
+  doc = 'https://github.com/WardCunningham/pie-cookbook/blob/master/docs/pie-cookbook-0.9.md'
+  "[#{doc}##{slug(title)} .]"
+end
+
 `rm pages/*`
 @lines = File.read('../docs/pie-cookbook-0.9.md',:encoding=>'utf-8').split(/\n\s*/)
 it = {}
-syn = "We assemble this page while transforming the remainder of the work. The work's own contents, assembled by other means, appears among the following."
-toc = it['Table of Contents'] = [syn]
+toc = ["We assemble this page while transforming the remainder of the work. The work's own contents, assembled by other means, appears among the following."]
+
 while @lines.length > 0
   line = @lines.shift
-  if m = line.match(/^(#) (.*)$/)
-    toc << "[[#{m[2]}]]"
-    pge = it[m[2]] = []
+  if m = line.match(/^# +(.*)$/)
+    toc << "# [[#{titalize m[1]}]] #{ref m[1]}"
+    toc << @lines[0]
+    pge = it[titalize m[1]] = []
+  elsif m = line.match(/^## +(.*)$/)
+    sub = m[1]
+    sub = "Original #{m[1]}" if m[1] == 'Table of contents'
+    toc << "[[#{titalize sub}]] #{ref m[1]}"
+    pge = it[titalize sub] = []
   else
     pge << line
   end
 end
 
+it['Table of Contents'] = toc
 it.each do |title, story|
-  puts title
   page title do
     story.each do |line|
-      paragraph line
+      line.gsub! /\[(.*?)\]\((.*?)\)/, '[\2 \1]'
+      line.gsub! /\[#.*? (.*?)\]/, '[[\1]]'
+      if m = line.match(/^(#|\-|\*)/)
+        markdown line
+      elsif m = line.match(/^>\s*(.*)$/)
+        html "<blockquote>#{m[1]}</blockquote>"
+      elsif m = line.match(/^!\[(\/.*?) .*?\]/)
+        html "<img src='https://raw.githubusercontent.com/WardCunningham/pie-cookbook/master/#{m[1]}' width=420>"
+      else
+        paragraph line
+      end
     end
   end
 end
+
+`cp welcome/* pages`

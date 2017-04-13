@@ -7,8 +7,21 @@ We hope that the best contributions there find there way back here to github.
 [pie.fed.wiki](http://pie.fed.wiki)
 
 # Operation
+Install wiki for local preview.
+```
+npm install -g wiki
+```
+Transform, preview and possibly edit result at localhost:3010
 ```
 ruby transform.rb
+sh preview.sh
+```
+Preserve local edits to welcome pages in source control.
+```
+sh preserve.sh
+```
+Publish to the federation with sufficent ssh credentials.
+```
 sh publish.sh
 ```
 
