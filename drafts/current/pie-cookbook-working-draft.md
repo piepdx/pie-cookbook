@@ -1445,13 +1445,13 @@ Finally, you can have Ramen on hand as a snack. We get it. But it's not a meal. 
 
 Feed your founders real, nutritious food. Consistently. Make sure they're getting the fuel they need. 
 
-And please be conscious, aware, and diligent of founders', mentors', and staff dietary requirements. Maybe they're vegetarian. Maybe they have religious requirements. Maybe they have a food allergy. Maybe they're just particular. Whatever the case, listen and accommodate all of their needs. They're under enough pressure without having to deal with not having something they can eat.
+And please be conscious, aware, and diligent of founder, mentor, and staff dietary requirements. Maybe they're vegetarian. Maybe they have religious requirements. Maybe they have a food allergy. Maybe they're just particular. Whatever the case, listen and accommodate all of their needs. They're under enough pressure without having to deal with not having something they can eat.
 
 At PIE, we chose to cater three meals per week, on average — one dinner and two lunches — throughout the course of the three month accelerator class. We had Family Dinner on Monday night and lunch on Tuesday and Thursday. 
 
 This was the baseline of provide meals. At times of extreme stress or as we were ramping up to Demo Day, we had the ability to call an audible and provide even more food for the founders. Sometimes, we'd even have a Family Dinner or two during the off season. Just so people had time to catch up.
 
-If your accelerator can’t afford to serve this many meals, that’s totally understandable. But figure out a way to feed your founders, even if it’s only once a month. It will help.
+If your accelerator can’t afford to serve this many meals, that’s totally understandable. But figure out a way to feed your founders, even if it’s only once a month. Or if that’s not an option, maybe set up “brown bag” sessions or potluck meals. Just get them eating. And talking. It will help.
 
 Getting people together around food is one of the most tried and true ways of making connections, getting folks to open up, and creating bonds that last far longer than an accelerator class. Please don’t overlook this critical part of running a startup accelerator.
 
