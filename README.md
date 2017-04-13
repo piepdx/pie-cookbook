@@ -11,7 +11,6 @@ We are currently focused on:
 2. Revising, editing, and adding to the [working draft](https://github.com/piepdx/pie-cookbook/blob/master/drafts/current/pie-cookbook-working-draft.md) in preparation for the PIE Cookbook 1.0 release.
 
 ## Creating the PIE Cookbook
-
 We’d love to have you join us in building the **PIE Cookbook**, an open source guide designed to help anyone, anywhere build the startup accelerator of their dreams. Why are we doing this? Because we believe that each and every community — with the right tools — has the potential to assist and accelerate its most promising folks further and faster toward success. 
 
 And that’s good for everyone.
@@ -19,8 +18,10 @@ And that’s good for everyone.
 By joining this project, you’ll gain access to everything we’ve learned from nearly a decade of accelerating startups, building relationships that strengthen community, and facilitating creative output. What’s more — since this is an open source project — you’ll have the opportunity take part in creating the most effective documentation for building, managing, and running a successful startup accelerator for your community — whatever that community may be.
 
 ## Getting started
-
 New to Github? @MugofPaul has created [a guide to help you get your bearings and learn how to contribute to the project](https://github.com/piepdx/pie-cookbook/blob/master/notes/github/howto-github.md).
+
+## Advice for authors
+PIE alum and mentor @WardCunningham has provided some [advice for contributing authors](https://github.com/piepdx/pie-cookbook/blob/master/AUTHORS.md).
 
 ## Feedback
 We are looking forward to building this content with you. That's why we're doing this development on Github. (The actual book will reside somewhere that's more approachable.) 
