@@ -430,6 +430,7 @@ What we wanted was something that helped Portland startups — and by that, we m
 
 - - -
 **Drawing inspiration from other programs**
+
 There are a benefits to starting something after people have already tested the waters. You’re getting the chance to take advantage of learnings from predecessors to inform the organization you’re trying to build. 
 
 We tried to do the same thing. But when we started thinking about PIE as an accelerator, we weren’t quite as lucky. Much like when we started the coworking space, there were few models from which to select — and none of them had proven whether the model would actually pencil out. (Many of them still haven’t.) 
