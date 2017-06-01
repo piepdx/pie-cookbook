@@ -2219,7 +2219,7 @@ And if you do it right? You’ll find they’ll be a lot more willing to commit 
 Respect mentors’ time and they will repay that respect with more time.
 
 ## Mentoring the mentors
-Around the time [PIE](http://piepdx.com/ "PIE") was starting the accelerator phase of this ongoing experiment, [David Cohen](http://twitter.com/davidcohen), cofounder of [TechStars](http://techstars.com/ "TechStars"), shared the [TechStars Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/ "TechStars Mentor Manifesto"). And it served as an inspiration for me. [A post by Micah Baldwin](http://archive.learntoduck.net/techstars/good-mentor/ "8 Rules To Being A Good Techstars Mentor"), a former TechStars mentor , provided a similar nudge for me.
+Around the time [PIE](http://piepdx.com/ "PIE") was starting the accelerator phase of this ongoing experiment, [David Cohen](http://twitter.com/davidcohen), cofounder of [TechStars](http://techstars.com/ "TechStars"), shared the [TechStars Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/ "TechStars Mentor Manifesto"). And it served as an inspiration for me. [A post by Micah Baldwin](http://archive.learntoduck.net/techstars/good-mentor/ "8 Rules To Being A Good Techstars Mentor"), a former TechStars mentor , provided a similar nudge for me. And he recently [provided another nudge on mentoring](https://medium.com/@micah/be-positive-asshole-81880c13567c). 
 
 I’m often reminded to go back and reread both of these posts. And am inspired, again and again. So I thought I’d take the opportunity to augment the PIE mentor guidance a bit with some things that we’ve learned from observing PIE startups and mentors over the years.
 
