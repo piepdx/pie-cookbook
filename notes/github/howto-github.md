@@ -23,12 +23,10 @@ With your initial setup complete, you can now start contributing! Github is extr
 The text that the Cookbook is using is called Markdown. This is a way of giving structure and formatting to text that isn't dependent on any particular editing tool. It's also much simpler to use than HTML. Thankfully Github has some really great reference on Markdown. [I'd recommend starting here](https://help.github.com/articles/basic-writing-and-formatting-syntax/). 
 
 ### Creating New Files via Browser
-Let's say you'd like to start a whole new file full of wonderful thoughts. You'll want to make sure you are creating the file in the correct/appropriate location. Also since it will be a Markdown file, the name of the file should end in `.md` When you are done with the initial edits, you need to commit your changes. This is the same as saving your file. It's nice to put some context of the work done in the comments section. Remember, all of this work stays in your Fork until you issue a Pull Request. 
+Let's say you'd like to start a whole new file full of wonderful thoughts. You'll want to make sure you are creating the file in the correct/appropriate location. Also since it will be a Markdown file, the name of the file should end in `.md`. To create a new directory, type the directory name in the empty file name field, followed by a / character. A new empty field will appear, where you can enter the name of your new file. When you are done with the initial edits, you need to commit your changes. This is the same as saving your file. It's nice to put some context of the work done in the comments section. Remember, all of this work stays in your Fork until you issue a Pull Request. 
 
 ![Animation showing the process of creating and saving a new file.](howto-github-img/002-creatingnewfile.gif)
 
-
-_Unfortunately, creating new directories isn't quite this easy. Unless someone knows of a trick that I don't?_
 
 ### Editing Existing Files via Browser
 So let's say you want to edit an existing file. The process is very similar to creating a file.
