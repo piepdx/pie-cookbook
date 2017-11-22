@@ -1,3 +1,7 @@
 
 .DS_Store
 docs/_build
+
+docs/id_rsa_cmd.pub
+
+docs/id_rsa_cmd
