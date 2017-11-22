@@ -2272,7 +2272,7 @@ Once you’ve chosen to work with a mentor, your most important job is to unders
 ### Sliding scale
 At PIE, we found the best way to help assess a mentor's availability was to present the engagement options as a sliding scale. On that scale, the minimal level of commitment was fairly low and the maximum level of commitment was decided by the mentor. There's was no high bar. Just a lowbar. 
 
-Just as importantly, we used other well know Mentors as examples of time commitment bands — "Mentor X generally presents onetime per class; Mentor Y holds regular office hours at PIE every week" — which provided even more context for their potential engagement. Plus, when a Mentor hears that one of their peers or someone they recognize — "[Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors" — they are given more context for how others are volunteering to do.
+Just as importantly, we used other well known Mentors as examples of time commitment bands — "Mentor X generally presents onetime per class; Mentor Y holds regular office hours at PIE every week" — which provided even more context for their potential engagement. Plus, when a Mentor hears that one of their peers or someone they recognize — "[Mentor name] at [Startup] has done this to great effect and is consistently one of our most popular mentors" — they are given more context for how others are volunteering to do.
 - - - 
 > **tl;dr You must be this tall to ride. Set your mentor time commitment as a low bar, not a high bar.**  
 - - - 
