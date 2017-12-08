@@ -1,14 +1,14 @@
 # Welcome to the PIE Cookbook
-Howdy. We're [PIE](http://piepdx.com/), an ongoing experiment between the Portland, Oregon, startup community and [Wieden+Kennedy](http://wk.com/), the largest privately held creative agency in the world. Throughout its history, PIE has served as a coworking space, a hub for community, and an early stage startup accelerator. Now, we're sharing all that we've learned over nearly a decade of working with startups and collaborating with corporations. We're calling it, the **PIE Cookbook**. 
+Howdy. We're [PIE](http://piepdx.com/), an ongoing experiment that began as a collaboration between the Portland, Oregon, US, startup community and [Wieden+Kennedy](http://wk.com/), the largest privately held creative agency in the world and creators of such iconic work as [Nike's "Just Do It,](https://en.wikipedia.org/wiki/Just_Do_It)" the [Coca-Cola polar bears](http://www.wk.com/campaign/polar_bowl/from/cocacola), and [the Old Spice Guy](http://www.wk.com/campaign/old_spice_man_man). Throughout its history, PIE has served as an early stage startup accelerator, a coworking space, a hub for community, a home away from home for visiting entrepreneurs and technologists, and a consultancy for incubator and accelerator programs from around the world. Now, we're sharing all that we've learned during nearly a decade of working with startups. We're calling it, the **PIE Cookbook**. 
 
-## Current focus (Updated April 4, 2017)
+## Current focus (Updated December 7, 2017)
 
 **CURRENT VERSION: [PIE COOKBOOK 0.9 BETA](https://github.com/piepdx/pie-cookbook/blob/master/docs/pie-cookbook-0.9.md)**
 
 We are currently focused on:
 
-1. Getting the content to play nicely with Read the Docs so that it is more easily digestible.
-2. Revising, editing, and adding to the [working draft](https://github.com/piepdx/pie-cookbook/blob/master/drafts/current/pie-cookbook-working-draft.md) in preparation for the PIE Cookbook 1.0 release.
+1. Beta testing the [working draft](https://github.com/piepdx/pie-cookbook/blob/master/drafts/current/pie-cookbook-working-draft.md) and identifying gaps in content 
+2. Continuing to revise content in preparation for the PIE Cookbook 1.0 release.
 
 ## Creating the PIE Cookbook
 We’d love to have you join us in building the **PIE Cookbook**, an open source guide designed to help anyone, anywhere build the startup accelerator of their dreams. Why are we doing this? Because we believe that each and every community — with the right tools — has the potential to assist and accelerate its most promising folks further and faster toward success. 
