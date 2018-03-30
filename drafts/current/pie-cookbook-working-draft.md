@@ -75,6 +75,8 @@ With the PIE Cookbook, we have to start with a series of assumptions about you a
 
 With these assumptions in mind, please understand that we may lightly touch on community management and development from time to time. However, the PIE Cookbook is not designed to educate you on how communities are defined, built, and maintained. This guide is a resource for helping existing communities take build Accelerators to support their members.
 
+If you need help with building community, [PIE alum Mara Zepeda has created a helpful community syllabus](https://docs.google.com/document/d/1vTRBLMse7heUNUdbzDEU5mXWfshs4bhQP4fZjyEU9iI/edit). There's also Brad Feld's seminal work [Startup Communities](https://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem-ebook/dp/B008UV826U/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1482943532&sr=1-1&keywords=startup+communities&linkCode=sl1&tag=starturevolu-20&linkId=3ee561806f8463b065ea5abc6a36eea9).
+
 ## PIE as an example
 > My hope is that you do not view the use of Boulder here as "Boulder tooting its own horn." I use Boulder as an example of a lasting and vibrant startup community because I know it extremely well (at least one segment). This approach is called synecdoche, where the part stands for the whole. There are many things the Boulder startup community can do better and many more for it to discovers we continue on our journey; my hope is that by exploring it in depth it helps you with your journey in your startup community.
 
