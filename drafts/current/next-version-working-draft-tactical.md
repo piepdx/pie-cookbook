@@ -1,4 +1,4 @@
-# TOPICS FOR PIE COOKBOOK 1.1
+# TOPICS FOR PIE COOKBOOK 2.0
 
 We ran the first class for four and half months, and it seemed to be too long. So we shortened the program. Later, we'll get into why it seemed long. 
 
@@ -42,6 +42,9 @@ When it comes right down to it, all we’ve done at PIE is figure out a way to c
 			81. Continued coworking or not?
 
 
+**Virtual programs**
+We learned a lot throughout the pandemic on the dynamics of a virual program.
+
 ## Community
 [PLACEHOLDER] Provide analogies/examples of each of the communities above.
 
@@ -69,6 +72,8 @@ If you're working to develop and support a nascent community, Brad's book provid
 #### Venture Deals
 #### Accelerators
 #### The Launch Pad: Inside Y Combinator
+#### Chris DeVore on Startup Accelerators
+[How to run a startup accelerator](https://www.founderscoop.com/2024/how-to-run-a-startup-accelerator/)
 ### Optional
 #### Zero to One
 #### Good to Great
